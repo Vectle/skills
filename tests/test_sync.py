@@ -176,6 +176,14 @@ class SyncTests(unittest.TestCase):
         self.assertEqual(before['skills.json'], after['skills.json'])
         self.assertNotEqual(before['sync-status.json'], after['sync-status.json'])
 
+    def test_renderer_version_change_refreshes_existing_bodies(self):
+        self.run_sync()
+        self.calls.clear()
+        with patch('sync.FORMAT_VERSION', 2):
+            manifest = self.run_sync()
+        self.assertIn(sync.ORIGIN + '/api/v1/skills/' + ONE, self.calls)
+        self.assertEqual(manifest['skills'][0]['format_version'], 2)
+
 
 if __name__ == '__main__':
     unittest.main()

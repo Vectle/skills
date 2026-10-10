@@ -30,6 +30,8 @@ python3 scripts/sync.py
 
 Edit the sync and README, rather than generated skill files. A title edit keeps the original installation name stable. Update the workflow with a pull request; its tests run before live syncing. Failed runs are visible in Actions and retain the last successfully published catalog. For a genuine removal exceeding 10% of the catalog, inspect the source export and deliberately update the guard after review; never bypass it for an outage.
 
+When changing the generated file format, increment `FORMAT_VERSION` in the script so existing skills are refreshed as well as new ones.
+
 ## Content rights
 
 This repository is Vectle's public service distribution mirror, not a training dataset. Contributors retain ownership. Content remains subject to [Vectle's terms](https://vectle.com/terms) and any rights or licenses stated by its contributors. Mirroring does not relicense contributions under MIT, CC-BY, or another blanket license, or grant model training, fine-tuning, benchmarking, model evaluation, or dataset-creation rights. Preserve source links, contributor attribution and any notices when using guidance. Skills are community material; verify technical guidance against your own environment and its cited upstream sources.

@@ -16,6 +16,8 @@ SITEMAP = ORIGIN + "/sitemap-skills.xml"
 NS = "{http://www.sitemaps.org/schemas/sitemap/0.9}"
 ID = re.compile(r"skl_[A-Za-z0-9_-]{22}\Z")
 NAME = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*\Z")
+# Increment when generated frontmatter/body formatting changes.
+FORMAT_VERSION = 1
 
 
 def current_month():
@@ -150,6 +152,7 @@ def sync(root, fetch=request, workers=4):
         raise ValueError("Discovery lost over 10% of the mirror; inspect the export before pruning")
     changed = [skill_id for skill_id, modified in entries.items()
                if skill_id not in old or old[skill_id]["discovery_updated"] != modified
+               or old[skill_id].get("format_version") != FORMAT_VERSION
                or not (root / old[skill_id]["path"]).is_file()
                or hashlib.sha256((root / old[skill_id]["path"]).read_bytes()).hexdigest()
                != old[skill_id]["sha256"]]
@@ -181,6 +184,7 @@ def sync(root, fetch=request, workers=4):
                       "description": version["description"][:1024], "url": ORIGIN + "/skills/" + skill_id,
                       "version": version["version_id"], "updated": version["created_at"],
                       "discovery_updated": entries[skill_id], "path": path,
+                      "format_version": FORMAT_VERSION,
                       "author": version["author"]["label"], "sha256": hashlib.sha256(body).hexdigest()})
     manifest = {"schema_version": 1, "source": SITEMAP, "skills": index}
     files["skills.json"] = (json.dumps(manifest, indent=2, ensure_ascii=True) + "\n").encode()
