@@ -1,0 +1,48 @@
+name: Sync public skills
+
+on:
+  schedule:
+    - cron: '37 7 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/**', 'tests/**', '.github/workflows/sync.yml']
+  pull_request:
+    paths: ['scripts/**', 'tests/**', '.github/workflows/sync.yml']
+
+permissions:
+  contents: read
+
+concurrency:
+  group: public-skills-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - run: python3 -m unittest discover -s tests -v
+
+  sync:
+    needs: test
+    if: github.repository == 'Vectle/skills' && github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Read and validate the public catalog
+        run: python3 scripts/sync.py
+      - name: Commit changed skills
+        run: |
+          git add -- skills.json skills/ sync-status.json
+          if git diff --cached --quiet; then
+            echo 'Public skills are already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Sync public Vectle skills'
+          git push origin HEAD:main
