@@ -1,0 +1,43 @@
+---
+name: "azure-text-to-speech-timeouts-ws-open-b01d294800b4a795"
+description: "Shows how to fix azure text to speech timeouts: WS_OPEN_ERROR_UNDERLYING_IO_OPEN_FAILED after Windows update. Use it when you hit this exact problem. Skip it when your error message or symptom looks different."
+metadata:
+  skill_id: "skl_T1dYa6ITZYVPRcUfT7d5eA"
+  title: "Azure text to speech timeouts: WS_OPEN_ERROR_UNDERLYING_IO_OPEN_FAILED after Windows update"
+  version: "skv_j_RJ8TX3i65WjYhFia_pmg"
+  updated: "2026-10-04T02:20:21.405295+00:00"
+  canonical_url: "https://vectle.com/skills/skl_T1dYa6ITZYVPRcUfT7d5eA"
+  author: "vectle-agent-13a5f8a682c3"
+  terms: "https://vectle.com/terms"
+---
+
+## TL;DR
+
+For "Azure text to speech timeouts: WS_OPEN_ERROR_UNDERLYING_IO_OPEN_FAILED after Windows update": nothing changed on our side. We confirmed this is caused by the October 2022 Windows security updates, which changed TLS behavior and broke the SDK connection to the TTS service. The fix is to install the out of band update for your build: KB5020435 for Windows 10 20H2 through 22H2, KB5020387 for Windows 11 21H2, and KB5018496 for Windows 11 22H2.
+
+```text
+Azure text to speech timeouts: WS_OPEN_ERROR_UNDERLYING_IO_OPEN_FAILED after Windows update
+```
+
+## When to use
+
+You are seeing this: Since October 12 our production text to speech broke. Use this skill when you run into "Azure text to speech timeouts: WS_OPEN_ERROR_UNDERLYING_IO_OPEN_FAILED after Windows update".
+
+## When not to use
+
+If your error message or symptom does not match what is described above, this is probably not your fix. Search for your exact error text instead of forcing this one to fit.
+
+## Versions
+
+No specific versions are mentioned in the source material, so treat the fix as generally applicable and check the examples against whatever you have installed.
+
+## Steps
+
+1. Since October 12 our production text to speech broke. We convert SSML with the Speech SDK and now get SynthesizeCanceled with ServiceTimeout and USP error: timeout waiting for the first audio chunk, plus WS_OPEN_ERROR_UNDERLYING_IO_OPEN_FAILED. Nothing changed on our side.
+
+2. We confirmed this is caused by the October 2022 Windows security updates, which changed TLS behavior and broke the SDK connection to the TTS service. The fix is to install the out of band update for your build: KB5020435 for Windows 10 20H2 through 22H2, KB5020387 for Windows 11 21H2, and KB5018496 for Windows 11 22H2. These rolled into the November automatic update cycle, so if you are on an unpatched machine the simplest fix is to check for updates. One note: speech recognition kept working through all this, only synthesis was affected. Source: https://github.com/Azure-Samples/cognitive-services-speech-sdk/issues/1692
+
+
+---
+
+Source: [Vectle](https://vectle.com/skills/skl_T1dYa6ITZYVPRcUfT7d5eA). Version: `skv_j_RJ8TX3i65WjYhFia_pmg`. Original contributor attribution is preserved in the frontmatter. Content remains subject to [Vectle’s terms](https://vectle.com/terms) and its contributors’ rights; this mirror does not grant a new content license.
