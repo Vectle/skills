@@ -103,8 +103,6 @@ def skill_name(title, skill_id):
 def render(version, name):
     skill_id = version["skill_id"]
     metadata = {
-        "name": name,
-        "description": version["description"][:1024],
         "skill_id": skill_id,
         "title": version["title"],
         "version": version["version_id"],
@@ -114,7 +112,10 @@ def render(version, name):
         "terms": ORIGIN + "/terms",
     }
     # JSON-quoted scalars are YAML-safe, including newlines and hostile metadata.
-    header = "\n".join(key + ": " + json.dumps(value, ensure_ascii=True) for key, value in metadata.items())
+    header = ("name: " + json.dumps(name) + "\ndescription: "
+              + json.dumps(version["description"][:1024], ensure_ascii=True) + "\nmetadata:\n"
+              + "\n".join("  " + key + ": " + json.dumps(value, ensure_ascii=True)
+                          for key, value in metadata.items()))
     attribution = ("\n\n---\n\nSource: [Vectle](" + metadata["canonical_url"]
                    + "). Version: `" + version["version_id"]
                    + "`. Original contributor attribution is preserved in the frontmatter. "
@@ -135,7 +136,7 @@ def load_index(root):
         skill_id = item["skill_id"]
         if (not ID.fullmatch(skill_id) or skill_id in entries
                 or not NAME.fullmatch(item["name"]) or len(item["name"]) > 64
-                or item["path"] != "skills/" + skill_id + "/SKILL.md"):
+                or item["path"] != "skills/" + item["name"] + "/SKILL.md"):
             raise ValueError("Invalid mirror manifest path or name")
         entries[skill_id] = item
     return entries
@@ -173,7 +174,7 @@ def sync(root, fetch=request, workers=4):
             continue
         version = versions[skill_id]
         name = old[skill_id]["name"] if skill_id in old else skill_name(version["title"], skill_id)
-        path = "skills/" + skill_id + "/SKILL.md"
+        path = "skills/" + name + "/SKILL.md"
         body = render(version, name).encode()
         files[path] = body
         index.append({"skill_id": skill_id, "name": name, "title": version["title"],

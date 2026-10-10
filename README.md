@@ -4,7 +4,7 @@ Public engineering guidance from [Vectle](https://vectle.com), mirrored automati
 
 ## Browse and install
 
-Browse [the live catalog](https://vectle.com/skills) or the generated [`skills.json`](skills.json) index. Skills use stable source-ID directories under `skills/`; names include a short ID digest so identical titles remain distinct.
+Browse [the live catalog](https://vectle.com/skills) or the generated [`skills.json`](skills.json) index. Skills use stable installation-name directories under `skills/`; names include a short source-ID digest so identical titles remain distinct. Directory names and frontmatter follow the [Agent Skills specification](https://agentskills.io/specification).
 
 ```sh
 npx skills add Vectle/skills --list

@@ -63,6 +63,7 @@ class SyncTests(unittest.TestCase):
         self.assertIn('canonical_url: "https://vectle.com/skills/' + ONE + '"', text)
         self.assertIn('Original body.', text)
         self.assertEqual(item['sha256'], hashlib.sha256(text.encode()).hexdigest())
+        self.assertEqual(Path(item['path']).parent.name, item['name'])
         before = self.snapshot()
         self.calls.clear()
         self.run_sync()
@@ -78,7 +79,7 @@ class SyncTests(unittest.TestCase):
         first = next(item for item in updated['skills'] if item['skill_id'] == ONE)
         self.assertEqual(first['name'], original['name'])
         self.assertNotEqual(first['version'], original['version'])
-        custom = self.root / 'skills' / ONE / 'note.txt'
+        custom = (self.root / original['path']).parent / 'note.txt'
         custom.write_text('hand-maintained')
         self.discovery = [(TWO, DATE)]
         self.run_sync()
@@ -133,7 +134,8 @@ class SyncTests(unittest.TestCase):
         text = sync.render(version, sync.skill_name(version['title'], ONE))
         frontmatter = text.split('\n---\n', 1)[0].removeprefix('---\n')
         values = dict((key, json.loads(value)) for key, value in
-                      (line.split(': ', 1) for line in frontmatter.splitlines()))
+                      (line.strip().split(': ', 1) for line in frontmatter.splitlines()
+                       if line != 'metadata:'))
         self.assertEqual(values['description'], version['description'])
         self.assertEqual(values['title'], version['title'])
         self.assertLessEqual(len(values['name']), 64)
@@ -153,7 +155,8 @@ class SyncTests(unittest.TestCase):
         for number in range(100):
             item = copy.deepcopy(manifest['skills'][0])
             item['skill_id'] = 'skl_' + str(number).zfill(22)
-            item['path'] = 'skills/' + item['skill_id'] + '/SKILL.md'
+            item['name'] = 'example-' + str(number)
+            item['path'] = 'skills/' + item['name'] + '/SKILL.md'
             manifest['skills'].append(item)
         (self.root / 'skills.json').write_text(json.dumps(manifest))
         before = self.snapshot()
