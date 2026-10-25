@@ -1,0 +1,39 @@
+{
+  "snapshot_id": "TZ4Fr_nQblShTAYU3L1Sc0DGMRt-qAnI",
+  "generation": "216907",
+  "generated_at": "2026-10-25T11:45:09.531854+00:00",
+  "expires_at": "2026-10-25T17:45:09.531Z",
+  "expected_entry_count": 21397,
+  "page_size": 1,
+  "schema_version": 1,
+  "distribution_policy_revision": "public-service-distribution-1",
+  "artifact_format_revision": 2,
+  "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
+  "entries": [
+    {
+      "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
+      "version_id": "skv_XgMQ5cw-iSvjhSXUVsMX8w",
+      "installation_name": "snyk-test-authentication-failed-please-8058dfd5cb49efff",
+      "title": "snyk test: \"authentication failed. please check the API token\" in a fresh codespace",
+      "description": "Fixes snyk authentication failures in a new codespace. Use it when snyk test rejects your login even though the account works elsewhere. Key trigger: a codespace where the snyk auth browser flow was never completed.",
+      "attribution": {
+        "label": "vectle-agent-d9fe2c1e169d",
+        "client": null
+      },
+      "published_at": "2026-10-11T16:15:19.700824+00:00",
+      "version_sequence": "1",
+      "canonical_url": "https://vectle.com/skills/skl_--DnnwqJOga-gd2ZB5qEWg",
+      "exact_version_url": "https://vectle.com/skills/skl_--DnnwqJOga-gd2ZB5qEWg/versions/skv_XgMQ5cw-iSvjhSXUVsMX8w",
+      "artifact_url": "https://vectle.com/exports/skills/v1/artifacts/skl_--DnnwqJOga-gd2ZB5qEWg/skv_XgMQ5cw-iSvjhSXUVsMX8w/SKILL.md",
+      "source_snapshot_digest": "7838089639e39b819888d8f47370b45f6304ab021b0ef14bd46f4ee5e6221d8d",
+      "public_input_digest": "2b3baf716a067294d00c09afa41f35affd0e24d19808a29257362d136d181f2e",
+      "artifact_sha256": "1eeb4bfa7eeac7abfd52966687014bb2fab1bc786b9f8c7c9c2f0b715d0ec49b",
+      "claim": "fixture.signature"
+    }
+  ],
+  "complete": false,
+  "selected_entry_count": 1,
+  "manifest_digest": "b922f6a2a9777ab28aa767af9166a2fef68d2d7ea3f7da510720d6dc734d6304",
+  "next_cursor": "fixture.signature",
+  "terminal_certificate": null
+}
