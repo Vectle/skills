@@ -14,6 +14,8 @@ from export_contract import (CATALOG, LEGACY_SOURCE, REVISIONS, ID, NAME, HEX,
                              ExportFailure, artifact, canonical, catalog, instant,
                              request, require, sha256, validate)
 
+DEFAULT_ARTIFACT_WORKERS = 2
+
 
 def utc_now():
     return datetime.now(timezone.utc).isoformat()
@@ -100,7 +102,7 @@ def reconcile(root, selected, review=None):
                                   "added_ids": added, "removed_ids": removed, "review_binding": review_binding}
 
 
-def stage(root, staging, selected, old, index, fetch=request, workers=4):
+def stage(root, staging, selected, old, index, fetch=request, workers=DEFAULT_ARTIFACT_WORKERS):
     require(1 <= workers <= 4, "Artifact worker count must be 1–4")
     required, paths = [], []
     for entry, item in zip(selected["entries"], index):
@@ -110,7 +112,7 @@ def stage(root, staging, selected, old, index, fetch=request, workers=4):
         if not target.is_file() or sha256(target.read_bytes()) != item["sha256"]:
             required.append((entry, item))
     # Artifacts have already been pinned by a complete terminal certificate.
-    # Only four responses are resident at a time; bodies are immediately staged.
+    # At most four responses are resident at a time; bodies are immediately staged.
     def download(pair):
         entry, item = pair
         body = artifact(entry, selected["terminal_certificate"], fetch)
@@ -168,7 +170,7 @@ def apply_files(root, staging, paths, old, index):
             target.parent.rmdir()
 
 
-def run(root, fetch=request, workers=4, publish=False, inventory_only=False, review=None, report=None):
+def run(root, fetch=request, workers=DEFAULT_ARTIFACT_WORKERS, publish=False, inventory_only=False, review=None, report=None):
     report = report if report is not None else {}
     report.update({"started_at": utc_now(), "status": "running", "source_published": "independent of mirror",
                    "export_metadata_valid": False, "export_valid": False, "git_pushed": False, "install_verified": False})
@@ -267,7 +269,7 @@ def write_report(report, path=None, last_success=None):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1])
-    parser.add_argument("--workers", type=int, choices=range(1, 5), default=4)
+    parser.add_argument("--workers", type=int, choices=range(1, 5), default=DEFAULT_ARTIFACT_WORKERS)
     modes = parser.add_mutually_exclusive_group()
     modes.add_argument("--publish", action="store_true", help="Validate and non-force push from clean current main")
     modes.add_argument("--inventory-only", action="store_true", help="Read-only complete inventory reconciliation")
