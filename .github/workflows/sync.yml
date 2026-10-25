@@ -13,10 +13,6 @@ on:
 permissions:
   contents: read
 
-concurrency:
-  group: public-skills-${{ github.ref }}
-  cancel-in-progress: false
-
 jobs:
   test:
     runs-on: ubuntu-latest
@@ -28,21 +24,29 @@ jobs:
     needs: test
     if: github.repository == 'Vectle/skills' && github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 300
+    concurrency:
+      group: public-skills-publisher
+      cancel-in-progress: false
     permissions:
       contents: write
+      actions: read
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
-      - name: Read and validate the public catalog
-        run: python3 scripts/sync.py
-      - name: Commit changed skills
+      - name: Find the last successful main check
+        id: freshness
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          git add -- skills.json skills/ sync-status.json
-          if git diff --cached --quiet; then
-            echo 'Public skills are already current.'
-            exit 0
+          if ! last_success=$(gh api "repos/$GITHUB_REPOSITORY/actions/workflows/sync.yml/runs?status=success&per_page=100" --jq '[.workflow_runs[] | select(.head_branch == "main" and .event != "pull_request")] | first | .updated_at // empty'); then
+            last_success=''
+            echo 'Previous check lookup failed; freshness will be reported as unknown.'
           fi
+          echo "last_success=$last_success" >> "$GITHUB_OUTPUT"
+      - name: Reconcile, validate admission and publish one snapshot
+        env:
+          PREVIOUS_SUCCESS: ${{ steps.freshness.outputs.last_success }}
+        run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Sync public Vectle skills'
-          git push origin HEAD:main
+          python3 scripts/sync.py --publish --last-success "$PREVIOUS_SUCCESS" --report "$RUNNER_TEMP/public-skills-attempt.json"
