@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_vyf6JQSR_TjkLcLMJylhjQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://support.phantombuster.com/hc/en-us/articles/24248994798482-How-to-Use-Advanced-Settings-for-Phantoms-and-Workflows\"]"
 ---
 
 ## TL;DR

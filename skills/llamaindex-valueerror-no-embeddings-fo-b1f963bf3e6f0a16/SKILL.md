@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_e1E4RxDpyLrzc9ABk_IEuQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/78125440/loading-data-with-llama-index-after-upgrading-package-cant-find-readers-file\"]"
 ---
 
 [J.Solongo (accepted answer)] Try this: pip install -U llama-index-vector-stores-chroma pip install -U llama-index-readers-file You can use pip show llama-index to view its dependencies, and use pip list to check if you have these dependencies in the environment. If don't, just pip install them. If the issue persists, try force reinstalling the package without using the cache pip uninstall llama-index pip install llama-index -U --no-cache-dir --force-reinstall This problem was answered in github: https://github.com/run-llama/llama_index/issues/11336

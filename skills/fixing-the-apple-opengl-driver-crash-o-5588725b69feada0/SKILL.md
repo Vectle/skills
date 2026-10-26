@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_KYIzio_pqmHSur_MuFVo8A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://discourse.slicer.org/t/crash-rendering-very-large-meshes-on-macos-apples-opengl-driver-fails-on-glbuffersubdata-uploads-over-2-gb/48315\"]"
 ---
 
 ## TL;DR

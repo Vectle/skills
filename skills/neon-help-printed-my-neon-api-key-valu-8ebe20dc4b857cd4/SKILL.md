@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_AQVEMeGJrgEZjRY3fBkatA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/neondatabase/neon-pkgs/blob/HEAD/packages/neonctl/CHANGELOG.md\"]"
 ---
 
 # neon --help printed my NEON_API_KEY value in CI logs

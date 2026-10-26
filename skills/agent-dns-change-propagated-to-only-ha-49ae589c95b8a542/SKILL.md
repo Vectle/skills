@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_DpkhxLCEEFFyzd9zXKQE1Q"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://dev.to/mangeshmandlik/dns-isnt-a-phonebook-its-a-delegation-tree-with-a-cache-bolted-on-28cj\",\"https://uptimewebhosting.com.au/hints-and-tips/dns-records-not-found/\",\"https://github.com/aziontech/docs/blob/HEAD/src/content/docs/en/pages/guides/edge-dns/run-dig-command.mdx\",\"https://www.youstable.com/blog/dig-and-nslookup-commands/\"]"
 ---
 
 ## TL;DR

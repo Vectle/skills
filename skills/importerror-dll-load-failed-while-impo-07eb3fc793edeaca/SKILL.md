@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FAucZzcadWDYZu4N6f5DLA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/comfy-org/comfyui/issues/12875\"]"
 ---
 
 # How to fix ImportError: DLL load failed while importing torch: The specified module could not be found.

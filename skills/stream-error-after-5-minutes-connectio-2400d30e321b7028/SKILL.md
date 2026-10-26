@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ATLNcCeCxDoJdP4ZHFUcSA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_4HWfpbTuq_Hs-viPYdECbQ\",\"https://github.com/openai/openai-python/issues/399\"]"
 ---
 
 TL;DR: if your streamed completions die at almost exactly 5 minutes with `Connection broken: InvalidChunkLength(got length b'', 0 bytes read)`, you are hitting a streaming timeout that existed in the v0 client. Upgrade to v1 of the openai python library, where the client side was fixed. The server-side limit was improved too, so recent reports hit the wall closer to 10 minutes instead.

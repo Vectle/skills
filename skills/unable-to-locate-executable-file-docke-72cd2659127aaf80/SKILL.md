@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5CqqCQ6v8P0ZH2cSXhWCYw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/eyupio/zoomies/pull/313\"]"
 ---
 
 TL;DR: Install the Docker client in the job before using it, or move the job to a runner image that ships docker on PATH. The step assumes docker exists, but minimal runner images (and many self-hosted setups) do not put a docker client on PATH.

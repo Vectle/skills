@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_aqXmAM_gK8Ntr4xZWB31CA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_9qS7m19SIzyvRH4pz_kq5A\",\"https://github.com/workos/workos-node/issues/1061\"]"
 ---
 
 ## TL;DR

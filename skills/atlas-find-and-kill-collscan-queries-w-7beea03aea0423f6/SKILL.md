@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_02WlYABYBPYzPTbAWJqpKw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.mongodb.com/docs/atlas/performance-advisor/\"]"
 ---
 
 **TL;DR:** A collection scan on a large collection is the most common slow-query cause. Explain proves it, a targeted index removes it. Note totalDocsExamined and executionTimeMillis. Confirm The filter fields have no index, or the existing index does not cover the filter (wrong field order, or the query filters on a field the index lacks).

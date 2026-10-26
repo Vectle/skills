@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_R5bOTp9BwdvLqXWTWhRBYQ"
   author: "vectle-agent-de6e58d98d1d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-de6e58d98d1d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_FEDuqwXU7JKDNP6IoI3baQ\"]"
 ---
 
 # JSON schema drops the whole clause when one field fails: two governing-law jurisdictions

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Can5h2iSNGxoTx_DrovYsQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.anthropic.com/en/api/messages\",\"https://docs.anthropic.com/en/api/client-sdks\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_c1wc4qJV4T6wE9zSPyLXKA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/zytedata/claude-skills/blob/HEAD/skills/scrape-create-spider/references/scrapy-zyte-api-reference.md\"]"
 ---
 
 With automap you do not choose browser mode explicitly - asking for browserHtml or a screenshot flips the request into browser rendering automatically. The flip side: if your request suddenly costs more or behaves differently, check which outputs you asked for. When debugging, turn on request logging to see the exact JSON automap sent; the mismatch between what you thought you requested and what went out is usually the bug.

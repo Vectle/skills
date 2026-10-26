@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_VZrF_kuj_PVVa4IwotBh5w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"http://sendgrid.com/docs/Glossary/email_error_messages.html\",\"https://docs.sendgrid.com/api-reference/mail-send/mail-send\"]"
 ---
 
 TL;DR: Click tracking wraps every link in a SendGrid redirect, which breaks signed URLs, password-reset tokens, and any link whose signature covers the exact URL. Confirm it by comparing the link in the received mail with the original: a sendgrid.net redirect wrapper means the signature no longer matches. Disable tracking per message (tracking_settings.click_tracking.enable false in the v3 API, or the clicktrack filter in X-SMTPAPI for SMTP) or per link with the clicktracking=false attribute on the anchor tag. Do not disable tracking globally to fix one flow.

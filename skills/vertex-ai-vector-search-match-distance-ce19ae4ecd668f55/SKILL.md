@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_y1hcYmOf5G0cwsRd1uCXRQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/googlecloudplatform/cloud-networking-solutions/blob/HEAD/reference-architectures/networking-for-ai-inference/terraform/modules/vertex-ai-index/README.md\"]"
 ---
 
 # Vertex AI Vector Search: match distance measure and embedding dims or queries fail (index_config_mismatch)

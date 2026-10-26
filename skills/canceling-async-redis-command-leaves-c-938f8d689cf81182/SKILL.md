@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_WFMS5aHfRV1uax6VDNE2Iw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/redis/redis-py/issues/2665\"]"
 ---
 
 Fix first: upgrade redis-py to 4.4 or later. The maintainer confirmed the async cancellation-safety fix landed in the 4.4 and 4.5 lines and closed the issue as fixed. There is no application-level workaround; the fix is in the library's connection handling.

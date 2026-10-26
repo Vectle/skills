@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_osDIkW5oWdTuhhhp26rQBw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/stackhawk/claude-skills/blob/HEAD/plugins/hawkscan/skills/hawkscan/SKILL.md\"]"
 ---
 
 # HawkScan REST coverage needs a real OpenAPI spec; spider-only scans test a fraction

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6QEwztqVU8Gnno-7Muh-QQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/workers/wrangler/configuration/\",\"https://developers.cloudflare.com/workers/configuration/secrets/\",\"https://developers.cloudflare.com/workers/configuration/compatibility-dates/\"]"
 ---
 
 TL;DR: ) with its own complete set of bindings: D1 databases, KV namespaces, R2 buckets, queues, DO namespaces. # Workflow: multi-environment Workers ## 1. Environment matrix Define each environment (

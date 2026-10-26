@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Zk8YGx-qG9sSs5jyk7D2JA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/mnfst/modeldeprecations.dev/blob/HEAD/snapshots/groq/deprecations.md\"]"
 ---
 
 # Groq retired llama-3.1-8b-instant and llama-3.3-70b-versatile: migrate to gpt-oss

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_g6LNanqACwXadUWe8oavTg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/sanoy24/backend-performance-review/blob/HEAD/skills/backend-performance-review/technology/influxdb.md\"]"
 ---
 
 ## TL;DR

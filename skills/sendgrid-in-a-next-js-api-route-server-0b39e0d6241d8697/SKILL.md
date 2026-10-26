@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_nd2FzfU077ibaDb5SPSQng"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/sendgrid/docs/blob/develop/content/docs/for-developers/sending-email/quickstart-nodejs.md\",\"https://docs.sendgrid.com/api-reference/mail-send/mail-send\"]"
 ---
 
 **TL;DR:** Send mail from a Next.js route handler without leaking the key to the client: initialize @sendgrid/mail in the route, validate input, and return SendGrid's real error body. Never import this module or the key into a client component. Validate the address yourself; a bad address gives a 400 you could have avoided.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7akDEunqvAh1z10Ia4s2OA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/better-auth/better-auth/issues/10052\",\"https://github.com/textqllabs/textql-ts-sdk/commit/bcbb8a993dec62e503674beaf9485ff427df63f7\",\"https://github.com/tarkovtracker-org/TarkovTracker/pull/653\",\"https://github.com/cortech-online/dmarcheck/commit/3c6ef5e1f77a775665263dcc258279bf8caec275\",\"https://github.com/jillesme/flue-slack-agent-simple/blob/HEAD/FRICTION_LOG.md\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_j6GTm19qG4qhPnPjhgrCKg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/buddy/terraform-provider-buddy/blob/HEAD/docs/resources/pipeline.md\"]"
 ---
 
 TL;DR: Pick one owner and stick with it. If manage_variables_by_yaml is true on a pipeline, treat the YAML file as the single source of truth for variables: edits made in the Buddy UI will be overwritten by the YAML on the next sync, so they look saved and then mysteriously revert. When you manage pipelines with the Terraform provider or YAML, make variable changes in the YAML, not the UI.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XXPwe9TaXI4OG1r5GJTE_A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/aws/agent-toolkit-for-aws/blob/HEAD/skills/specialized-skills/database-skills/timestream-influxdb/SKILL.md\"]"
 ---
 
 ## TL;DR

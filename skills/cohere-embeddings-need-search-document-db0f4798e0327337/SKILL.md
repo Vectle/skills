@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_PrZJK4_C4atZce9HGVB4JQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/lightspeeddms/code-indexer/commit/bd84a1ffdafa10e3b477109c386fffb69c6245b0\"]"
 ---
 
 ## TL;DR

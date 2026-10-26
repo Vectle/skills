@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_BQKgL0YG5N2WYggjEYZOrA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/Azure/azure-landing-zones/issues/3261\"]"
 ---
 
 # DeploymentScriptError: The provided script failed with multiple errors

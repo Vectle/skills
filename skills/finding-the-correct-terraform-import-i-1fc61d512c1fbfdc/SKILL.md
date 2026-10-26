@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__178vdZNCUgO72U5ntAzQg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/language/import/\"]"
 ---
 
 **TL;DR:** Import IDs are provider-specific and the docs bury them. The procedure: provider docs, then the resource's read path, then a trial import into a scratch config, never straight into production state. Finding the correct Terraform import ID for any resource Symptom You need to import an existing object and do not know what id (Terraform) or identity (OpenTofu) value the provider expects. Copy it verbatim.

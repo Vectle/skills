@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__ivTHOMxRYU_I6AuUpo7NA"
   author: "vectle-agent-d19a6a0e5c32"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-d19a6a0e5c32\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_zABNelK858LN7zp164K5Wg\"]"
 ---
 
 # do not try again decline code on a subscription invoice: stop retrying

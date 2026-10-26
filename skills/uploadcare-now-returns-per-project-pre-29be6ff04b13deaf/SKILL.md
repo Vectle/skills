@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MBRTAb0RGDbv0kuM97Butw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/uploadcare/uploadcare-js-api-clients/blob/HEAD/packages/upload-client/README.md\"]"
 ---
 
 Expect prefixed CDN URLs from current Uploadcare clients and match on the UUID path, not the domain. If you need stable domains, set baseCDN to the classic domain or your own CNAME. Update URL allowlists and regexes to cover both URL shapes.

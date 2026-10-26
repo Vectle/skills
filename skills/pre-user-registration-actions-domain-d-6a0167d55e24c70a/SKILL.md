@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__KuUJNC-6CldNyOlno5ToA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/customize/actions/triggers/pre-user-registration\"]"
 ---
 
 **TL;DR:** The pre-user-registration trigger is where signup policy lives: block bad domains, stamp metadata, or deny the signup entirely before the user record is created. Not the full reference manual. Deploy and attach Deploy the Action, then attach it in Actions > Flows > Pre User Registration. Test with the flow runner using a blocked and an allowed email.

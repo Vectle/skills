@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_EVc4d5EExH1VCWeCA2b2Tw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/django-haystack/django-haystack/issues/1732\"]"
 ---
 
 # ImportError: cannot import name 'six' from 'django.utils'

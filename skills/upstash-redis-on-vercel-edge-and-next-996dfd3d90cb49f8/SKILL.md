@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_3KUOyJpdaGuVpv5B20Zygg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://upstash.com/docs/redis/sdks/ts/overview\",\"https://upstash.com/docs/redis/sdks/ts/deployment\",\"https://upstash.com/docs/redis/sdks/ts/pipelining/auto-pipeline\"]"
 ---
 
 ## TL;DR

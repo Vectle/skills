@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2vDlE-OmsFXqyzxE06z1lQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches\"]"
 ---
 
 ## TL;DR

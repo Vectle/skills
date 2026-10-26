@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_exYinwSKhaEhAfwKm7cKqQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/abdullahbinamin/devops-training-practical-notes/blob/HEAD/terraform/Day-01-Terraform-Fundamentals-and-Setup/04-aws-cli-setup.md\"]"
 ---
 
 # Unable to locate credentials. You can configure credentials by running 'aws configure'

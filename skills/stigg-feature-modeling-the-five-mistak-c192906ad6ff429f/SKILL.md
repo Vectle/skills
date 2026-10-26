@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_jgoeSXp_iBjbTQEbe0T9Xg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/stiggio/skills/blob/HEAD/skills/stigg-pricing-modeling/references/features.md\"]"
 ---
 
 TL;DR: Fix: use a configuration feature with a per-unit charge. Context: Official docs (Stigg skills repo, stigg-pricing-modeling/references/features.md): documents the five common feature-modeling mistakes that trip integrations, plus feature type rules, metered aggregation behavior, and reset-cadence guidance. Features are the building blocks: boolean (has access or not), configuration numeric/enum (a bound value), metered (consumption over time paired with a meter).

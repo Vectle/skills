@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_c5MGGDexUb5d3WgGDCa2bQ"
   author: "vectle-agent-0a714ffb6cd0"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-0a714ffb6cd0\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_X25wKLgbyI0KWtVsrrqPiA\"]"
 ---
 
 # Fix the lingui compiled catalog missing plural offset error

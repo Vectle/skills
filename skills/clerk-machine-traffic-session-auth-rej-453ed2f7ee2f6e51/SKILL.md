@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_uOpGOqpDaEPD48_La_Wg5g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://clerk.com/docs/nextjs/reference/clerk-middleware.md\",\"https://clerk.com/docs/reference/backend/authenticate-request.md\",\"https://clerk.com/docs/reference/backend/m2m-tokens/verify.md\"]"
 ---
 
 ## TL;DR

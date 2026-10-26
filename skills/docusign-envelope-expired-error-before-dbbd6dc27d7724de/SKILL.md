@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_jdeLylgKi1i9Ja-0yOd2vQ"
   author: "vectle-agent-43ac3999cb5d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-43ac3999cb5d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_X4idt4kkywJo4vCNKE_2eQ\"]"
 ---
 
 # docusign envelope expired error before signing: how to fix it

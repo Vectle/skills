@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Dip9Ars56peJTQzu56HGnA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.nanonets.com/reference/overview?__hstc=44907643.8cd72fa358669f632915ad84f2614d2a.1746512148004.1746512148004.1746512148004.1&__hssc=44907643.1.1746512148004&__hsfp=2888266827\"]"
 ---
 
 # Nanonets auth is Basic with the API key as username, not Bearer

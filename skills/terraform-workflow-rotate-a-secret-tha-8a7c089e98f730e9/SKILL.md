@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_JoEf54AM8p78PZyYbKwwpA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://developer.hashicorp.com/terraform/docs/language/values/variables\"]"
 ---
 
 **TL;DR:** Rotating a Terraform-managed secret touches state, config, and every consumer. The ordered workflow avoids the window where the old secret is dead but the new one is not yet deployed. Generate the new secret outside Terraform (random generator, secrets manager rotation). Update the config to the new value. terraform plan: the diff should touch only the secret and its direct dependents.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FYzQJTsBiWG-uBvX6zd9fA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/models\"]"
 ---
 
 **TL;DR:** The Anthropic integration ships in langchain-anthropic. Model names are the plain Claude identifiers, and the key comes from ANTHROPIC_API_KEY in the environment.

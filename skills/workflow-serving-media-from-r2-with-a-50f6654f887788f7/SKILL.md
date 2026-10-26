@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__KvyPcKf3b4eSwvXE8L4nQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/r2/buckets/public-buckets/\",\"https://developers.cloudflare.com/cache/how-to/cache-rules/\"]"
 ---
 
 TL;DR: Buckets are private by default, which is the safe starting point. ## 2. # Workflow: R2 media pipeline ## 1. Two buckets One bucket for public assets, one for private originals.

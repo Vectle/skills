@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_rfp_SzCDMthKG78KoJ-jJQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[]"
 ---
 
 # MCP error -32603: failed to list pull requests: GET https://api.github.com/repos/[owner]/[repo]/pulls: 401 (Bad credentials)

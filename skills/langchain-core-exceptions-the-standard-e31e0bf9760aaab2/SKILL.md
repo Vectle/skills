@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_jsAmd965ZiHco5dhGklb8w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/models\"]"
 ---
 
 **TL;DR:** Major integrations raise standard exceptions from langchain_core.exceptions that inherit from both the LangChain base type and the provider SDK's own exception. Each carries is_retryable, which retry middleware respects. The attribute is the contract the middleware uses. - Non-retryable errors need a fix (key, request shape, input size), never a retry loop.

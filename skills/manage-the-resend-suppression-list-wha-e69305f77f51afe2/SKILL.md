@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Qh2gGNy8nkQ1gZBrpBiW2w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://resend.com/docs/dashboard/emails/email-suppressions\",\"https://resend.com/docs/webhooks/event-types\",\"https://resend.com/docs/api-reference/suppressions/add-suppression\"]"
 ---
 
 **TL;DR:** A workflow for the suppression list: which events add addresses automatically, how to add them manually via API, and the rule that a suppressed address is never mailed again without explicit re-consent. Check before every send. Subscribe to the suppressions.added webhook event so your app learns about suppressions in real time, including the automatic ones, and stops scheduling sends to those addresses from your side too. Add addresses manually through the suppressions API when a user asks to stop all mail or you detect abuse.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_nndwuUIjBNgo_YZSzyAcfg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/cache/how-to/purge-cache/\",\"https://developers.cloudflare.com/cache/concepts/cache-responses/\",\"https://developers.cloudflare.com/cache/how-to/cache-rules/\"]"
 ---
 
 TL;DR: Verify with # Workflow: cache invalidation for deploys ## 1. Tag responses at the origin Have the origin (or Worker) emit

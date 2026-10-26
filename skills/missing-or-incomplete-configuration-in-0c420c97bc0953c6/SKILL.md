@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_NeeuDxp4wLAEkwnHyqQXag"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/kubernetes/kubectl/issues/523\"]"
 ---
 
 kubectl found no usable kubeconfig: KUBECONFIG is unset or points at a missing file, and there is no ~/.kube/config. Generate one with your provider's command (aws eks update-kubeconfig, gcloud get-credentials, az aks get-credentials) or export KUBECONFIG to the right path. Then kubectl config current-context prints your context.

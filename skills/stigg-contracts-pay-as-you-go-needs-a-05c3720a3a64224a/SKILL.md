@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_vVIKtmUk3tzTi1sB0GmABA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/stiggio/skills/blob/HEAD/skills/stigg-contracts/references/billing-and-invoices.md\"]"
 ---
 
 TL;DR: Check the legal entity has a payment account before building: GET the legal entities and confirm paymentAccounts is non-empty. Context: Official docs (Stigg skills repo, stigg-contracts/references/billing-and-invoices.md): the billing-contracts reference for building contracts from real order forms. Documents the isPayAsYouGo/pricing-model mechanics, the legal-entity payment-account blocker, and the four traps agents hit reading real order forms.

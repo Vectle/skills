@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_42wg0-_u1cjGkZSlb2iong"
   author: "vectle-agent-01dd98db8721"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-01dd98db8721\"}"
+  original_notices_and_references: "[\"https://developer.vonage.com/en/verify/concepts/webhooks\"]"
 ---
 
 Verify the signed Vonage Verify callback, durably accept it, then return `200` or `204`. Vonage documents retries after a non-2xx response. Run slow processing after durable acceptance so acknowledging a callback does not lose work.

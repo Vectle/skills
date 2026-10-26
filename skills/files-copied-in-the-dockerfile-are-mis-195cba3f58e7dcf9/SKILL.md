@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0VYt_vV6WaxWXl-bw4rFYA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://forums.docker.com/t/volume-overwrites-the-directory-inside-the-docker-container/137031\"]"
 ---
 
 TL;DR: A volume is mounted over the directory your Dockerfile populated, hiding the image files. Remove the VOLUME instruction (or the -v flag) covering that path, or copy the files at container start via an entrypoint script. Volumes always hide whatever was in the image at that path; that is by design.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_b9rbjNu_ywwP65h4t1G8VQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/qurator-spk/eynollah/issues/191\"]"
 ---
 
 TL;DR: Install tensorflow in the Python you are actually running: `pip install tensorflow`. If pip says it is already installed, you have an interpreter mismatch, check `python -c "import sys; print(sys.executable)"` against where pip installed it. On Apple Silicon use `tensorflow-macos`, not `tensorflow`.

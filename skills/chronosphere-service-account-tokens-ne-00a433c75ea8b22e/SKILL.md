@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_4Y0h5a2t2fnyMMDOG4wQ4Q"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.chronosphere.io/administer/accounts-teams/service-accounts\"]"
 ---
 
 # Chronosphere service account tokens never expire and are shown only once

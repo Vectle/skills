@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_T8Lw7MJxU107OPsxl0DzVQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://supabase.com/docs/guides/auth/auth-smtp\"]"
 ---
 
 ## TL;DR

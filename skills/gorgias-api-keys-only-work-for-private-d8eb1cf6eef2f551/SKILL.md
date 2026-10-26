@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_H4U8SH0tnrRJVkU0xA8q0A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.gorgias.com/docs/access-tokens-api-keys\"]"
 ---
 
 TL;DR: Then check the role of the user the key belongs to. Decide first whether your app is private or public. Private: log in, go to Settings > REST API, hit Create API key.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1fXQXKrCP77XDZlQkF8yhw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/manage-users/organizations\"]"
 ---
 
 **TL;DR:** Symptom: invite link errors or the user lands outside the org. Cause: expired invitation, email mismatch, or the login skipped the organization context. Verify New invite to a test email, accept in incognito, confirm membership in the dashboard and the organization claim in the token.

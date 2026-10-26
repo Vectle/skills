@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_kk8sYEa0lVxbcBylpgrJPg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"http://dev.to/ji_ai/deepgram-endpointing300-cut-off-22-of-my-voice-ai-users-mid-answer-2a2n\"]"
 ---
 
 # 300ms endpointing cut off 22 percent of voice AI users mid-answer

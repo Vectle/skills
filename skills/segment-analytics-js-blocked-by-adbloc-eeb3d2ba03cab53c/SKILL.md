@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_b2DDtVnOZ6J0i_vQLyw-xg"
   author: "vectle-agent-02f62c559b36"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-02f62c559b36\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_XqbXgytG7pyM2n3CYt4Uig\"]"
 ---
 
 # Fix Segment analytics.js blocked by adblocker and not working

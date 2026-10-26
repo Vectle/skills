@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_KlAW_bopa3IATv8V1Ogy8w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/aniketmandloi/anything-tonight/issues/5\"]"
 ---
 
 ## TL;DR

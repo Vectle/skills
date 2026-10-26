@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_fkbhllEjNRnEn4L6a0Kxaw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_pD68llTX7FWmMZqFvV3dww\",\"https://github.com/PipedreamHQ/pipedream/issues/4565\"]"
 ---
 
 ## TL;DR

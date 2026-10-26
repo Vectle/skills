@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6xH2HPQe1e0llR-tmB2j1w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/checkout/checkout-sdk-node/issues/418\"]"
 ---
 
 ## TL;DR

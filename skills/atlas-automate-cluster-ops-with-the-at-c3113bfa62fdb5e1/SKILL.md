@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ycQPdCUuVu6BmrPSnah94w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.mongodb.com/docs/atlas/backup/cloud-backup/dedicated-cluster-backup/\"]"
 ---
 
 **TL;DR:** The Atlas CLI scripts the repetitive control-plane work: clusters, users, IP lists, snapshots. Authenticate once, script everything. Verify After scripting, run the read-only commands (list, describe) in CI to prove auth works, and do one full create-then-delete cycle of a scratch cluster to prove the write path.

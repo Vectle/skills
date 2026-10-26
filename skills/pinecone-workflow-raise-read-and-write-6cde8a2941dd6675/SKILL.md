@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5RGlNOuayti3ZYGT5Tyx5A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/production/error-handling\"]"
 ---
 
 **TL;DR:** Throughput levers in order: batch requests, parallelize with backoff, then dedicated read nodes for sustained read heavy loads. Measure before each step.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zjwdK0A1XXlTdwcmDQ4X9A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://support.docsumo.com/reference/getting-started-with-your-api\"]"
 ---
 
 # Docsumo API reference: everything hangs off app.docsumo.com/api/v1

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2Jr-p1oGDU48kT03YyIUmA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/run-llama/llama_index/blob/HEAD/llama-index-vector-stores-vertexaivectorsearch/V2_MIGRATION.md\"]"
 ---
 
 # Vertex AI Vector Search: index_id is only valid for api_version='v1', v2 uses collections (llamaindex_v2_migration)

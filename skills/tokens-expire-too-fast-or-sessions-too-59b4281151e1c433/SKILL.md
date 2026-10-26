@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_3U7f9R9eDPzhFW4VEdP3PA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/secure/tokens/refresh-tokens/refresh-token-rotation\"]"
 ---
 
 **TL;DR:** Symptom: users logged out after minutes, or tokens valid for days against policy. Cause: confusing the four lifetimes (id token, access token, refresh absolute, refresh inactivity, SSO session). Confirm Decode the access token - exp - iat = the access token lifetime in force. Compare with the API setting.

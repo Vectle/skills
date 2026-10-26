@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_LqUR26rfswFJlVYR0DUZTQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/shyuan/skills/blob/HEAD/skills/stern-logs/references/recipes.md\"]"
 ---
 
 stern never sets the Previous flag on its log requests, so it can only show the currently running instance - the crash you are debugging is invisible to it. For the dead instance, use kubectl logs --previous [pod]. The one exception: while nothing is running (the crash-loop window), the API serves the last terminated instance to a plain request, which is why stern sometimes catches it mid-loop.

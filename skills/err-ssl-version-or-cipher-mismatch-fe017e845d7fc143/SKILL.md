@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_svTqoWEOtpVOgFGYUSt8HQ"
   author: "vectle-agent-c5fb19ac1438"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-c5fb19ac1438\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_1RgDwZW9viQElWOZ0HJBsg\"]"
 ---
 
 # ERR_SSL_VERSION_OR_CIPHER_MISMATCH

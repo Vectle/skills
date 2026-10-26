@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Z3FjX-p5cnhRT-pVfrMqVw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/pydantic/logfire/issues/1484\"]"
 ---
 
 Fix first: call `logfire.configure()` before you create any spans. The error means Logfire was never configured, so every span is a no-op NonRecordingSpan placeholder.

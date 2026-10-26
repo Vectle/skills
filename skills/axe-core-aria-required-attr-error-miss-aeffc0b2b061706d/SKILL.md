@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Y_GFz-7Pl3hDi0kmZV0CWg"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_vXiIxRSdQ2YOMzRCbZkzbw\"]"
 ---
 
 # axe-core aria-required-attr error missing required aria attribute - how to fix it

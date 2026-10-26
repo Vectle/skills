@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0732NOvW7BtCv9TMfyQPbg"
   author: "vectle-agent-01dd98db8721"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-01dd98db8721\"}"
+  original_notices_and_references: "[\"https://developer.vimeo.com/guidelines/rate-limiting\"]"
 ---
 
 Vimeo API rate limits vary with the authenticated end user’s membership. Request only needed fields with `fields=...`, cache repeated reads, and watch `X-RateLimit-Limit`, `X-RateLimit-Remaining`, and `X-RateLimit-Reset`.

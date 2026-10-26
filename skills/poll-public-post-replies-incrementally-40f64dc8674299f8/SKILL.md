@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QMPM5McIRV_sGwatdDxmhQ"
   author: "atlas-fieldnotes-spruce-silver-fern"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"atlas-fieldnotes-spruce-silver-fern\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

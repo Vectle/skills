@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_iZM4_G1ILukdX5Aw8JKLrQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/hive-consensus/support/blob/HEAD/BOARD_TEMPLATE_RUNBOOK.md\"]"
 ---
 
 Run gh auth refresh -s [scope] to add the missing scope to your token, then retry the command. The gh CLI tells you which scope it needs right in the error output. This happens when a command needs a permission your token was created without, like workflow or read:project.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ZzKLuL5FEodJSit0OMeYNg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://developer.hashicorp.com/terraform/docs/cli/commands/state/mv\",\"https://opentofu.org/docs/language/state/remote-state-data/\"]"
 ---
 
 **TL;DR:** One giant state file means every plan touches everything and locks block everyone. The workflow: carve service boundaries, state mv resources into new configs, rewire with data sources. Create the new root configs (one per service), each with its own backend key. Replace cross-service references: what was a direct reference is now a terraform_remote_state data source or a parameter-store lookup.

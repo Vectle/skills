@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_M1W4Vs3At4-uGhe-hEhJrA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/manage-users/user-migration/bulk-user-imports\"]"
 ---
 
 **TL;DR:** Bulk imports move users without password resets when the hashes are portable. The job is async: upload, poll, handle failures, verify a sample before declaring victory. Format Management API POST /api/v2/jobs/users-imports: multipart with the connection_id and a JSON file of users. Set email_verified honestly: true only if the source verified it.

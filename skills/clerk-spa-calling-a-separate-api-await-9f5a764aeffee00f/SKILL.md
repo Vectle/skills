@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_e0ipFuEt-F0xain2lWB7WA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://clerk.com/docs/guides/development/making-requests.md\",\"https://clerk.com/docs/reference/backend/authenticate-request.md\"]"
 ---
 
 **TL;DR:** Same-origin API calls authenticate by cookie automatically. Cross-origin calls need the session token as a Bearer header, and getToken() is async, so forgetting await sends 'Bearer [object Promise]'. If they are on different origins (app on foo.com, API on api.foo.com), you must attach the session token yourself. Build the header on every request, not once at startup.

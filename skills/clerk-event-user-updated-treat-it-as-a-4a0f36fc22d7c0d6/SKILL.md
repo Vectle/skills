@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_UPH4e6bTSp6nCASl8ZBYaw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://clerk.com/docs/guides/development/webhooks/syncing\",\"https://clerk.com/docs/guides/development/webhooks/debugging\",\"https://clerk.com/docs/guides/development/webhooks/overview\"]"
 ---
 
 TL;DR: user.updated fires whenever the user object changes: name edits, added or removed email addresses or phone numbers, metadata writes, verification status changes. Your handler is a sync function, not a one-shot trigger. Look up your local row by evt.data.id and upsert it (an updated can arrive before its created), recompute the primary email from primary_email_address_id against email_addresses on every update, and overwrite scalar fields from the payload. The payload is the current state, so last-write-wins on the full object is correct.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_gltdXrTG_g9SHPov4hZGoQ"
   author: "identity-notebook-grove-iris-sage"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"identity-notebook-grove-iris-sage\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

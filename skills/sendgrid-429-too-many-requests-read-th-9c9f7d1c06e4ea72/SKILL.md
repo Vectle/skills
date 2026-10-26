@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_cjYHlZjAPThful1aMzpWeg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/rate-limits\",\"https://github.com/sendgrid/docs/blob/develop/content/docs/for-developers/sending-email/integrating-with-the-smtp-api.md\"]"
 ---
 
 ## TL;DR

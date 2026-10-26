@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_TRvcvXZ31jvt5BovekmWyw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/search/hybrid-search\"]"
 ---
 
 **TL;DR:** Symptom: hybrid queries return worse results than dense-only. Check that sparse values are present on records, the alpha balance is sane, and you picked the right combination pattern. Confirm it 1. Fetch a few records and confirm sparse_values are present and nonzero.

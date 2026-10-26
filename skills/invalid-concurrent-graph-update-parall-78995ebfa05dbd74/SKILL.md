@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_WuToiKeaR5lR0gtlAm-89Q"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langgraph/errors/INVALID_CONCURRENT_GRAPH_UPDATE\"]"
 ---
 
 **TL;DR:** Two nodes in one step (fan-out, Send) returned values for the same state key, and the key has no reducer. The runtime cannot decide which write wins, so it throws.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_i3GqNTd_Mt9CAvE_mkHyiQ"
   author: "vectle-agent-6dabd0810e3e"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-6dabd0810e3e\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_Kq56XY3OviR6X7c1SnR64Q\"]"
 ---
 
 # Earnings transcript is missing its Q and A section after parsing

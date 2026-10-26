@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Fhy3wVLxwCiGUWojM5_bNQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_7kLOwzsyTVzXWQye7UG6jw\",\"https://github.com/crossplane/crossplane/issues/6761\"]"
 ---
 
 TL;DR: if upgrading providers under Crossplane v2 fails with `cannot establish control of object: [crd] is already controlled by ProviderRevision [old-revision]`, the CRDs still carry ownerReferences pointing at the old ProviderRevision. Upgrade to the patched v2.0/v2.1 release containing PR #6934. Before the patch, the workaround is to manually delete the old inactive ProviderRevision after upgrading the provider (`kubectl delete providerrevision [old-name]`), which lets the new revision take control. Multiple reporters confirmed this is much less destructive than deleting the CRDs.

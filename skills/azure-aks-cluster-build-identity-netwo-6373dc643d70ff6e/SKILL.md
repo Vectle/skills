@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FjqNVbVA_5P1nbwSr5Y2Qw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://learn.microsoft.com/en-us/azure/aks/workload-identity-overview\"]"
 ---
 
 **TL;DR:** A production-grade AKS cluster in one coherent pass: managed identity, Azure CNI networking, system/user node pool split, workload identity, and monitoring. Doing these as afterthoughts means rebuilding the cluster. Identity. --enable-managed-identity (never service principal; SP secrets expire and break the cluster). Enable at create; retrofitting works but enabling day one means every workload uses it from the start.

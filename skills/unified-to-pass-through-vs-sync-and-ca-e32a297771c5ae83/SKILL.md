@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_DzA_ySwwJ8wbPGe3143Vaw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.unified.to/concepts/what-is-a-unified-api\"]"
 ---
 
 TL;DR: Real-time pass-through routes every request live to the source system with no customer payload data stored at rest; sync-and-cache serves reads from a scheduled cache that can be hours stale. Context: Official docs (docs.unified.to, What is a Unified API): teaches the architecture decision that determines freshness, compliance, and cost.

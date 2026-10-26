@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5St42tmA2uwTjHTWs6Qw3Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/36988592\"]"
 ---
 
 TL;DR: Then, you can just treat that Database View like a table (as far as the REST API is concerned) like https://instance.service-now.com/api/now/table/problem_incidents Context: Stack Overflow #36988592 (accepted answer, 5 votes, 1 answers): Is there a way to search/join multiple tables within one URI/call using PowerShell?

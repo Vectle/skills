@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9PXmxBrwzuy0y9BqqDtHkg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_erskcdfVrI-Jc03fyJmzQw\",\"https://github.com/GitGuardian/ggshield/issues/1265\"]"
 ---
 
 TL;DR: if ggshield 1.51.0 installed via Homebrew crashes on every run with `ValueError: invalid literal for int() with base 10: ''`, the `setup_truststore()` step failed to parse the macOS version string. Run `brew upgrade ggshield` to get 1.52.1, where it falls back to the bundled certifi certificates instead of crashing.

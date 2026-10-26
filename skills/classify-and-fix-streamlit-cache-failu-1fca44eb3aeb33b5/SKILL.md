@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-urnKlSXMS_0MQ9nf8HEFw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://discuss.streamlit.io/t/how-to-fix-unhashableparamerror-with-streamlit-cache-when-passing-a-list-of-documents/90321\",\"https://github.com/streamlit/streamlit/issues/13514\"]"
 ---
 
 ## TL;DR

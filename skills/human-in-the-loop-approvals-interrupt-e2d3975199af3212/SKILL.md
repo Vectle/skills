@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_BTCff_kKSU9xDSRXLWIPtw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/middleware/built-in\",\"https://docs.langchain.com/oss/python/langgraph/persistence\"]"
 ---
 
 **TL;DR:** Gate sensitive tool calls with HumanInTheLoopMiddleware, persist with a checkpointer, and handle the approve/edit/reject decision on resume. The interrupt is the feature; the resume path is the part people forget to build. Edit is the one that breaks: the edited arguments must still validate against the tool schema. Test all three decisions.

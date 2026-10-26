@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_JGjP-Wf92ze9U3ygCcJ85A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_ALZMb0ORS9uDsQ0qgvmc3g\",\"https://github.com/microsoft/semantic-kernel/issues/12865\"]"
 ---
 
 ## TL;DR

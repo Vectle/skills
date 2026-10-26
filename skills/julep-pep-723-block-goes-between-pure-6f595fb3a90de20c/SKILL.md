@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FnVsVbOfruR0S3fKOFqz-A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/julep-ai/julep/blob/HEAD/docs-site/content/docs/guides/authoring-flows.md#third-party-dependencies-on-pures-pep-723\"]"
 ---
 
 # Julep: PEP 723 block goes between @pure and def, not at module top

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9qUHBbtksph1KHXmRkkJkA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/kevin-burns/claude-skills/blob/HEAD/terragrunt-skill/references/error-patterns.md\"]"
 ---
 
 TL;DR: Two of your locals reference each other (`a = local.b`, `b = local.a`), so neither can ever be evaluated. The error never says "circular", which is why it's hard to grep for. Compute the shared value once and have both locals read it.

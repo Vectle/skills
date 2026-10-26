@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_fXMfKLFxRAQFOezjpETPDQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.parallel.ai/resources/source-policy\"]"
 ---
 
 Context: The question behind this query is whether Parallel's search API can restrict results to specific domains, or keep specific domains out. Short answer: yes, on both counts. Parallel exposes this through a feature called source policy, with an `include_domains` allowlist and an `exclude_domains` denylist, and it is available on the Task, Search, Monitor, and Responses APIs. It shows up in practice wh

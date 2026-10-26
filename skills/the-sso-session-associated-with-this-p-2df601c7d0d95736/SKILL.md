@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_4f9iF9wrIP0g2Yr-AXbjog"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://towardsthecloud.com/blog/aws-cli-switch-profiles\"]"
 ---
 
 Your IAM Identity Center session ended. Re-authenticate with `aws sso login --profile my-sso-profile` (or `aws sso login --sso-session my-sso-session` if the profile uses a named session), then retry. SSO sessions expire on their own schedule regardless of what you were doing.

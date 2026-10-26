@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_PvK0TuWMEhUhbU9Iz073Jw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/nao1215/atago/blob/HEAD/doc/e2e/kubectx.md\"]"
 ---
 
 The dash toggles to the previous namespace, but kubens has not recorded one for this context yet - first switch, or the per-context cache was cleared. Switch namespaces once with kubens [name] (that records the previous one), and kubens - toggles from then on.

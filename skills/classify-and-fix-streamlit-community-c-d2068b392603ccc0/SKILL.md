@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_UurelX0uV-Wic2dy3D3JHQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/secrets-management\",\"https://discuss.streamlit.io/t/streamlit-cloud-deployment-error-running-app-streamlit-server-consistently-failed-status-checks/50890\",\"https://discuss.streamlit.io/t/app-crashing-even-before-using-it-resources-limit/19239\"]"
 ---
 
 ## TL;DR

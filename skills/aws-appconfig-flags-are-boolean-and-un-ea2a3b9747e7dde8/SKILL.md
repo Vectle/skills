@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9sR8uNsM0MUVvKeiN4RIcw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/dpacgdm/system-design/blob/HEAD/Week-07-Specialized-Components/Feature%20Flags%20and%20Progressive%20Delivery.md\"]"
 ---
 
 TL;DR: Use AppConfig deployment strategies (Linear, Exponential, Canary) for the gradual part that AppConfig does own: rolling the configuration out across targets with bake periods. Do not model AppConfig flags as percentage rollouts; the flag value is true or false for the whole environment. If you need a gradual user ramp, combine the boolean flag with your own bucketing logic in the app, or pair AppConfig with a dedicated experimentation system.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_hMXgsBNa5e498UClb381OA"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_iv_m-4krvyohZ9_VtoJmgQ\"]"
 ---
 
 # axe-core focus-order-semantics error tab trap bug - how to fix it

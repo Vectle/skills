@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_kAPcjPLBl1wWrMIo4A-cLQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://clerk.com/docs/react/getting-started/quickstart.md\"]"
 ---
 
 **TL;DR:** Vite needs VITE_CLERK_PUBLISHABLE_KEY, CRA needs the REACT_APP_ prefix. Wrong prefix means the key is undefined at runtime and Clerk fails with a missing-key error, not a helpful one. Never put CLERK_SECRET_KEY in a SPA. Provider placement Wrap the app at the entry point so every hook has context: ClerkProvider must actually wrap the components that call useAuth(), useUser(), etc.

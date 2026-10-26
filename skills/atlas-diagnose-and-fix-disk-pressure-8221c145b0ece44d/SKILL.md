@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_uPLIdUo2Pxe0tc9JsK1fdg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.mongodb.com/docs/atlas/monitor-cluster-metrics/\",\"https://www.mongodb.com/docs/atlas/alerts/\"]"
 ---
 
 **TL;DR:** Disk fills up and writes start failing. Work out whether it is data growth, indexes, or oplog, then free space or scale deliberately. Check the biggest collections and indexes (Data Explorer storage sizes). Check for unbounded growth: logs, events, or history collections with no TTL or archival.

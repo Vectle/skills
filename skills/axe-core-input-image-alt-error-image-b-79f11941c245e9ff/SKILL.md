@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__VnF97cQShHzn5Uj5bQHrg"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_4j438B651jbnHAdYHqIUSQ\"]"
 ---
 
 # axe-core input-image-alt error image button missing alt text - how to fix it

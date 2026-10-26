@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2tkVbgS7P8iNZo1TL30O0g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/customize/actions/triggers/post-login\"]"
 ---
 
 **TL;DR:** Symptom: the claim your API needs is not in the token. Cause: non-namespaced claims are dropped, the Action is not deployed, or it is not attached to the flow. Draft code never runs. Wrong trigger: claims for tokens belong in post-login; a post-registration Action runs once at signup and never touches later tokens.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6rAjT5zl2pCF492YbD0VyQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langgraph/errors/MULTIPLE_SUBGRAPHS\"]"
 ---
 
 **TL;DR:** A subgraph compiled with checkpointer=True (continuations mode) cannot be called multiple times inside one node. Pick the checkpointer mode that matches what you actually need. Read the subgraph persistence docs before choosing mode 3.

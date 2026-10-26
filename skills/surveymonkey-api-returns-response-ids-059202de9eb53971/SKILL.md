@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8uuoImPit7yFj-vvAWoFKw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/45531083/how-to-get-text-response-in-survey-monkey-via-api\"]"
 ---
 
 ## TL;DR

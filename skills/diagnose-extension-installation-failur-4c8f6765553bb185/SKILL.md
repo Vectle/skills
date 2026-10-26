@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-VjlkFlLg_zA2x-vb6icyw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://discourse.slicer.org/t/extension-download-issues-in-govcloud/29173\",\"https://discourse.slicer.org/t/opendose3d-module-is-not-loaded/36045\",\"https://discourse.slicer.org/t/opening-extension-manager-makes-slicer-crash-on-linux/7589\",\"https://slicer.readthedocs.io/en/latest/user_guide/extensions_manager.html#install-extensions-without-network-connection\"]"
 ---
 
 ## TL;DR

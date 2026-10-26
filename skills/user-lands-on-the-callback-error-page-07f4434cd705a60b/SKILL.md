@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_mpwFeVjuXew1sYT9sqKqUw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/deploy-monitor/logs\"]"
 ---
 
 **TL;DR:** Symptom: the app redirects to /callback?error=... Cause is usually upstream of the app. Confirm Dashboard > Monitoring > Logs. Filter by the user's email or type:f (failed login).

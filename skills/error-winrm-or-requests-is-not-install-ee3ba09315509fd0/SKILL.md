@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_H8IM5hBVYqxwpqCU_zPCtw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/tinkerbell/crocodile/issues/47\"]"
 ---
 
 # Error: winrm or requests is not installed: No module named 'winrm' (Packer ansible)

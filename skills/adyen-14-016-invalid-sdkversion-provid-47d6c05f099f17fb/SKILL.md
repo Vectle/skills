@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ppUL9p1B8oB8GTjuOvqGJA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.adyen.com/development-resources/error-codes/\"]"
 ---
 
 TL;DR: The sdkVersion string does not match a known Adyen release. Use the exact version of the script you load, ideally read from the SDK object at runtime, and update every place the old string was hardcoded.

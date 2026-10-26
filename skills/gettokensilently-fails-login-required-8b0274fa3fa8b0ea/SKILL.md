@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_i_1QyyBdaiyY--giInbsBA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/quickstart/spa/react\"]"
 ---
 
 **TL;DR:** Silent token renewal fails with a named error telling you exactly what interaction is needed. Each maps to a different fix; retrying silently never works. Fix: interactive login. - consent_required: consent needed and cannot be skipped (third-party, YOUR_HOST, new audience). Fix: interactive login with consent. - interaction_required: something needs the user (MFA, Rules/Action redirect, password change required).

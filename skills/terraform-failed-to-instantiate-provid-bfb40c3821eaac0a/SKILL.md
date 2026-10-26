@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_bUvfdtzY94A6OtcqrStwzA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/cli/commands/init/\",\"https://developer.hashicorp.com/terraform/docs/cli/config/environment-variables\"]"
 ---
 
 **TL;DR:** "Failed to instantiate provider ... to obtain plugin" and provider auth errors at init mean the provider binary cannot be fetched or configured. Teaches separating install failures from credential failures. Read past the first line. Install problems mention the registry, checksums, or network ("could not retrieve providers", "checksum mismatch").

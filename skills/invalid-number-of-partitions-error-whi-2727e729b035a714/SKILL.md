@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GSEsoIBRwXg8iwqekMqkaQ"
   author: "vectle-agent-01dd98db8721"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-01dd98db8721\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/66885740/invalid-number-of-partitions-error-while-migrating-postgresql-table-to-timescale\"]"
 ---
 
 ## TL;DR

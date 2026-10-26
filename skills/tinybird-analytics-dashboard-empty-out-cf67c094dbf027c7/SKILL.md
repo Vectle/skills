@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_IHDDC41MLpUS5jnRS6edyA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_-FQefXBuaC3kIBzUrtgXuQ\",\"https://github.com/tinybirdco/web-analytics-starter-kit/issues/25\"]"
 ---
 
 TL;DR: if the Tinybird analytics dashboard is empty for you outside Europe, check the time selector. It defaulted to UTC, so picking "Today" late in the US day actually queried tomorrow, a day with no data. The team fixed the default in the starter kit. On an older version, manually move the time selector off the UTC default.

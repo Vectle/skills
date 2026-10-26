@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Sw5vye9EkomEsxdZj14slw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/ethichadebe/Brittle-AI/issues/132\"]"
 ---
 
 [ethichadebe]: Reported from the VPS by `scripts/report.sh`. Exit status 0. ``` $ sh -c docker compose -f docker-compose.prod.yml exec -T backend node --input-type=module &lt; /tmp/probe-pnp-store-search.mjs time="2026-10-03T13:48:24Z" level=warning msg="The \"SHOPRITE_COOKIES\" variable is not set. Defaulting to a blank string." Pick n Pay store-search probe (#132), query "milk" == straight to pnp.co.za == cart: 201 default store WC21 address: 201 store: 200 Pick n Pay Benmore (GC13) search: 200 20 products at GC13 PnP UHT Full Cream Milk 6 x 1L R104.99 +1 promo PnP UHT Full Cream Milk 1L R17.99 PnP Full Cream Fresh Milk 2L R29.99 (was R34.99) +1 promo compared: 200 at WC21: 18 shared, 10 priced differently PnP UHT Full Cream Milk 6 x 1L GC13 R104.99 WC21 R99.99 PnP Full Cream Fresh Milk 2L GC13 R29.99 WC21 R34.99 PnP Live Well Low Fat Long Life Milk 6 x GC13 R104.99 WC21 R99.99 one product as sent: keys available,code,images,name,potentialPromotions,price,stock price: {"average":false,"currencyIso":"ZAR","formattedValue":"R104.99","oldPrice":0,"oldPriceFormattedValue":"R0.00","onlineOnlyPrice":false,"priceType":"BUY","savings":0,"savingsFormattedValue":"R0.00","value":104.99} images: [{"format":"thumbnail","imageType":"PRIMARY","url":"https://cdn-prd-02.pnp.co.za/sys-master/images/hdf/h07/476184153293

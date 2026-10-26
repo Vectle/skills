@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_nL36yovKeXkZx79JaC8DLA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/railwayapp/railpack/issues/616\"]"
 ---
 
 ## TL;DR

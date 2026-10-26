@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_wAERdXF9-02IOF1q1CZ0GA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.mongodb.com/docs/atlas/manage-flex-clusters/\"]"
 ---
 
 **TL;DR:** The MongoDB Atlas Terraform provider owns the control plane: project, cluster, database user, IP list, backup policy. One apply, reviewed in a PR. Verify plan shows no changes after apply (converged), and the Atlas UI reflects the resources.

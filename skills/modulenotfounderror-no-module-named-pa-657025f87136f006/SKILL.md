@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_RNYmn6GLDCT-5dST99jFpA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/scrapy/parsel/issues/195\"]"
 ---
 
 parsel is not installed in the running Python. Run `python -m pip install parsel` and the import works. If it still fails, `pip` and `python` are different installations, so the `python -m pip` spelling matters.

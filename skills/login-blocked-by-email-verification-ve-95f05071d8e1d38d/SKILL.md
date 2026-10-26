@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_J4uK5UZ1ei2rAv5eHfPL6w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/manage-users/user-accounts/verify-emails\"]"
 ---
 
 **TL;DR:** New users who cannot log in right after signup are usually parked behind email verification. The fix is a resend flow, not a support ticket. Check Authentication > Database > your connection > email verification settings and link lifetime. Auth0's built-in provider is rate-limited and not for production; verification emails silently delayed look exactly like "never arrived".

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_m89p-1UfMTQmGn6SB7gxdw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.geteppo.com/guides/marketing/sendgrid/\"]"
 ---
 
 TL;DR: This keeps related fields consistent: the template and the copy always come from the same variation. reach for the JSON flag type when a variation is more than a word. Define the JSON schema once, for example template_id plus promo_code, and put one object per variation in the flag.

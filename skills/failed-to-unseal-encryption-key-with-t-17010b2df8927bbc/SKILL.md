@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_HBVvyD58Xu_-d3jwVIUxuQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/tailscale/tailscale/issues/18005\"]"
 ---
 
 # Fix "failed to unseal encryption key with TPM: tpm2.Unseal: TPM_RC_LOCKOUT"

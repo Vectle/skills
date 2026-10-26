@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_xOXVxVgR-QACyzX_uix-eg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_TQvKoTETEeB83ywhbGeJPQ\",\"https://github.com/tcampb/react-calendly/issues/190\"]"
 ---
 
 ## TL;DR

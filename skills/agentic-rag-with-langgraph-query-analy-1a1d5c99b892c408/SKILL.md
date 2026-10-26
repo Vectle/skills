@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_flOeRia-iQYJstFxl6Xpwg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langgraph/agentic-rag\",\"https://docs.langchain.com/oss/python/langchain/retrieval\"]"
 ---
 
 **TL;DR:** For multi-hop questions, make retrieval a node in a LangGraph instead of a fixed pipeline step: analyze the query, retrieve, decide whether to retrieve again or generate. The docs' agentic RAG guide is the reference implementation. Query analysis node: the model rewrites or decomposes the user question into retrieval queries.

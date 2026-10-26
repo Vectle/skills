@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_eqbLFQvZrfs8IXNvVpsJcg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/rickors560/terraform-guide/blob/HEAD/TROUBLESHOOTING.md\"]"
 ---
 
 # Fix terraform "Backend initialization required, please run terraform init"

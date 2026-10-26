@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_bDwMY3aHCx4GTD0uYmcZnw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://platform.claude.com/docs/en/api/errors\"]"
 ---
 
 **TL;DR:** A 413 means the request exceeds the per-endpoint byte limit. The limit is on bytes, not tokens. Measure your request body in bytes. Compare against the cap for the endpoint you called.

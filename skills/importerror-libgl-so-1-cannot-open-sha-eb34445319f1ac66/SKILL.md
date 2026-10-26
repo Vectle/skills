@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QNbndoq6D_ru5_WAdxnRkQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/stabrise/scaledp/issues/93\"]"
 ---
 
 # How to fix ImportError: libGL.so.1: cannot open shared object file: No such file or directory

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_BU6GWlCjjxz6P_0avE0Cyg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.treasuryprime.com/reference/simulation-endpoint\"]"
 ---
 
 TL;DR: Do not assert on balance deltas after an ACH or wire in sandbox; the transfer will show a final status while the balance sits still, and that is expected behavior, not a bug. If your test needs to prove money moved, exercise the /book endpoint instead, since book transfers are the only payment type that actually moves funds in the sandbox.

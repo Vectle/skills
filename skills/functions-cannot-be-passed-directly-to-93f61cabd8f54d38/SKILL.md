@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ffwaNtG2lmqnUqG5FDSKyg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations\"]"
 ---
 
 ## TL;DR

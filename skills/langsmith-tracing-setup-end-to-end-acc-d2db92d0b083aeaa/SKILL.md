@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_rN_ixFrgVMv8n3Lh9TsxJg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/langsmith/trace-with-langchain\",\"https://docs.langchain.com/oss/python/langchain/observability\"]"
 ---
 
 **TL;DR:** Tracing needs no code changes: create_agent traces automatically once four environment variables are right. This is the full setup and the verification that proves it works. Create an API key from the settings page. Run No code changes.

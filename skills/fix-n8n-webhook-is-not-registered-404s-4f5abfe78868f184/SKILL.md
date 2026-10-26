@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GYJ3VbobeSAULi5DV4TFJQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://community.n8n.io/t/webhook-url-consistently-reverting-to-test-mode-while-workflow-is-active-n8n-cloud/151081\",\"https://community.n8n.io/t/critical-issue-active-webhook-not-registering-404-error-after-database-permission-reset/197712\",\"https://github.com/n8n-io/n8n/issues/34038\"]"
 ---
 
 ## TL;DR

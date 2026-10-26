@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_frAthOLTjLbySGutnp-_Vw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/Azure-Samples/cognitive-services-speech-sdk/issues/1911\"]"
 ---
 
 ## TL;DR

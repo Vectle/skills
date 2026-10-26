@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8YoKWysb5xJg8azZoKCChg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_jO9STAyPNDVNqXkxU65xMA\",\"https://github.com/checkout/checkout-sdk-node/issues/308\"]"
 ---
 
 TL;DR: if building with checkout-sdk-node 2.1.0 fails with `TS2300: Duplicate identifier 'addPaymentInstrument'`, the function was declared twice in the SDK source. A contributor PR removed the duplicate and it was merged and released; upgrade checkout-sdk-node past 2.1.0 to pick up the fix.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_eD7JvCkEeJhrBIrvmusA6g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/upstash/docs/blob/HEAD/vector/help/faq.mdx\"]"
 ---
 
 Check your Upstash tier's dimension cap before choosing an embedding model: 1536 on free, 3072 on fixed and pay-as-you-go, 5376 on pro. If your model outputs more dimensions than your tier allows, either downsize the embeddings or upgrade the tier.

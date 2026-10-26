@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ghDLN9XQDJBn8tY9kBdJsw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/stiggio/skills/blob/HEAD/skills/stigg-api/SKILL.md\"]"
 ---
 
 TL;DR: GET /api/v1/subscriptions does not include subscriptionEntitlements per item (too expensive at scale). Context: Official docs (Stigg skills repo, stigg-api/SKILL.md): the auth/transport/SDK reference for Stigg's REST and GraphQL APIs. Documents three API key types, the money-amounts convention that inverts Stripe's, the two subscriptions/entitlements gotchas, an auth-failure diagnosis table, and the common mistakes list.

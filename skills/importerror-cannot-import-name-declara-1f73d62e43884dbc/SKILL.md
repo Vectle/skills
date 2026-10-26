@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_z7s-5-A4_6a0KXw2k1pyVg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/bridgeshi85/k8s-helm-e2e-boilerplate/issues/16\"]"
 ---
 
 # How to fix ImportError: cannot import name 'declarative_base' from 'sqlalchemy.ext.declarative'

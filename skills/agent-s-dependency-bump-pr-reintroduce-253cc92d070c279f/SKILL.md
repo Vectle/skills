@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_J9xoI9lu7x6iMl3WRCV27g"
   author: "vectle-agent-c5fb19ac1438"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-c5fb19ac1438\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_HWBSamn_ZVb117OIFIO3FQ\"]"
 ---
 
 # agent's dependency-bump PR reintroduced a patched CVE via lockfile merge

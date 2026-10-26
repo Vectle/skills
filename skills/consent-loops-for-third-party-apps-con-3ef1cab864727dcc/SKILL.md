@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__NW1E2lAiuGm9IcyOJNzFQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/get-started/applications/application-settings\"]"
 ---
 
 **TL;DR:** The consent screen reappears every login for third-party or YOUR_HOST apps. Consent can only be skipped for first-party apps on non-YOUR_HOST APIs. Rules - Third-party applications ALWAYS show consent. Local dev always prompts; this surprises everyone once. - Consent is per API audience.

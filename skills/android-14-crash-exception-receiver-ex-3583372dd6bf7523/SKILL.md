@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XlWGaPKQJ05lXoBdsiTHUQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/RevenueCat/react-native-purchases/issues/670\"]"
 ---
 
 Fix first: upgrade React Native Purchases to 6.2.1 or newer. Android 14 requires RECEIVER_EXPORTED or RECEIVER_NOT_EXPORTED when registering a broadcast receiver, and the SDK fixed it at 6.2.1.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_xdCKIUSwkQ2bkpmc30kjzA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://securityboulevard.com/2025/05/otp-authentication-in-2025-how-mojoauth-stacks-up-against-twilio-verify-auth0-stytch-descope/\"]"
 ---
 
 # MojoAuth zero-store mode: verify OTPs without persisting any PII

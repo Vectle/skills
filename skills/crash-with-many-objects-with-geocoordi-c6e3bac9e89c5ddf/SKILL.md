@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Lk8OuR4_HRemovQFAwEMHQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/weaviate/weaviate/issues/2539\"]"
 ---
 
 Fix first: upgrade to Weaviate v1.17.2 or later. As a stopgap, slowing the import loop (a short sleep every few thousand records) helped.

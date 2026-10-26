@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_VE1k0muehQG35k3Pwtw4jg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/secure/multi-factor-authentication\"]"
 ---
 
 **TL;DR:** MFA rollout fails on enrollment UX, not cryptography. Stage it: policy per app, enrollment campaign, recovery codes, then enforcement, with adaptive MFA for the risk-based middle ground. Policies: - Never: off. - Confidence-based / adaptive: step up when risk signals fire (new device, impossible travel, suspicious IP). Best default for most products. - Always: every login.

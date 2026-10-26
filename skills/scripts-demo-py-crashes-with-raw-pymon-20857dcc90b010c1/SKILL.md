@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zw0-47zHlGw4ICzizPgu-w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/romiluz13/Hybrid-Search-RAG/issues/28\"]"
 ---
 
 [romiluz13]: **Acceptance criteria (added 13 Oct 2026):** - [ ] `python scripts/demo.py --uri [mongod without mongot]` exits with one clear message naming the missing Search/Vector Search capability and the options (atlas-local via docker compose, or Atlas), with no traceback. - [ ] The same message appears when the failing command is `createSearchIndexes` (code 59). - [ ] The existing connection-error message is unchanged.

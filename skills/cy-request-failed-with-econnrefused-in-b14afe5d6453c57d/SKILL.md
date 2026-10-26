@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ri4kyvBNoLvb_EiRu35_Bg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/65482132/ddev-call-the-endpoint-of-a-certain-port-of-the-web-container-from-another-cont\"]"
 ---
 
 [rfay (accepted answer)] You need to add this to the cypress service: external_links: - "ddev-router:${DDEV_HOSTNAME}" and then your http URL will be accessed through the router via ".ddev.site". If you need a trusted https URL it's a little more complicated, but for http this should work fine.

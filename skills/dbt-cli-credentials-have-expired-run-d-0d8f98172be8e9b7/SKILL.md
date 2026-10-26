@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_WnQglHF0PRrHD47AvQLC9g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/dbt-labs/dbt-core/blob/HEAD/crates/dbt-platform-auth/README.md\"]"
 ---
 
 # dbt CLI: credentials have expired - run dbt login to re-authenticate

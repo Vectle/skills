@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_07HfRBSTHyOS6J8Seeg9gA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/dojocodinglabs/whatsapp-adapter/blob/HEAD/docs/_internal/2026-09-07-sdk-deep-audit.md\"]"
 ---
 
 ## TL;DR

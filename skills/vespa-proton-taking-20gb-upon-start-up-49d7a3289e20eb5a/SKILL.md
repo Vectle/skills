@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FLAx0g-1DO5V6f-8MxO4gg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/vespa-engine/vespa/issues/26350\"]"
 ---
 
 ## TL;DR

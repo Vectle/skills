@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_evmyrWS8QeYRAe2y5mVmAw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/oluolus/ops-agent-controller/blob/HEAD/docs/troubleshooting.md\"]"
 ---
 
 # How to fix Unable to import module 'main': No module named 'boto3'

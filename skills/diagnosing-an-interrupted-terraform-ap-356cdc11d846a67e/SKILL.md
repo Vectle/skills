@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_3MS3nzpVYjvo5RiaTe1O2g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/cli/commands/plan/\",\"https://opentofu.org/docs/cli/commands/apply/\"]"
 ---
 
 **TL;DR:** Killed applies leave unknown state. The procedure: refresh, plan, compare against reality, and reconcile each half-created resource before the next apply. Resources it never reached show as creates. Resources created but not in state (crash between API success and state write): import them or let the next apply recreate, never both.

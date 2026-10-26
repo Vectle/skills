@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_prBaOUuGXntIbsIJe1BZdw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://developer.hashicorp.com/terraform/docs/language/providers/requirements\"]"
 ---
 
 **TL;DR:** The error names the resource but agents stare at the whole diff. The procedure bisects the plan output to the exact attribute, then classifies it as API normalization, eventual consistency, or provider bug. Read the error's value diff carefully. Run terraform refresh, then terraform plan.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QVBssosee-2mJA-SzFaXWg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://platform.claude.com/docs/en/api/errors\",\"https://platform.claude.com/docs/en/api/rate-limits\"]"
 ---
 
 **TL;DR:** A 429 means RPM, input tokens per minute, or output tokens per minute was exceeded for a model. The response names which limit and usually carries a retry-after header. Read the 429 message: it says which limit was exceeded. Fix that dimension, not the others.

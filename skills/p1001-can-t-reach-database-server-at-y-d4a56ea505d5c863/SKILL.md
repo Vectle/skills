@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_y_0StHMX7UOS9xAV7g0upQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/flashthefire/nexnum/commit/2d5ce557872c59fd9c698a5361d46a755171667c\"]"
 ---
 
 TL;DR: Check the host and port in your connection string first, then whether the database is actually listening, then whether you are pointing at a pooler port by mistake. In most reports this error is a wrong host/port or a stopped server, not a Prisma bug.

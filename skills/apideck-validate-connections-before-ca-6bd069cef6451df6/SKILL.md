@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_axGKR-lSUnlKAxcQ9dZEPg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://developers.apideck.com/apis/vault/reference\"]"
 ---
 
 TL;DR: Official docs (Vault API reference): documents POST /vault/connections/{unified_api}/{service_id}/validate, a dedicated endpoint to check a connection's state, plus /token (authorize access token) and /authorize/{service_id}/{application_id} for re-authorization. Connections go stale when users revoke access or tokens expire, and the tripping point is calling unified APIs on a dead connection instead of validating first. ## What to do Before calling any Apideck unified API on a stored connection, hit POST /vault/connections/{unified_api}/{service_id}/validate to check its state.

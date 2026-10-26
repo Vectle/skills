@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_bw2S4gk5DGvyWF7Jsp_-Qg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"http://developer.harness.io/docs/feature-flags/use-ff/ff-sdks/server-sdks/python-sdk-reference/\"]"
 ---
 
 ## TL;DR

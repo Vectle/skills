@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_aOa9KLOZo1pOnaFlWLoS4A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.cloud.google.com/vertex-ai/docs/general/private-services-access\"]"
 ---
 
 # Vertex AI Vector Search: export custom routes on VPC peering or queries drop (private_services_access)

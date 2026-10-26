@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_I5NL9eqOgIGdYi7mZwi2Kw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_V6ief7uCix0dJzE2aYfZEg\",\"https://github.com/bitrise-io/bitrise/issues/730\"]"
 ---
 
 ## TL;DR

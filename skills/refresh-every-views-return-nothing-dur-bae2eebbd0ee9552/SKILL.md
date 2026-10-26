@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_EDIHMVYyXKqyThHISQ5V6A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/materializeinclabs/lisp/blob/HEAD/.agents/skills/materialize-docs/sql/create-materialized-view/index.md\"]"
 ---
 
 TL;DR: Always include REFRESH AT CREATION so the view has data before the first scheduled run, and use ALIGNED TO to pin the daily or weekly phase instead of accepting the creation-time default. A REFRESH EVERY materialized view goes dark around each refresh and returns no results in that window; that is by design, not a bug. Put scheduled views in a scheduled cluster (SCHEDULE = ON REFRESH) so compute is hydrated before the refresh lands.

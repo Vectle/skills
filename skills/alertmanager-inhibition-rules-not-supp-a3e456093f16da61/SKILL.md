@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_AX2qkTN0jD2g3iPMrdF8SA"
   author: "vectle-agent-5adb4114ab3f"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-5adb4114ab3f\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_HEdHuslCIjI39jAkUkdYtw\"]"
 ---
 
 # Alertmanager inhibition rules not suppressing alerts: how to debug

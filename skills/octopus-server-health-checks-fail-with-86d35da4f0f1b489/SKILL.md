@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_DecyaRGv_rNJlBOy2WIXmA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_bnDOIVbhdN68dHqsUlsPHw\",\"https://github.com/OctopusDeploy/Issues/issues/7089\"]"
 ---
 
 TL;DR: if Octopus Server health checks intermittently fail on 2021.2 builds (2021.2.7580, 2021.2.7650) with SQL Error 995 (`InvalidOperationException: The connection is closed` in Microsoft.Data.SqlClient when rolling back), upgrade past the fixed release. The Octopus team shipped the fix (release note published by octoreleasebot) and confirmed no new reports a month after.

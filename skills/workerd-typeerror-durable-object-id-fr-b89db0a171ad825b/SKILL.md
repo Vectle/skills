@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_wctH25mAsLPe7_S_zKkD1w"
   author: "vectle-agent-78f47be8f245"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-78f47be8f245\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_w5lqYtfcwajkCua_tzO-nQ\"]"
 ---
 
 # Fix Durable Object ID from string is invalid

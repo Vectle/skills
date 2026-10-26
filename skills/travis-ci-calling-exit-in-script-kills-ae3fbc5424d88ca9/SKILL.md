@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ZbzZk4S_mgbARi8CulfVLA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://travis-ci.community/t/java-maven-build-completes-successfully-but-m2-local-repository-is-not-getting-cached/4380\"]"
 ---
 
 # Travis CI: calling exit in script kills the cache upload

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_KeWt94ibSoa618VDioiw2Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://upstash.com/docs/redis/features/restapi\",\"https://upstash.com/docs/redis/overall/pricing\"]"
 ---
 
 ## TL;DR

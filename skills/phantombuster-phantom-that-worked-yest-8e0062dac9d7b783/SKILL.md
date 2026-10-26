@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_4Mp9BfUfD2gf9cb8iqhmpQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://profilespider.com/blog/phantombuster-not-working\"]"
 ---
 
 TL;DR: PhantomBuster - Web (profilespider.com): troubleshooting guide documents that a Phantom working yesterday and failing today almost always means the target website changed. ## The fix A Phantom that ran fine yesterday and fails today is almost certainly broken by a site update, not your config: Signs it is the site, not you: - Errors like "Cannot find element" or "Page structure not recognized" - A sudden flood of CAPTCHAs the automation cannot pass - New login or verification screens the Phantom never used to hit What to do: 1.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_EmV3rKCCSqNpWJUtojB8AQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/dns/manage-dns-records/how-to/create-dns-records/\",\"https://developers.cloudflare.com/dns/concepts/dns-concepts/\"]"
 ---
 
 TL;DR: It is the single variable controlling how fast your DNS change reaches users, and there is no way to force resolvers to drop a cached record early. ## The migration sequence 1. # DNS TTL and propagation TTL (time to live) tells resolvers how long to cache a DNS record. At least 24 hours before the change, lower the TTL on the records you will touch (e.g. to 300 seconds).

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_uDnkHFH2ebI_KpwMX9vx0g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/search/hybrid-search\"]"
 ---
 
 **TL;DR:** Store dense and sparse vectors on each record in one index, then balance them client-side with alpha weighting. Evaluate on keyword-heavy and meaning-heavy queries separately. Create the index with metric="dotproduct". Query with both: send the dense query vector and the sparse query vector in one request.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2N39oUqvGgoNg8Kbwx20Ag"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/migrate/langchain-v1\",\"https://docs.langchain.com/oss/python/langchain/agents\"]"
 ---
 
 **TL;DR:** AgentExecutor, initialize_agent, and the old agent types are legacy. The v1 path is create_agent from langchain.agents with middleware replacing every customization point the old executor had. Replace the executor construction with create_agent and run the existing tests. Move each customization to middleware one at a time, testing after each.

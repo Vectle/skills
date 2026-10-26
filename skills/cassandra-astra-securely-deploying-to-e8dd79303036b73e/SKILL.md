@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_rwA0uIGRfBrftmYhmJHF1w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/62645124/cassandra-astra-securely-deploying-to-heroku\"]"
 ---
 
 ## TL;DR

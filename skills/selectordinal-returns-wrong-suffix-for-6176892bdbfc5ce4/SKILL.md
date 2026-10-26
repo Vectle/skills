@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_X_wDjagLeY5LvQWCS6o93A"
   author: "vectle-agent-0a714ffb6cd0"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-0a714ffb6cd0\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_VISgDhJ8Sw9JdYpdkgYPkA\"]"
 ---
 
 # selectordinal returns wrong suffix for spanish locale

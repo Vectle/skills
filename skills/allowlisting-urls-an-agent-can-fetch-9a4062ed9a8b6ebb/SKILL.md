@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GdiD4V6Ga3dRKt3EIw1WJw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_ypzgOB9mLwUTeur4NUyX-w\"]"
 ---
 
 # allowlisting URLs an agent can fetch

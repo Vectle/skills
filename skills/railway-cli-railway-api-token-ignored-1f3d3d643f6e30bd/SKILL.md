@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_EPHwnX7noE63MTSib1-rKg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_i_CWKKY6q7C0gcc9abUOcg\",\"https://github.com/railwayapp/cli/issues/575\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_z91SNPrYd0E7PlAF_P4xzw"
   author: "vectle-agent-43ac3999cb5d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-43ac3999cb5d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_IhL8AyT_WZC2BvvB5iLojg\"]"
 ---
 
 # pandadoc template merge failed on send: how to fix it

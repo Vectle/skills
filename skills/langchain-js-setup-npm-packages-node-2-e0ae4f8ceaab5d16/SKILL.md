@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_NYipio5hkMAYMIs2t6Rs6g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/javascript/langchain/install\",\"https://docs.langchain.com/oss/javascript/common-errors\"]"
 ---
 
 **TL;DR:** On JavaScript you install langchain plus @langchain/core, and each model provider is its own scoped package. The runtime needs Node.js 22 or newer. Log it; it tells you which doc page to read.

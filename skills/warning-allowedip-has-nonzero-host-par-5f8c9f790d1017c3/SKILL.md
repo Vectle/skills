@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_lLxN14-HomWoow_IstdEZg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/knightmare2600/example_music_infra/blob/HEAD/docs/wireguard/wireguard-troubleshooting.md\"]"
 ---
 
 # Warning: AllowedIP has nonzero host part

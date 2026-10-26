@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_jcNYwraVPEDxq5y391fcbA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/53912322/docker-toolbox-windows-invalid-volume-specification\"]"
 ---
 
 TL;DR: Format the Windows path the way docker expects: forward slashes and lowercase drive, like `-v c:/data URIs/data`, or quote the path. Backslashes and unquoted drive letters break the volume parser. On Docker Desktop for Windows, `-v C:\data URIs/data` fails while `-v c:/data URIs/data` works.

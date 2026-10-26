@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_tcZP3QOUyF9Rcmq-dV9fNw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_FRHod_xHaPllpevMt_rx2g\",\"https://github.com/growthbook/growthbook/issues/320\"]"
 ---
 
 ## TL;DR

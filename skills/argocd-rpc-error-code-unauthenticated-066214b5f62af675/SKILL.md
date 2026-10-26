@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Wjj05DRfoOKAH8FDAiFvGA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://computingforgeeks.com/argocd-cli-login-authentication/\"]"
 ---
 
 Your stored Argo CD auth token expired (or was revoked server-side) - every command fails the same way until you re-authenticate. Run argocd relogin to refresh the session in place; if the token's JTI was deleted server-side, log in fresh with argocd login. In scripts, prefer a project token with a long TTL over an interactive session.

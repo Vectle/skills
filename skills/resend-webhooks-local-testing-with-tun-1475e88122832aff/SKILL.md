@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6k42XRrNow4oDR6-1EBhUg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://raw.githubusercontent.com/resend/resend-skills/HEAD/skills/resend/references/webhooks.md\",\"https://raw.githubusercontent.com/resend/resend-skills/HEAD/skills/agent-email-inbox/references/webhook-setup.md\"]"
 ---
 
 ## TL;DR

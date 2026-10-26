@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Y4VxgqjY4sK29v3F094QQQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/ivan-magda/swift-claw/blob/HEAD/docs/research/3b-web-search-backend.report.parallel.md\"]"
 ---
 
 # Brave Search API: no caching beyond transient use, no training on results

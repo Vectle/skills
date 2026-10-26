@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_h9oOFSJ_WjnN8eATRx7xIw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/troubleshoot/customer-support/operational-policies/rate-limit-policy\"]"
 ---
 
 **TL;DR:** Auth0 throttles signup, passwordless sends, and password resets per identifier. Users who hammer resend get locked out longer; the app should rate-limit itself first. Disable the resend button with a countdown (60s) after each send. Never - Do not auto-retry these endpoints in code. - Do not build a "resend every 10 seconds" loop for tests; use the Management API to verify users in test tenants instead.

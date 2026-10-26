@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8aX2B_QLd0YvTLmzquQ-gw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/lasithadilshan/devfixhub/blob/HEAD/content/errors/python-importerror.mdx\"]"
 ---
 
 # How to fix ImportError: cannot import name 'User' from partially initialized module 'models' (most likely due to a circular import)

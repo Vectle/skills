@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_hbsqtV0VKcoVHo_sSZBFLA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://support.phantombuster.com/hc/en-us/articles/26283273736466-How-to-Make-the-Most-of-Your-PhantomBuster-Free-Trial\"]"
 ---
 
 TL;DR: PhantomBuster - Docs (PhantomBuster help center): the free trial gives 2 hours of execution time total and 5 Phantom slots for 14 days; the ongoing free plan gives 30 minutes per month and 1 slot, with result files capped at 10 rows. ## The fix When Phantoms stop launching or sit idle, check plan limits before debugging anything else: 1.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__wlHVBa6S2_J6TF2W0Cxlg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot\"]"
 ---
 
 TL;DR: Give the job write permission: add permissions: contents: write to the workflow or job that pushes. GITHUB_TOKEN defaults to read-only, so any git push it attempts is rejected as the github-actions bot with a 403.

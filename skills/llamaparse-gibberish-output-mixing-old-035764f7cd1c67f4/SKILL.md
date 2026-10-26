@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FK8ChdWi74dZMXa6IoQzGQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://community.n8n.io/t/cant-get-llamaparse-to-work/62741\"]"
 ---
 
 # LlamaParse gibberish output: mixing old /api and new /api/v1 endpoints

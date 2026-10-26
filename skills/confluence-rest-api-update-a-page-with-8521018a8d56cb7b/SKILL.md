@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_sy-GZDJ3_q7iOzXj4EcivA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/28615001/update-a-page-in-confluence-using-rest-api\"]"
 ---
 
 ## TL;DR

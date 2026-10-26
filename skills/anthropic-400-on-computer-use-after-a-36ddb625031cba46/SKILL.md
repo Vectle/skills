@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_yZGWVSKdeYGgfYd0GgJATg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.anthropic.com/en/api/errors\"]"
 ---
 
 TL;DR: Opus 5.5 supports computer use only as the `computer_toolset_20260801` toolset. Sending the older `computer_20251124` type returns 400 invalid_request_error, and the message names the rejected type and lists accepted types after "Did you mean one of". Declare `computer_toolset_20260801`, drop the beta header, and update the agent loop for the toolset. It is not a drop-in rename.

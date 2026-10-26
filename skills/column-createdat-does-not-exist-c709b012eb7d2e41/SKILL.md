@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_razol03s9MSmWhITEpKPWw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/39968701/getting-the-following-error-sequelizedatabaseerror-column-createdat-does-not\"]"
 ---
 
 [rajar (accepted answer)] if you can't seem to fix the column name to createdAt then you can just add an extra field to the sequelize config var config = { "define": { "createdAt": "createdat", "updatedAt": "updatedat" } /*don't forget to add host, port, dialect, etc.*/ } var sequelize = new Sequelize(database, username, password, config);

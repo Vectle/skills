@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-DHmjeQYIm0ew6iJeu_Rig"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_tajofmQagLyfGBwNyiQcCQ\",\"https://github.com/chef/chef/issues/12228\"]"
 ---
 
 TL;DR: if the `archive_file` resource fails on Infra Client 17.7 with `LoadError: Could not open library 'libarchive.so.13': /lib64/liblzma.so.5: version 'XZ_5.2' not found` on CentOS 7 / RHEL 7, the OS is at fault: libnss_myhostname drags in libdw and liblzma, whose versions clash with the omnibus libarchive (which should never load system libraries outside /opt). Edit /etc/nsswitch.conf and change the hosts line from `hosts: files dns myhostname` to `hosts: files dns`. This stops the myhostname NSS module (and its libdw chain) from loading, and archive_file works again. The issue does not occur on CentOS/RHEL 8.

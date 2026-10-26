@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MGxIMd2kvqfGMIcNNgo2HA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.unified.to/passthrough/overview\"]"
 ---
 
 TL;DR: The path must be relative to the platform base API URL, so for a full endpoint of YOUR_HOST.vendor.com/v2/users you pass v2/users. Context: Official docs (docs.unified.to, Passthrough API): teaches the rules that make passthrough calls succeed. Find each integration's base URL under Feature Support then Passthrough on app.unified.to/integrations (click through to the integration).

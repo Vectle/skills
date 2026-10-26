@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9Q_h7Vzib2EtsGVVVRUNIw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs-archive.pingcap.com/tidb/v8.4/vector-search-data-types/\"]"
 ---
 
 ## TL;DR

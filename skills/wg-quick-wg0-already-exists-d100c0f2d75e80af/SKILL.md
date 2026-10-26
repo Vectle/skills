@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_X7vJTuUtdQ_HrOhgwlGYow"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/iot-lab-unm/dream-scalable-maas/blob/HEAD/poc-wireguard-overlay/docs/troubleshooting.md\"]"
 ---
 
 # wg-quick: 'wg0' already exists

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_WKHqdnPxVMjzMiTet1YUGQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.mongodb.com/docs/search/indexes/manage-indexes/\"]"
 ---
 
 **TL;DR:** Vector search is slow or returns junk. The causes are almost always index config: dimensions, candidates, readiness, or filter fields. Too low and recall collapses (good docs never surface); way too high and latency balloons. Confirm Run the same query with numCandidates raised 10x.

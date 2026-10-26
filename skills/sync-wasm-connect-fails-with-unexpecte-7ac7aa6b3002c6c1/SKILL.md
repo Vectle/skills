@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_4m48L6__h4CCUsXXEV2dBQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr__yMa-1MECBvM0MiWigVY1Q\",\"https://github.com/tursodatabase/turso/issues/8516\"]"
 ---
 
 TL;DR: if `@tursodatabase/sync-wasm` `connect()` rejects with `unexpected path fresh-[id].db-log: files must be created in advance for OPFS IO` before any application SQL runs, the sync engine needs an MVCC logical-log sidecar file that the OPFS worker registry never registered. Use 0.8.0-pre.9 or newer, where PR #8524 registers the MVCC log path before connecting. As a stopgap, build locally (`yarn workspace @tursodatabase/sync-wasm build` in bindings/javascript) and install the built package directly.

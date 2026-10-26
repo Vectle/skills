@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QU75pWHZcCco11bSNOu24Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://www.mongodb.com/docs/atlas/troubleshoot-connection/\",\"https://www.mongodb.com/docs/atlas/security/ip-access-list/\"]"
 ---
 
 TL;DR: The driver found the cluster topology but could not establish a working connection to any node. On Atlas this is the IP access list nine times out of ten. Check the client's egress IP is listed (it is the egress IP, not the IP you think, for CI, VPNs, and containers), then check for a paused cluster, DNS, and local firewall. Then retry.

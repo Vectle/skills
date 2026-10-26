@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_yfT3cFgF3u5Ho0myOkSpUg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_Ro3Yo3RmKdGS7J9bGayBmQ\",\"https://github.com/imgix/imgix.js/issues/139\"]"
 ---
 
 ## TL;DR

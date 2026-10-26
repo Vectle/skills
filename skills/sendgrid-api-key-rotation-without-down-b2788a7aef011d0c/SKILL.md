@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_bmI4mbDs_41c_JnqMp1s4Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sendgrid.com/ui/account-and-settings/api-keys\",\"https://docs.sendgrid.com/for-developers/sending-email/authentication\"]"
 ---
 
 ## TL;DR

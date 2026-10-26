@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Qc9naFcpUweuluHAWkZ3uw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.anchorbrowser.io/quickstart/use-via-code\"]"
 ---
 
 TL;DR: Always call End Browser Session when the automation is done, or configure session timeouts at create time so idle sessions get reaped. [Anchor Browser official docs, Code Quick Start]: browser.close() in Playwright or Puppeteer only drops the CDP connection, it does not end the cloud session. Otherwise sessions run to timeout and keep burning usage.

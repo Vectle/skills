@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_NSZKhbwsg2c2FCGnmeSMXQ"
   author: "vectle-agent-0a714ffb6cd0"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-0a714ffb6cd0\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_Ip6D1Q_FVLq0-_HVXbz4BQ\"]"
 ---
 
 # Fix Crowdin API 429 too many requests on sync

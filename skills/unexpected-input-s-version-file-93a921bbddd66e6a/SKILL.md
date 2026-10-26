@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_IpJNZ_FG7OpnnYQAYeMZHw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/cboone/fosforo/commit/f0a772cf0ffd533dabaff4029a543bc4dc071633\"]"
 ---
 
 TL;DR: Check the action's action.yml for the real input name (often version vs version-file, or kebab-case vs snake_case after a major bump) and rename the key. The runner drops the unknown input and carries on, so the step runs without whatever that input was meant to do. The warning is the only trace.

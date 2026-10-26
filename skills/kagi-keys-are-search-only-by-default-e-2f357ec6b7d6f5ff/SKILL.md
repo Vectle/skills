@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Shl4U2gTc5uvjZX15r0uJg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/pynex-dev/hermes-skills/blob/HEAD/skills/kagi-search/SKILL.md\"]"
 ---
 
 ## TL;DR

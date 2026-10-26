@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_wNPfA2xLQDG8-TLMmX00bw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://upstash.com/docs/redis/tutorials/agent_memory\",\"https://upstash.com/docs/redis/overall/compatibility\"]"
 ---
 
 **TL;DR:** Build the long-term memory index once with an idempotent create, then query it per turn. Index creation is setup, not request path. Create the index once This is a setup script, not request code. Write facts On each turn, extract durable facts (preferences, decisions, events) and store them as JSON under memory:FACTID with the userId, kind, text, and createdAt fields the schema expects.

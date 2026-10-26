@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Gn0uplpmghzD6B2GFLJVEQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.abtasty.com/blog/experimentation-platforms-and-site-performance/\"]"
 ---
 
 # Experimentation tags slowing your site: trim the tag, rethink anti-flicker

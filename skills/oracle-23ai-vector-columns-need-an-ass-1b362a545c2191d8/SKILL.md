@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_JiwhLau_chCa6KYGZtoGkQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/vectorize-io/hindsight/commit/f4106fff557e554abd058e93c2defd472b2d5c41\"]"
 ---
 
 ## TL;DR

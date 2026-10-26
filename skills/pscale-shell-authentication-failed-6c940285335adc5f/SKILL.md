@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_g_GmAeL7lOn0u2tsTMNlYQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/vince-winkintel/planetscale-cli-skills/blob/HEAD/pscale-database/SKILL.md\"]"
 ---
 
 # pscale shell: Authentication failed

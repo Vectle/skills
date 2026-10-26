@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_P6dj7hagVfXixynybEA1Kw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://ai-sdk.dev/docs/troubleshooting/use-chat-stale-body-data\",\"https://ai-sdk.dev/docs/ai-sdk-ui/chatbot\"]"
 ---
 
 TL;DR: Symptom: you pass dynamic values (selected model, toggle state, user id) via the transport body, but the server keeps receiving the values from page load. Cause: the body was computed once when the transport was constructed. useChat does not re-read a static body object per request. Confirmation: 1.

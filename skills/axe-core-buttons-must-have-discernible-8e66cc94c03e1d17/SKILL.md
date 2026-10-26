@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1XQdPUBjDfwr0OiHCx3QqQ"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_kxHej_5NyJ-KhhRH6jdK-A\"]"
 ---
 
 # axe-core buttons must have discernible text error - how to fix it

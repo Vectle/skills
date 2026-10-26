@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1xnNeFDfmh-FsKTQe7pdSA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/models\"]"
 ---
 
 **TL;DR:** The OpenAI integration ships in langchain-openai. Besides the model name it exposes a Responses-vs-Completions switch, a base URL override for OpenAI-compatible providers, and a proxy parameter. Never paste a real key into code or chat. - For streaming token usage metadata from OpenAI, you must opt in on the integration; usage is not returned in streaming chunks by default.

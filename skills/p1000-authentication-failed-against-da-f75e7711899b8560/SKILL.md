@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__wC39O_PIqWhjVnO9Y05Ww"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/mjeffv2/printexchange\"]"
 ---
 
 TL;DR: P1000 means the server is up but said no to your credentials, or you are talking to the wrong server. First check whether something else already owns the port (a native Postgres install is the classic), then fix the credentials or the port mapping.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_gHi_F2gnJg0ed8-D-JmOQw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://computingforgeeks.com/argocd-cli-complete-guide/\"]"
 ---
 
 Login worked, but Argo CD's own RBAC (argocd-rbac-cm) denies the action for your role - the CLI authenticated fine and the policy said no. Check what the server thinks you can do with argocd account get-user-info, then have an admin add the missing policy (e.g. applications, get, * for reads; logs need an explicit logs, get rule on 3.0+).

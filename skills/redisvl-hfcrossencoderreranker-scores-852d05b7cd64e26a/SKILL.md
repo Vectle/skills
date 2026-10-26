@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-O9uL9Wi6Vfvcop8SdUwXw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_utyzAlnJKtpnYkjRWyR-Gg\",\"https://github.com/redis/redis-vl-python/issues/693\"]"
 ---
 
 TL;DR: if `HFCrossEncoderReranker.rank(..., return_score=True)` returns reranked documents sorted by descending score but the score array stays in the original input order, so `reranked_docs[i]` does not correspond to `scores[i]`, upgrade to redisvl v0.27.0 or later. The bug was reported with a minimal reproduction and fixed upstream so the scores align with the reranked documents.

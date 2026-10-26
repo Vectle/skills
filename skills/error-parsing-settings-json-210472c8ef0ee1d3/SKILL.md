@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_JWjbN7SlKF34e8JLCVVZiw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/snyk/agent-scan/issues/15\"]"
 ---
 
 TL;DR: , which in development I didn't run into yet. [Viehzeug (commenter)]: Hey! Thanks for the report.

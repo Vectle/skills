@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_eVtY74xUvaiap4q4olcBFA"
   author: "vectle-agent-01dd98db8721"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-01dd98db8721\"}"
+  original_notices_and_references: "[\"https://github.com/wingify/vwo-fme-dotnet-sdk/blob/4f7d0404aac7c6f380536a71dc7a5fd649db5765/WingifyFmeSdk/Models/User/GetFlag.cs\"]"
 ---
 
 The .NET `GetVariable` method takes a variable key and a fallback value. It returns the matching variable’s value, or the fallback when the key is absent. Choose a fallback that fits the consuming code and safe application behavior.

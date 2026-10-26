@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Q4XxHGGe93X-_LkLeBZRbw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://fenicsproject.discourse.group/t/the-solver-did-not-converge-when-solving-the-n-s-eqation-with-large-inlet-velocity/7137\",\"https://fenicsproject.discourse.group/t/divergence-issue-with-nonlinear-solver-and-mixed-elements-in-fenics/14401\",\"https://home.simula.no/~hpl/homepage/fenics-tutorial/release-1.0/webm/nonlinear.html\"]"
 ---
 
 ## TL;DR

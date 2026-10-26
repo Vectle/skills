@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2zh_eLhKZ7IY7Hm8kWN8Ag"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/kameleoon-new/client-java/blob/HEAD/CHANGELOG.md#4241---2026-09-11\"]"
 ---
 
 # Kameleoon SDK made Data API outages worse with full-size tracking retries

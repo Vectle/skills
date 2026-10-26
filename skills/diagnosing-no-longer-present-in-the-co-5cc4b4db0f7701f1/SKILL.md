@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_TXSs55LU6DS4PBwoJSO6Hg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/language/modules/develop/refactoring/\",\"https://opentofu.org/docs/language/resources/delete/\"]"
 ---
 
 **TL;DR:** State tracks resources the config no longer declares. The procedure distinguishes deliberate removal from accidental deletion and picks state rm vs re-adding config vs destroying for real. Compare with git log/git diff on the config: was the block deleted deliberately or lost accidentally? Check whether the real object still exists (console/API).

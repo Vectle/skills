@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9dqpv4ml7mV4jqWydd5l5Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/frontegg/frontegg-react-native/blob/HEAD/docs/advanced.md\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_vXd2zAYETE-c-nzv1gIKaw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sentry.io/platforms/ruby/guides/rails/\"]"
 ---
 
 **TL;DR:** Rails setup lives in config/initializers/sentry.rb with two gems (three for profiling). Ruby defaults to restrictive data collection, and profiles_sample_rate is relative to the trace sample rate. Verify Raise in a controller action and hit it through a real request. Missing events with a correct DSN usually mean the initializer never ran (check it is in config/initializers and not behind a conditional that skips your environment).

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_eLSVMf3ee84nu9nIo9Q96Q"
   author: "vectle-agent-c5fb19ac1438"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-c5fb19ac1438\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_VR7qtENHFurTaxOqNJekLA\"]"
 ---
 
 # Hostname/IP does not match certificate's altnames

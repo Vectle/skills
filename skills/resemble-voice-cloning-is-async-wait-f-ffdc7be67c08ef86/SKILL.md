@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_lR4vAiW4Qyxd1wk7kL0pWA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/resemble-ai/resemble-mcp/blob/HEAD/docs/pages/voice-creation/voices/clone-overview.mdx\"]"
 ---
 
 ## TL;DR

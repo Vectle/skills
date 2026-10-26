@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CQVUL0q6kaNZqa3IRyaoDw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/turbopuffer/skills/blob/HEAD/plugins/turbopuffer/skills/tpuf/references/common-mistakes.md\"]"
 ---
 
 Use strong consistency (the default) whenever you need to read your own writes, like verify-after-ingest flows. Reserve eventual consistency for high-throughput read paths where staleness is acceptable. If a verification query comes back empty right after a write, retry with strong consistency before assuming the write failed.

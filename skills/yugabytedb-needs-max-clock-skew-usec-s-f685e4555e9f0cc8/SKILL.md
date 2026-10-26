@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ew8LXT5F6C1bzOwaKe_Nog"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/ddhodge/yugabyte-db/blob/HEAD/docs/content/stable/deploy/checklist.md\"]"
 ---
 
 Set max_clock_skew_usec to 2x your expected worst-case clock skew between nodes when starting YB-TServers and YB-Masters; e.g. 500000 for 250ms of expected skew. Keep clock drift under 500 PPM per node and run NTP or chrony everywhere. Never set the bound below what your hardware or cloud provider guarantees.

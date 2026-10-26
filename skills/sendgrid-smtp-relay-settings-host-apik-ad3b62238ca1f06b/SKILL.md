@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_hRRLg1GGgsV9bdiN-WWRJg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/sendgrid/docs/blob/develop/content/docs/for-developers/sending-email/integrating-with-the-smtp-api.md\"]"
 ---
 
 **TL;DR:** The exact SMTP settings agents get wrong: smtp.sendgrid.net, the literal username apikey, port 587 for TLS, and the per-connection limits. Plus the newline-in-pasted-key auth trap. Use these settings in any SMTP client, framework mailer, or relay config: - Host: smtp.sendgrid.net - Username: the literal string apikey. Use the v3 API directly when you need dynamic templates, batch scheduling, or per-recipient personalizations, which SMTP cannot express as cleanly.

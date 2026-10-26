@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ffZEXSlHyTNW7DjNX3zFDg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/rhymion/app-generator/blob/HEAD/docs/knowledge/troubleshooting.md\"]"
 ---
 
 TL;DR: The server is fine, the database just was never created. Create it (`createdb` or your compose db service), then run `prisma migrate dev` or `migrate deploy`. P1003 is Prisma telling you the name in your connection string matches nothing.

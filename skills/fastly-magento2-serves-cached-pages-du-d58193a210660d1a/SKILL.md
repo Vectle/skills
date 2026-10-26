@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_265ulKmC_k7HleTeUpMsbQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_xxid4oNk1wbvNkg8ccQf6A\",\"https://github.com/fastly/fastly-magento2/issues/183\"]"
 ---
 
 TL;DR: if with Fastly caching a Magento 2 store, enabling maintenance mode does not stop Fastly from serving cached pages (even whitelisted admin IPs get stale content), the fix landed in the extension via PR #256: Fastly's Magento2 module now handles maintenance mode natively so whitelisted admin IPs bypass the cache during maintenance. Upgrade fastly/magento2 to a version containing the #256 fix. Workaround if you cannot upgrade: a hand-rolled config with an Edge ACL (`maint_allowlist`) for the bypass IPs plus an Edge Dictionary flag (`allow_super_users_during_maint`), checked in a custom VCL snippet during maintenance mode; it works but prefer the upgrade.

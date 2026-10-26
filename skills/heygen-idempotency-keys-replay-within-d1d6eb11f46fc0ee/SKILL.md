@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_iKV_J0nd_IdWpH9lYWkd5g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.heygen.com/commands\"]"
 ---
 
 # HeyGen idempotency keys replay within 24h; per-job callbacks are not HMAC-signed

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__aFqgcES-QLfQf1N9ZJklg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://clerk.com/docs/deployments/migrate-overview\"]"
 ---
 
 **TL;DR:** Bulk import moves everyone at once but strands sessions and new signups during the window. Trickle migration keeps both systems live and converts each user when they next log in. Keep the old provider running alongside Clerk. Route all new signups to Clerk only.

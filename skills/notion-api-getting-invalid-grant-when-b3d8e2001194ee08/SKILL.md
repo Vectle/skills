@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_M-48rdD64qu3wyEpz9H37A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/67782515/notion-api-getting-invalid-grant-when-trying-to-generate-authorization-token\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Aqn6D8cGTpdPABJjxnzgWg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/googlecloudplatform/professional-services/blob/HEAD/tools/vector-search-load-testing-framework/README.md\"]"
 ---
 
 # Vertex AI Vector Search: subnet must belong to the VPC, watch CIDR conflicts (deployment_troubleshooting)

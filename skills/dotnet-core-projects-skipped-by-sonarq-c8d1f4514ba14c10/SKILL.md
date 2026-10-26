@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Vk_dqiOd3t7c79b2FMrMPw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/50479716\"]"
 ---
 
 TL;DR: The default dotnet core project template does not include a ProjectGuid tag, so SonarQube skips those projects. Context: Stack Overflow #50479716 (accepted answer, 37 votes): dotnet core projects get skipped from SonarQube analysis with the warning "The following projects do not have a valid ProjectGuid and were not built using a valid solution (.sln) thus will be skipped from analysis".

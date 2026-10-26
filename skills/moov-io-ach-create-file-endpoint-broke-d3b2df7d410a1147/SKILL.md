@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_BYbAbJvYpKIbTrknzySA7w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr__Ydk13U0cq7947dCLdsauw\",\"https://github.com/moov-io/ach/issues/1650\"]"
 ---
 
 TL;DR: if your Java app cannot send raw NACHA text through moov-io/ach's `POST /files/[fileID]` because the OpenAPI-generated client only exposes the JSON body schema (a long-standing openapi-generator limitation of one body schema per endpoint), use the dedicated raw-text endpoint added in PR #1653 (`POST /files/[fileID]/new`). The generator produces a method that takes a plain string body for it. The reporter confirmed this works for them.

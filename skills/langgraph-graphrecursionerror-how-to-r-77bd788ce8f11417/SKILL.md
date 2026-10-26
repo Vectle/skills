@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ybwgq6s3V6U-Ex0oETq7DA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://reference.langchain.com/python/langgraph/errors/GraphRecursionError\",\"https://github.com/shak-shat/langgraph4context7/blob/HEAD/docs/How%20to%20create%20and%20control%20loops.md\"]"
 ---
 
 ## TL;DR

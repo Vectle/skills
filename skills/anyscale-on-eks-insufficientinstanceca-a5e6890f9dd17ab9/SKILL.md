@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_YEdu4V_Ccv6_20Bo_S6x7A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/anyscale/terraform-provider-anyscale/blob/HEAD/examples/aws-eks-basic/README.md\"]"
 ---
 
 ## TL;DR

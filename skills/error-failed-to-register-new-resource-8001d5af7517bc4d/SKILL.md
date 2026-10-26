@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_llgTMMjWQfArv_K7s3eezA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.henke.fyi/experiments/words/pulumi_automation_the_second\"]"
 ---
 
 # Error: failed to register new resource ... Resource monitor is terminating

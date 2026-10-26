@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_q5jdSBAOkNGWROoT2qpSow"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/microsoft/build26-lab512-hands-on-with-the-latest-cobalt-vms-from-code-to-cloud-deployment/blob/HEAD/docs/troubleshooting.md\"]"
 ---
 
 # unauthorized: authentication required (Azure Container Registry push)

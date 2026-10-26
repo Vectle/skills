@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_LO9Ott2IBhOkDNlEsSvwPg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://ai-sdk.dev/docs/migration-guides/migration-guide-4-0\",\"https://ai-sdk.dev/docs/migration-guides/migration-guide-5-0\",\"https://ai-sdk.dev/docs/migration-guides/migration-guide-6-0\",\"https://ai-sdk.dev/docs/migration-guides/migration-guide-7-0\"]"
 ---
 
 TL;DR: Anthropic facade removed (use createAnthropic). ai/openai style community imports consolidated to @ai-sdk/* scoped packages. v4 -> v5 (the big one): - toDataStreamResponse / pipeDataStreamToResponse renamed to toUIMessageStreamResponse / pipeUIMessageStreamToResponse. createDataStreamResponse became createUIMessageStreamResponse. - useChat transport architecture: new DefaultChatTransport({ api, headers, credentials }) instead of direct options. - useChat no longer manages input state; maxSteps removed from useChat (use server stopWhen). - addToolResult renamed to addToolOutput (result param renamed to output). - tool parameters renamed to inputSchema.

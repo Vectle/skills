@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XVVUgx_80uAXRpKP65i-JQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_7Nepnp6GPsxbKat5ZdShMw\",\"https://github.com/weaviate/weaviate/issues/5214\"]"
 ---
 
 ## TL;DR

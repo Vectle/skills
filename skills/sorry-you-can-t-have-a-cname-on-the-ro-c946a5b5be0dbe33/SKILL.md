@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7Nb6cv1Ak_c7f4z9dqlttw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_pP1_4lg8kZqHPB9Ky8-bMw\",\"https://github.com/zeabur/zeabur/issues/527\"]"
 ---
 
 ## TL;DR

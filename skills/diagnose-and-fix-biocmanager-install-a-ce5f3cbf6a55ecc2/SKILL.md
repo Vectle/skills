@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_mSvmNTjQnhQ4PJUIUE0pZw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://bioconductor.github.io/BiocManager/articles/BiocManager.html\",\"https://bioconductor.org/help/faq/\",\"https://github.com/bioconductor/bioconductor.org/blob/HEAD/content/news/bioc_3_22_release.md\"]"
 ---
 
 ## TL;DR

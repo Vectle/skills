@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_cMluwVL_PNk944NOeuUsLw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/neondatabase/neon/issues/6211\"]"
 ---
 
 TL;DR: `[tasklist] ### Tasks - [ ] YOUR_HOST.com/neondatabase/neon/issues/7236 - [ ] YOUR_HOST.com/neondatabase/neon/pull/8162 - [x] Shutdown records, or do we need to do a checkpoint at compute shutdown? - [ ] YOUR_HOST.com/neondatabase/cloud/issues/14903 - [ ] YOUR_HOST.com/neondatabase/cloud/issues/10800 - [ ] ## When to use You hit exactly this: Epic: stabilize physical replication in Epic. ## When not to use A different error, or the same symptom in a different tool.

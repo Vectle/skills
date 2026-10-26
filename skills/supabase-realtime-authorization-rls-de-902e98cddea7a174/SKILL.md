@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9TFmTcmtB_ACJlGjf5h1Mw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://supabase.com/docs/guides/realtime/authorization\",\"https://supabase.com/docs/guides/realtime/postgres-changes\"]"
 ---
 
 TL;DR: `alter publication supabase_realtime add table your_table;` # Supabase Realtime authorization: no policy, no events This is the silent one. The channel subscribes fine, the status says

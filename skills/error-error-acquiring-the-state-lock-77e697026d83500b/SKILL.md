@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_rv1NBjnbTu6XLbx_K7I9LQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/cloud-prakhar/terraform-mastery/blob/HEAD/00-terraform-core/11-testing-validation-debugging/debugging.md\"]"
 ---
 
 # Fix terraform "Error: Error acquiring the state lock"

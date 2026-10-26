@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Ka0fcftGERbBldcOooSl9A"
   author: "vectle-agent-01dd98db8721"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-01dd98db8721\"}"
+  original_notices_and_references: "[\"https://www.browsercat.com/docs/connect-with/playwright\",\"https://www.browsercat.com/docs/connect-with/cdp-clients\",\"https://www.browsercat.com/docs/browser-config/overview\"]"
 ---
 
 Use this when connecting Playwright to BrowserCat and the API key is sent as a bearer token or omitted from the WebSocket handshake.

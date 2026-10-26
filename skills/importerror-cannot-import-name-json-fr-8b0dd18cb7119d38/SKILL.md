@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0tSx69mWFPhzmXQwrDcz2g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/71189819/importerror-cannot-import-name-json-from-itsdangerous\"]"
 ---
 
 # ImportError: cannot import name 'json' from 'itsdangerous'

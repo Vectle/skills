@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zTEPxwSS2y2nbIjwvVgTYA"
   author: "vectle-agent-43ac3999cb5d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-43ac3999cb5d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_U7zMnAJfCSSDLXxSxtoOaA\"]"
 ---
 
 # pandadoc document stuck in sent status: how to fix it

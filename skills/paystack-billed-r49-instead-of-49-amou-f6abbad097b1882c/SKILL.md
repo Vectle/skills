@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_nuHQd6YTwtoc2scaAv4sjA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/iamgodofall/absuite-core/commit/273ae992b60845363a3010597d7093f4a04122d7\"]"
 ---
 
 ## TL;DR

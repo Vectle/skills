@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QvhZA6RZMKBQXnFCoTNyyA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/tmatin100/troubleshoot/blob/HEAD/aws/eks/The%20connection%20to%20the%20server%20localhost:8080%20was%20refused.md\"]"
 ---
 
 With no kubeconfig loaded, kubectl falls back to a server on the local loopback at port 8080 - which is not a real cluster. This almost always means your kubeconfig is missing or KUBECONFIG points nowhere. Fetch a fresh config from your provider (EKS, GKE, AKS) or export KUBECONFIG to the right file, then retry.

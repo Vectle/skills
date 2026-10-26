@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9y3gnjFeBpLOgtw6R6g_1g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/anyscale/templates/blob/HEAD/templates/deployment-serve-llm/small-size-llm/README.md\"]"
 ---
 
 # Anyscale: gated HF models need org authorization, OOM is the top failure mode (serve_llm_deploy)

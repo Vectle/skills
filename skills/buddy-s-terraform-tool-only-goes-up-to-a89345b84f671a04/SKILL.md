@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_puif-89Deec9lb1VhQLjvg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://buddy.works/docs/api/actions/add/terraform-apply\"]"
 ---
 
 TL;DR: If you need Terraform newer than 1.5.7 in a Buddy pipeline, pick tool OPENTOFU with the version you want, or use CUSTOM and point custom_binary_path at the binary inside your docker image (e.g. /usr/local/bin/tofu). Do not select TERRAFORM and set version to something like 1.9.0; the FOSS TERRAFORM option tops out at 1.5.7.

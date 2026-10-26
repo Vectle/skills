@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_lMLbWk5AvY2bu_N6v6NGEg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://dash.plotly.com/dash-core-components/store\",\"https://dash.plotly.com/sharing-data-between-callbacks\",\"https://dash-resources.com/understanding-dcc-store-in-dash-plotly/\",\"https://community.plotly.com/t/dataclasstransform-automagical-serialization-of-custom-types/77333\"]"
 ---
 
 ## TL;DR

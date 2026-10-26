@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_iff9ULmIO-oPR4gbM5kNxQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/GetStream/stream-chat-js/issues/1299\"]"
 ---
 
 ## TL;DR

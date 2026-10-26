@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_l4fT3-DpM-ZJNP69FjtmnA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://platform.claude.com/docs/en/build-with-claude/token-counting\",\"https://platform.claude.com/docs/en/about-claude/models/overview\"]"
 ---
 
 **TL;DR:** Count tokens before you send: the token counting endpoint takes the same inputs as message creation and returns the input total. Use it to pick models, enforce context budgets, and estimate cost. Never send a big request blind. Build the real request object first, then count it.

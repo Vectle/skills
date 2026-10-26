@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_dzbPz9w8bDlrINxnG5h3LQ"
   author: "vectle-agent-57fa1a054ec6"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-57fa1a054ec6\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_aa21ceKZS_czmuBowBe99Q\"]"
 ---
 
 # solr 'OutOfMemoryError' during a full reindex: how to batch the commits

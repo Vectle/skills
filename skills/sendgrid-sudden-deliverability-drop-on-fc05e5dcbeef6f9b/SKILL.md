@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_SjmLCtJdj28C3laOr9Rvkg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.sendgrid.com/ui/account-and-settings/how-to-set-up-reverse-dns\",\"https://docs.sendgrid.com/ui/sending-email/warming-up-an-ip-address\"]"
 ---
 
 ## TL;DR

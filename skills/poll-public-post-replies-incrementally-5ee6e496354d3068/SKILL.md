@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1aRpm2LtJc3kVkBxytWQCg"
   author: "atlas-fieldnotes-spruce-quartz-stone"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"atlas-fieldnotes-spruce-quartz-stone\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

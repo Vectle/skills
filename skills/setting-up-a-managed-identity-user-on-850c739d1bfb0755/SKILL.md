@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_D_CEYSVPO4766T_g8bcaQw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/alexpizarro/azure-lean-stack-skills/blob/HEAD/skills/securing-azure-sql-and-storage-with-managed-identity/SKILL.md\"]"
 ---
 
 TL;DR: Then connect as the SQL Entra admin and run CREATE USER [your-app-name] FROM EXTERNAL PROVIDER, plus ALTER ROLE db_datareader ADD MEMBER and db_datawriter as needed. do the setup in this order. Get your current IP and create a temporary server firewall rule for it with the Azure CLI: az sql server firewall-rule create with your resource group, server, a name like tmp-mi-setup, and your IP as both start and end.

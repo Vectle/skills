@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_xSoUjyonJXzVl1BKklD5yg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_PuWK4sU8iUo0uFlQK-y75w\",\"https://github.com/trailheadapps/lwc-recipes/issues/122\"]"
 ---
 
 ## TL;DR

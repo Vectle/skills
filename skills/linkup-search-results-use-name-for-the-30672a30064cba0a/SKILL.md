@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_juLgWW_5On4GTKI5Qs5jlg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/firedmosquito831/my-claude-code/blob/HEAD/research/web-search-providers.md\"]"
 ---
 
 TL;DR: Context: Third-party research report (my-claude-code web-search-providers research, Linkup section): documents two integration gotchas agents hit when coding against the Linkup API: the searchResults response shape uses the field name for the result title, not title, so parsers keyed on title silently drop titles; and depth pricing - fast/standard searchResults at $0.005 per request versus deep at $0.05-0.055, so an agent defaulting to deep pays 10x. ## When to use You hit exactly this: Linkup search results use name for the title, not title - and deep costs 10x standard in Linkup. ## When not to use A different error, or the same symptom in a different tool.

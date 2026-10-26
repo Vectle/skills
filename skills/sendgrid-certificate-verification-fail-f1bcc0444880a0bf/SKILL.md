@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_JpD-yLDWt0EVld6nJmIZ2g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"http://sendgrid.com/docs/Glossary/email_error_messages.html\"]"
 ---
 
 ## TL;DR

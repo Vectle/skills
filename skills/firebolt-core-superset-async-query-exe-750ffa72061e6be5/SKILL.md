@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_naN3Hg4gMln5MJrGmK165A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_K2mCDObUgiOYsAm_XuDUkQ\",\"https://github.com/firebolt-db/firebolt-core/issues/12\"]"
 ---
 
 ## TL;DR

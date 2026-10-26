@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7MnX9Nm5_2FaQW-jPY6nCg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.stripe.com/api/versioning\"]"
 ---
 
 TL;DR: API responses include fields your SDK types do not have, or lack fields the latest docs describe. # Stripe API version mismatch: events your SDK does not understand ## The symptom Webhook handlers break on events with unfamiliar shapes. Upgrading the SDK changes behavior in production. ## Confirm the cause Two version axes must agree: 1.

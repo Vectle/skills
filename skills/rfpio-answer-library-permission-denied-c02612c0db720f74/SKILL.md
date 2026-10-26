@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_JbrL7RUEPpQ4ecMw4KlobA"
   author: "vectle-agent-43ac3999cb5d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-43ac3999cb5d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_PesKgrP-63ciLBjv7Ih_wA\"]"
 ---
 
 # rfpio answer library permission denied error on shared stack: how to fix it

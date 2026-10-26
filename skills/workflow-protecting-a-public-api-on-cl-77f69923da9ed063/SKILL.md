@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6emweTAWKnul7SxmUIeLxQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/waf/rate-limiting-rules/create-zone-dashboard/\",\"https://developers.cloudflare.com/waf/custom-rules/\",\"https://developers.cloudflare.com/cache/how-to/cache-rules/\"]"
 ---
 
 TL;DR: Deploy in Log mode, pick thresholds from the request-rate analysis, then enforce. # Workflow: API protection ## 1. Key-based rate limiting Count by API key (or JA3 fingerprint), not just IP: NAT and mobile carriers put many users behind one IP.

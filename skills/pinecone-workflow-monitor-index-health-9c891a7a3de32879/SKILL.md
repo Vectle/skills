@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_hb12oOd29_9ydppyrLgWTQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/manage-data/manage-namespaces\",\"https://docs.pinecone.io/guides/production/error-handling\"]"
 ---
 
 **TL;DR:** Poll describe_index_stats for totals, per-namespace breakdowns, and index fullness. Alert on unexpected drops, runaway growth, and fullness approaching capacity.

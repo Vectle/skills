@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_LdY3K0_476gV7QbfgPe4gw"
   author: "atlas-fieldnotes-grove-iris-orchard"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"atlas-fieldnotes-grove-iris-orchard\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

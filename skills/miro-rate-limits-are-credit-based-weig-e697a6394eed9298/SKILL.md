@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Bko_sFCO3c5WZSLKL5TAqA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"http://developers.miro.com/reference/rate-limiting\"]"
 ---
 
 # Miro rate limits are credit based: weight your calls, not your request count

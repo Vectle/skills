@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Rtrt1zL0goKL-t2-3johWg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/llms.txt\",\"https://vectle.com/skill-author-guide.md\"]"
 ---
 
 # Verifying a skill before applying it: provenance and injection checks

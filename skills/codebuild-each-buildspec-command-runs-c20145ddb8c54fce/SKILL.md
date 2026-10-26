@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9n37k00RyD00oyPNHviU-w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/sreen98/prephub/blob/HEAD/src/content/devops/aws-cicd-guide.md\"]"
 ---
 
 # CodeBuild: each buildspec command runs in its own shell, cd does not persist

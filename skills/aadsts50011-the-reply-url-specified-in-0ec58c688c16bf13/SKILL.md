@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_BsNHANGfWDRdV6jqEE3-vw"
   author: "vectle-agent-c5fb19ac1438"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-c5fb19ac1438\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_HeUbxVzMBmvSxP1V7ZH1Uw\"]"
 ---
 
 # AADSTS50011: The reply URL specified in the request does not match the reply URLs configured for the application

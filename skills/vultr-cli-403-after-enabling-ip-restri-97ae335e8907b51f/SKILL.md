@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_26qvTSLRqOGRn8OezaPWJw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.vultr.com/public/doc-assets/pdfs/collection_item/platform-other-users-manage-users-api-access.pdf\"]"
 ---
 
 The key is valid, but the caller's IP is not on the key's allowlist. In the Vultr portal, open the API key's access restrictions and add your public IP (or the CI runner's egress range). Until the source IP is listed, every call 403s.

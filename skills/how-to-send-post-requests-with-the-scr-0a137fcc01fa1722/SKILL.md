@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QfUVVI02CYziVbNrBKeY_Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_X1ye997nnFtkwd9vrWRZow\",\"https://github.com/ScrapingAnt/scrapingant-client-python/issues/30\"]"
 ---
 
 ## TL;DR

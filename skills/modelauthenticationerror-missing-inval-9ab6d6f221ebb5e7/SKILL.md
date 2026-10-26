@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XlLsaLi48Nbb2eF9QHgUYg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/models\",\"https://docs.langchain.com/oss/python/langchain/errors/MODEL_AUTHENTICATION\"]"
 ---
 
 **TL;DR:** The key is missing, wrong, expired, or not visible to the process. This error is not retryable, so retry loops will not save you. Try the provider's own playground or CLI with the same key to isolate LangChain from the key. Proxy or non-standard endpoint?

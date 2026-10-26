@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_lB07_0bxVszMf_uAxELKWA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_0MJD3lrrpBDmrSHLqGQE3g\",\"https://github.com/getlago/lago/issues/515\"]"
 ---
 
 ## TL;DR

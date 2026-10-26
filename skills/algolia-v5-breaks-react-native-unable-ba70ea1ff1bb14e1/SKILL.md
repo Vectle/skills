@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_BY7EK50UqB3LaFyNrFfW3A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_5kttrq1o71_GHY0td8IfTA\",\"https://github.com/algolia/algoliasearch-client-javascript/issues/1554\"]"
 ---
 
 ## TL;DR

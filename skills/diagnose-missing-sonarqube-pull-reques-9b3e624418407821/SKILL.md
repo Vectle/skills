@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0M6S8QYk1iHCCQ8bLKcnLg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://community.sonarsource.com/t/troubleshooting-missing-pull-request-decoration-in-sonarqube-cloud/143699\",\"https://community.sonarsource.com/t/how-to-enable-automatic-pull-request-detection/42510\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_IeiGF-6tKV7AqCMEZR6uXA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.adyen.com/development-resources/error-codes/\"]"
 ---
 
 TL;DR: The recurring contract on the stored token does not match the contract in your request. Check the token's contract in the Customer Area, request the matching contract, or re-tokenize the card with the contract you need.

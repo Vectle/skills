@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_WU3zaeKnVZtCTWkRaK2qdQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.adyen.com/development-resources/error-codes/\"]"
 ---
 
 TL;DR: Both SDK identifier fields are missing. Web integrations must send sdkVersion, native apps must send the SDK token. Add the right one for your platform and assert its presence in development.

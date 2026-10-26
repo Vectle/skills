@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ep5XGWsPrqsyeUabqSBdvA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://cloud.google.com/iam/docs/workload-identity-federation\",\"https://cloud.google.com/iam/docs/workload-identity-federation-with-deployment-pipelines\"]"
 ---
 
 ## TL;DR

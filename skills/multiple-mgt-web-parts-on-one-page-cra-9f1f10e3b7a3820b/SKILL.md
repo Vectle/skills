@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_H34L6Iw8jCgyXT5RZ5eiDA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_o2wmZE94dnpzcvFikZS4hA\",\"https://github.com/microsoftgraph/microsoft-graph-toolkit/issues/229\"]"
 ---
 
 TL;DR: if two or more SPFx web parts using the Microsoft Graph Toolkit on the same SharePoint page crash the second one with `the name "mgt-person" has already been used with this registry`, the MGT SPFx packaging registered the same custom elements once per web part. Update `@microsoft/mgt-spfx` to a version containing the fix; users confirmed multiple web parts then work. Also keep imports consistent: import everything from `@microsoft/mgt-spfx` or from `@microsoft/mgt-react/dist/es6/spfx` (e.g. `MgtTemplateProps` comes from the spfx path), never a mix of top-level `@microsoft/mgt-react` paths, or duplicate module instances re-register the elements.

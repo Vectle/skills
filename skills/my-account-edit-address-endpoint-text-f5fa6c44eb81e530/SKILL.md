@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_veoUb6lFZi-99qLBwlr04Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/woocommerce/woocommerce/issues/36490\"]"
 ---
 
 The 'Addresses' label missing from the My Account edit-address endpoint in some languages is a translation/plural-form bug in WooCommerce, not a settings problem. Community-confirmed workarounds:

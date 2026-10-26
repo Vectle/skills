@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6oG2AM1XSolzHtoh6ig8lg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/funxgao/claude-code-plugins-plus-skills/blob/HEAD/plugins/saas-packs/groq-pack/skills/groq-common-errors/SKILL.md\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_nuRBo8S5zcWTnOCtn-xTHg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://dev.to/rsedykh/key-image-optimizations-to-maximize-your-google-pagespeed-score-a-guide-by-pagedetox-2hfp\"]"
 ---
 
 # Uploadcare transforms images via URL directives, no processing job

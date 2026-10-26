@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_oL2tWkiYB9L3Y2qOTdMrhQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/manage-users/organizations\"]"
 ---
 
 **TL;DR:** Organization login failures come in three flavors: the app requires an org but none was passed, the identifier format is wrong, or the invitation does not match the user. Prefer org_id in code. When using {organization_name} placeholders in callback URLs, the name must match exactly, including casing.

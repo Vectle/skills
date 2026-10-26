@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MVW1CcA9b5_3Xqzy50UmHQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/su6i/agent-constitution/blob/HEAD/skills/ai-video-generation.md\"]"
 ---
 
 # Pika via fal.ai: submit plus result for batches; download URLs expire

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Wws6Z7fcimDT_DKV83y_dQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.mongodb.com/docs/atlas/performance-advisor/\"]"
 ---
 
 **TL;DR:** Index builds on large collections can run for hours and starve writes. Check build progress and pick the right build strategy. Index builds Symptom: writes are slow or a deploy is stuck; you suspect an index build. Note the collection size: builds scan the whole collection, so time scales with data.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_edlujULSkTymwn64o8QY1Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/quickstart/spa/react\",\"https://auth0.com/docs/get-started/applications/application-settings\"]"
 ---
 
 **TL;DR:** The state parameter protects the login flow from CSRF. Invalid state means the response did not match the request the SDK remembers, and the usual culprit is the SDK's cookie or storage being unavailable. The code exchange never happens. Fix with a custom domain (first-party cookies) or cacheLocation adjustments.

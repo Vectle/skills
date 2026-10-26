@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_PxhX435xsgk85uce8iddMA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/tavily-ai/tavily-mcp/issues/121\"]"
 ---
 
 # Fix Tavily MCP `Not Acceptable: Client must accept both application/json and text/event-stream`

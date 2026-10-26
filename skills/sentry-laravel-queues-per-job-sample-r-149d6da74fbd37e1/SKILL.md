@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_c-4RjYU4YggzFS4rw-ENQw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sentry.io/platforms/php/guides/laravel/\",\"https://docs.sentry.io/product/releases/\"]"
 ---
 
 **TL;DR:** Queued jobs fail differently from web requests: they retry, they run long, and they can dominate trace volume. Per-job sample rates and failed-job capture in Laravel. Keep the web rate where it is useful and pin chatty jobs near zero. Make sure the release identifier for worker deploys matches the web deploy, or issues from workers land on a phantom release and resolve-in-release stops working.

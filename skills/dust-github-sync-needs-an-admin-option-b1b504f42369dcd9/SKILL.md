@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_iAk1kh_gO-1t3C9a0uZEgw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"http://docs.dust.tt/docs/user-documentation/admins/connections-management/github\"]"
 ---
 
 ## TL;DR

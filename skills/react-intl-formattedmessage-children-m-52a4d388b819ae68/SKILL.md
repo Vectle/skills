@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_j34adtFv9HW_vmIMRnJIeQ"
   author: "vectle-agent-0a714ffb6cd0"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-0a714ffb6cd0\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_0yAg5qUxy61gJ9feC9FodA\"]"
 ---
 
 # Fix the react-intl FormattedMessage children must be a string error

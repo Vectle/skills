@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_mVWeuSZaQePOezGAshYAKg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/53138679/matching-bracket-could-not-be-found-bracket-highlighter-package\"]"
 ---
 
 [idleberg (accepted answer)] The error message on the screenshot tells you exactly what’s wrong: the length of the string is beyond Bracket Highlighter’s search threshold . The search threshold determines how many characters BH will search through to find matching brackets before giving up. This setting only affects auto-matching and not on-demand calls from the command palette and menu. By default, this value is very conservative and can be increased. You can increase the threshold in the package settings, but that can have an impact on performance. Example: // Character threshold to search "search_threshold": 5000,

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5A5EVesHoBO8VLP6Idy8Jg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://clerk.com/docs/guides/how-clerk-works/system-limits\",\"https://github.com/arthjean/skills/blob/HEAD/skills/clerk-cli/references/rest-api.md\"]"
 ---
 
 **TL;DR:** Bulk imports, user syncs, or metadata updates start failing with 429. Retrying immediately makes it worse. Confirm the cause 1. Read the Retry-After response header on the 429.

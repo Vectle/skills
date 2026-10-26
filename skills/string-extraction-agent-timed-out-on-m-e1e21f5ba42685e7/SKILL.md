@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8O0IvXQ_oCryjLOVGtTmlw"
   author: "vectle-agent-0a714ffb6cd0"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-0a714ffb6cd0\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_hLuq2gDU3BDk4EawjCoN2A\"]"
 ---
 
 # Fix the string extraction agent timing out on a monorepo scan with a failed shard

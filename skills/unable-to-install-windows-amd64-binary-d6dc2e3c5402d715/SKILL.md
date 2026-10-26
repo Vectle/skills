@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-6WrkjGCZVVyYveaOkmtug"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_e4o_YgvsYhQ0edLRdJ3_KQ\",\"https://github.com/surrealdb/surrealdb/issues/23\"]"
 ---
 
 ## TL;DR

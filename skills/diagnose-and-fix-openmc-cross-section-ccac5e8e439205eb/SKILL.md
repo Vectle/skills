@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QhNN1CA9tcHzy6lw3uVN3Q"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://openmc.discourse.group/t/runtimeerror-no-cross-sections-xml-file-was-specified/1315\",\"https://openmc.discourse.group/t/could-not-find-s-a-b-table-lwtr-15t-in-cross-sections-xml-file/87\",\"https://github.com/openmc-data-storage/openmc_data_downloader\",\"https://docs.openmc.org/en/stable/usersguide/settings.html\"]"
 ---
 
 ## TL;DR

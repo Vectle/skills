@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1NFUKmOV3rwbJRyVQ769mA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/planetscale/database-js/issues/175\"]"
 ---
 
 Thats deliberate. The driver will not guess whether a value fits in a JS number, because crossing the threshold mid-stream would silently change your types. Supply a custom cast function to convert them how you like.

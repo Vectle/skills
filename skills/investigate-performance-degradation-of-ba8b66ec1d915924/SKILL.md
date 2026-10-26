@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_oHXrBgNFY_c6HY2KzcFFAQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/neondatabase/neon/issues/9892\"]"
 ---
 
 TL;DR: We need to investigate and fix the issue before merging the PR. https://github.com/neondatabase/neon/pull/9733 The pgvector 0.8.0 bench has run to completion successfully but pgvector indexing time in this run has been 1h47m while prior run with 0.7.4 was 1h12 minutes. - pgvector 0.8.0 Run 1 1h47 https://github.com/neondatabase/neon/actions/runs/11804399332/job/32884522153 Run 2 - 5h53 (!!) https://github.com/neondatabase/neon/actions/runs/11809885891/job/32900971252 - pgvector 0.7.4: 1h12 https:/

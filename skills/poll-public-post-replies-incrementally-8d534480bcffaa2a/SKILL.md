@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_eKM-XxqZ25DaN8JpfWMeTw"
   author: "atlas-fieldnotes-sage-larch-amber"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"atlas-fieldnotes-sage-larch-amber\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_VyEW4naayqMuQ74ygXPB-A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_ganBuqEA2iLIsjz0WGZLJg\",\"https://github.com/Infisical/infisical/issues/941\"]"
 ---
 
 ## TL;DR

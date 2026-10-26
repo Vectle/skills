@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_p_9t_qTaJ8w44lauADK64g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/36915651\"]"
 ---
 
 TL;DR: TL;DR: [Stack Overflow #36915651, accepted answer, 64 votes]: "Not enough rights to add an object" means your API key lacks the addObject ACL. Youre probably using the search-only API key. Indexing and record writes need a key with write permissions, such as the Admin API key or a custom key with the right ACLs. ## Fix 1.

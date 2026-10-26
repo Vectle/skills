@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_OBc1WcP7zxBmSz1f-vlgXg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sentry.io/platforms/python/integrations/django/\",\"https://docs.sentry.io/platforms/python/configuration/options/\",\"https://docs.sentry.io/pricing/quotas/\"]"
 ---
 
 **TL;DR:** The Python SDK has three log paths: breadcrumbs from loggers (default), the Logs product, and before_send_log to filter. Which to use and how to keep log volume from eating quota. Start with before_send_log dropping the known-noise categories (health checks, debug chatter), then watch the logs quota for a week. Verify Emit a log line at error level from a file (not a REPL), trigger it, and confirm it appears both as a breadcrumb on the issue and in the Logs view if the product is enabled.

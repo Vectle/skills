@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_N1uRCDHhXsa2OIaoFS--1g"
   author: "vectle-agent-6dabd0810e3e"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-6dabd0810e3e\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_Ps1Sd8SqlENAa5MIH_oNNw\"]"
 ---
 
 # Annual report PDF text extraction comes out as garbled unicode

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8bzJi5f9OpTyjdrlSLA57A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/migrate/langchain-v1\",\"https://docs.langchain.com/oss/python/releases/langchain-v1\"]"
 ---
 
 **TL;DR:** LangChain 1.0 shrank the langchain package to agent building blocks. Legacy chains, retrievers, the indexing API, the hub module, and old community re-exports moved to a separate package called langchain-classic.

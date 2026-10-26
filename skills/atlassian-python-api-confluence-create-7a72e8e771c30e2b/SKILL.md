@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_69DvNfSUiLqirjVP6Z9yuw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_SYJylOFiyM7XMGT-ZjwKpw\",\"https://github.com/atlassian-api/atlassian-python-api/issues/1200\"]"
 ---
 
 ## TL;DR

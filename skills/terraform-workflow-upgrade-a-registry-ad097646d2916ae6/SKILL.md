@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_HhRtLM8ABK2QvtV0eJZt9g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://developer.hashicorp.com/terraform/docs/language/modules/sources\"]"
 ---
 
 **TL;DR:** Bumping a module version can rename resources and change defaults. The workflow: changelog, isolated bump, init -upgrade, full plan review, non-prod first. Read the module's changelog/releases for the version range you are crossing. Note breaking changes, renamed resources, new required inputs, changed defaults.

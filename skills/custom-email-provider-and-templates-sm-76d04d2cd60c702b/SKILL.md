@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_mfkDWlthysyEvr-ljcG27Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/customize/email\"]"
 ---
 
 **TL;DR:** Auth0's built-in email provider is for testing. Production needs your own provider before the first real user, plus templates that users actually recognize. Configure the provider Dashboard > Branding > Email Provider. Verify the domain (SPF/DKIM) at your DNS; without it, verification and reset emails land in spam and your login funnel silently leaks.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_NpUxHwQtPQrFNbEJBL9bfA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/cli/commands/plan/\"]"
 ---
 
 **TL;DR:** Plans that hang or crawl have three usual causes: too many resources refreshing, a slow provider API, or dependency chains serializing everything. The procedure isolates which one. Run with TF_LOG=INFO and watch which provider calls take the longest. Fix the call pattern first.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_AU-FYxQaac8FloXbOPXQuQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.heygen.com/docs/choosing-the-right-video-api\"]"
 ---
 
 # HeyGen captioned_video_url is the burned-in render; subtitle_url is the sidecar

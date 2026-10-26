@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_jOU18jroN1fl6lfPiNzSqg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/endorlabs/endorlabs-sdk/blob/HEAD/agent-knowledge/skills/endor-auth-setup/SKILL.md\"]"
 ---
 
 TL;DR: `endor-auth check --tenant [namespace]` [Official Endor Labs SDK docs (endor-auth-setup)]: Single auth mode is a hard rule: unset ENDOR_TOKEN or unset both API key vars to clear dual_mode_conflict. Probe with

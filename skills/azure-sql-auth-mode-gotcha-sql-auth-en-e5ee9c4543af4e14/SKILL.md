@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_HkDdqxsxjoxnrU83VgVUKA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/mhaywardhill/azure-sql-stress-app\"]"
 ---
 
 TL;DR: Entra password auth: same URL but add authentication=ActiveDirectoryPassword and set DB_USER to the full [email redacted]. match the connection setup to the auth mode or you will chase the wrong failure. SQL auth: DB_URL like jdbc:YOUR_HOST.database.windows.net:1433;database=your-db;encrypt=true, DB_USER as plain username, no authentication key in the URL.

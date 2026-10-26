@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_KMX2VBO8jRxnp-62zNeZWg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/porter-dev/docs/blob/HEAD/applications/deploy/configuring-application-services.mdx\"]"
 ---
 
 # Porter: set secrets are unviewable; one env group edit redeploys every app using it

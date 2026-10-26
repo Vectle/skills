@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_HMgWvmeAoowYlw3fXhb9mA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/api/latest/monitors/\"]"
 ---
 
 **TL;DR:** Datadog answers 429 Too Many Requests when you exceed API rate limits. Back off, honor Retry-After, and stop hammering the endpoint that throttled you. Stop and wait. Add exponential backoff with jitter to the client.

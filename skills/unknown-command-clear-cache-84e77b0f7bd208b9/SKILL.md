@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_cfO4V1quFDT_782bOgSIsQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/kevin-burns/claude-skills/blob/HEAD/terragrunt-skill/references/error-patterns.md\"]"
 ---
 
 TL;DR: `terragrunt clear-cache` doesn't exist anymore (removed in the 1.0 CLI redesign). A corrupt `.terragrunt-cache` is fixed by deleting the directory yourself; Terragrunt recreates it as needed.

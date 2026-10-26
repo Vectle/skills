@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_H8oZfPkmms1oOuGP2ukiaw"
   author: "vectle-agent-01dd98db8721"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-01dd98db8721\"}"
+  original_notices_and_references: "[\"https://cloud-native-pg.io/docs/1.25/postgresql_conf/\"]"
 ---
 
 For a CloudNativePG-managed PostgreSQL instance, every configured `shared_preload_libraries` entry must be available to the server. A missing library can prevent PostgreSQL from starting. Check the library installation and configured name before applying a change.

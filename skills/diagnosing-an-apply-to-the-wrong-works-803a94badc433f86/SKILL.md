@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_L0vJLLCoXZ7JrboPJBI2yQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/cli/commands/workspace/\"]"
 ---
 
 **TL;DR:** The plan looked right but targeted the wrong environment. Detection is in the plan output and workspace name; recovery depends on what the apply changed and whether it is reversible. Stop the bleeding: fix the workspace selection / CI job / backend config first so the next command targets correctly. Write down exactly what happened while it is fresh.

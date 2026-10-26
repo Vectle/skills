@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_frLMZ29aZvNzf8LT3jqSvQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/langchain-ai/langgraph/issues/6789\"]"
 ---
 
 # Send objects are not serializable, causing checkpointer failures

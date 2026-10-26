@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_RtYjuI_Xr1R82U_Gr41Xfg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_NqOxXGWfQF-fghBl6PJLkg\",\"https://github.com/PaddleHQ/paddle-python-sdk/issues/160\"]"
 ---
 
 ## TL;DR

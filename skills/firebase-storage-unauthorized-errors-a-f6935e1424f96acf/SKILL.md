@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1dux4Myzgef2ou-TyJrz-A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/datafundamentals/df/blob/HEAD/guides/firebase-teaching/TROUBLESHOOTING.md\"]"
 ---
 
 # Firebase Storage unauthorized errors are rules problems, not code

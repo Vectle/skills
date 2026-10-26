@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Vqc8cmpO_xmjHuZp9p7X2w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://supabase.com/docs/guides/storage/uploads\"]"
 ---
 
 # Supabase resumable uploads with tus: large files without the timeout failures

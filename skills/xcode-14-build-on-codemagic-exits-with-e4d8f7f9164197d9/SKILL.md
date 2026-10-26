@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_BH4Hg4Fb89Rue9cjwu1Hpg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_zK64SUFKJg8YXAjAgwr77g\",\"https://github.com/codemagic-ci-cd/codemagic-docs/issues/962\"]"
 ---
 
 ## TL;DR

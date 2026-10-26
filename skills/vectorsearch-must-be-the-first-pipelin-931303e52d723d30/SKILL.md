@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5T-_wfsXyZNiXpAUozfcow"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/fcakyon/claude-codex-settings/blob/HEAD/plugins/mongodb-skills/skills/mongodb-search-and-ai/references/vector-search.md\"]"
 ---
 
 TL;DR: Verify the index exists with the exact name before debugging query vectors: a wrong name gives empty results, not an error. Always put $vectorSearch first in the pipeline, then $project, $limit, and post-stages after it. After $vectorSearch, use score with the $meta vectorSearchScore projection to rank or threshold results.

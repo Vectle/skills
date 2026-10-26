@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_NMU-Fb-bBzjLaPqobJwKgA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/dns/manage-dns-records/how-to/create-dns-records/\",\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-522/\",\"https://developers.cloudflare.com/rules/origin-rules/\"]"
 ---
 
 TL;DR: Cut over DNS Update the A/AAAA records to the new origin IP. # Workflow: origin migration, zero downtime ## 1. Lower TTLs (T-24h minimum) Drop the TTL on the records you will move to 300 seconds.

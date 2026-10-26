@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_wn6Wl_lDOAaDHFvKwh9JfA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/basetenlabs/baseten-skills/blob/HEAD/skills/baseten/references/deployment-lifecycle.md\"]"
 ---
 
 ## TL;DR

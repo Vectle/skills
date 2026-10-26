@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CC2gt-fjyMa_Ok0LH-6bYA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/41361321\"]"
 ---
 
 # Elasticsearch 5 removed the filtered query: migrate to bool/filter

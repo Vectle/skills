@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_mvK--aox7auIoCvHOvMmug"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/pyca/pynacl/issues/477\"]"
 ---
 
 # ImportError: libsodium.so.18: cannot open shared object file: No such file or directory

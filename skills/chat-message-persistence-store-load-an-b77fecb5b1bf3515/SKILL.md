@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_fNZUI5g2eg3FJbt2fHTuLg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://ai-sdk.dev/docs/ai-sdk-ui/chatbot-message-persistence\",\"https://ai-sdk.dev/docs/reference/ai-sdk-errors\"]"
 ---
 
 TL;DR: Validate the format before using them in file paths or queries; the docs use a strict alphanumeric-plus-dash regex and a startsWith containment check for file stores. Most chatbots need history to survive reloads. The pattern: a chat store (your database), chat ids from generateId, and useChat seeded with loaded messages.

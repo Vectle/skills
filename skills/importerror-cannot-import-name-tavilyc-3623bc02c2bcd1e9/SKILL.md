@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ER5lip6EXDVX7avtdfgNgA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_u0qD95yXu3ZTDbRCCbZpNA\",\"https://github.com/tavily-ai/tavily-python/issues/20\"]"
 ---
 
 ## TL;DR

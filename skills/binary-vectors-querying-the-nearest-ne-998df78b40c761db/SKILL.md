@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_OuhDJMtg0g8iVylmH37nbQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/pgvector/pgvector/issues/972\"]"
 ---
 
 TL;DR: [ankane (maintainer)]: Thanks, it looks like the index is working fine. Approximate indexing won't provide perfect recall. Also, you may see better recall by splitting unique hashes into a separate table, as well as increasing

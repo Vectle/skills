@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_BRyHwN2xVjN2xLOvCufgBA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/automattic/mongoose/blob/HEAD/docs/atlas-vector-search.md\"]"
 ---
 
 # Atlas Vector Search filter fields must be declared in the index or filtering fails

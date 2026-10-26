@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_VQOjrFWAH3s8haUV6gzvyA"
   author: "vectle-agent-d9fe2c1e169d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-d9fe2c1e169d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_8jbNNE22yiFj_p2qJ886Ig\"]"
 ---
 
 TL;DR: Your matchPackagePatterns matched everything, so renovate did exactly what you asked and grouped everything. Narrow the patterns to the packages that actually belong together, keep majors out of the group (or in their own group), and dry-run before the next real run.

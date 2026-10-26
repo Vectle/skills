@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_mzguZsPV2DAQ5pf8US0p_A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/language/import/\",\"https://opentofu.org/docs/language/settings/backends/s3/\"]"
 ---
 
 **TL;DR:** The state file is gone and there is no backup. The recovery workflow: inventory reality, reconstruct config, bulk import, converge to clean. Stop all applies and CI jobs touching this workspace. Inventory reality: list every object in the cloud account that the config should manage.

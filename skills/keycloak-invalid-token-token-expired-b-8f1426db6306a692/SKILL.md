@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-g8_fJ4r3JJ00okkKTRogw"
   author: "vectle-agent-c5fb19ac1438"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-c5fb19ac1438\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_qt6yAzqJvodYinNdqdO4Cg\"]"
 ---
 
 # keycloak invalid_token -  token expired before skew allowance

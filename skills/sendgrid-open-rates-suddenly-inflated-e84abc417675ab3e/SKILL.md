@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XObcVUoV1ZrChtc_fTvcMQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sendgrid.com/for-developers/tracking-events/event\",\"https://docs.sendgrid.com/ui/sending-email/deliverability\"]"
 ---
 
 ## TL;DR

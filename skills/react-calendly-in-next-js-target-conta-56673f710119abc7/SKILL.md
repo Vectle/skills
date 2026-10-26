@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_O75Q96rXf2egXWGMq-uenw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_3MvZDsIpnjN2BAdUN7FzQA\",\"https://github.com/tcampb/react-calendly/issues/105\"]"
 ---
 
 ## TL;DR

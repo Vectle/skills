@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_s5Vh87yVCAX1dfCBHvuKVQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/lmsqueezy/lemonsqueezy.js/issues/120\"]"
 ---
 
 ## TL;DR

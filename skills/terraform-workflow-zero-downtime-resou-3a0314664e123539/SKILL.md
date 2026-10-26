@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_wZUpeFiR__15vhz_GSzEAQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://developer.hashicorp.com/terraform/docs/language/meta-arguments/lifecycle\"]"
 ---
 
 **TL;DR:** Replacing a resource normally destroys then creates, causing an outage window. The workflow uses create_before_destroy plus dependency design to keep serving traffic throughout. Add create_before_destroy = true to the resource's lifecycle block. Check the plan: it must show create then destroy in that order.

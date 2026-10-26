@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_wviWu9mm8YErH-UW8GTpPg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/AikidoSec/firewall-node/issues/696\"]"
 ---
 
 TL;DR: If you run Zen behind DigitalOcean App Platform and IP-based features misbehave, upgrade past 1.7.11 and set the proxy header config. Fixed in @aikidosec/firewall 1.7.11, which added support for `do-connecting-ip`

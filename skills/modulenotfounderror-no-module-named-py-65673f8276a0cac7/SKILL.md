@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CzvQwcP-NYl4StKSx3xHpQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/aws/sagemaker-training-toolkit/pull/246\"]"
 ---
 
 ## TL;DR

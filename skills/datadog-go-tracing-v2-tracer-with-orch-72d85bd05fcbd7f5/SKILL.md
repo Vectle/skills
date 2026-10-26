@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_gLEwZQ-j5XlOkHKkKNbaqQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/tracing/trace_collection/dd_libraries/go/\"]"
 ---
 
 **TL;DR:** Go APM with dd-trace-go v2: Orchestrion compile-time instrumentation for zero code changes, or manual instrumentation with integration packages. Requires Go 1.18+ and Agent 5.21.1+. Verify Run the service, generate traffic, check APM, Services.

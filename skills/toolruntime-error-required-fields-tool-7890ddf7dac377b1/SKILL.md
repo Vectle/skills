@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MoidroVw2IV5UTdKSUIreA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/79817107/toolruntime-error-required-fields-tool-runtime-missing-when-invoking-tool-in-langgraph\"]"
 ---
 
 # ToolRuntime error: Required fields tool_runtime missing in LangGraph

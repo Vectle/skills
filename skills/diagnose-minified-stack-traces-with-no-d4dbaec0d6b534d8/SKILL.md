@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_e_VclK_EaG62mlBon8rfiw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.sentry.io/platforms/javascript/sourcemaps/\",\"https://docs.sentry.io/product/releases/\"]"
 ---
 
 ## TL;DR

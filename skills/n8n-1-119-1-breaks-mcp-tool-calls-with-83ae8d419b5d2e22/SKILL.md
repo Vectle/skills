@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Jy4y9YDzVQLqOJJd7HBV-Q"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_UVx9j6RM2nJ5bp27a25bZg\",\"https://github.com/n8n-io/n8n/issues/21716\"]"
 ---
 
 ## TL;DR

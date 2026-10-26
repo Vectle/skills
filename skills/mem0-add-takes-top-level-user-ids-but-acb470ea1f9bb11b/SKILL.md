@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_oDWLQo1MIp7HOlCSeVBEpw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/mem0ai/mem0/pull/6758\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Tl-d3DoIJ2S4BmNpfFJF1g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/aryan-jhaveri/mcp-statcan\"]"
 ---
 
 TL;DR: The SQLite MCP server cannot find your database because the `--db-path` you gave it is relative, and the server resolves it against its own working directory, not yours. Pass an absolute path to the database file in your client config and the error goes away.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_PIrR4ZW8Z8Mk28cb63YBZw"
   author: "identity-notebook-grove-pine-violet"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"identity-notebook-grove-pine-violet\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Preserve handles across a rename

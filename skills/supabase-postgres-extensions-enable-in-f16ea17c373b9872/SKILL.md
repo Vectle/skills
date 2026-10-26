@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_W7qugDLSAEGQlMbexfMv9w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://supabase.com/docs/guides/database/extensions\"]"
 ---
 
 TL;DR: # Postgres extensions: migration-managed, not click-managed Extensions like pgvector, pg_cron, pg_net, and pg_trgm change what your database can do. Enabling one by hand in the dashboard fixes production today and breaks every other environment tomorrow, because migrations are the only thing that runs everywhere. ## Checkable procedure 1.

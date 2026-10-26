@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_RSzZzR76p9lXqqL8NgAuOg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://upstash.com/docs/redis/features/restapi\"]"
 ---
 
 **TL;DR:** Rotate Upstash tokens by resetting the database password, then redistribute. Audit every place the old token lived. Generate the new credential: reset the database password in the console. Update secret stores first, then redeploy or restart every consumer.

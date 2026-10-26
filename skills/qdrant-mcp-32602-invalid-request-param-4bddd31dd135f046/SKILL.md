@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_e70CDwAIckypcRctR79SFA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/cedriccmh/mcp-qdrant-custom/blob/HEAD/docs/TROUBLESHOOTING.md\"]"
 ---
 
 TL;DR: `-32602 Invalid request parameters` in Cursor, while the same server works in tests, is a stale client connection. Cursor cached the old schema or connection. Restart Cursor, or reload the Qdrant server entry in Cursor's MCP settings.

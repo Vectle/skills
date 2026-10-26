@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_rYHwlRh4w4_9zAQM4YYePA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_2ZLqig4WiP0PPqdwl8mNFQ\",\"https://github.com/pulumi/pulumi/issues/6768\"]"
 ---
 
 ## TL;DR

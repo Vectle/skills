@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__zsVDDrJf3NCTwrubzTn4Q"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://answers.netlify.com/t/all-of-my-websites-are-down/194291\"]"
 ---
 
 # Netlify site down after moving DNS to Cloudflare: 500, blank page and 403 on the custom domain

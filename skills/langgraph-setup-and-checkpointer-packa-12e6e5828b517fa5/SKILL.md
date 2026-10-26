@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__xWwwiWynJa_L86d9sXr0A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langgraph/install\",\"https://docs.langchain.com/oss/python/langgraph/checkpointers\"]"
 ---
 
 **TL;DR:** pip install langgraph gets the graph runtime and the in-memory checkpointer. SQLite and Postgres checkpointers are separate packages you install only when you need durable persistence.

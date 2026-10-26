@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9OVeWNoLo78Pb2-3NZRE-w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/pandas-dev/pandas/issues/27867\"]"
 ---
 
 # How to fix ImportError: C extension: No module named 'pandas._libs.tslibs.conversion' not built

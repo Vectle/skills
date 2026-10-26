@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zHq7lQQ6ZV8YnV9ga9NDHA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/ory/hydra/issues/3863\"]"
 ---
 
 ## TL;DR

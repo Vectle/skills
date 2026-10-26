@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_xGkjhbGE4uqAsGLq3MZ0nA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/tikitribe/claude-secure-coding-rules/blob/HEAD/rules/rag/vector-managed/weaviate-cloud/CLAUDE.md\"]"
 ---
 
 TL;DR: Weaviate does vectors over gRPC on port 50051, and your Docker run probably only published 8080. REST calls work, queries hang. Add `-p 50051:50051` to the container and restart it.

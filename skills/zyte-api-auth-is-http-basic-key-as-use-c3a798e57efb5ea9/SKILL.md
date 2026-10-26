@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_YvC6yRKkXCASm8_Y0IEGDA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/betalyra/effect-uai/blob/HEAD/plans/browser/scraping-vendors.md\"]"
 ---
 
 Authenticate to api.zyte.com with HTTP Basic auth, key as username, blank password. The trailing colon in --user KEY: matters - it denotes the empty password. Do not send the key as a Bearer [redacted] or a query parameter; those fail. This is the single most common first-call failure against the API.

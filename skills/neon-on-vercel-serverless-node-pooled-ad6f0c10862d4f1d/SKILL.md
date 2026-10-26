@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_oQd_7neB-X-czy9nMJ3q_w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://neon.com/docs/connect/connect-from-any-app\",\"https://neon.com/docs/connect/connection-pooling\"]"
 ---
 
 TL;DR: # Neon on Vercel Serverless (Node): use the pooled string ## The trap Vercel Serverless Functions scale to many concurrent invocations, and each one that opens a direct Postgres connection consumes one of the compute's `max_connections` slots (104 on a 0.25 CU compute, 419 on 1 CU, with 7 reserved for the Neon superuser).

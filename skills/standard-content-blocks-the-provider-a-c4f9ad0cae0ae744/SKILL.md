@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2UFs4lmIuwRHjHW1Uw6foA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/releases/langchain-v1\",\"https://docs.langchain.com/oss/python/langchain/streaming\"]"
 ---
 
 **TL;DR:** LangChain v1 added message.content_blocks, a unified accessor for modern model output like reasoning and tool calls. It only works on the integrations that implement it; message.content still works everywhere. Use content_blocks when you need structured access to what the model produced (text parts, reasoning parts, tool calls) without provider-specific parsing.

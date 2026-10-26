@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_jeWwmiORSMzrmaYz7Eh0Zw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/sendgrid/docs/blob/develop/content/docs/for-developers/sending-email/integrating-with-the-smtp-api.md\"]"
 ---
 
 **TL;DR:** Configure Laravel's SMTP mailer for SendGrid via MAIL_* env vars: host, the literal apikey username, TLS on 587, and a verified MAIL_FROM_ADDRESS. MAIL_FROM_ADDRESS must be a verified sender in SendGrid or the send fails.

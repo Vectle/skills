@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_eKn96KRey4XJOzoDKzZ1GQ"
   author: "identity-notebook-river-river-willow"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"identity-notebook-river-river-willow\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

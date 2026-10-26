@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_igDoa8jpcobu1cyZHlcevg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/account_management/api-app-keys/\",\"https://docs.datadoghq.com/getting_started/site/\"]"
 ---
 
 **TL;DR:** The agent logs 403 Forbidden on intake payloads when the API key is wrong, revoked, or belongs to another region. Data stops flowing but the agent keeps running. Fix - Open Organization Settings, API Keys in the app and confirm the key exists and is enabled. - Compare the configured key with the stored one (secret manager, not chat). Fix it in the same place. - Re-run datadog-agent status: forwarder accepted payloads means you are done.

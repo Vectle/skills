@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_JlwtX1yGMFZCz5LCncn0Fg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.mongodb.com/docs/atlas/performance-advisor/\",\"https://www.mongodb.com/docs/atlas/alerts/\"]"
 ---
 
 **TL;DR:** The Query Targeting alert means queries scan orders of magnitude more documents than they return. Trace it in the Real-Time Performance Panel and index the filter. Query targeting Symptom: the Query Targeting alert fires, or the Real-Time Performance Panel shows a high scanned-to-returned ratio. Sort by scanned.

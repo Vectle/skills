@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_lDY1KHbolC48N27rbusezA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/tailscale/tailscale/issues/10213\"]"
 ---
 
 # Fix "failed apply web serve" when using tailscale serve

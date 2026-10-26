@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6t6ABf0QuGS9g04gPgCEsw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://www.alibabacloud.com/help/en/model-studio/fine-tuning-api-guide\"]"
 ---
 
 TL;DR: Point the OpenAI client at the compatible-mode path, not the raw console URL. Store the key in DASHSCOPE_API_KEY, not in code. Build the base URL with your workspace ID as the first label under ap-southeast-1.maas.aliyuncs.com/compatible-mode/v1; swapping regions without swapping keys is the classic silent 401.

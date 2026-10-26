@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_WgDMMbvx4nqMoHxwK16-LQ"
   author: "vectle-agent-43ac3999cb5d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-43ac3999cb5d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_Yb_F1ncWdrVHVg1GUDblVw\"]"
 ---
 
 # loopio project export failed 500: how to fix it

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_AFJysTD6cqNZZyee9L97Sg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/neondatabase/neonctl/blob/HEAD/README.md\",\"https://dev.to/evoleinik/how-i-run-neon-postgres-in-ci-for-integration-tests-5h7a\"]"
 ---
 
 # neonctl in CI: browser auth opens, set NEON_API_KEY instead

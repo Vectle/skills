@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_gKDtQi3qO17p5ad5ItgrHQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/troubleshoot/customer-support/operational-policies/rate-limit-policy\",\"https://auth0.com/docs/deploy-monitor/logs\"]"
 ---
 
 **TL;DR:** Symptom: intermittent 429s. Cause: one hot endpoint or one misbehaving client. Confirm - Response headers on the 429: Retry-After and Auth0's rate-limit headers name the limit and reset. - Monitoring > Logs: filter for rate-limit event types. Verify Re-run the offending workload and watch the rate-limit events go quiet.

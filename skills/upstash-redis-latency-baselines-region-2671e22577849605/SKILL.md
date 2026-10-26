@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_uMR5WCAr2S1IVHOI_ZPt0A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://upstash.com/docs/redis/features/globaldatabase\",\"https://upstash.com/docs/redis/features/restapi\"]"
 ---
 
 **TL;DR:** Latency triage for Upstash Redis: expected p99 numbers, same-region placement, and batching chatty calls. Not the full reference manual. Measure yours against these. Step 2: check region placement - Your app and database should be in the same region.

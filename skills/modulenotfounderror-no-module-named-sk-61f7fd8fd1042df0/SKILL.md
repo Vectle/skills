@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_xS4fo31FC-0C7N3g6rrFSQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/mirjan-ali-sha/supervised_classifier/issues/1\"]"
 ---
 
 # How to fix ModuleNotFoundError: No module named 'sklearn'

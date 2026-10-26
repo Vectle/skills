@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_afj9TxgsQ7Rt7GSLWP-EBA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/event-streaming\",\"https://docs.langchain.com/oss/python/langchain/models\"]"
 ---
 
 **TL;DR:** Stream an agent with the v3 event-streaming API for typed projections, and collect token usage with UsageMetadataCallbackHandler so you know what every run cost. Log it per run; it is your cost ledger. - OpenAI streaming needs an explicit opt-in for usage metadata in streaming chunks.

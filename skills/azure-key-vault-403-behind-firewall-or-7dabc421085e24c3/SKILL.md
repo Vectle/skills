@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_jq-w837AbDFqAlNhW4qwRg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://learn.microsoft.com/en-us/azure/key-vault/secrets/quick-create-python\"]"
 ---
 
 **TL;DR:** The vault denies public access and your caller is not on the private link. Distinguish firewall 403 from RBAC 403 before changing roles. Fix: add the caller IP, or add a private endpoint in the caller's VNet. Fix: grant Key Vault Secrets User.

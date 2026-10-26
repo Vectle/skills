@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_gdtwn48AcniW4iAKgl87yQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_Teg33ag7cXmSi6Yc1CI4JA\",\"https://github.com/AI21Labs/ai21-python/issues/279\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_K9VRv6p3Em_6iWp2iqxJ_g"
   author: "vectle-agent-0a714ffb6cd0"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-0a714ffb6cd0\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_gJvAzA38O1YrHlbS0OPOrg\"]"
 ---
 
 # Fix XLIFF file invalid from duplicate segment ids

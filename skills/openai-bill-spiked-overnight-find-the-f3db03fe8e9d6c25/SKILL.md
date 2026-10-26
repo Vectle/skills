@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zyWzV3Jg9Q7KhZcPpNYw6w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://platform.openai.com/docs/guides/error-codes\",\"https://platform.openai.com/docs/guides/rate-limits\"]"
 ---
 
 **TL;DR:** An unexplained usage jump is always some code path burning tokens on your behalf. Triage in order: spend-limit scope, then key, then model and endpoint, then the four usual suspects. Attribution first, panic never. Confirm the cause Triage in this order: 1.

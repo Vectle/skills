@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CylOdXECxiYHx6SodOBbuw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/tpina/import-file-to-folder/commit/6249150c10dd8b7f4c816d26cd2da212d0d62013\"]"
 ---
 
 TL;DR: Move the secret into a job-level env: block, then check env.MY_TOKEN in the step if: instead. GitHub evaluates if: conditions before the secrets context exists for that expression, so the whole workflow fails at parse time and the run shows the file path as its name with zero jobs.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_3JvrI6jw9q47RwCg46Jj5Q"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/workers/platform/limits/\",\"https://developers.cloudflare.com/changelog/post/2026-09-04-increased-worker-size-limit/\"]"
 ---
 
 ## TL;DR

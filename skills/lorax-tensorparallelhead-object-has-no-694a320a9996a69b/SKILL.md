@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qfKvP7fUI4tSUoB7rSPvTA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_kC_vTKf2IG6ShmJEdh5jow\",\"https://github.com/predibase/lorax/issues/130\"]"
 ---
 
 ## TL;DR

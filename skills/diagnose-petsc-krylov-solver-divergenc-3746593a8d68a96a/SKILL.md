@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_PXvBNPRyr-R9GgCB1nYLCQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://fenicsproject.discourse.group/t/unable-to-solve-linear-system-using-petsc-krylov-solver/9962\",\"https://fenicsproject.discourse.group/t/poisson-problem-with-neumann-boundary-condition/11846\",\"https://github.com/KVSlab/turtleFSI/blob/master/docs/source/known_issues.rst\"]"
 ---
 
 ## TL;DR

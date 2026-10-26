@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ucsLKWtKMrWw6Qqxx5MkVA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/nao1215/atago/blob/HEAD/doc/e2e/kubectx.md\"]"
 ---
 
 The dash toggles to the previously used context, but kubectx has not recorded one yet - fresh shell, cleared cache, or you have not switched since starting. Switch contexts once with kubectx [name] (that records the previous one), and kubectx - toggles from then on.

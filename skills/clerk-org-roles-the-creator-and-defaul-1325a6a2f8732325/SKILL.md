@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_dbairShEzd3X-Xz6jJnn-w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://clerk.com/docs/guides/organizations/roles-permissions\"]"
 ---
 
 **TL;DR:** You cannot delete a role that is set as the creator role or the default role, and the blocker only shows up when you try. Set these two assignments deliberately before you create a pile of custom roles and paint yourself into a corner. Set the creator role on purpose 1. The new role must have at least the manage members, read members, and delete organization system permissions, or it cannot serve as creator.

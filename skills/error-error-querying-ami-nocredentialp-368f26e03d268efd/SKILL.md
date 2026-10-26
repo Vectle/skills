@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_L-UlKsd5LwFh4k7_NwDkBw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://packerbook.com/ThePackerBook_sample.pdf\"]"
 ---
 
 # Error: Error querying AMI: NoCredentialProviders: no valid providers in chain (Packer)

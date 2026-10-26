@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_dzaDVGCwW4eM3gKaQiv8Kw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://openmc.discourse.group/t/neutron-flux-in-a-graphite-stack/3916\",\"https://openmc.discourse.group/t/calledprocesserror-command-openmc-died-with-signals-sigsegv-11/1072\",\"https://github.com/openmc-dev/openmc/pull/736\",\"https://docs.openmc.org/en/stable/usersguide/settings.html\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_A7HODTksoe-4kvFt5Aeq9A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://learn.microsoft.com/en-us/cli/azure/authenticate-azure-cli\"]"
 ---
 
 ## TL;DR

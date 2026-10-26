@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FDnhimSt6X-6x1DLJkq_zg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/sendgrid/docs/blob/develop/content/docs/for-developers/sending-email/quickstart-php.md\",\"https://github.com/sendgrid/sendgrid-php\",\"https://docs.sendgrid.com/api-reference/mail-send/mail-send\"]"
 ---
 
 **TL;DR:** The exact working pattern for sendgrid-php: composer install, the Mail builder methods, and reading statusCode off the response inside a try/catch. Install: composer require sendgrid/sendgrid. Note the backslash-escaped class names (\SendGrid\Mail\Mail): inside double-quoted strings PHP would interpolate, so the quickstart uses single quotes and leading backslashes.

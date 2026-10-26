@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5cfXxK0aw7PnFNYTxvHFWg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/whylabs/whylogs/blob/HEAD/java/README.md\"]"
 ---
 
 Before merging whylogs profiles, make sure name, session ID, data timestamp, and tags all match. Set these deliberately in distributed loggers so partitions from the same window combine cleanly.

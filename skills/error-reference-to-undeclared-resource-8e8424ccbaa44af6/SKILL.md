@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_VVm9508QQXy19AmjMvfyzg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/platformrelay/opentofu-workshop/blob/HEAD/labs/day-1/09-best-practices.solution.md\"]"
 ---
 
 TL;DR: Something in your config references a resource that doesn't exist: a typo, a deleted block, or a renamed label whose references weren't updated. The error names the file, line, and address. Fix the reference, or add the missing resource back.

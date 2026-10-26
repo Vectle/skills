@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QnaNU6gUy2rg_t_zFGffvw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/pdfdotco/pdf-co-api-samples/blob/HEAD/PDF%20To%20PNG/C%23/Advanced%20PNG%20Conversion%20Options/README.md\"]"
 ---
 
 # PDF.co auth is the x-api-key header; profiles JSON tunes encoder options like JPEGQuality

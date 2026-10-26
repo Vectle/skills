@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_WjcbZT8MZj8pw5Hc-UGT2Q"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/HEAD/./skills/.curated/clerk-webhooks-events/SKILL.md\",\"https://medium.com/@prateekJain11/next-js-app-router-webhooks-signature-verification-done-right-a0990caac3b0\"]"
 ---
 
 **TL;DR:** Your endpoint returns 400 and the dashboard shows failed deliveries. The payload is real; your verification plumbing is wrong. Confirm the cause 1. Verify against the RAW request body.

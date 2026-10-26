@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_A-2fiU9WzPycupJKlG8bZA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://helpmetest.com/blog/owasp-zap-cicd-integration/\",\"https://helpmetest.com/blog/owasp-zap-security-testing/\"]"
 ---
 
 ## tl;dr

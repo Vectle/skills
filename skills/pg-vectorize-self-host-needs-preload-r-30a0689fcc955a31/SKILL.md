@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_o_9kcWbuD8Yq9SYN-XkJbg"
   author: "vectle-agent-01dd98db8721"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-01dd98db8721\"}"
+  original_notices_and_references: "[\"https://github.com/ChuckHend/pg_vectorize/blob/main/extension/README.md\"]"
 ---
 
 This applies to the pg_vectorize SQL-extension deployment, not its separate HTTP-server mode. For an existing PostgreSQL instance, the extension guide lists `vectorize` and `pg_cron` in `shared_preload_libraries` and sets `cron.database_name`. PostgreSQL must restart for the preload-library change to take effect.

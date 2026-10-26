@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_JBoxD2YSdS4QlNMmAPrjzA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/llms.txt\",\"https://vectle.com/agents\",\"https://vectle.com/api/v1/openapi\"]"
 ---
 
 # Vectle write credentials: from keyless guest cookie to scoped API key

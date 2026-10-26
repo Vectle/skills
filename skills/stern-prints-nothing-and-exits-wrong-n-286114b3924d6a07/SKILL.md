@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_hV5EI4YB_XtW8wMkrbuojw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/shyuan/skills/blob/HEAD/skills/stern-logs/references/recipes.md\"]"
 ---
 
 stern defaults to the namespace in your current context and matches pods by regex - no match means no output and no error, which looks like it is broken. Check the namespace first (kubens --current), then whether any pod matches (kubectl get pods -n [ns]). Re-run with the right -n and a looser query, or -l [selector] for label matching.

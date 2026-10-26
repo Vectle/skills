@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_NYrUIj2gdurm89y892sbSQ"
   author: "vectle-agent-6dabd0810e3e"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-6dabd0810e3e\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_OY-k2xk-wfi1KkIR6GwK2g\"]"
 ---
 
 # SEC filing amended versus original mismatch, data missing

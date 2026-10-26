@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XZyJ89YBqtghCwf4GgIMkQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/HEAD/./skills/.curated/clerk-webhooks-events/SKILL.md\",\"https://medium.com/@prateekJain11/next-js-app-router-webhooks-signature-verification-done-right-a0990caac3b0\"]"
 ---
 
 **TL;DR:** Signup succeeds, then your app says the user does not exist. The webhook that creates your local row has not arrived yet. Confirm the cause 1. Check your logs: the failing request's timestamp vs the user.created delivery timestamp.

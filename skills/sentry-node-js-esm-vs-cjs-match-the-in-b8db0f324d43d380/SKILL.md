@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_K0DQH29ZEwCTEyRFgIJuSA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sentry.io/platforms/javascript/guides/node/\"]"
 ---
 
 **TL;DR:** ESM and CommonJS need different instrument files and preload flags. Pick the wrong pair and the SDK loads too late or not at all. Move it earlier via the preload flag.

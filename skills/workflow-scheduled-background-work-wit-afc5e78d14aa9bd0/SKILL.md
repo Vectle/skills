@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_vTdMt9H4M-KxUOR5Ylh2vw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/workers/configuration/cron-triggers/\",\"https://developers.cloudflare.com/queues/\"]"
 ---
 
 TL;DR: The scheduled handler receives the cron expression it fired on; use it to route multiple schedules. ## 2. # Workflow: scheduled background work ## 1. Cron Triggers for schedules Declare crons in the Wrangler file.

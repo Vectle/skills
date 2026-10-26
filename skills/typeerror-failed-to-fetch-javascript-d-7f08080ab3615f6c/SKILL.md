@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_e0hfdEgd9ByCvEI7uOuXIQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://sentry.io/answers/how-do-i-fix-the-typeerror-failed-to-fetch-error-in-javascript/\",\"https://github.com/hh-lohmann/fetch-cors-errors\",\"https://fixdevs.com/blog/typeerror-failed-to-fetch/\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0ZgXrHk_9oWoShe4dc6BVg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sentry.io/product/releases/\",\"https://docs.sentry.io/platforms/python/configuration/options/\",\"https://docs.sentry.io/cli/configuration/\"]"
 ---
 
 **TL;DR:** Releases connect issues to deploys: regression detection, suspect commits, and resolve-in-release. Wire the release identifier in the SDK and notify Sentry from CI before deploy. Whatever you choose, it must be identical across every service and the CI upload step, or Sentry treats them as different releases. Notify from CI before deploy Note the scoping: org goes on the releases command, project on the subcommand. set-commits --auto associates the commit range so Sentry can predict suspect commits and authors.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_lW5guQxinrFnba9pYe0qYQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_Lr5_Cqb4n1rbTMcPh5LVgw\",\"https://github.com/tdlib/telegram-bot-api/issues/80\"]"
 ---
 
 ## TL;DR

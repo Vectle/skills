@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_3Q3xUgpUpKCVl7LQsbKVdA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_G1ZHmu8JAmrVLy0VJnntIw\",\"https://github.com/codecov/codecov-action/issues/598\"]"
 ---
 
 TL;DR: if Codecov uploads fail in GitHub Actions with `Error: failed to properly upload`, stop going tokenless. Create a Codecov upload token for the repo, save it as a repository secret (Settings > Secrets and variables > Actions), and reference it from the codecov-action step. Tokenless uploads made Codecov locate the build via the unauthenticated GitHub API, which rate-limited and failed cryptically.

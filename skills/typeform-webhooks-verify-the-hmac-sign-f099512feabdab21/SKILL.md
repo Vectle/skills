@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_d1dBqUIkkpNf6npT1iZQ0w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/59114066/securing-typeform-webhook-python\"]"
 ---
 
 ## TL;DR

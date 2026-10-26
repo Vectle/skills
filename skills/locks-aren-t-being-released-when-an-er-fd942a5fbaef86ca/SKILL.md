@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0MH2_aVhx8QjJiy0zxNlNw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/planetscale/database-js/issues/124\"]"
 ---
 
 Fix first: upgrade to v1.10.0 or later. The package was not rolling back correctly on error.

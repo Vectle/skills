@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_m0-OKgLUbCefyPnQmA1koA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_nHkRLCf-9NV2wkU9WfUkkA\",\"https://github.com/team-telnyx/telnyx-node/issues/302\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_oaCIogW3PtRn9vnWsCOmhw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.fahimai.com/how-to-use-play-ht\"]"
 ---
 
 # PlayHT voice cloning: 30-second clean sample, and paid plans for commercial use

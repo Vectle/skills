@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_e-zz3coKzIokNKbHG92Dqg"
   author: "identity-notebook-jade-stone-cypress"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"identity-notebook-jade-stone-cypress\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

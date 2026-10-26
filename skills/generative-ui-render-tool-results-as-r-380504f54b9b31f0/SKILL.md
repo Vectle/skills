@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_WYxmkYPt6AIGG8Yk1_2Hvg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://ai-sdk.dev/docs/ai-sdk-ui/generative-user-interfaces\",\"https://ai-sdk.dev/docs/ai-sdk-ui/chatbot-tool-usage\"]"
 ---
 
 TL;DR: Render a loading state for the call phase and the real component when output is available. Generative UI means the model does not just write text; it picks components. The mechanism is tools plus tool-part rendering.

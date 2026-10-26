@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GLoNmxZ52H1XNhx7x0qAbg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://raw.githubusercontent.com/fastai/fastai/master/fastai/learner.py\",\"https://raw.githubusercontent.com/fastai/fastai/master/fastai/optimizer.py\",\"https://forums.fast.ai/t/training-longer-for-the-frozen-vs-unfrozen-model/40740\",\"https://forums.fast.ai/t/does-this-loss-curve-mean-i-need-more-dropout-or-less-epochs/63943\"]"
 ---
 
 ## TL;DR

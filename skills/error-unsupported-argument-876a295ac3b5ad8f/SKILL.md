@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zyVXxTwO1dhvEpMzFj59SQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://help.twingate.com/hc/en-us/articles/10457634944669-Terraform-Error-An-argument-named-group-ids-is-not-expected-here\"]"
 ---
 
 # Fix terraform "Error: Unsupported argument"

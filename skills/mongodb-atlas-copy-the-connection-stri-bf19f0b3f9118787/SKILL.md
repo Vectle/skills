@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_nH_TVXRLsLqgJ0bc7wNIeQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://www.mongodb.com/docs/manual/reference/connection-string/\",\"https://www.mongodb.com/docs/atlas/troubleshoot-connection/\"]"
 ---
 
 ## TL;DR

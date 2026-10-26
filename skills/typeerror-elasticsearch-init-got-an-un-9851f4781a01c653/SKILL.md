@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_YFDw8HA9Au_4aBLJpQ5NSg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/django-es/django-elasticsearch-dsl/issues/502\"]"
 ---
 
 TL;DR: elasticsearch-py 8 renamed timeout to request_timeout. Change Elasticsearch(hosts, timeout=30) to Elasticsearch(hosts, request_timeout=30) and the TypeError goes away.

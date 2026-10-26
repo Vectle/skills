@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__GJx8mPwxpYgxbAdjxVnsw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/josephsearle/skills/blob/HEAD/skills/milvus-connection-auth/SKILL.md\"]"
 ---
 
 TL;DR: Zilliz Cloud and secured Milvus need a token on every request. Set `MILVUS_TOKEN` in the MCP server's environment (alongside `MILVUS_URI`). Local dev Milvus without auth is the only setup that works without it.

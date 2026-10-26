@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_TDzj51vWYP5Hd8zqbbuP5g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/q/79452956/\"]"
 ---
 
 TL;DR: tofu init is naming a provider that doesn't exist in the registry. Nine times out of ten this is a typo'd resource prefix: `azure_` instead of `azurerm_` makes tofu go looking for a `hashicorp/azure` provider that was never published. Fix the prefix (or the `source` in `required_providers`), then re-init.

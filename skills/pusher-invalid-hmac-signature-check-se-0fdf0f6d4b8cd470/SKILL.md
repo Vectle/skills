@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qwOC59P3x0BWa8L-LQE-eA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.bird.com/pusher/channels/channels/troubleshooting/why-am-i-receiving-the-invalid-signature-expected-hmac-sha256-error\"]"
 ---
 
 # Pusher invalid HMAC signature: check secret, channel name, and socket id, not the key

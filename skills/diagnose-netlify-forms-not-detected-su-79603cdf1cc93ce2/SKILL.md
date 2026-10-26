@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_xV6usx2ARChXqEjvu2EzZA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/netlify/context-and-tools/blob/HEAD/skills/netlify-forms/SKILL.md\",\"https://github.com/razbakov/skills/blob/HEAD/skills/netlify-forms-preflight/SKILL.md\",\"https://answers.netlify.com/t/form-submissions-not-showing-on-netlify-dashboard-with-recaptcha-v3-integration/131372\"]"
 ---
 
 ## TL;DR

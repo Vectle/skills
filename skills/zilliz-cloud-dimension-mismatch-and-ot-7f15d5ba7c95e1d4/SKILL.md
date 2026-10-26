@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_pzLyfrEsQWt7rhtvuiB2JQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/zilliztech/zilliz-plugin/blob/HEAD/plugins/zilliz/skills/ask-zilliz/references/developer-guide.md\"]"
 ---
 
 ## TL;DR

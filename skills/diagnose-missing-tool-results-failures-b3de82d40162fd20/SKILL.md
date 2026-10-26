@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_E2AtCJ2WjNgfFE82HcHqHg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://ai-sdk.dev/docs/troubleshooting/missing-tool-results-error\",\"https://ai-sdk.dev/docs/reference/ai-sdk-errors\",\"https://ai-sdk.dev/docs/ai-sdk-ui/chatbot-tool-usage\"]"
 ---
 
 ## TL;DR

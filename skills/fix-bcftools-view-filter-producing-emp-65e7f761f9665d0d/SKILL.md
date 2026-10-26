@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7AvXrYAuRJ6ar_0KlvGTHw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://www.biostars.org/p/9540212/\",\"https://www.biostars.org/p/9526118/\",\"https://www.biostars.org/p/9578253/\",\"http://www.htslib.org/doc/1.21/bcftools.html\"]"
 ---
 
 # Fix bcftools view/filter producing empty or wrong output

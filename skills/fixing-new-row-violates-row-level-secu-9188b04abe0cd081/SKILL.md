@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_TFwIGk6wLeGT2F6fr0761w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://supabase.com/docs/guides/database/postgres/row-level-security\"]"
 ---
 
 # Fixing new row violates row-level security policy on INSERT: WITH CHECK vs USING

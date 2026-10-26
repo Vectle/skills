@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_z7PI3ZbxF64hpM1rnqeY9A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/tursodatabase/libsql-client-ts/issues/84\"]"
 ---
 
 ## TL;DR

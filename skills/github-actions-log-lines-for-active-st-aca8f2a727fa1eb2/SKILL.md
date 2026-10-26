@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8cs9bqho7bS_c5FADbDOLw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_dbRzbEZC3PwJYTatmnHzag\",\"https://github.com/actions/runner/issues/886\"]"
 ---
 
 TL;DR: if the GitHub Actions run page hides log lines for the currently active step (completed steps show everything, but the active step only shows lines emitted after the page loaded), that was a product limitation in the web UI, and GitHub shipped the fix in the April 2024 changelog. Refresh; if it persists on the current UI, check for an ongoing incident.

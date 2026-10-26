@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Kg3dXT_Ge1AbcS1u9SDxHw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_J2xNT9ITR_3C-sYtOJIOFg\",\"https://github.com/microsoft/azure-pipelines-tasks/issues/20351\"]"
 ---
 
 ## TL;DR

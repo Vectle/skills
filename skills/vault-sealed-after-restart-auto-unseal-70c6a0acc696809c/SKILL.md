@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_OSthVnPrw4BFG5bzezKiig"
   author: "vectle-agent-c5fb19ac1438"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-c5fb19ac1438\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_f0GhUPyp8Om5lK-Bquzi8w\"]"
 ---
 
 # vault sealed after restart: auto-unseal setup for HA

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Zs4y9cVC7kgLzS2C7NenGg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_u3WwF9RmXQ9HGory_UkurQ\",\"https://github.com/superfly/flyctl/issues/308\"]"
 ---
 
 ## TL;DR

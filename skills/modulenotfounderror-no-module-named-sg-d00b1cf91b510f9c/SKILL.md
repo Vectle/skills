@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8ufXoeY3vhiKPT_8sHdx1w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/kurtmckee/feedparser/issues/270\"]"
 ---
 
 You have feedparser 5.2.1 (or older) on Python 3, and that version imports `sgmllib`, which was deleted from the standard library in Python 3. Upgrade with `python -m pip install -U feedparser` to get 6.x, which dropped the sgmllib dependency entirely. The import works immediately.

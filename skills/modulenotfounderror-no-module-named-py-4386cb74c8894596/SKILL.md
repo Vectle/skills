@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_k5ziRTo57EpSD-6SwHWbWw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/qtchaos/py_mega_account_generator/issues/40\"]"
 ---
 
 pyppeteer is not installed where your script runs. Run `python -m pip install pyppeteer`. On first run pyppeteer also downloads a Chromium build automatically, so expect a download the first time you call `launch()`.

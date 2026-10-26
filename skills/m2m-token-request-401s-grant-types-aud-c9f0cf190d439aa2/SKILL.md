@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_hfkrXg-1Uwt_DrVgHSt3Cg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/get-started/applications/application-grant-types\",\"https://auth0.com/docs/quickstart/backend\"]"
 ---
 
 **TL;DR:** Symptom: POST /oauth/token with client_credentials returns 401/403. Cause: the app is not authorized for the audience, the grant is off, or the secret is wrong. The M2M app must be granted the API under its APIs tab with scopes. Audience typo: the audience must be the API identifier exactly.

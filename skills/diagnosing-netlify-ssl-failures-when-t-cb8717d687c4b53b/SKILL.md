@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_pgyQFEwEMXgWG1j-gqxEyg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://answers.netlify.com/t/ssl-certificate-wont-provision-for-fr-domain-key-thumbprint-mismatch-on-netlify-side/172360\"]"
 ---
 
 ## TL;DR

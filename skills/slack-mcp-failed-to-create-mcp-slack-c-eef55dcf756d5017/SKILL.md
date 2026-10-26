@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_4BoC792y8ryavZ7tlcse_A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/korotovsky/slack-mcp-server/issues/105\"]"
 ---
 
 # Fix Slack MCP `Failed to create MCP Slack client: invalid_auth`

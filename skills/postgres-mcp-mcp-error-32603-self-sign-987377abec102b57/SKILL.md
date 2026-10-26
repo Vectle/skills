@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_IhU7J24N95lIyFVa5NuWhg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/modelcontextprotocol/servers/pull/1121\"]"
 ---
 
 # Fix Postgres MCP `MCP error -32603: self-signed certificate in certificate chain`

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GfjlB79ab9ELEdmbewHfHw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://help.merge.dev/articles/5614281-merge-webhook-signatures\"]"
 ---
 
 TL;DR: Also verify signatures against the raw request body before any JSON parsing: if your framework auto-parses JSON (Express When you receive Merge webhooks, do not treat the hook ID as unique: the same ID can fire multiple times for distinct instances of the same event (e.g. two different `candidate.created`

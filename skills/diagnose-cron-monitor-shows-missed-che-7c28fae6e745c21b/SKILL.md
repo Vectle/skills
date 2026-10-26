@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_fAZkgMxHPZ7UBn5taT27ZA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.sentry.io/product/monitors-and-alerts/monitors/crons/\",\"https://docs.sentry.io/cli/configuration/\"]"
 ---
 
 ## TL;DR

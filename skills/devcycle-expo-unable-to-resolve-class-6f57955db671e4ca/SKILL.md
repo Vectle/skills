@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_12G58BvwecLXgy35UwOIXQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_-sbfU28NVLNVeV-dBOTLfQ\",\"https://github.com/DevCycleHQ/js-sdks/issues/855\"]"
 ---
 
 TL;DR: if bundling fails with `Unable to resolve "class-validator" from "node_modules/@devcycle/react-native-expo-client-sdk/node_modules/@devcycle/types/index.cjs.js"` after upgrading `@devcycle/react-native-expo-client-sdk` past 1.14 on Expo SDK 50, it is a DevCycle packaging bug introduced after 1.14 (something pulled class-validator into @devcycle/types). Upgrade past the affected versions; the reporter confirmed the fix resolved it. Pinned? Stay on 1.14 until you can upgrade.

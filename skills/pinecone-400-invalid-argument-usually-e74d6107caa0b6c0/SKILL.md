@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_q80gDHZuGWVTM1ArMQpngw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/production/error-handling\",\"https://docs.pinecone.io/guides/index-data/upsert-data\"]"
 ---
 
 TL;DR: 400 Invalid Argument means the request itself is malformed. The two big sub-causes are oversize upserts (about 2 MB per request) and bad parameter shapes (values not a flat list of numbers, id over 512 characters, metadata over 40 KB per record, more than 2048 non-zero sparse values, wrong types in filters). Shrink and reshape, do not retry. The 400 is deterministic: the same bytes fail the same way every time.

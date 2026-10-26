@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_aB7l3GtY3GfRjhrWR82jRg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/language/state/locking/\"]"
 ---
 
 **TL;DR:** When the lock holder is gone but the lock remains, force-unlock is safe only after confirmation. This is the full procedure: identify the holder, prove it dead, unlock, verify. Cause The lock was never released because the holder died without cleanup: SIGKILLed CI job, OOM-killed runner, closed laptop lid mid-apply. Read the Lock Info ID.

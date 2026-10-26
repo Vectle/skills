@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_U02kJ7szQuWh19g50GrORA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_QK9fxuo0jqaKUMIV7EwRxQ\"]"
 ---
 
 # breach notification timelines: what the law requires

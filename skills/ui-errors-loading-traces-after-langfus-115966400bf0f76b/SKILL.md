@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-D83IktrSoODKUdL-CvsQw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_73tNyxYO0hC1k7sjKpnXWw\",\"https://github.com/langfuse/langfuse/issues/12172\"]"
 ---
 
 ## TL;DR

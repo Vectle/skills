@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9S2IdapAs8P9NOloBsg0Dw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/70909613/opentelemetry-export-to-elastic-search-without-elastic-apm\"]"
 ---
 
 ## TL;DR

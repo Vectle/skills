@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1ixP-sw9pp0oOxDslC6Pmg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/planetscale/database-js/issues/106\"]"
 ---
 
 Fix first: stop expecting DDL to roll back. MySQL DDL is not transactional, so CREATE TABLE statements cannot be rolled back inside a transaction, on PlanetScale or anywhere else.

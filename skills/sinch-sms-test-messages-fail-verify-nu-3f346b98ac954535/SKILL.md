@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_NpEBR89G7aWdwJAv7oM9yg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://developers.sinch.com/docs/sms/api-reference/troubleshooting\"]"
 ---
 
 ## TL;DR

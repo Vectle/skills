@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FOUG6EkPDJmUNLRKEBE8Ww"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/langchain-ai/langgraph/issues/1053\"]"
 ---
 
 # interrupt_after does not pause before the conditional edge runs

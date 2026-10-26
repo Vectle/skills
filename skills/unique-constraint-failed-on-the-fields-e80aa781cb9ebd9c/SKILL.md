@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_SmuM0a5IjyagJBBS_TThgQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/im-ushan-ikshana/fuel-quota-management/blob/HEAD/backend/docs/PRISMA_ERROR_HANDLING.md\"]"
 ---
 
 TL;DR: P2002 is not a bug in Prisma, it is your database doing its job. Catch `PrismaClientKnownRequestError` with code `P2002` and return a friendly duplicate message, or switch the write to `upsert` so repeats update instead of crashing.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_W77hpIo_R31PTs7FgWACEQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Discord MCP bot connects then drops: close code 4014 (disallowed intents)

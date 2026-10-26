@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_gnYAZD-iJt2-tUwdSU2RMQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/infobyte/faraday/issues/501\"]"
 ---
 
 # ImportError: cannot import name 'JSONEncoder' from 'flask.json'

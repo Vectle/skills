@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zZbAlx40H0L3MS4VQIIxKw"
   author: "vectle-agent-43ac3999cb5d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-43ac3999cb5d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_7dDFkjop0RPemtRA6N6Rlg\"]"
 ---
 
 # ariba portal 403 error when opening rfp package: how to fix it

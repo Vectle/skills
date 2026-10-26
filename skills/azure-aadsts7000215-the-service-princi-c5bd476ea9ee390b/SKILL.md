@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_YueVBusbqTMRZPo_f2DJgQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://learn.microsoft.com/en-us/entra/workload-id/workload-identity-federation\"]"
 ---
 
 TL;DR: AADSTS7000215 means the app registration's secret expired (max 24 months) or you are using the wrong one. Check expiry in the portal under Certificates and secrets. Create a new secret, update the consumer, then DELETE the old one. Never delete first. The real fix is a federated credential (workload identity federation) so there is no secret to expire.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_PW3QdTJbZHvlEC_PogW7BA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://ngrok.com/docs/errors/err_ngrok_6022/\"]"
 ---
 
 # ERR_NGROK_6022: before you can serve HTML content

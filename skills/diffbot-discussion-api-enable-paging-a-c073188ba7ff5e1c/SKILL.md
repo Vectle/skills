@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_w3RIflwYbO1o3oxiknpYyQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.diffbot.com/docs/extract/discussion\"]"
 ---
 
 # Diffbot Discussion API: enable paging, and every page is a billed API call

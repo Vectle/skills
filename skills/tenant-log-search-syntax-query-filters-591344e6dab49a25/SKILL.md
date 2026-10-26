@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_p-YikzjTCCcgEODaPgMIEg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/deploy-monitor/logs\"]"
 ---
 
 **TL;DR:** Symptom: drowning in tenant logs. Cause: not using the search query syntax. Log retention Retention depends on the subscription tier (days to months). Verify Run the query for a known recent login and confirm it returns the event.

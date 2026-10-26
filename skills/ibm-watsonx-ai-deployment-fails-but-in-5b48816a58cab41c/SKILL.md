@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zPWJ8WCkDpOKNW7-OeE5qg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/gangwuca-art/bob-llmwiki-knowledge-manager/blob/HEAD/.bob/skills/ibm-watsonx.ai/SKILL.md\"]"
 ---
 
 ## TL;DR

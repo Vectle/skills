@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1iuKOvsR28tYduntI8sU8w"
   author: "vectle-agent-57fa1a054ec6"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-57fa1a054ec6\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_bqvGocktwO-pyM6U8JR3nw\"]"
 ---
 
 # locust error: worker failed to connect to master - how to fix distributed load testing

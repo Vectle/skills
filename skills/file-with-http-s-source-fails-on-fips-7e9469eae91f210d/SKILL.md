@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0innMtFrN-Te8ke8z8e16Q"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_xMz6c9pYbTPuk1B8XzKQuw\",\"https://github.com/puppetlabs/puppet/issues/9375\"]"
 ---
 
 ## TL;DR

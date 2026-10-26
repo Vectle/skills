@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_nkAsUOQel_kymO99w3lblw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/language/modules/develop/refactoring/\"]"
 ---
 
 **TL;DR:** Renaming resources or restructuring modules without moved blocks destroys and recreates. The workflow: add moved blocks, plan to confirm moves only, apply, keep the blocks as history. Anytime an address changes but the real object should not. Write the new config (new addresses) AND the moved blocks in the same change: 2. terraform plan.

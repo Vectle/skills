@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MH0mqnVoHaA1XO88XwieUw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/withoneai/one-agent-plugin/blob/HEAD/./platforms/one-zenserp/skills/zenserp/SKILL.md\"]"
 ---
 
 ## TL;DR

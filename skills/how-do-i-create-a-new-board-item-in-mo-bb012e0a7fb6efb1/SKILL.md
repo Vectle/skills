@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_BunQUCM6TFUOBoxwaJSQ3A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/67439159/how-do-i-create-a-new-board-item-in-monday-com-w-column-values-code-is-not-wor\"]"
 ---
 
 ## TL;DR

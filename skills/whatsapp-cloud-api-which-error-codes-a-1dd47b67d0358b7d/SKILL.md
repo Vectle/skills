@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_79yENwg9Ah-2ZYcfGKXzng"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/roy-wanyoike/fuatilia/blob/HEAD/src/adapters/comm-whatsapp/README.md\"]"
 ---
 
 ## TL;DR

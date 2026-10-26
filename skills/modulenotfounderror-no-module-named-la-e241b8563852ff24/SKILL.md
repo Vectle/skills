@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_jY_YkC7aUiCfM3QjmNf1uA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/install\",\"https://docs.langchain.com/oss/python/integrations/providers/overview\"]"
 ---
 
 **TL;DR:** This error means the provider package is not installed. LangChain splits every provider into its own package, so installing langchain alone is never enough for OpenAI, Anthropic, or any other model or store. Confirm: pip show langchain-openai (or the provider you need). Install it: pip install -U langchain-openai.

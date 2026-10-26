@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XhQqY5fdX9XknVXtB0bweQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/barbaragit/redis-operations-skills/blob/HEAD/skills/redis-cloud-connect-database/SKILL.md\"]"
 ---
 
 # Redis Cloud auth needs the default username plus password, not password alone

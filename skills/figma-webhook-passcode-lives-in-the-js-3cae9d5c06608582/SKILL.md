@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__dcZoXvWDYcLFKxSNElnJQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/shanksg/clawskills/blob/HEAD/skills/figma/skill.md\"]"
 ---
 
 TL;DR: Verify it with a timing-safe compare (hmac.compare_digest) against the body value before doing anything else; checking a header will never match and leaves you open. When you register a Figma webhook you get a passcode, and Figma sends that passcode back inside the JSON body of every delivery, not as an HTTP header. Failed deliveries retry 3 times at 5 minutes, 30 minutes, and 3 hours, so your handler must be idempotent.

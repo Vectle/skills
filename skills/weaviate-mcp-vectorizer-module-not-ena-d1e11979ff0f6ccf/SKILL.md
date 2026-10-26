@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_j-pTNafxL9B4SuL39A2tCw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/tikitribe/claude-secure-coding-rules/blob/HEAD/rules/rag/vector-managed/weaviate-cloud/CLAUDE.md\"]"
 ---
 
 TL;DR: Your Weaviate instance does not have the vectorizer module your collection needs. Enable it with `ENABLE_MODULES` at container startup (e.g. `text2vec-openai`), provide its API key, and recreate the collection.

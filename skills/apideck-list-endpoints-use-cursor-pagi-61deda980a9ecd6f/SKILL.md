@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_r1eLSxHeb4lWPloPBBvTfw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/neversight/learn-skills.dev/blob/HEAD/data/skills-md/apideck-libraries/api-skills/apideck-best-practices/SKILL.md\"]"
 ---
 
 TL;DR: Use the SDK helpers (for await...of in Node, .next() in Python/Go/.NET) instead of hand-rolling cursors. Web (Apideck official best-practices skill, apideck-libraries/api-skills): documents pagination gotchas agents hit. Apideck uses cursor-based pagination on all list endpoints: iterate until meta.cursors.next is null, never assume one page returns everything. limit is 1-200 with default 20, so large syncs need bigger pages.

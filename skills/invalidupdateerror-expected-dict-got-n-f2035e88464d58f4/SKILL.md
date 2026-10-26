@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_u0Vi-jGxPECd5WJD_tiWEA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langgraph/errors/INVALID_GRAPH_NODE_RETURN_VALUE\"]"
 ---
 
 **TL;DR:** A node returned something that is not a dict. Every node must return a dict with keys from your state schema, on every code path.

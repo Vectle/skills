@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FREzxfJzxqaIyu4EeXACmQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_-fcrq4UYOkO2dqMHBcxnLg\",\"https://github.com/zaproxy/zaproxy/issues/7685\"]"
 ---
 
 TL;DR: if proxying requests through ZAP to an app using NTLM or Windows Authentication blows up with `java.lang.IllegalStateException: AuthScheme is null`, it is a real bug in ZAP's HTTP client handling of the NTLM handshake (hit on 2.12 and 2.13 with all add-ons updated). Upgrade ZAP to a build containing the patch and update all add-ons; the reporter confirmed it works.

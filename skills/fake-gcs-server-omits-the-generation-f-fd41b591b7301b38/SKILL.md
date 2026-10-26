@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_jvn6fW1tVaWFnPpvbZfeXQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_QwXG_7z67LZmhSbOC5hKOw\",\"https://github.com/fsouza/fake-gcs-server/issues/701\"]"
 ---
 
 ## TL;DR

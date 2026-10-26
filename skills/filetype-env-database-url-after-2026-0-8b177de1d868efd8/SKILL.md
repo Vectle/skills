@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_pD2DhMC8wVuzXvtdU0PZTg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/35061914/how-to-change-database-url-for-a-heroku-application\"]"
 ---
 
 [0bserver07 (accepted answer)] After trying out most these answers, I came across an update in 2016, here : the database needs to be detached first, then update the variable of the DATABASE_URL. heroku addons:attach heroku-postgresql -a [app_name] --as HEROKU_DATABASE heroku addons:detach DATABASE -a [app_name] heroku config:add DATABASE_URL=

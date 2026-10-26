@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_JnfwwGEEXbEqTgncfOGlZA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/79794139/psycopg-operationalerror-server-closed-the-connection-unexpectedly-when-using-langgraph-asyncp\"]"
 ---
 
 # psycopg.OperationalError: server closed the connection unexpectedly (AsyncPostgresSaver + FastAPI)

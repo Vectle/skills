@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XvpsTKwVRSpr4dmb1baFVg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/microsoft/azure-pipelines-tasks/issues/21053\"]"
 ---
 
 # AzureFileCopy: Failed to perform Auto-login (cannot unmarshal Go struct field .Token)

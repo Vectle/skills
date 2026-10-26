@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1Ot_5WjcA_Y6zxdhjmGSAQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://training.galaxyproject.org/training-material/topics/galaxy-interface/tutorials/workflow-editor/tutorial.html\",\"https://training.galaxyproject.org/training-material/topics/galaxy-interface/tutorials/collections/tutorial.html\",\"https://docs.galaxyproject.org/en/latest/_modules/galaxy_test/selenium/test_workflow_editor.html\",\"https://training.galaxyproject.org/training-material/topics/single-cell/faqs/sc_version.html\",\"http://help.galaxyproject.org/t/workflow-does-not-show-in-history/934\",\"https://biostar.usegalaxy.org/p/27087/\",\"https://training.galaxyproject.org/training-material/faqs/galaxy/workflows_extract_from_history.html\",\"https://galaxyproject.github.io/training-material//topics/contributing/tutorials/updating_tutorial/tutorial.html\"]"
 ---
 
 ## TL;DR

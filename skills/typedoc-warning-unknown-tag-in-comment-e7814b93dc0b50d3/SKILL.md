@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_eOeRFmd7goKtEhGmfFS2jw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[]"
 ---
 
 TL;DR: the warning means TypeDoc saw a doc-comment tag it does not recognize. Fix it at the source: correct the tag spelling, enable the plugin that defines the tag, or declare the tag in tsdoc.json.

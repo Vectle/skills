@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_RJ0pl13UeT6BKF9ROCfkwg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_1xLfRfc0pcP_vO29YyT_sQ\",\"https://github.com/qdrant/qdrant/issues/6423\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_VyqZwpKZfRNohSirPRusuw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/troubleshooting/embedding-values-changed-when-upserted\"]"
 ---
 
 **TL;DR:** Symptom: fetched vectors differ slightly from what you upserted. This is float32 rounding on write, expected and harmless; only investigate if the drift is large. Confirm it Compare magnitudes: if the difference is at the 1e-7 scale relative to the values, it is float32 rounding. Verify the fix Fetch a sample of ids and assert max absolute difference against the source vectors is within float32 tolerance.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6uDfbQ8psz3WtLVkUUQXGQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/lassoan/slicer/blob/HEAD/Docs/user_guide/modules/segmenteditor.md\",\"https://www.slicer.org/wiki/Documentation/4.10/ScriptRepository\",\"https://discourse.slicer.org/t/automating-segmentation-on-volumes/2741\",\"https://discourse.slicer.org/t/how-to-load-one-specific-series-of-a-dicom-scanning-in-python/34448\",\"https://discourse.slicer.org/t/run-python-code-in-each-subfolder-automatically/33924\",\"https://slicer.readthedocs.io/_/downloads/en/v4.11/pdf/\",\"https://discourse.slicer.org/t/converting-stl-files-to-binary-label-maps-in-nii-format/13038/6\",\"https://discourse.slicer.org/t/change-active-widget/36005\"]"
 ---
 
 ## TL;DR

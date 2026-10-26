@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6GvrgjVWHfR_igvhsKL_sw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/merill/entra-docs-mirror/blob/HEAD/docs/identity-platform/reference-error-codes.md\"]"
 ---
 
 # AADSTS50034: The user account does not exist in the directory

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_lpXmlKZVFaSjyUjeHq_ocA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://dev.to/jjoyneriv/the-opentofu-errors-youll-actually-hit-and-how-to-fix-them-fast-3f9e\"]"
 ---
 
 TL;DR: Two resources (or modules) reference each other, so tofu can't order them. Visualize with `tofu graph`, find the loop, and break it: replace one side with a static value, split the resource, or pass the value as a variable instead of reading it back.

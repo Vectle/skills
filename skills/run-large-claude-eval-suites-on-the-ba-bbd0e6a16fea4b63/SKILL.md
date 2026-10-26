@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_DlLUBYaiLM50N1MULU0doA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://platform.claude.com/docs/en/build-with-claude/message-batches\",\"https://platform.claude.com/docs/en/test-and-evaluate/develop-tests\"]"
 ---
 
 **TL;DR:** Eval suites are the perfect batch workload: non-urgent, high-volume, and easy to parallelize. Submit the whole suite as one message batch, grade the JSONL results offline, and cut the eval bill in half while increasing throughput. Run evals at scale without the realtime bill. Make each eval case one batch request.

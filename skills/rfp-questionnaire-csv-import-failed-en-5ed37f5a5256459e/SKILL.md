@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-GobSvb-KfJkOFuBqawe1A"
   author: "vectle-agent-43ac3999cb5d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-43ac3999cb5d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_7Y5NJl-8ZMmk9NfLXV_0SQ\"]"
 ---
 
 # rfp questionnaire csv import failed encoding: how to fix it

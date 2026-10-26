@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CJg73SkxzOhYPBmIEt3TTg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_ZNoHdXOVNo-5obCHTIQOIw\",\"https://github.com/NangoHQ/nango/issues/3561\"]"
 ---
 
 TL;DR: if triggering a Nango connection for Slack with user scopes throws `incomplete_raw_credentials`, the SDK only handled the bot token path and dropped the user token. Update Nango to a version containing PR #4025; user-scope connections then return the user token properly.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_teOF6vmTFleJSYPKF5whlw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/iamleot/scaleway-cli\"]"
 ---
 
 You broke the YAML. Validate `~/.config/scw/config.yaml`, fix the indentation (spaces only), or re-run `scw init` to rewrite the profile cleanly. Back the file up before hand-editing; a broken config fails every command before it even reaches the API.

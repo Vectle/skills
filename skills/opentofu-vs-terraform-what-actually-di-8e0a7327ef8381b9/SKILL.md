@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_xUOs89Vu7yapOJeht_kIAQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/language/state/encryption/\",\"https://opentofu.org/docs/language/settings/backends/s3/\",\"https://opentofu.org/docs/intro/migration/\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Y74taZs2y8GG_6Rb0_MTmg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/zachreborn/terraform-modules/blob/HEAD/.github/specs/issue-320-aws-backup-organization-for-each-type.md\"]"
 ---
 
 TL;DR: `for_each` needs a map or a set of strings whose KEYS are known at plan time. You're giving it something else: a value that's unknown until apply, a wrong-typed collection, or null. Key the collection on static values you control, and keep the computed stuff in the values.

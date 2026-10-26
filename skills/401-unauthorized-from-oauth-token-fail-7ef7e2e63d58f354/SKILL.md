@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_m2Ri91cXn1MwVXW9Ln-DXQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_4Q2DPDgE-TxEzlczGrBouw\",\"https://github.com/auth0/auth0-spa-js/issues/488\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6LsUB-HC-nJzlfJGHD8BwA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/kwazema/claude-skills/blob/HEAD/skills/kw-login-supabase-cli/SKILL.md\"]"
 ---
 
 # supabase link: Authorization failed for the access token and project ref pair

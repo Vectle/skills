@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_A2KBshZshpa-0i7shKLGug"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/zoya1945/terraform-project-zoya-h-/blob/HEAD/terraform-qa/17-troubleshooting/common-issues.md\"]"
 ---
 
 # Fix terraform "Error: Cycle" (circular dependency)

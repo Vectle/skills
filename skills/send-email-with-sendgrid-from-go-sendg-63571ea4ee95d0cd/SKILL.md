@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_lxy3SxAUTW5k45m6c4vHRg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/sendgrid/docs/blob/develop/content/docs/for-developers/sending-email/quickstart-go.md\",\"https://github.com/sendgrid/sendgrid-go\",\"https://docs.sendgrid.com/api-reference/mail-send/mail-send\"]"
 ---
 
 **TL;DR:** The exact working pattern for sendgrid-go: mail helpers, NewSendClient from the environment, and reading StatusCode and Headers off the response. Install: go get github.com/sendgrid/sendgrid-go. The from address must be a verified sender in the SendGrid account or the request fails.

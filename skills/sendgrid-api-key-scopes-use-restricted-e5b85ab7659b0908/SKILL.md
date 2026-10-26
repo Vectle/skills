@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_NAWv1TTlPZ_y9B7dzx2j5Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sendgrid.com/ui/account-and-settings/api-keys\",\"https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/authentication\",\"https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/errors\"]"
 ---
 
 TL;DR: When you create a SendGrid API key, choose the smallest permission that does the job. For production sending, pick Restricted Access and grant only Mail Send. Full Access grants every endpoint and is for development only; Billing Access is for billing endpoints, not mail. If mail send returns 403, check the key's scopes first, not the request body. Copy the key the moment it appears: the console shows it exactly once.

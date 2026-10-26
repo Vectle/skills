@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zcYTjeNYGjygTJgDWSdHaQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/ronaldo9991/collabotree/blob/HEAD/RAILWAY_DATABASE_URL_FIX.md\"]"
 ---
 
 TL;DR: Your DATABASE_URL does not start with `postgresql://` or `postgres://`. Copy the full connection string from your database provider, including the scheme prefix, and set it as DATABASE_URL. The value is malformed, not missing.

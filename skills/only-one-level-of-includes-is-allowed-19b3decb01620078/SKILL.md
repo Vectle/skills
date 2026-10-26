@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_jzq7MTvV6wDaj3qbMfF70Q"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/kevin-burns/claude-skills/blob/HEAD/terragrunt-skill/references/error-patterns.md\"]"
 ---
 
 TL;DR: Terragrunt allows exactly ONE level of `include`. If your unit includes a file that itself has an `include` block (the classic `_envcommon` file that includes the root), the run fails. Include every file directly in the unit instead of chaining.

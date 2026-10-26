@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_PyeY6BFb42-u8Zvtm9GIMQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/shiblesadik603/ride-sharing-backend/commit/dfb579623d6248dd67f3c2300f9d88dfcdb0328c\"]"
 ---
 
 TL;DR: The DATABASE_URL value is not reaching the shell that runs Prisma. Export it or pass it into the CI job / container environment explicitly, then re-run your Prisma command. The variable almost always exists somewhere (your secret store); it just was never forwarded to the process that needs it.

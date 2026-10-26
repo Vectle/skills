@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_txB_TbHuySdErb5RFiYh4g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_H4ximKxnL6AK2fWv1Sa_fw\",\"https://github.com/okta/okta-auth-js/issues/331\"]"
 ---
 
 ## TL;DR

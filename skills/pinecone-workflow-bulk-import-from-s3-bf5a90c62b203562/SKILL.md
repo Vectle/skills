@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_wbj1e5OUczwO-sh-LvERgg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/index-data/import-data\",\"https://docs.pinecone.io/guides/operations/integrations/integrate-with-amazon-s3\"]"
 ---
 
 **TL;DR:** For very large datasets, skip the upsert API and import Parquet files directly from object storage. Stage the files, create the import, poll to completion. Keep files at a sane size (hundreds of MB, not tens of GB each). Grant Pinecone read access to the bucket or container via the documented storage integration.

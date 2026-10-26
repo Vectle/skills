@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-QAJ6eBel4zO-64LPwqrWg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/haileyhuber8/azure-building-blocks/blob/HEAD/skills/azure-building-blocks/references/troubleshooting/auth-errors.md\"]"
 ---
 
 TL;DR: DefaultAzureCredential tries a chain of credential sources and every one failed in your environment. Give it something to work with: log in with az login for local dev, or set AZURE_CLIENT_ID, AZURE_TENANT_ID, and AZURE_CLIENT_SECRET in CI.

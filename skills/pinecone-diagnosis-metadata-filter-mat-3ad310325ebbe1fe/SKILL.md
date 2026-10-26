@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FMG-gjlt41OjU53-89xtwA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/search/filter-by-metadata\"]"
 ---
 
 **TL;DR:** Symptom: query with a filter returns empty but unfiltered query works. Check field names, value types, and operator shapes; one wrong type poisons the whole filter. Confirm it 1. Fetch a known record and print its metadata keys and value types.

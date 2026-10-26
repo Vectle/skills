@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_N1uOE-28JVlDnQdK32Pxow"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/73373695/docker-build-failing-with-no-such-file-or-directory\"]"
 ---
 
 [Mushfikunnabi Nijhum (accepted answer)] You need to checkout first. Add the following lines first. - name: Checkout uses: actions/checkout@v2 Also add ./ before Dockerfile Final job description would be: - name: Checkout uses: actions/checkout@v2 - name: Docker Build and Push uses: docker/build-push-action@v2 with: context: . file: ./Dockerfile tags: my-image-name:t10 build-args: | "NPM_TOKEN [your value] secrets.TOKEN }}" push: true

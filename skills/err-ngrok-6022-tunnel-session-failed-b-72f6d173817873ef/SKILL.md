@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Ug738Mvh5fhsyIQHhozyYQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://ngrok.com/docs/errors/err_ngrok_6022\",\"https://community.developer.atlassian.com/t/ngrok-issue-err-ngrok-6022/58211\"]"
 ---
 
 ## TL;DR

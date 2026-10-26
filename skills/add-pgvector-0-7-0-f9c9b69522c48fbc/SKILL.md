@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_C8bQhYZsK-iehI4iaF5-yA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/neondatabase/neon/issues/6516\"]"
 ---
 
 TL;DR: [andreasscherbaum (maintainer)]: The blocker is basically that we do not have enough for memory for many use cases, and we run out of memory. To avoid that, we need to enable swap. From there we autoscale up.

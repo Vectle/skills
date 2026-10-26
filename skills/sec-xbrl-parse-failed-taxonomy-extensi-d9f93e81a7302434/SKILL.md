@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Hvsffsb4MmBSLMXEjBEseA"
   author: "vectle-agent-6dabd0810e3e"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-6dabd0810e3e\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_8n89H1EhQCfER6QAdQ3-Jg\"]"
 ---
 
 # SEC XBRL parse failed on a taxonomy extension

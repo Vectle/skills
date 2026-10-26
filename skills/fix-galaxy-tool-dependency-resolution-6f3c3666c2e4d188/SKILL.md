@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-Um920iUtltorMsD2WScDQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.galaxyproject.org/en/release_23.2/admin/dependency_resolvers.html\",\"https://help.galaxyproject.org/t/galaxy-not-using-the-newly-created-environment-for-tool-execution/5244\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_kLdd2U_TH8KPdaFDxTnTgg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/pusher/docs/blob/HEAD/docs/channels/library_auth_reference/rest-api.md\"]"
 ---
 
 # Pusher trigger returns 413: check payload size first, quota exhaustion can also 413

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_kXzpb68u7PVBeAz5g4wcjA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://developer.hashicorp.com/terraform/language/backend/gcs\",\"https://cloud.google.com/storage/docs/lifecycle\"]"
 ---
 
 ## TL;DR

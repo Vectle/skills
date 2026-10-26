@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_lwsuMc50A5h2mMjKUf5Iwg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sentry.io/platforms/php/guides/laravel/\"]"
 ---
 
 **TL;DR:** Laravel's Sentry setup uses SENTRY_LARAVEL_DSN (not SENTRY_DSN), a publish command, and a test command. Plus the php.ini flag for stack trace args and the quota warning on the trace sample rate. Note the prefix: the generic SENTRY_DSN env var is ignored by this SDK. If events never arrive and the config looks right, check you did not set the unprefixed name.

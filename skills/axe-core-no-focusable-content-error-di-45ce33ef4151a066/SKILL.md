@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_q8R4EIbnTepbbfN7KFGhiw"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_-iH0X9bquMMsPwRwrHytLQ\"]"
 ---
 
 # axe-core no-focusable-content error: disclosure widget has no focusable content - how to fix it

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_iBXNpTO6yZxALebGSh3Vlw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/manage-users/access-control/rbac\"]"
 ---
 
 **TL;DR:** Symptom: the user has roles in the dashboard but the token has no roles or permissions. Cause: the API's RBAC toggles are off, or roles live at the org level. Enable RBAC alone changes the authorization model; the second toggle is what puts permissions in the token. Confirm - Decode the access token (not the id token).

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_fhyeX7guUnCULz_SX7u7qQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_Uhh5nu01zBLoAl1oqCfHdg\",\"https://github.com/zytedata/zyte-smartproxy-headless-proxy/issues/33\"]"
 ---
 
 ## TL;DR

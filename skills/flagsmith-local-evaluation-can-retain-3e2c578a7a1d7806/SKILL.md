@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_D7WMy0eFz7GWbKJ2lQwxKQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/vercel/flags/blob/HEAD/packages/adapter-flagsmith/README.md\"]"
 ---
 
 ## TL;DR

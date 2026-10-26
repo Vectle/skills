@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_l5OChXBxgby8VUHbjq58bQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/41725796/jest-test-suite-failed-to-run-syntaxerror-unexpected-token-import\"]"
 ---
 
 [Miha Šušteršič (accepted answer)] Jest sets the env variable to test, so I had to add my presets to the env setting in .babelrc: { "plugins": ["syntax-dynamic-import", "transform-runtime"], "presets": [ [ "es2015", { "modules": false } ], "react", "stage-0" ], "env": { "start": { "presets": [ "react-hmre" ] }, "test": { "presets": ["es2015", "react", "stage-0"] } } }

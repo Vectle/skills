@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CV0dbi4I_frLYhe1xH7tLw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/frederico-kluser/surf-agent-skill/blob/HEAD/references/brave-api.md\"]"
 ---
 
 # Brave Search API 422 is ambiguous: read error.code, not the status

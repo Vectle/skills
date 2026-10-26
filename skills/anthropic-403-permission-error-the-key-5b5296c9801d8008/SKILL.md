@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-YufuHy4hZxXpW3cHVR06A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://platform.claude.com/docs/en/api/errors\"]"
 ---
 
 **TL;DR:** A 403 means the API knows who you are but the key is not allowed to use that resource. Fix access, not the request. Check the organization's access and workspace settings in the Claude Console. Confirm you are calling the right endpoint for your product surface.

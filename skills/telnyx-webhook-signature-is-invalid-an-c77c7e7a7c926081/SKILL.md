@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_WTYVv9jZs2ClrUCuyo0LXA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_StIjVpt-sFoSHdy4sGweVQ\",\"https://github.com/team-telnyx/telnyx-node/issues/81\"]"
 ---
 
 ## TL;DR

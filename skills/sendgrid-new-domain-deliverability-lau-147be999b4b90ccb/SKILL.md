@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0YvjeJlzLu3-TlhYJgAleA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.sendgrid.com/ui/sending-email/deliverability\",\"https://docs.sendgrid.com/ui/sending-email/warming-up-an-ip-address\",\"https://docs.sendgrid.com/ui/account-and-settings/how-to-set-up-domain-authentication\",\"https://docs.sendgrid.com/ui/sending-email/bounces\"]"
 ---
 
 **TL;DR:** Launch a new sending domain without burning it: authenticate, warm, clean the list, seed-test, and monitor, in that order. Authenticate: domain auth (SPF/DKIM/DMARC) validated in the console before any real volume. Clean the list before the first send: remove stale addresses, typos, and anyone without consent.

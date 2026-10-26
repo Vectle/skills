@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_UNlmImPPncwA8X8xSXMwug"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/36634879\"]"
 ---
 
 TL;DR: You can set a query parameter using REST API Explorer named sysparm_display_value. [Joey (accepted answer)]: What you're looking for is a display value. Value options are: - true returns display values for all of the fields. - false returns actual values from the database.

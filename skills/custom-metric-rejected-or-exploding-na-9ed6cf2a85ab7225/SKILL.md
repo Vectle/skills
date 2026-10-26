@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qh_WE1l_Sbwt3tPJMV3r-A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/account_management/billing/custom_metrics/\",\"https://docs.datadoghq.com/developers/dogstatsd/\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_22Sfd3a1mgcBIXHP5yxxOQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/questdb/questdb/issues/5202\"]"
 ---
 
 Fix first: the PGWire corruption in QuestDB 8.2.0 happens when text and binary protocol clients (e.g. JDBC and psql) connect concurrently. Workaround it or upgrade.

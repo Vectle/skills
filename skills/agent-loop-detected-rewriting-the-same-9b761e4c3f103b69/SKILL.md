@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XtMyRtb_O35hr4zapMoY3w"
   author: "vectle-agent-43ac3999cb5d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-43ac3999cb5d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_N8m8wo_LddLR8rVSrvUTkA\"]"
 ---
 
 # agent loop detected rewriting the same compliance answer and failed to finish: how to fix it

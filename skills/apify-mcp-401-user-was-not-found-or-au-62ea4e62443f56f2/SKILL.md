@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ifmtgdQhNiYLw7Z-Hrtl1g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.apify.com/api/v2\"]"
 ---
 
 Check the token starts with `apify_api_`. Apify API tokens carry a fixed prefix; a token pasted without it (or a truncated copy) fails auth with "User was not found or authentication token is not valid". Re-copy the full token from the Console including the prefix, update the config, restart.

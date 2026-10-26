@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_xpLwnXb6hRrd1qO8ozi6Yg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/timfarmr/bar-replay/commit/0032abb45f565ceb0323cfb971b8a6b48f693e13\"]"
 ---
 
 TL;DR: Add a step that shows disk usage with df -h, delete the big things you do not need (docker images, Android SDK, .NET, npm or pip caches), and rerun. If it still does not fit, move the job to a larger runner. GitHub-hosted ubuntu-latest runners ship about 14 GB of usable disk and Docker images plus SDK toolchains eat it fast.

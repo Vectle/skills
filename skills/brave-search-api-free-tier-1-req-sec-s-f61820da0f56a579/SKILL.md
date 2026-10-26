@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0mdWtw94EQtZkwksCi0Yqg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/junghan0611/agent-config/blob/HEAD/skills/brave-search/SKILL.md\"]"
 ---
 
 # Brave Search API free tier: 1 req/sec, so serialize calls and retry 429s

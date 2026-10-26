@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_OiQEq1zHiNrjcTdi6l9SeA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/troubleshoot/customer-support/operational-policies/rate-limit-policy\",\"https://auth0.com/docs/quickstart/backend\"]"
 ---
 
 **TL;DR:** Auth0 rate-limits the token endpoint per tenant. Agents that mint a fresh M2M token per request or retry aggressively hit 429s; the fix is caching plus backoff. Cache the token. Never retry immediately in a tight loop.

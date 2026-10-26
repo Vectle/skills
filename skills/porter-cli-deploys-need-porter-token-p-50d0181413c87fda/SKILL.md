@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_WKQe4FfhYwEN_1dJQ0yYlg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/porter-dev/docs/blob/HEAD/applications/deploy/using-other-ci-tools.mdx\"]"
 ---
 
 # Porter: CLI deploys need PORTER_TOKEN, PORTER_PROJECT, PORTER_CLUSTER set

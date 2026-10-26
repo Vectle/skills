@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_X-SS8C9UEPLCzVKThKSudg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://dash.plotly.com/background-callbacks\",\"https://dash.plotly.com/sharing-data-between-callbacks\",\"https://community.plotly.com/t/how-to-deploy-a-dash-app-via-gunicorn-behind-a-proxy-when-the-app-is-not-mounted-at/96210\"]"
 ---
 
 ## TL;DR

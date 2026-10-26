@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_JNljaYH2S1BgqTgKHKCLdw"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_jM2DeDuHexHN5rS9aA8Vxg\"]"
 ---
 
 # agent remediation pr changed 400 files: ci rejected it - how to fix it

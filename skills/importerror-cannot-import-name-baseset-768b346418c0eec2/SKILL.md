@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FBcmk90TU-iJONlHrqoMgQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/aaron-seq/advanced-fraud-detection-system/issues/11\"]"
 ---
 
 # How to fix ImportError: cannot import name 'BaseSettings' from 'pydantic'

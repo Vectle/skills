@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_iDp_GfvQJEVsIqflFNO_Fw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/cli/commands/workspace/\",\"https://opentofu.org/docs/cli/commands/init/\"]"
 ---
 
 **TL;DR:** Workspaces served until prod needed real isolation. The migration: new directory roots per env, state moved per workspace, backend configs separated, CI retargeted. Create the directory structure: envs/dev, envs/staging, envs/prod, each a root module calling the shared child modules. Verify per env: terraform plan in the new directory must be clean against that env's state.

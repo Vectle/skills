@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Ln5aVBrBrZcN_CQCE7F9Iw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/giorgikavtaradze-prog/vetra/blob/HEAD/CLAUDE.md\"]"
 ---
 
 **TL;DR:** Membership and role API calls 403 for some users but work for admins. The endpoint requires a system permission most members do not have. Confirm the cause 1. Check the caller's membership role in the dashboard and whether that role carries the needed system permission.

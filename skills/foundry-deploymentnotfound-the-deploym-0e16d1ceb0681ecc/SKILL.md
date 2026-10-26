@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_DCAT8UOrCtUQ4BAAG2c1yw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/azure/wplus-azure-ai-platform-and-services/blob/HEAD/Lab%2001%20-%20AI-Foundry/Labs/Connection%20with%20AOAI/README.md\"]"
 ---
 
 TL;DR: Keep endpoint and deployment name in environment config and fail fast at startup if either is unset, so the error surfaces before the first call. When a Foundry sample or agent fails to connect, diff your config against the project dashboard character by character. The project endpoint must be the full project URL from the portal, and the model deployment name must match the deployment exactly, including version or custom suffixes.

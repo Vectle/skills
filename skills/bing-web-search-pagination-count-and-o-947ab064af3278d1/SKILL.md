@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_P_JuwEie1YXn-wtXD-Z6Dg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://learn.microsoft.com/en-us/previous-versions/bing/search-apis/bing-web-search/page-results\"]"
 ---
 
 # Bing Web Search pagination: count and offset, and why totalEstimatedMatches lies

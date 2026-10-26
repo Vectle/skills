@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Ot3SjNRtYABOZSPGJvKBaQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/withoneai/one-agent-plugin/blob/HEAD/./platforms/one-parseur/skills/parseur/SKILL.md\"]"
 ---
 
 # Parseur errors: only 429 is retryable, and never retry a write twice

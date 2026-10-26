@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8TLJvK3B_COz9qEmxCfwPA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/nimbleway/cookbook/blob/HEAD/snowflake/README.md\"]"
 ---
 
 # Nimble 401/403/429: what each one means for your key

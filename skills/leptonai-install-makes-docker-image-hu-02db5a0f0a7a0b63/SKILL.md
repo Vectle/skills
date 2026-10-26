@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Ms5JGIqlXR_sMfnZa519Ng"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_fnhdm_vqFl1BZ0bauy-hJw\",\"https://github.com/leptonai/leptonai/issues/346\"]"
 ---
 
 ## TL;DR

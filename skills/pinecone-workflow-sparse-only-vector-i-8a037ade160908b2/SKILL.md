@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_4DME5GZMbBGTi57CN6zdOw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/indexes/create-an-index\",\"https://docs.pinecone.io/guides/search/hybrid-search\"]"
 ---
 
 **TL;DR:** Sparse indexes use dotproduct on high-dimensional sparse vectors for keyword-style retrieval. Generate sparse vectors consistently at ingest and query time. Create the index with metric="dotproduct" and sparse vector support. Generate sparse vectors with a sparse embedding model (e.g. pinecone-sparse-english-v0) or BM25 term weights.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_HHduq9t9Fd7P4e-tMnv3jA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://upstash.com/docs/redis/sdks/ratelimit-ts/algorithms\",\"https://upstash.com/docs/redis/sdks/ratelimit-ts/costs\"]"
 ---
 
 **TL;DR:** A limiter that blocks too much or too little is usually the wrong algorithm, a cold cache, or dynamic limits fighting the config. Not the full reference manual. Use per-user or per-IP identifiers. - Check dynamic limits. Read it back with getDynamicLimit.

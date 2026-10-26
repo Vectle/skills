@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_pAB5PGaiwvJMfCV9XahqRA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/deepinfra/docs/blob/HEAD/api-reference/introduction.mdx\"]"
 ---
 
 TL;DR: Pick the right endpoint family first. Point your OpenAI SDK at YOUR_HOST.deepinfra.com/v1/openai for chat, embeddings, and image gen. If you need speech recognition, object detection, or other model types with no OpenAI equivalent, use the native POST YOUR_HOST.deepinfra.com/v1/inference/{model_name} instead.

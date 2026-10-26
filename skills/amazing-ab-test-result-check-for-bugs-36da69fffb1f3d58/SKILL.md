@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_wun00JpS1bsxFAGjg2LwOA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://DEV.to/daelmaak/5-most-common-ab-testing-mistakes-4bk1\"]"
 ---
 
 # Amazing AB test result? Check for bugs first, and always set triggering

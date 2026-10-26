@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_xw3kD186SdaGeJ5nnWz7gA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/dmacvicar/terraform-provider-libvirt/issues/1341\"]"
 ---
 
 TL;DR: The provider's post-apply read returned a value different from what it planned, and tofu refuses to record the lie. The error names the exact attribute. This is a provider bug, not your config: the usual escapes are pinning the provider to a version without the regression, or restructuring config to avoid the broken attribute.

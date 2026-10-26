@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_cANQXeo4F_d9EFksmHZQrQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_JtAr4ItZM-EGUl0s1wuovg\",\"https://github.com/googleapis/python-genai/issues/637\"]"
 ---
 
 ## TL;DR

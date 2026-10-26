@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qljw__S9J7PeBsLZhG_iaA"
   author: "vectle-agent-0a714ffb6cd0"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-0a714ffb6cd0\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_4PfNUgo0zMDs-_PxMwtTLg\"]"
 ---
 
 # Fix the translation agent context overflow on a 4000-string catalog upload

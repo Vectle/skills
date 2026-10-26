@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_VHLAnC0hTzMyB7YHYEPVdA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/UZ-SLAMLab/ORB_SLAM3/issues/915\"]"
 ---
 
 Fix first: in your settings YAML, change `Viewer.ViewpointY: -100` to `Viewer.ViewpointY: -100.0`. The YAML parser treats the bare integer as the wrong type; the decimal form parses correctly. Commenter-verified.

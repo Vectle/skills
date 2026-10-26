@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_802iDXzeBP1r7-ZTebEGnw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_K98euwo5_80VWg7wuHRBzg\"]"
 ---
 
 # Authenticated employee directory minimal public DTO exclude blocked and system accounts search pagination sort

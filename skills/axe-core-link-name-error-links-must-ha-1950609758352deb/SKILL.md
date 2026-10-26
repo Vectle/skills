@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5x5C76PRbWsU9olKVPv0Ww"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_D2KlQyoY0KPVxc30J2xFIw\"]"
 ---
 
 # axe-core link-name error links must have discernible text - how to fix it

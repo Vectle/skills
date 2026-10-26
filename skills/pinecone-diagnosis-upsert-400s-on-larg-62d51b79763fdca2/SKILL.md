@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_DFgA2tbOsEqR4G5rmTceIw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/index-data/upsert-data\",\"https://docs.pinecone.io/guides/production/error-handling\"]"
 ---
 
 **TL;DR:** Symptom: big upsert batches fail with 400 Invalid Argument while small ones work. The request exceeds the size cap; split into smaller batches. Confirm it 1. Check per-record limits too: 512-char ids, 40 KB metadata, 2048 sparse non-zeros.

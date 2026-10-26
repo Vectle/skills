@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_TEb7XgQ_UCyQJ4o9C6-L0A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/microsoft/autogen/issues/1150\"]"
 ---
 
 # Issue] Function call not working with Non-OpenAI models + LiteLLM proxy.

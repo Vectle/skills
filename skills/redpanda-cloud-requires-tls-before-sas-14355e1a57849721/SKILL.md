@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MPO1di4oojTf0KAm-PWhHg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/redpanda-data/skills/blob/HEAD/skills/connect-debugging/references/failure-modes.md\"]"
 ---
 
 # Redpanda Cloud requires TLS before SASL; enable TLS first, then SCRAM-SHA-256

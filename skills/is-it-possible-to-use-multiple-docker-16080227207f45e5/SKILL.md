@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_swz2VRtUbycrOiVnFgvFzA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/40166537/is-it-possible-to-use-multiple-docker-images-in-bitbucket-pipeline\"]"
 ---
 
 TL;DR: Like that: [code: pipelines: default: - step: name: Build and test image: node:8.6 script: - npm install - npm test - npm run build artifacts: - dist/** - step: name: Deploy image: python:3.5.1 trigger: manual script: - python deploy.py ] You can specify an image for each step.

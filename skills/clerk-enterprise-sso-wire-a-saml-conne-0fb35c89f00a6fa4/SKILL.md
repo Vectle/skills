@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9j8w8n77sGjZ4OZsGJSMOw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://clerk.com/docs/guides/organizations/add-members/sso\"]"
 ---
 
 **TL;DR:** Enterprise customers bring their own identity provider. The setup is a handshake: Clerk generates an ACS URL and entity ID, the customer's IdP admin configures them, and you map the connection to the customer's organization and flip on enforcement. Open the dashboard Enterprise Connections section (or per-org: pick the organization, then its SSO connections). Add a SAML or OIDC connection and scope it to the customer's organization.

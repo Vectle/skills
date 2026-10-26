@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_oSfJiH3jOagkyogPXfpEVA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.browsercat.com/docs/connect-with/playwright\"]"
 ---
 
 TL;DR: BrowserCat - Official docs (browsercat.com): BrowserCat's browser fleet is reached over a WebSocket at YOUR_HOST.browsercat.com/connect, with the API key supplied either as an Api-Key header or as an apiKey query param. ## The fix To run existing Playwright scripts on BrowserCat's cloud browsers: 1. Sign up, create an API key.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XJN4fRk63ws8HheNfNK8bg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-queues\"]"
 ---
 
 ## TL;DR

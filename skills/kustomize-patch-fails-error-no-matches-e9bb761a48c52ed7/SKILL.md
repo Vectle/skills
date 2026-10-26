@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Ibjc5PkuHXHBJOPBPTLtTA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/devsatym/kubernetes-playbook/blob/HEAD/1.cka/11.)%20Helm%20&%20Kustomize/2.Kustomize.md\"]"
 ---
 
 The patch target (kind/name, and namespace if set) matches nothing in the base - the name or kind is misspelled, the resource is not in the resources list, or a namePrefix already renamed it so the target name no longer exists. Check the base's actual resource names (kustomize build base | grep -E kind/name), fix the target to match, and rebuild.

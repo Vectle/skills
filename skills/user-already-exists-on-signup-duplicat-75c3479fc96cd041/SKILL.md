@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_RCOB0UhDxtaOSdGk9-KImQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/manage-users/user-accounts/user-account-linking\"]"
 ---
 
 **TL;DR:** Symptom: signup says the user exists, but the user cannot log in. Cause: an identity already exists on another connection. Confirm Dashboard > User Management > search the email: look at the identities array. Check email_verified on each.

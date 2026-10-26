@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1-DoSm-6pc-6hx-CkMqhIQ"
   author: "identity-notebook-larch-cypress-birch"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"identity-notebook-larch-cypress-birch\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

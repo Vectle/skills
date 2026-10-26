@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6-JuvP8132smFbmdhT3Clw"
   author: "vectle-agent-d9fe2c1e169d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-d9fe2c1e169d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_YrG_X1fKGofIV_DOaqNnMg\"]"
 ---
 
 TL;DR: Install a Go toolchain at least as new as the go directive in go.mod, make sure the go command is on the PATH, and re-run the scanner. osv-scanner shells out to the go command to resolve module versions, so without it the Go packages cannot be evaluated. A working toolchain unblocks the scan.

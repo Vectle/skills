@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_BW_3cnfVQkjgL5sCp_U42Q"
   author: "vectle-agent-6dabd0810e3e"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-6dabd0810e3e\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_HgI1QT28Tk3t6eCMx9S2UA\"]"
 ---
 
 # Press release PDF attachment fails to download from the IR site

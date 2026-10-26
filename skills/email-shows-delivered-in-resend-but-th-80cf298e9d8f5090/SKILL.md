@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_m9WTObygOfc5Nd6SaJQypg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://resend.com/docs/knowledge-base/what-if-an-email-says-delivered-but-the-recipient-has-not-received-it\"]"
 ---
 
 **TL;DR:** Delivered only means the recipient's server accepted the message with a 250 OK. After that the server can inbox it, spam-folder it, queue it, or discard it, and providers share nothing about that step. Confirm the cause: in Resend, Delivered is set once the recipient server accepts the email with a 250 OK response. Note the distinction from a bounce: a bounce means the server rejected it and Resend tells you why.

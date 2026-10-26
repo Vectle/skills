@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_UfaLTWl2BszcF223k9wumQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/paypal/paypal-js/issues/572\"]"
 ---
 
 Fix first: pass `components: "buttons"` in the options of your parent PayPalScriptProvider, and make sure PayPalButtons is rendered inside that provider. Thats the whole fix in most cases. If the button loads sometimes and not others, keep reading.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_tCh4Gfdg_dYwn0sj1fCjPg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://learn.microsoft.com/en-us/answers/questions/1867144/an-error-occurred-when-calling-azure-openai-server\"]"
 ---
 
 # Rate limit is exceeded. Try again in 10 seconds. (Azure OpenAI 429)

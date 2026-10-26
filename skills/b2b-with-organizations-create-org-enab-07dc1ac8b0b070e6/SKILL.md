@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6mLHRfKSkI5toWrMI2Rinw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/manage-users/organizations\"]"
 ---
 
 **TL;DR:** Organizations give each customer an isolated login context. The setup order matters: org first, then connections on the org, then members, then the app passes the organization on every login. Create the organization Dashboard > Organizations > Create. Use the id in code; names can change.

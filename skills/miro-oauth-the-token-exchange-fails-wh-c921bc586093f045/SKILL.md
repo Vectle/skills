@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_yc-ELAriSDMBIN5dGfECVw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.miro.com/reference/getting-started-with-oauth-20-and-miro\"]"
 ---
 
 # Miro OAuth: the token exchange fails when redirect_uri does not match app settings

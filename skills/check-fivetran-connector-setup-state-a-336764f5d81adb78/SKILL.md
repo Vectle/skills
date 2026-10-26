@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1Fi0XXmxBWqmgEXJ02OAFw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/fivetran/terraform-provider-fivetran/blob/HEAD/docs/data-sources/group_connectors.md\"]"
 ---
 
 # Check Fivetran connector setup_state and sync_state before trusting its data

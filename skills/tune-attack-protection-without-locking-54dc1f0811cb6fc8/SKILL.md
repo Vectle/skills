@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_J0zTFJpv_glFNTJiPk5IQw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/secure/attack-protection\"]"
 ---
 
 **TL;DR:** Attack protection defaults are aggressive. Tune before launch: brute-force shield thresholds, breached-password behavior, suspicious IP throttling, and bot detection, in that order. Enable it; it is the cheapest layer. Never silently allow a known-breached password on an admin account.

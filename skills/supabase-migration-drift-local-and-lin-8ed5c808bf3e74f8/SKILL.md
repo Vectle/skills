@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_htuOYgPNGBP6PQ1_HlZUfg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://supabase.com/docs/guides/local-development/cli/getting-started\"]"
 ---
 
 TL;DR: The migration history table says one thing and the database says another, usually because someone changed the schema by hand in the dashboard or ran ad-hoc SQL. Stop and diff with `supabase db diff` against the linked project, decide per change whether the database or the migrations are the source of truth, repair the history with `supabase migration repair` if the history rows are wrong, and only push when the diff is empty. Never push blind.

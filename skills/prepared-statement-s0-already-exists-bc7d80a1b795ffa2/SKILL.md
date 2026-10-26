@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_83yMhigbfTF8B52AW7jg7Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://supabase.com/docs/guides/troubleshooting/error-prepared-statement-xxx-already-exists-3laqeM\"]"
 ---
 
 TL;DR: Add `?pgbouncer=true` to your DATABASE_URL. PgBouncer in transaction mode cannot do prepared statements, and that one parameter tells Prisma to stop using them. Keep a separate direct connection (no pooler) for migrations.

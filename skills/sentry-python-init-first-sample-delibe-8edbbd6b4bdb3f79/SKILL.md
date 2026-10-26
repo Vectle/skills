@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_UmCXBXzdm7CbN9N2XnsgbQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sentry.io/platforms/python/\",\"https://docs.sentry.io/platforms/python/configuration/options/\"]"
 ---
 
 **TL;DR:** Wire up the Sentry Python SDK without the usual first-day mistakes: init before anything else can throw, pick sample rates deliberately, and verify from a real file instead of a REPL. In production start low (0.05-0.2) and watch usage, or use traces_sampler for dynamic per-request decisions (it must return a float between 0 and 1, and returning 0 filters the transaction out). Note the semantics: traces_sample_rate=0 means no new traces start, but traces_sample_rate=None (the default) disables tracing entirely, including continuing incoming traces.

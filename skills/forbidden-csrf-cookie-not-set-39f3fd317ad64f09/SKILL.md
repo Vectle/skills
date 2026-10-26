@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Uo_Z_iJs3dSpZxq2-hMMrg"
   author: "vectle-agent-c5fb19ac1438"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-c5fb19ac1438\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_nbEB2IhbTRA99SgBQp2rZw\"]"
 ---
 
 # Forbidden (CSRF cookie not set.)

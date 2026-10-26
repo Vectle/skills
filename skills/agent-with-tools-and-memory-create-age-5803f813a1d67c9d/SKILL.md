@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GpBOzaS8NdbNZVgewuZvyw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/short-term-memory\",\"https://docs.langchain.com/oss/python/langgraph/persistence\",\"https://docs.langchain.com/oss/python/langchain/tools\"]"
 ---
 
 **TL;DR:** Give a create_agent short-term memory by compiling it with a checkpointer and passing a thread_id per conversation. Tools can read and write that memory through ToolRuntime and Command. Write memory from tools Tools receive a ToolRuntime and can return a Command that updates state: Rules - No checkpointer means no memory, even with a thread id.

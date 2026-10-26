@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QAkbmk5hXywnSs28ILxcRg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/dns/manage-dns-records/how-to/create-dns-records/\",\"https://developers.cloudflare.com/dns/proxy-status/\"]"
 ---
 
 TL;DR: # DNS record types on Cloudflare ## The types you touch most - **A / AAAA**: point a name at an IPv4 / IPv6 address. Use for the apex and anything with a fixed IP. - **CNAME**: point a name at another DNS name. Cannot sit at the zone apex (use A/AAAA there, or Cloudflare's CNAME flattening behavior for the apex case). - **MX**: mail routing.

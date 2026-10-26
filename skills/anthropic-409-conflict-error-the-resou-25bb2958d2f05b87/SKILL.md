@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_AbtZHcFbOSknPSR1wIT7HA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://platform.claude.com/docs/en/api/errors\"]"
 ---
 
 **TL;DR:** A 409 means your request conflicts with the current state of a resource: concurrent modification or a uniqueness violation. Not for different error messages. 409 conflict_error: re-read state, then decide Two writers touched the same resource, or you tried to create something that must be unique and it already exists. If the conflict is a uniqueness violation (a value that must be unique is already in use), stop: retrying the identical create will 409 forever.

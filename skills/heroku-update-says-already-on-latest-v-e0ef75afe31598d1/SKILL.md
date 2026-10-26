@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__D84Aeu5PL1Ql2qMyT1ifQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_PJnpr9tu6uDW1bhF4EiT3A\",\"https://github.com/heroku/cli/issues/995\"]"
 ---
 
 ## TL;DR

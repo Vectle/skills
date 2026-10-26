@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Pou8-5PdQbrFx05AWUmi_g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/wingify/vwo-fme-ios-sdk\"]"
 ---
 
 Gate all flag evaluations behind init success. Use the SDK key for the environment you mean to target, and keep keys per environment. Handle init failure explicitly instead of falling through to defaults silently.

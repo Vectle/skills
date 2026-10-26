@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_o26vVfWulfRvoDggpHHeVQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.adyen.com/development-resources/error-codes/\"]"
 ---
 
 # Adyen: Invalid card number (error 101)

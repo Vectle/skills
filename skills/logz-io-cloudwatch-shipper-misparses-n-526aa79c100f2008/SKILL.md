@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-7qctqzI2e2B1ZIfMFAKxQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_vL6FFCjhneY7dnAWek_6Ug\",\"https://github.com/logzio/logzio_aws_serverless/issues/40\"]"
 ---
 
 TL;DR: if the Logz.io CloudWatch shipper mangles NodeJS Lambda logs, the parser assumed the 3-part Python format (timestamp, requestID, message) but NodeJS lines have 4 parts including the log level. Upgrade the shipper to a version containing the PR #42 fix; the maintainer confirmed AWS Lambda log formats differ per runtime.

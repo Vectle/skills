@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9HMb_h0XJ3McF8FI1vsPZA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/kameleoon-new/client-csharp/blob/HEAD/CHANGELOG.md#4221---2026-07-15\"]"
 ---
 
 # Kameleoon C# SDK duplicated the visitor-code cookie until proxies rejected responses

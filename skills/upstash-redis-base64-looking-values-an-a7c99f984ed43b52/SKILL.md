@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6K5ZGg0GZOv2zdGQCAHNXg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://upstash.com/docs/redis/sdks/ts/troubleshooting\"]"
 ---
 
 **TL;DR:** The JS SDK base64-encodes responses and JSON-deserializes values by default. Know the two flags that change this before your stored data comes back looking wrong. Handle big counters, Snowflake IDs, and similar as strings or BigInt in your code. Check them before you rewrite your storage layer.

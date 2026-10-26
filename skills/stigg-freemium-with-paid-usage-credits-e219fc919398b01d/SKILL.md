@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FTSg2y0dsC_eQXRysGdwYQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/stiggio/skills/blob/HEAD/skills/stigg-recipes/references/freemium-with-paid-usage.md\"]"
 ---
 
 TL;DR: Stigg has two competing primitives for this: credits (recurring grant + paid top-ups) and metered feature with overages (included quota + per-unit rate). Context: Official docs (Stigg skills repo, stigg-recipes/references/freemium-with-paid-usage.md): the full recipe for the OpenAI-API-style 'free quota, then pay per unit' model.

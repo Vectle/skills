@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XApnT98ZCHTdTHLe0-FzyA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/secure/tokens/refresh-tokens/refresh-token-rotation\"]"
 ---
 
 **TL;DR:** Rotating refresh tokens give SPAs long sessions without third-party cookies, but the client must replace the stored token on every rotation and treat reuse detection as a full logout. Set Reuse Interval if you need a small leeway for concurrent requests (a few seconds), but keep it tight.

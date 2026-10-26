@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9W91gDHWTpsfBdazIu1LcA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/authenticate/passwordless\"]"
 ---
 
 **TL;DR:** Magic links remove passwords but add device-binding and expiry traps. Configure the connection, set the link lifetime deliberately, and design for the newest-link-wins behavior. Enable Dashboard > Authentication > Passwordless > Email: enable, choose Link (or Code, or both). Configure the email provider first (custom provider for production).

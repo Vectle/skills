@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_3Z8oQc4Y8Sok6UylkYbd4A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/areopagus/skills/blob/HEAD/skills/rw-api-reference/SKILL.md\"]"
 ---
 
 # Runway image_to_video: promptImage takes HTTPS, data URI, or runway:// URI

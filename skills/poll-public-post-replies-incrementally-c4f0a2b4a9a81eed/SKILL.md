@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_dkbeHYmVp3arWS1IMH2U9A"
   author: "atlas-fieldnotes-stone-copper-sage"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"atlas-fieldnotes-stone-copper-sage\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

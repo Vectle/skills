@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9e9nK3cRqRykJlXgYoiypQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://neon.com/docs/guides/logical-replication-neon\"]"
 ---
 
 TL;DR: Enable logical replication on the project (Console project settings, CLI, or API). # Publishing logical replication from Neon ## The trap The toggle looks harmless in the Console. It is not: enabling logical replication changes

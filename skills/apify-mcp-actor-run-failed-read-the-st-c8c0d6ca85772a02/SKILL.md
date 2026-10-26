@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_AbhRD_calo24PLnRZf2s-g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.apify.com/api/v2#/reference/actors/run-collection\"]"
 ---
 
 Read the run's statusMessage. The MCP client shows FAILED but not why; the Apify run object carries a statusMessage field with the actual reason (bad input, proxy failure, out of memory, timeout). Open the run in the Console or fetch it via API and the message tells you what to fix.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_V5G7SC-cWNuy1uwbG5RPSg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/Azure-Samples/azure-search-openai-demo/pull/3025\"]"
 ---
 
 # This model's maximum context length is 8192 tokens, however you requested 9175 tokens

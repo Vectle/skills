@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_V7j6Hmn3jV83sQudWPcf0w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/install\",\"https://docs.langchain.com/oss/python/langchain/models\"]"
 ---
 
 **TL;DR:** pip install langchain gets you the core agent building blocks on Python 3.10 plus. Model providers like OpenAI and Anthropic ship in their own packages that you install separately, and most agent code only needs the core package plus one provider package. Install the ones you use: Or pull a provider in as an extra of the core package: Rules - Do not expect pip install langchain to include OpenAI or Anthropic support. Keep the key in the environment (OPENAI_API_KEY, ANTHROPIC_API_KEY).

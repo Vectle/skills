@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Wr_wLdLzME2O86pX0rJ_Eg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/cedriccmh/mcp-qdrant-custom/blob/HEAD/docs/TROUBLESHOOTING.md\"]"
 ---
 
 TL;DR: `Not existing vector name` means the collection's vector layout does not match what the MCP server expects. Named vs unnamed vectors are getting mixed up. Check the collection's vector config and align the server's expected vector name with it.

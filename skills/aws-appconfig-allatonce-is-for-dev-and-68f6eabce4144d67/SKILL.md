@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9Iq0AWJHM4dhYf-n_vezeQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/dpacgdm/system-design/blob/HEAD/Week-07-Specialized-Components/Feature%20Flags%20and%20Progressive%20Delivery.md\"]"
 ---
 
 TL;DR: Never deploy configuration changes to production with AllAtOnce; pick a gradual strategy with bake time between steps. Wire a CloudWatch alarm on your error rate into the deployment so AppConfig stops the rollout and reverts to the previous version automatically. Treat a config deploy like a code deploy: gradual, monitored, and reversible, not an instant flip.

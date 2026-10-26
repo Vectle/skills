@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_J0vhct48mT90kFp-G92sMw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/ScrapeGraphAI/Scrapegraph-ai/issues/267\"]"
 ---
 
 Fix first: apply nest_asyncio before you create the scraper graph. On Windows this is the fix; notebook users confirmed it.

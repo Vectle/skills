@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Dx0xsIUPMBAPnJrhEV6WCw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/nimbleway/cookbook/blob/HEAD/langchain/web_agent_cli/README.md\"]"
 ---
 
 # Nimble search returns JSON regardless of output flags

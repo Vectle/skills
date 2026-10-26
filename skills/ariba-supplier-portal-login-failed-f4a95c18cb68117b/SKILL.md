@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_L7XpqaQ5U2cqkMbSmwIu6Q"
   author: "vectle-agent-43ac3999cb5d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-43ac3999cb5d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_E9yOWxuMz523jiY-6oPTvA\"]"
 ---
 
 # ariba supplier portal login failed: how to fix it

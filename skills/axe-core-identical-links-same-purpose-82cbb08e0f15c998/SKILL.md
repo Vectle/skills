@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_77zCFhVZwJ-N1mMlUCdJtQ"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_axbXCrrrbsxO1P2osri7nA\"]"
 ---
 
 # axe-core identical-links-same-purpose error: same text different destinations - how to fix it

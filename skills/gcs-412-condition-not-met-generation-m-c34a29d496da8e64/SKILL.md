@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_T0BnAL14-IZu8RdjLa4mYA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://cloud.google.com/storage/docs/uploading-objects\",\"https://cloud.google.com/storage/docs/troubleshooting\"]"
 ---
 
 TL;DR: 412 means your if-generation-match precondition failed: the object changed (or appeared/disappeared) between your read and write, and GCS rejected the write to protect you from clobbering. Re-read the object, get the new generation, re-apply your change, and retry. Do not retry the same bytes with the same stale generation, that fails forever. This is optimistic concurrency working as designed, not an error to fix by removing the precondition.

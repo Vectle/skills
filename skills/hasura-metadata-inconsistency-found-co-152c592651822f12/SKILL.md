@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-H9TC5NMFbafCT7ex1Y5GA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_n6i0JPF-BdFWAym8FjF-QA\",\"https://github.com/hasura/graphql-engine/issues/10867\"]"
 ---
 
 TL;DR: if upgrading hasura/graphql-engine from v2.49.4 to v2.49.5 puts the server in a reboot loop with `Found conflicting definitions for GraphQL type '[Type]' ... Former has definition: enum ... Latter has definition: scalar ...`, it is a v2.49.5 regression in the graphql-default naming convention handling. Upgrade to v2.50.0; the reporter confirmed the behavior is gone. If you must stay on v2.49.x, downgrade back to v2.49.4 as the temporary workaround. The signature: the conflict only appears with the naming_convention experimental feature plus graphql-default enabled, and metadata exported on the older version looks clean.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_UU7-IUVFodoHO39J3qVoVw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/omqkhafi/okengine/blob/HEAD/site/content/docs/providers/redis-cloud.mdx\"]"
 ---
 
 # Redis Cloud uses per database high ports, copy the full endpoint not just the host

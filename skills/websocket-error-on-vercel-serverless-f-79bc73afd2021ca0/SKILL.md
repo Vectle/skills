@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl___TVCCNjybydk6dyYYK6Yg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/neondatabase/serverless/issues/15\"]"
 ---
 
 ## TL;DR

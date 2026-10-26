@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ZdtyBQgPnCuHQQUtH5KR2w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/oarriaga/face_classification/issues/160\"]"
 ---
 
 # How to fix ImportError: cannot import name 'imread' from 'scipy.misc'

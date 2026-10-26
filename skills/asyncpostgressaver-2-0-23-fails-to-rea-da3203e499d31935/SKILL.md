@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MtXcQrgUHKW3g1SkX_EC4A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/langchain-ai/langgraph/issues/5677\"]"
 ---
 
 # AsyncPostgresSaver 2.0.23 fails to read channel values: NoneType object is not a mapping

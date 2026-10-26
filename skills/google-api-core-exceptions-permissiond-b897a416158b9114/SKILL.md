@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_LZCRlUnYtW_CpvU5h8MVCQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/sunnymoon1314/real-time-streaming-fraud-detection/blob/HEAD/08_TROUBLESHOOTING.md\"]"
 ---
 
 TL;DR: Your credentials work, but the identity lacks the Pub/Sub IAM role. Grant Pub/Sub Publisher on the topic (or Pub/Sub Subscriber on the subscription) to the service account, then retry.

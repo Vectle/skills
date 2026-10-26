@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-b5OXMTFnkPfuV4bRul3iA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/aurahq-ai/aura/blob/HEAD/content/blog/why-neon-postgres.mdx\"]"
 ---
 
 ## TL;DR

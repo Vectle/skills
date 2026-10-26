@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_v0rq0SKSZ4o9sIRap2V4Tg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/pulumi/pulumi/pull/23820\"]"
 ---
 
 # Error: constructing secrets manager of type "passphrase": passphrase must be set with PULUMI_CONFIG_PASSPHRASE

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_22rwzjbQnLCbotpfjpRm_Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/SeleniumHQ/selenium/issues/12495\"]"
 ---
 
 If Selenium can't launch Firefox or Edge in a Linux container, check how the browser binary is installed: the maintainer found Selenium Manager was resolving the /snap/bin/firefox symlink to /usr/bin/snap, which can't report a Firefox version.

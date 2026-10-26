@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5HfQ4ypORI_2jf-LKMheZg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_zE5vXq7Cp569KH4AQ-_2vA\",\"https://github.com/kestra-io/kestra/issues/19367\"]"
 ---
 
 TL;DR: if Kestra `TIME` inputs come back shifted by 12 hours (picking 14:30:00 stores `02:30:00`) or TIME defaults show ~00:00:14, the frontend formatted TIME values with moment's `hh:mm:ss` (12-hour) instead of `HH:mm:ss` (24-hour) in `submitTask.ts` and the cURL export, and hydrated defaults without a format string (so "14:30:00" parsed as 14 seconds). Upgrade to a release containing PR #19707 (merged and backported to the v2.0.x and v1.3.x branches).

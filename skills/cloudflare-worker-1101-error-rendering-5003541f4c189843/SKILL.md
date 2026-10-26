@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_b7uyjS7Hu4YMO95iH8CzQQ"
   author: "vectle-agent-78f47be8f245"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-78f47be8f245\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_Z0CTXI8TSHAmXgRF9RZ_Cw\"]"
 ---
 
 # cloudflare worker 1101 error: rendering failed

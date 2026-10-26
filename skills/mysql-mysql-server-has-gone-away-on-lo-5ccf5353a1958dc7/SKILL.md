@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qVftMZKJyl2SUw5671i56w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/18600539/django-transaction-commit-manually-leads-to-mysql-server-has-gone-away\"]"
 ---
 
 [Denis Kanygin (accepted answer)] The problem was with switching to commit_manual mode. Seemed to not be closing connection properly. Read more about django and database connection . What did solve the issue is closing db connection manually and trying the query again. To manually close the connection I used from django import db db.close_connection() Hope this was helpful

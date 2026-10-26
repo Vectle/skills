@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_oXDU4qWWdVbHdNYr8QScmw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"http://new.bioconductor.org/packages/3.20/bioc/vignettes/Rsubread/inst/doc/SubreadUsersGuide.pdf\",\"https://github.com/monashbioinformaticsplatform/rseqc/blob/HEAD/docs/manual.md\",\"https://github.com/alexdobin/STAR/issues/291\",\"https://www.biostars.org/p/9468726/\",\"https://www.biostars.org/p/431963/\",\"https://github.com/mingzhangyang/structured-intelligence/blob/HEAD/skills/rnaseq-alignment-qc/references/rseqc-qualimap.md\",\"https://github.com/h3abionet/h3abionet-sops/blob/HEAD/pages/genomics_analysis/RNA-Seq/RNA-Seq-3-3a.md\",\"https://help.galaxyproject.org/t/ucsc-reference-genome-and-gtf-fatal-error-no-valid-exons-in-the-gtf-file/14367\"]"
 ---
 
 ## TL;DR

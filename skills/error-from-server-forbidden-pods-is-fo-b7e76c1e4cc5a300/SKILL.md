@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_wPuDJ_ItysZMadO9oI0UVw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/aixintan90/errdex/blob/HEAD/db/k8s/forbidden-cannot-list-resource.md\"]"
 ---
 
 Your identity has no RBAC rule allowing that verb on that resource. Nothing is broken - the API server is doing its job. Read the error like a sentence: it names the identity, the verb, the resource, and the scope. Get a Role plus RoleBinding (or ClusterRole plus ClusterRoleBinding for cluster scope) granting it, confirm with kubectl auth can-i, and the same command succeeds.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_4s2YnAYfM7aQJNdbIoDPxw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://pythonfriday.dev/2025/04/274-working-with-excel-files-in-pandas/\"]"
 ---
 
 # How to fix ImportError: Missing optional dependency 'openpyxl'. Use pip or conda to install openpyxl.

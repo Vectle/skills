@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1JJRlHOJrb68wIYl6KWoHQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.middleware.io/agent-installation/kubernetes/kubernetes-agent\"]"
 ---
 
 TL;DR: On Kubernetes, run exactly one Middleware agent DaemonSet per cluster; a second install fights the first and data goes missing. If you manage several clusters from one context, set a distinct cluster name per install so data lands under the right cluster. CrashLoopBackOff with OOMKilled means the memory limit is too low, raise it rather than restarting and hoping.

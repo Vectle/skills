@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_pUkQqvmOsYZ9XdTFOsGdbw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/sendgrid/docs/blob/develop/content/docs/for-developers/sending-email/integrating-with-the-smtp-api.md\"]"
 ---
 
 **TL;DR:** Wire ActionMailer to SendGrid: smtp_settings with the apikey username, plain auth, and STARTTLS on 587. Includes the delivery-method check for each environment. Set the default from to a verified sender: config.action_mailer.default_options = { from: '[YOUR_VERIFIED_SENDER]' }.

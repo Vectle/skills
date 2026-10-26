@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_vJf90-AUiC6k20zG_oP8uA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/anthropics/claude-tag-plugins/blob/HEAD/google-drive/skills/google-drive-api/SKILL.md\"]"
 ---
 
 ## TL;DR

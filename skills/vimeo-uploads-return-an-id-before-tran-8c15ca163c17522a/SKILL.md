@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_LGyhGMCunvPEzDh4VyJxKg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/thenavidm/vimeo-mcp/blob/HEAD/SKILL.md\"]"
 ---
 
 After upload, poll get_video until status is available, then share or embed. Build the wait into automation with a timeout rather than assuming a fixed delay. Surface the transcoding state in UI so users know the video is not ready yet.

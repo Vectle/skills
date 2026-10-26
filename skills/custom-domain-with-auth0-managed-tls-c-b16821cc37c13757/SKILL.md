@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_t1ss7R2RMz4wqGdptxC07w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/customize/custom-domains\"]"
 ---
 
 **TL;DR:** A custom domain unifies branding and makes Auth0 cookies first-party. Auth0-managed certificates remove the renewal toil; the switchover order avoids breaking logins mid-migration. Add the domain Dashboard > Branding > Custom Domains > Add. Verify the domain first; do not point SDKs at it before verification completes.

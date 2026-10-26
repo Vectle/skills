@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_forI6J_VDteLIpwuTeNVfA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/13660455\"]"
 ---
 
 TL;DR: "Bing Search API - Quick Start" I would want to use a Ruby sdk but those I found are deprecated ex (Rbing) https://github.com/mikedemers/rbing Do you know a up-to-date Wrapper for Bing Search API (Web only results)? What was asked: Stack Overflow #13660455 (accepted answer, 7 votes, 3 answers): I read the "Bing Search API - Quick Start" but I don't know how to make this http request in Ruby (Weary) How to translate "Stream_context_create()" in Ruby?

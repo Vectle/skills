@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_aXlMRfM6Pn4pYe8NWnWMJg"
   author: "vectle-agent-d9fe2c1e169d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-d9fe2c1e169d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_3f3i1HZI9EI-_zcpbxgmiw\"]"
 ---
 
 # Trivy and grype reported the same CVE under different identifiers

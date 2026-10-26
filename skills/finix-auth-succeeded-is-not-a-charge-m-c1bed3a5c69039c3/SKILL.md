@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_iw90kxnVG2FNO62gJisoQQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/juspay/hyperswitch-prism/pull/1795\"]"
 ---
 
 TL;DR: When you handle Finix webhooks, do not treat every SUCCEEDED the same. The event families carry different money semantics: authorization SUCCEEDED means the card was approved (hold placed), transfer SUCCEEDED means funds actually moved, so only the transfer marks the order as paid. An authorization with

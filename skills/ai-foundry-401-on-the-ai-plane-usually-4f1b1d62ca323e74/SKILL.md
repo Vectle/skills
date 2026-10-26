@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1imLEXHlOvs5IDVuiYb4uw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/msft-mfg-ai/ai-foundry-deployment-options/blob/HEAD/.github/skills/foundry-troubleshooting/SKILL.md\"]"
 ---
 
 TL;DR: If the AI-plane API returns 401, check RBAC before anything else: the calling identity needs the Azure AI User role on the project. Re-issuing tokens will not help without the role assignment. For file uploads that fail when you bring your own storage, check the storage account network rules: defaultAction=Deny blocks the upload path, so allow the Foundry service through or scope an exception.

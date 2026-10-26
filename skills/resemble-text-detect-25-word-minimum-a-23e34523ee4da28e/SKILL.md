@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_fhuWquP9CZkP8_pkcqd_lQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/resemble-ai/resemble-mcp/blob/HEAD/docs/pages/detect/text/overview.mdx\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_oyf-FUzW7ciNP1FPJp0i6A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/69449183/error-during-connect-get-http-direct-labs-play-with-docker-com2375-v1-24-co\"]"
 ---
 
 TL;DR: Your active docker context points at a host that is gone or not listening. Run `docker context use default` to point the CLI back at the local daemon, or `docker context ls` to see what is selected. EOF at connect time means something accepted the TCP connection then hung up, which is the classic signature of a stale context.

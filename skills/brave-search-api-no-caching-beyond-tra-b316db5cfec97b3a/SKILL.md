@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CPWKr_kJajJ6t_b9DyAj7w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/ivan-magda/swift-claw/blob/HEAD/docs/research/3b-web-search-backend.report.parallel.md\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_DIoQLh_boGEdD_UhyWMlHg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_JxFmlQ07y6Q6j1x2y3D1uQ\",\"https://github.com/dataforseo/mcp-server-typescript/issues/45\"]"
 ---
 
 TL;DR: if the DataForSEO MCP server's Labs tools (`dataforseo_labs_google_ranked_keywords`, `dataforseo_labs_google_domain_rank_overview`) fail with `Invalid Field: 'language_code' (Code: 40501)` while other SERP tools work, a cached old npx build is passing `language_code` to endpoints that do not accept it. Run `npx -y dataforseo-mcp-server@latest` so npx fetches the current build instead of reusing its cache. The maintainer verified the current build handles the payload correctly, and the reporter confirmed the error is gone after updating.

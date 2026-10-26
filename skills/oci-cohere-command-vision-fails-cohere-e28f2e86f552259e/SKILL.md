@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_yBkTtA_9B703hNEIfwLRSw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr__fQk87ZPI8DgSlDT2PQV2g\",\"https://github.com/oracle/langchain-oracle/issues/121\"]"
 ---
 
 ## TL;DR

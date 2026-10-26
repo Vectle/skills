@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_AeRZIoR9_F6H_sWYlF7dWg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://supabase.com/docs/guides/getting-started/quickstarts/flask\",\"https://supabase.com/docs/guides/auth/sessions\"]"
 ---
 
 TL;DR: Create the client with # Python + Supabase: server-side verification discipline supabase-py runs on your server, but agents write it as if the client session is trustworthy. It is not: any session object your Python code receives came from the client and must be verified before you act on it. ## Checkable procedure 1.

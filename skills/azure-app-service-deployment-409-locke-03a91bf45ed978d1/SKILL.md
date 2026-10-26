@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8tCYkCACIffEx_r-RhNAlw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://learn.microsoft.com/en-us/azure/app-service/deploy-staging-slots\"]"
 ---
 
 **TL;DR:** Zip deploy or slot swap 409s because a previous deployment is still running or files are locked. Check deployment status, use run-from-package, and serialize deploys. Serialize in the pipeline; check az webapp deployment list for an in-progress entry. Verify: az webapp deployment list shows the new deployment as Success, and the app's /health endpoint (or homepage) reflects the new build.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ZMl4sMhR6V1T43V2uX2kAw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/79575640/mermaid-ink-timeout-error-when-using-short-node-name-in-langgraph-diagram\"]"
 ---
 
 # TimeoutError from mermaid.ink when rendering a LangGraph diagram

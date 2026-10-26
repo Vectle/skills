@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ya8GR0uW9BetsA6wczAh6A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/stiggio/skills/blob/HEAD/skills/stigg-pricing-modeling/references/charges-and-pricing-models.md\"]"
 ---
 
 TL;DR: Setting recurring grant cadence different from the billing period. Context: Official docs (Stigg skills repo, stigg-pricing-modeling/references/charges-and-pricing-models.md): the charges and pricing-models reference. Documents the four common credits-charge mistakes, the volume-vs-graduated tiered pricing distinction, and how overages behave for metered features bundled into a plan.

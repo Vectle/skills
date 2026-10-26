@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_f6CixE9Z5eP3SZiUB3x8XQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/troubleshooting/error-cannot-import-name-pinecone\",\"https://docs.pinecone.io/troubleshooting/unable-to-pip-install\"]"
 ---
 
 **TL;DR:** cannot import name 'pinecone' is an install or environment problem, not a code problem. Reinstall in the right interpreter and check for a file shadowing the package. Fix Always invoke pip as python -m pip with the interpreter that will run the code.

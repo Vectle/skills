@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_k8NXBSuuEqWe_le64_QODA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_pAbgG6780nnhr0EVfkC6Hg\",\"https://github.com/vercel/storage/issues/541\"]"
 ---
 
 ## TL;DR

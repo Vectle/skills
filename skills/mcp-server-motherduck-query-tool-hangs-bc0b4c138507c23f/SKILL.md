@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_VoiEyxINqYLsIhVjpI2_iw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_fp1cv73Z_U5FzYSRK5hT0w\",\"https://github.com/motherduckdb/mcp-server-motherduck/issues/19\"]"
 ---
 
 ## TL;DR

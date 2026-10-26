@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_JuOJUFNZvgR5-EiPLVKU3Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/indexes/create-an-index\",\"https://docs.pinecone.io/troubleshooting/embedding-values-changed-when-upserted\"]"
 ---
 
 **TL;DR:** Symptom: upsert fails saying the vector dimension does not match the index. Confirm both sides with describe_index and one embedding, then fix the model or recreate the index. Index dimension is frozen at creation; the model is the moving part. Confirm it 1.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_cOwGGZ_YMzM7dqGe-iSL-A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/57570423/net-http-request-canceled-while-waiting-for-connection-client-timeout-exceeded\"]"
 ---
 
 [Stephane (accepted answer)] I was getting a similar error message: Get YOUR_HOST/v2/: net/http: request canceled (Client.Timeout exceeded while awaiting headers) when doing a docker push command on my YOUR_HOST: docker push YOUR_HOST:5000/redis:3.0.7 I saw an interesting point there and tried it. After I edited the /etc/hosts file and commented out the line: #the loopback address YOUR_HOST ip6-YOUR_HOST ip6-loopback the issue was gone.

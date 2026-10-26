@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_51v6xCBdNDpAIJMYho7Lfg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/79588809/mongodb-atlas-local-in-docker-stopped-working-because-of-security-keys\"]"
 ---
 
 ## TL;DR

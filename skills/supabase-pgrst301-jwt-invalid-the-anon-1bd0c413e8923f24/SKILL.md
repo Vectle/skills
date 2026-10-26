@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_E3Y_4hTBYveHbHErYiXwsQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://supabase.com/docs/guides/auth/jwts\"]"
 ---
 
 TL;DR: After any key rotation in the dashboard, update every consumer: frontend env, Edge Function secrets, server env, CI. # PGRST JWT errors: which key, which project, which purpose PostgREST validates the JWT on every request. When it fails, agents cycle through random fixes.

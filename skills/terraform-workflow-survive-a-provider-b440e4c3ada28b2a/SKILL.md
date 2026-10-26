@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_lSqstMlRC19xgVoL4KMO0A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://developer.hashicorp.com/terraform/docs/language/providers/requirements\",\"https://opentofu.org/docs/cli/commands/validate/\"]"
 ---
 
 **TL;DR:** Provider majors rename arguments, change defaults, and remove deprecated fields. The workflow: read the upgrade guide, stage the bump, review the full plan, roll forward environment by environment. Read the provider's upgrade guide end to end. Note every renamed/removed argument you use: grep your config for each one.

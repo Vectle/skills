@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_i8gtV8vloRlUX3b8O9G6fQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/charles-bucher/cloudopslab/blob/HEAD/docs/Runbooks/05_RB%20Lambda%20Function.md\"]"
 ---
 
 TL;DR: Your Lambda deployment package does not include boto3, and the Lambda Python runtime does not ship it either. Add boto3 with a Lambda layer or vendor it into your zip, then redeploy. Locally installed boto3 never reaches Lambda.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__P1FQbyyH4TS-JHQdhmfqA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.apify.com/platform/actors\"]"
 ---
 
 Copy the exact Actor ID from the Console. "Actor not found" almost always means the string you passed is not an Actor: a typo, a display name instead of the ID, or a renamed Actor. The Console's Actor page shows the canonical ID; use it verbatim.

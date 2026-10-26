@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2U0nGcmKetKnrAV4xrxvxg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/getting_started/site/\",\"https://docs.datadoghq.com/getting_started/agent/\"]"
 ---
 
 **TL;DR:** DD_SITE tells the agent which Datadog region your org lives in. US1 is datadoghq.com, EU is datadoghq.eu, plus us3, us5, ap1, ap2 and gov sites. The agent installs fine, starts fine, and your hosts never appear. The tracers default to US1, so EU/APAC orgs must set it or traces go nowhere. - API calls: the API hostname changes too, e.g. https://api.datadoghq.eu for EU.

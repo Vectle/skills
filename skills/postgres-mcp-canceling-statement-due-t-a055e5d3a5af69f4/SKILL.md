@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_byznql5slJs-bHXYy2p17g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/yawlabs/postgres-mcp\"]"
 ---
 
 TL;DR: Your query is fine, it just ran longer than the MCP server allows. Raise `POSTGRES_STATEMENT_TIMEOUT_MS` in the server's `env` block, or narrow the query with a WHERE clause or LIMIT. The timeout exists to stop runaway queries from hanging your agent.

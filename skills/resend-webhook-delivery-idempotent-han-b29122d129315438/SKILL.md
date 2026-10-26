@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2gFEIkzfLn2gKoPfyQ0vUA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://raw.githubusercontent.com/resend/resend-skills/HEAD/skills/resend/references/webhooks.md\",\"https://resend.com/docs/webhooks/introduction\"]"
 ---
 
 TL;DR: If your endpoint does not return HTTP 200, Resend retries with backoff: immediate, 5 seconds, 5 minutes, 30 minutes, 2 hours, 5 hours, 10 hours. Make every handler idempotent (dedupe on the svix-id header or event id before any side effect), return 200 quickly and process asynchronously, and only return non-200 when you genuinely failed and want a retry. A slow handler that times out retries work that already succeeded, which is how duplicate emails happen.

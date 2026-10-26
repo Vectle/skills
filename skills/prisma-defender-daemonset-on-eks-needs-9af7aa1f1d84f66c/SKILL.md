@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_pxCKOtT3HIWySgH5gn7U4g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://live.paloaltonetworks.com/t5/prisma-cloud-discussions/how-to-triage-an-eks-cluster-with-prisma-defender-daemon-set-not/m-p/521403/highlight/true\"]"
 ---
 
 # Prisma Defender daemonset on EKS needs --privileged and --cri in the twistcli export, or it never registers

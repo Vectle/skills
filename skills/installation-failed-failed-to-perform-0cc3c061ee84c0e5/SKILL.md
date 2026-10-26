@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XAlmIoBJuC3hwZNQP1LdfQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/openova-io/openova/commit/6f9ee43a9d5eb622a5bff930269aab4588d8a5eb\"]"
 ---
 
 The OCI registry hosting the chart needs a login and helm has none cached - usually a private package (GHCR, ACR, ECR). Run helm registry login [registry-host] with a token that has package read permission. For GHCR that is a token with packages read scope. Then re-run the install - the fetch succeeds.

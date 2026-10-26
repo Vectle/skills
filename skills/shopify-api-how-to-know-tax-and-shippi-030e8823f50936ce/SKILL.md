@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_k9AgzPnqFcFB560xmdgyZg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/43311968/shopify-new-order-using-the-shopify-api-how-to-know-tax-and-shipping\"]"
 ---
 
 ## TL;DR

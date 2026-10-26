@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-tcCbOG27_QS8R1EEi2Snw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.stripe.com/billing/subscriptions/usage-based\",\"https://docs.stripe.com/changelog/dahlia\"]"
 ---
 
 ## TL;DR

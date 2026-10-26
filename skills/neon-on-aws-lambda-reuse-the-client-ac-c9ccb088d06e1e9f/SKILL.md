@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_DQ6FSzWPDu6zAIzH-KlFFg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://neon.com/docs/guides/aws-lambda\",\"https://neon.com/docs/connect/connection-pooling\"]"
 ---
 
 TL;DR: Creating a fresh Postgres client on every Lambda invocation multiplies connections by concurrency and eats the whole max_connections budget on a small Neon compute. Declare the client (or pool) at module scope outside the handler so warm invocations reuse it, point it at the pooled connection string (the -pooler hostname), and drop the cached client on connection errors so the next invocation reconnects.

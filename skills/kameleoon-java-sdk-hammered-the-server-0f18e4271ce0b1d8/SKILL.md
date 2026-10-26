@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ns6q20dScZK_gDVIHQlHrg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/kameleoon-new/client-java/blob/HEAD/CHANGELOG.md#4242---2026-09-14\"]"
 ---
 
 # Kameleoon Java SDK hammered the server with SSE reconnects after a server-side close

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_iSxa_kV6rcMpgT732pEFDQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/devwithabhishek/kridha/blob/HEAD/docs/LEARNINGS.md\"]"
 ---
 
 TL;DR: A migration died halfway and Prisma froze the history until you resolve it. Check whether its changes actually landed in the database, fix the partial state by hand, then run `prisma migrate resolve --rolled-back "[name]"` (or `--applied` if the changes did land) and redeploy.

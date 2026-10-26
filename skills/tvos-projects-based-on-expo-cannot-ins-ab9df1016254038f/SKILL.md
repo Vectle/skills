@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2I2SVLxQcEitmE8LUZn7vA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/RevenueCat/react-native-purchases/issues/947\"]"
 ---
 
 Fix first: upgrade react-native-purchases to 7.26.0 or newer. tvOS support was added there (member vegaro); the reporter confirmed it runs perfectly on 7.26.0.

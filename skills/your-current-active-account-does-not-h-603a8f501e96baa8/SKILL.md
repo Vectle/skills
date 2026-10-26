@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_l4rkZuc1MTgBH4IZFkaSug"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.cloud.google.com/architecture/bps-for-mitigating-gcloud-oauth-tokens\"]"
 ---
 
 The account gcloud has selected has no stored credentials. Run `gcloud auth login` to log that account in again, or pick a different account with `gcloud config set account`. Check `gcloud auth list` first to see which accounts actually have credentials.

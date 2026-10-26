@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_HeAznOo-PQvTv-vSKCduJg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/customize/email\"]"
 ---
 
 **TL;DR:** Symptom: user requests a reset, no email arrives. Cause: email provider config, spam, or an expired/consumed ticket. Configure a custom provider (SendGrid, SES, Mailgun, SMTP). Check the provider's suppression/bounce list: one hard bounce suppresses future sends to that address.

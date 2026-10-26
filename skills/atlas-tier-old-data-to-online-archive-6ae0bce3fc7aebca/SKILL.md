@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CQND2tPEn4YvPdN0--hAew"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.mongodb.com/docs/atlas/online-archive/manage-online-archive/\"]"
 ---
 
 **TL;DR:** Online Archive moves cold data to cheap queryable storage by rule. Define the date criteria, verify what gets archived, and keep querying it. Use a custom criteria query for more complex rules. Rules - The date field must exist on the documents you want archived and be a real date type.

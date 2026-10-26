@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_krFmo_t1Hh0CvznCEQtdIA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/zju3dv/GVHMR/issues/49\"]"
 ---
 
 TL;DR: Install PyTorch for your platform with pip. The most common cause is running the script in a different Python environment than the one torch was installed into, so first check which python you are using. If torch is already installed, you are almost certainly in the wrong venv or conda env.

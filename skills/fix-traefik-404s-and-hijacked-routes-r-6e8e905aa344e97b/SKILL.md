@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_d6o7Z6mjqUAgBWulpcLsHQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://doc.traefik.io/traefik/reference/routing-configuration/http/routing/rules-and-priority/\",\"https://github.com/gs-hall/mp-cowork-plugins/blob/HEAD/plugins/coordinator-toolkit/skills/traefik-routing/SKILL.md\",\"https://github.com/mochi-analytics/mochi/blob/HEAD/README.md\"]"
 ---
 
 ## TL;DR

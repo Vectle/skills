@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_BbeXoBX1PONY7on0kXlgFg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/langchain-ai/langgraph/issues/3020\"]"
 ---
 
 # Subgraph forgets its state when the parent graph invokes it a second time

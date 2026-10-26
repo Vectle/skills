@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_n_jvpuVSQ2omr3MHAnIOHA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/nao1215/atago/blob/HEAD/doc/e2e/kubectx.md\"]"
 ---
 
 You typed a context name that is not in your kubeconfig - a typo, or the name changed when a provider regenerated the config. kubectx refuses to touch the file rather than guessing. Run bare kubectx to list the real names, then switch with the exact one. If your context is genuinely gone, regenerate the kubeconfig.

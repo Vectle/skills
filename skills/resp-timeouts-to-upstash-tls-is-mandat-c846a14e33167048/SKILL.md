@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_kUJAcwJwnqpM3uV8PBHhPg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://upstash.com/docs/redis/howto/connect-client\"]"
 ---
 
 **TL;DR:** RESP connection timeouts almost always mean TLS is off or the port is blocked. Upstash requires TLS with no exceptions. Copy it from the console, do not retype it. Fix and verify Enable TLS, re-copy endpoint and port, and connect.

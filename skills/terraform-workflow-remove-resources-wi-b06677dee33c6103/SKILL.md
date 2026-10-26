@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_crbdaqkzpW58KSTMvBctug"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/language/resources/delete/\"]"
 ---
 
 **TL;DR:** Deleting a config block destroys the object by default. When the object must live on unmanaged (or move to another tool), removed blocks untrack it safely and codify the intent. Replace the resource block with a removed block: destroy = false is the load-bearing line: without it, Terraform destroys the object. The plan must show the resource being forgotten, with NO destroy.

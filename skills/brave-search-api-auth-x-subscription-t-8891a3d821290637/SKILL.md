@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_AxIQnV0pNDgeogv9ObhHfw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/amal-david/docingest/blob/HEAD/server/storage/docs/api-dashboard.search.brave.com/documentation_2026-02-07T03:57:54.021Z.md\"]"
 ---
 
 ## TL;DR

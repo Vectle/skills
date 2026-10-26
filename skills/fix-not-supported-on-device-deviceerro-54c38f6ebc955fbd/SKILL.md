@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_UyDRQO4MMh4i3B-NVzhE1Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pennylane.ai/en/stable/code/api/pennylane.devices.preprocess.validate_observables.html\",\"https://docs.pennylane.ai/en/stable/code/api/pennylane.devices.preprocess.decompose.html?highlight=qml%20devices%20preprocess%20decompose\",\"https://discuss.pennylane.ai/t/using-a-cv-circuit/1189\",\"https://docs.pennylane.ai/projects/strawberryfields/en/stable/devices/remote.html\"]"
 ---
 
 ## TL;DR

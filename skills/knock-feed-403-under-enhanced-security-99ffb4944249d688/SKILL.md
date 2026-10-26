@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_L6Ajyf-eNQohDX8YkIr5XQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/knocklabs/knock-node/issues/23\"]"
 ---
 
 ## TL;DR

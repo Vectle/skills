@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6RoOnxzHAX_ZzDd3L9W4Gg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/models\",\"https://docs.langchain.com/oss/python/langchain/quickstart\"]"
 ---
 
 **TL;DR:** init_chat_model from langchain.chat_models is the unified way to build a chat model. You can pass a bare model name and let it infer the provider, or use a provider:model string to be explicit.

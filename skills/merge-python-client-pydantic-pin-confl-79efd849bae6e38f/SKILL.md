@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_PHkPxWvWrQIko9_hJXhDEw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/merge-api/merge-python-client/issues/68\"]"
 ---
 
 TL;DR: The general lesson: when a generated SDK pins a dependency range that conflicts with the rest of your project, check the SDK's releases first. Upgrade merge-python-client to 1.0.6 or newer to get the softened pydantic constraint. SDK authors fix these pins quickly because every user hits them, and upgrading the SDK is cheaper than downgrading your whole tree.

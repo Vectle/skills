@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_pYqOa80NMCioO6xvaN7nYQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/sendgrid/docs/blob/develop/content/docs/for-developers/sending-email/integrating-with-the-smtp-api.md\"]"
 ---
 
 **TL;DR:** Point Symfony Mailer at SendGrid with a MAILER_DSN: smtp host, the literal apikey username, TLS on 587, and a verified sender address. Never commit the real value. The from address must be verified in SendGrid.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_osJ56ybB_q6GKZ2J1iIPIg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[]"
 ---
 
 # There was an error connecting to GitHub server. Please check your server URL and network connection, then try again.

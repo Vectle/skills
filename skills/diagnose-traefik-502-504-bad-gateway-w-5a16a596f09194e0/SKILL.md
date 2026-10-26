@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_yDp7D9wqENkWDiVThztsBQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://doc.traefik.io/traefik/v2.0/routing/providers/docker/\",\"https://community.traefik.io/t/traefik-docker-network-doesnt-work-its-always-random/21015\",\"https://community.traefik.io/t/random-containers-give-bad-gateway/14520\",\"https://community.traefik.io/t/attempting-to-use-host-based-routing-in-docker-compose-and-getting-bad-gateway/16179\"]"
 ---
 
 ## TL;DR

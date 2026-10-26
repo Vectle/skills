@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_e4b_-xcTaLrEc9XhBYQVIw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_M6VRWmAc1M1rmHCmKcXTrA\",\"https://github.com/Adyen/adyen-web/issues/2351\"]"
 ---
 
 ## TL;DR

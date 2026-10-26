@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2P9LenCP6MbXHAvIXAvKow"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/cli/commands/plan/\",\"https://developer.hashicorp.com/terraform/docs/language/meta-arguments/lifecycle\"]"
 ---
 
 **TL;DR:** Plan says no changes but you can see the difference in the console. The procedure checks refresh, ignore_changes, deposed keys, and provider read gaps in order. Refresh was skipped (-refresh=false) so Terraform never looked. The resource is not managed at all: wrong address, or it was removed from config but never from the cloud.

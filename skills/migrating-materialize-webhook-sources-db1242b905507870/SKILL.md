@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qrlH_SqtsQAfTqQ2fg6yxA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/materializeinc/terraform-provider-materialize/blob/HEAD/docs/guides/materialize_source_table.md\"]"
 ---
 
 # Migrating Materialize webhook sources is a rebuild, not an upgrade

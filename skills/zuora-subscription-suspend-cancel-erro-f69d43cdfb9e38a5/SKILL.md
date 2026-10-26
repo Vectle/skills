@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_AY52DxqDj0Xd5v697rrevg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developer.zuora.com/v1-api-reference/api/subscriptions/put_suspendsubscription.md\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_4wUxik1I7h5B3p3Am6XTnA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/benborla/mcp-server-mysql\"]"
 ---
 
 TL;DR: Auth worked, but the database named in `MYSQL_DB` does not exist on that MySQL server. Either create it with `CREATE DATABASE`, or fix the typo in the name. Then restart the client.

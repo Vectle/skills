@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ZLR9rf4IlZst5qTnHIJ0_Q"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_C_iUQwQ5w5KKbazwG02CbA\",\"https://github.com/aws/aws-sdk-js-v3/issues/1877\"]"
 ---
 
 ## TL;DR

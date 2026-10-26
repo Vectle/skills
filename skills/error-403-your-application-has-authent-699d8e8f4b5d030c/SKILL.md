@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_dX-YbsBlLy1qKDaeSTe9Qw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/googlecloudplatform/terraform-google-enterprise-genai/blob/HEAD/docs/TROUBLESHOOTING.md\"]"
 ---
 
 # Error 403: Your application has authenticated using end user credentials which are not supported

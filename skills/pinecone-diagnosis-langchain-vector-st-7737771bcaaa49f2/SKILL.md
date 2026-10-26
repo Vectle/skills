@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_o1n6T3kffu5uGgNPjLJYrw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/integrations/langchain\"]"
 ---
 
 **TL;DR:** Symptom: PineconeVectorStore construction succeeds but the first operation fails. LangChain never creates the index; create it first with matching dimension. Confirm it 1. pc.list_indexes() with the raw Pinecone client: is the name there? Check the namespace: the store may target a namespace while you verified the default.

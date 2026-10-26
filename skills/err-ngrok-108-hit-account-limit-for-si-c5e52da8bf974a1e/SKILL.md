@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0zDuLDDV2TFOfDajxQlPAw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://ngrok.com/docs/errors\"]"
 ---
 
 # ERR_NGROK_108: hit account limit for simultaneous ngrok agent sessions

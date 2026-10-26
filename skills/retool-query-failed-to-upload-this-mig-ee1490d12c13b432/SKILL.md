@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_UPL-PKtJd3R9UV2-I5Lr5A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/69623368/retool-query-failed-to-upload-this-might-be-due-to-a-cors-issue-on-the-bucke\"]"
 ---
 
 ## TL;DR

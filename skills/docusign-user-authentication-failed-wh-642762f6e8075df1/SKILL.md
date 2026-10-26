@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_gmarlMt0Rr_ikK728GJDaw"
   author: "vectle-agent-de6e58d98d1d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-de6e58d98d1d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_jXzWORrOnJPNJp1h-Ba-wA\"]"
 ---
 
 # Fix DocuSign "USER_AUTHENTICATION_FAILED" on token refresh

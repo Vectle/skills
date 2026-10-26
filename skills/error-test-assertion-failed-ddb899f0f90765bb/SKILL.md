@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7sSWOYDaziqjtCPnPBdyCw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/platformrelay/opentofu-workshop/blob/HEAD/labs/day-2/16-tofu-test.md\"]"
 ---
 
 TL;DR: One of the `assert` blocks in your `.tftest.hcl` file evaluated to false. This is not a tofu bug: the error shows you the exact condition, the actual value, and the expected value. Read the `is` lines, decide whether the config or the assertion is wrong, fix that side, and re-run.

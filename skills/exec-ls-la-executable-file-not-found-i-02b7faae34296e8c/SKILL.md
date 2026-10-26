@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7QzxkusJXZ26xs1DUGjopQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/kevin-burns/claude-skills/blob/HEAD/terragrunt-skill/references/error-patterns.md\"]"
 ---
 
 TL;DR: `execute` takes a LIST, not a shell string. `execute = ["ls -la"]` looks for a binary literally named `ls -la` and fails with "executable file not found". Split it into `["ls", "-la"]`, or use `["bash", "-c", "..."]` when you genuinely need a shell.

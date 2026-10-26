@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0KXV-DNw3-iOJVLLKQBDEw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://clerk.com/docs/guides/development/webhooks/syncing.md\",\"https://clerk.com/docs/guides/development/webhooks/debugging.md\"]"
 ---
 
 **TL;DR:** Import verifyWebhook from @clerk/nextjs/webhooks, keep /api/webhooks out of every auth check, and return 200 after your side effects, not before. A 400 means Clerk retries. Keep the route public. Incoming webhooks are never signed in; they come from Clerk's servers.

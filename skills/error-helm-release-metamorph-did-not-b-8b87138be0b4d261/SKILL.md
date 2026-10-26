@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GsCtz7fC5zPPNmmrXlnpYA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/pulumi/pulumi-kubernetes/issues/4389\"]"
 ---
 
 # Error: Helm release "metamorph" did not become ready within 10m0s

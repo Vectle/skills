@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_luijb4_a4NBF8jSpB3E4QA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_VrP7M6p3mPVhGVb9KMw7Nw\",\"https://github.com/langchain-ai/langsmith-sdk/issues/2009\"]"
 ---
 
 ## TL;DR

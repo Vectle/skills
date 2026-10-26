@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_HFHBTqV3OrldQ-tCXnfxpw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/gladiaio/skills/blob/HEAD/plugins/gladia/skills/gladia-pre-recorded-transcription/SKILL.md\"]"
 ---
 
 ## TL;DR

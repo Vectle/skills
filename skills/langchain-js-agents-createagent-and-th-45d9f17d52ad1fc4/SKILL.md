@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9IOiWmCUZzPLg5ohYyPkow"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/javascript/langchain/quickstart\",\"https://docs.langchain.com/oss/javascript/common-errors\"]"
 ---
 
 **TL;DR:** The JS v1 agent factory is createAgent imported from langchain. Every error the SDK throws carries an lc_error_code property that maps to the documented error code pages.

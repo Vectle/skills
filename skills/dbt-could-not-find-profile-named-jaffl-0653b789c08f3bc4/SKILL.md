@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_T7BDuFBkXakTHo_u1tCRwQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.getdbt.com/faqs/Troubleshooting/runtime-error-could-not-find-profile\"]"
 ---
 
 # dbt: Could not find profile named 'jaffle_shop'

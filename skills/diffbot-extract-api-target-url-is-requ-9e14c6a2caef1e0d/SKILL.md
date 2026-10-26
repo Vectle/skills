@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_UAZS--X1Gk0zl4y5WBYZvQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.diffbot.com/docs/extract/job\"]"
 ---
 
 # Diffbot Extract API: target URL is required, default third-party timeout is 30s

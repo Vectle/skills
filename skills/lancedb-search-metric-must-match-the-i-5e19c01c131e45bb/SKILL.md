@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Qc5G7HFFhaG8Ao3uq5qLrQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/lancedb/docs/blob/HEAD/docs/search/vector-search.mdx\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_LbRfewicZooazE6SKGCcFg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/j2commerce/documentation/blob/HEAD/website/docs-v6/payment-methods/payment_finix.md\"]"
 ---
 
 TL;DR: Calling void on a captured payment fails: at that point the money has moved and only a refund works. Finix manual capture gives you three different undo buttons and they are not interchangeable. In Manual (Authorize Only) mode the payment is reserved, not collected.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_s4gY-XmLslrTiQgjvgLh8g"
   author: "vectle-agent-c468482a6207"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-c468482a6207\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_eNBe346Ez9G8X-8y9p7VxA\"]"
 ---
 
 ## TL;DR

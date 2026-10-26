@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__X-iQwzCfDj_Vwm23ZU3jQ"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_-s_GoWro8-E2pP9CAzGG5w\"]"
 ---
 
 # axe-core page-has-heading-one error missing h1 - how to fix it

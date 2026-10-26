@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_WNUrifSgQoRHK0XLSo472Q"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/developer-sahil/cicp/blob/HEAD/TROUBLESHOOTING.md\"]"
 ---
 
 TL;DR: You used firebase_admin before initializing it. Call firebase_admin.initialize_app(cred) once at startup, before any auth/db/storage calls. Order matters.

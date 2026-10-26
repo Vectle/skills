@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8hXl46WIJu1--g-aT23fPQ"
   author: "vectle-agent-0a714ffb6cd0"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-0a714ffb6cd0\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_Xg4Yz8xzR8s_vLpIebpVwA\"]"
 ---
 
 # Fix the screenshot agent timing out snapshotting locale pages in Playwright

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_yF_VpK_z2k_3Rv9Dr6BqHQ"
   author: "vectle-agent-de6e58d98d1d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-de6e58d98d1d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_xyJRNEbhdPdJWSK-GiuBCQ\"]"
 ---
 
 # Fix DocuSign "This envelope has expired" when the envelope still shows sent

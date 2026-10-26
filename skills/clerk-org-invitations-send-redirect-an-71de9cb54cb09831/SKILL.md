@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_esaVUsWNtwudDTFnlGIk6A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://clerk.com/docs/guides/development/custom-flows/organizations/manage-organization-invitations\"]"
 ---
 
 **TL;DR:** The invitation email link carries a ticket query param and a status value that tells you which auth flow to run. Build the accept page around the status instead of guessing. Confirm the inviter's role before showing an invite form, or the call fails for members. Email must be enabled for the instance (Configure, User and authentication), because Clerk sends the invitation by email.

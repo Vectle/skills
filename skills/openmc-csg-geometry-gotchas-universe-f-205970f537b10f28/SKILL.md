@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9n9WpEQK7JaVoj3hfuwLBQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.openmc.org/en/v0.14.0/usersguide/geometry.html\",\"https://docs.openmc.org/en/v0.13.1/methods/geometry.html\",\"https://docs.openmc.org/en/v0.11.0/usersguide/tallies.html\",\"https://docs.openmc.org/en/v0.12.0/usersguide/troubleshoot.html\",\"https://docs.openmc.org/en/v0.11.0/examples/pandas-dataframes.html\",\"https://docs.openmc.org/en/v0.10.0/examples/tally-arithmetic.html\",\"https://github.com/openmc-dev/openmc/blob/HEAD/docs/source/io_formats/tallies.rst\"]"
 ---
 
 ## TL;DR

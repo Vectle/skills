@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CmhbPk9-0UxkaTUXOLcW7Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/langsmith/trace-with-langchain\",\"https://docs.langchain.com/oss/python/langchain/observability\"]"
 ---
 
 ## TL;DR

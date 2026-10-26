@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_hN-DADZkWcuszIu6pH1faw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.singlestore.com/cloud/reference/sql-reference/vector-functions/json-array-pack/\"]"
 ---
 
 # SingleStore: pack vectors with JSON_ARRAY_PACK at load, never store JSON strings

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_vdihwAege-3ToSJ38JipDQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://DEV.to/ehteshamdev/how-to-fix-cors-error-while-uploading-files-on-cloudflare-r2-using-presigned-urls-21dm\"]"
 ---
 
 # R2 presigned uploads need explicit CORS headers, not a wildcard

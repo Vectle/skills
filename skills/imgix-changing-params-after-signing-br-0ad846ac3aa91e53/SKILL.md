@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_kE_AxBJOoS8P0TyHtsZF7w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.imgix.com/en-US/getting-started/setup/securing-assets\"]"
 ---
 
 ## TL;DR

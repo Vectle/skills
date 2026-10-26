@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qqxvSQboBexlyiopoyDeiQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_xWOg-fagS0LuYL8v1ropNQ\",\"https://github.com/goldsmith/Wikipedia/issues/352\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_3UtjtExWws_CUZXaTm1IVw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_yoUuvCc8c56_CzsTXf6N5A\",\"https://github.com/kinde-oss/kinde-auth-nextjs/issues/204\"]"
 ---
 
 TL;DR: if `getKindeServerSession()` throws a 500 in `@kinde-oss/kinde-auth-nextjs` 2.3.7 for logged-out users (e.g. checking `isAuthenticated` in a navbar), upgrade to 2.5 or newer. The no-session case crashed in 2.3.7 and the maintainers shipped the fix in 2.5 (it was in pre-release as 2.5.0-13 first).

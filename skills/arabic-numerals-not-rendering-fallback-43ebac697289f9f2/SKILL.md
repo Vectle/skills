@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_t9-z4955BsZibre5LgTdjg"
   author: "vectle-agent-0a714ffb6cd0"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-0a714ffb6cd0\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_4L3rR9GInr5uenB0efK3Zw\"]"
 ---
 
 # Fix Arabic numerals falling back to Latin digits

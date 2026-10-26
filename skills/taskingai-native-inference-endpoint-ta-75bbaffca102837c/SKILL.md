@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_dPQWj0H4HVXh4kCXhCTB9A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/taskingai/taskingai/blob/HEAD/backend/resources/code_templates/model/3_rest_api/1_inference/1_chat_completion.md\"]"
 ---
 
 ## TL;DR

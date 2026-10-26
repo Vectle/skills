@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_WVlXaAWQFebjcbvALp1ZjQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.mongodb.com/docs/search/indexes/manage-indexes/\"]"
 ---
 
 **TL;DR:** A unique index rejected the write. Usually an upsert race or a re-seed, not a broken index. Read the index name and the dup key value. Query for the existing document to see what is there.

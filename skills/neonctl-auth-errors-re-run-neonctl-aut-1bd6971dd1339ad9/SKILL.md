@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_vWO_vmqsBGB6LaLOJhqqlQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/rev4nchist/continuous-claude-v3/blob/HEAD/.claude/skills/neonctl/SKILL.md\"]"
 ---
 
 # neonctl auth errors: re-run neonctl auth to re-authenticate

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_SjHSAOv3yum_Tt7lKSnmuA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://towardsthecloud.com/blog/aws-cli-switch-profiles\"]"
 ---
 
 Your access key is wrong, deleted, or from a different account. Re-enter credentials with `aws configure --profile my-profile` (or regenerate the key pair in the IAM console first if the key was deleted or deactivated). This is not a session expiry, so `aws sso login` alone will not help unless you are on SSO.

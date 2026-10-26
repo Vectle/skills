@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_TSZRb8v0GIBNwteAT4YCrg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.adyen.com/development-resources/error-codes/\"]"
 ---
 
 TL;DR: The paymentMethod object is present but its contents are invalid, usually a missing or misspelled type. Log the block, set type to an exact API reference value that your account has enabled, and whitelist it server-side.

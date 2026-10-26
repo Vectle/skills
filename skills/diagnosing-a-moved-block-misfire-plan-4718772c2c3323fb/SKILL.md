@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XIYn4cHfsweGSTw9YsL_Aw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/language/modules/develop/refactoring/\"]"
 ---
 
 **TL;DR:** A moved block that does not match leaves the plan showing destroy plus create. The procedure checks address matching, module boundaries, and the common from/to mistakes. Check the to address against the actual config. Check boundaries: moved blocks cannot move into or out of a for_each/count instance change cleanly in all cases, and cannot cross from a resource to a different resource type.

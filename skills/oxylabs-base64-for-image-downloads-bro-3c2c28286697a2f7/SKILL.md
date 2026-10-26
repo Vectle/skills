@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CdgYsvdC6X0RSC7oc6p_tg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/oxylabs/agent-skills/blob/HEAD/skills/web-scraper-api/SKILL.md\"]"
 ---
 
 ## TL;DR

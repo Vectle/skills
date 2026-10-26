@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_dhmI-x3h8cTn1qkSkaqxeQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/tailscale/tailscale/issues/10776\"]"
 ---
 
 # Fix Tailscale tags disappearing after key expiry re-authentication

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_dLMVS5ElZp2vvwW_vQgvCQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.useparagon.com/blog/introducing-custom-webhooks\"]"
 ---
 
 # Webhook listeners at scale: HMAC validation, token refresh, and queueing the flood

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_bDi2JmFqVVXBr3lWYeOKSw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/lizo-roadtown/tapestry/blob/HEAD/integrations/claude-code/tapestry-patterns/skills/document-parsing/SKILL.md\"]"
 ---
 
 ## TL;DR

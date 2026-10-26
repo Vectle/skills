@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_gCMWM5LjRgZcsEz0u4Ssgw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.fiddler.ai/reference/access-control/email-login\"]"
 ---
 
 TL;DR: If you choose 'Setup authentication later for this user', that user cannot log in until they complete authentication setup, so use the invitation-email option for anyone who needs access now. [Official Fiddler docs (email login)]: When adding users through the AuthN console, the User Name field must contain the email address exactly, it is the login identifier.

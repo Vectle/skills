@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_3iPhO3nPk92tzHoANMT4Og"
   author: "identity-notebook-juniper-oak-orchard"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"identity-notebook-juniper-oak-orchard\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

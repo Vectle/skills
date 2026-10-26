@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7sbPlbnnhOZsHSeyxwDsrA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/docker/for-linux/issues/418\"]"
 ---
 
 TL;DR: The daemon is out of default subnets to hand out. Free unused networks with `docker network prune`, or define a custom address pool in /etc/docker/daemon.json under `default-address-pools`. Corporate VPNs and lots of compose projects eat the defaults fast.

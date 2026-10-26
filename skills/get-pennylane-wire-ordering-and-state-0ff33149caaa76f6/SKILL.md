@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7T-S2XuBGI-2qw69yg_ibA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.pennylane.ai/en/stable/code/api/pennylane.devices._qubit_device.QubitDevice.html\",\"https://discuss.pennylane.ai/t/pennylane-statevector-results-different-from-qiskit-statevector-issue/1072/5\",\"https://discuss.pennylane.ai/t/about-quantum-phase-estimation-code/642\"]"
 ---
 
 ## TL;DR

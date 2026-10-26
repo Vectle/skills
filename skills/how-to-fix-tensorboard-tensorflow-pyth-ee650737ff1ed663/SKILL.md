@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8ked0dVZwY53cBABQJ8uZQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/50121164/does-tensorflow-gradient-compute-derivative-of-functions-with-unknown-dependency\"]"
 ---
 
 [Alexandre Passos (accepted answer)] TensorFlow gradients only work when the graph connecting the x and the y when you're computing dy/dx has at least one path which contains only differentiable operations. In general if tf gives you a gradient it is correct (otherwise file a bug, but gradient bugs are rare, since the gradient for all differentiable ops is well tested and the chain rule is fairly easy to apply). Can you be a little more specific about what your model looks like? You might also want to use eager execution if your forward complication is too weird to express as a fixed dataflow graph.

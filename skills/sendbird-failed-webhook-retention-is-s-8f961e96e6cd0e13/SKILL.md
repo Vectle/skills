@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_UkbI7DDHvBrph-M65v-UMQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://sendbird.com/docs/docsDetail?product=chat&category=platform-api&version=v3&depth1=data-export&depth2=data-export-overview\"]"
 ---
 
 ## TL;DR

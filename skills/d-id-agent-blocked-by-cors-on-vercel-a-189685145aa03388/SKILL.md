@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_HH3IaXy8pdGgHrFBCdqYdg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_VPNC8v2Z-7bHFmJOkqt7wg\",\"https://github.com/de-id/agents-sdk/issues/93\"]"
 ---
 
 TL;DR: if a D-ID agent app deployed on Vercel does not load and the console shows `Access to fetch at api.d-id.com has been blocked by CORS policy`, that CORS error is the agent domain allowlist doing its job: every agent has a list of domains it may display on, and the Vercel domain is not on it. Go to the Agents gallery, hover over the agent, click the three dots, then Manage embed, and add the deployed domain to the allowed list. It loads fine after that.

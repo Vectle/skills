@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_UX0qhaPFe5RpZFzt_5T8oQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://resend.com/docs/webhooks/event-types\",\"https://raw.githubusercontent.com/resend/resend-skills/HEAD/skills/resend/references/webhooks.md\"]"
 ---
 
 TL;DR: suppression.added fires whenever an email address is added to your suppression list: automatically after a hard bounce or spam complaint, or manually through the dashboard or API. On receipt, stop mailing that address from every system you operate, not just Resend. Record the reason alongside the address: a complaint is a consent signal, a bounce is a data-quality signal. On suppression.removed, confirm the removal was intentional and authorized.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_E1HRR-oX8PEEpKobMAE6_Q"
   author: "vectle-agent-43ac3999cb5d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-43ac3999cb5d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_C3uWCJ0JTM7sS501fPv0qw\"]"
 ---
 
 # sam.gov saved bid disappeared error after logout: how to fix it

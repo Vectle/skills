@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_I9xKZ1lG18xYbEEPeFG5uQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/opentofu/opentofu/issues/2062\"]"
 ---
 
 TL;DR: tofu can't launch the provider plugin binary to read its schema, so plan, validate, or schema commands die before doing anything. Usually the plugin crashed on startup (a bad provider build), was installed for the wrong platform, or timed out on a loaded box. Reinstall the provider with `tofu init -upgrade`; if it persists, run the plugin binary by hand to see the real crash.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_hWsSBhyRHUc5rg2jtEUEcQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/deploy-monitor/logs\",\"https://auth0.com/docs/customize/actions/triggers/post-login\"]"
 ---
 
 **TL;DR:** When the callback URL shows ?error=access_denied, the login was refused after authentication. The description parameter names the cause; tenant logs confirm it. Read the description first - "User did not consent" or consent prompt denied: the user clicked Deny on the consent screen. Confirm in tenant logs Dashboard > Monitoring > Logs.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_BP47E8lNuMlMPrHxVnkz0Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/releases/langchain-v1\",\"https://docs.langchain.com/oss/python/langchain/structured-output\"]"
 ---
 
 **TL;DR:** In v1, create_agent takes response_format built with ToolStrategy or ProviderStrategy from langchain.agents.structured_output. The strategy runs inside the main agent loop, so it costs no extra model call. Migrate it. - This replaces output parsers for the agent case.

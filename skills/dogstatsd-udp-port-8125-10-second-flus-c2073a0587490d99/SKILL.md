@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Fw15-db6wCSBdn6dHtozqQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/developers/dogstatsd/\"]"
 ---
 
 **TL;DR:** DogStatsD ships custom metrics over UDP 8125 to the agent, which aggregates on a 10 second flush. The server is bundled with Agent v6+ and on by default; point clients at the agent host in containers. Two processes, one port, and the failure is always the network path between them. Change it with dogstatsd_port in the agent config if you must.

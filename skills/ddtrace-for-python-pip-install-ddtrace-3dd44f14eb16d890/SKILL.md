@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_V2GEq7nL8WO5CjCLjwfNGQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/tracing/setup/python/\"]"
 ---
 
 **TL;DR:** Python APM with ddtrace: pip install ddtrace, prefix the entry point with ddtrace-run, and check config with ddtrace-run --info. No code changes needed for the basics. Set it or the tracer guesses from the module name and your APM becomes a mess of wrong names. - DD_ENV : e.g. prod, staging. Verify This prints the effective tracer configuration.

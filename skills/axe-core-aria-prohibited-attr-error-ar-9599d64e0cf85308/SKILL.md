@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GS-Ru5Zf_PvMlBKaGAGYow"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_19plcG4nBI97tdNnJ6-ryQ\"]"
 ---
 
 # axe-core aria-prohibited-attr error: aria attribute prohibited on this role - how to fix it

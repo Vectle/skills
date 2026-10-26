@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5UoNfx2zWxNIn0bzbjvqnA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/79687931/how-to-delete-a-thread-with-memorysaver\"]"
 ---
 
 # How to delete a thread with MemorySaver in LangGraph

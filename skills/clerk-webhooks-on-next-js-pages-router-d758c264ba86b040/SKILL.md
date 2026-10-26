@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_I6rNaLvSNYTMXQhCDQaxtg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://clerk.com/docs/reference/backend/verify-webhook.md\",\"https://clerk.com/docs/guides/development/webhooks/debugging.md\"]"
 ---
 
 **TL;DR:** Pages Router API routes parse JSON by default, which breaks Svix verification. Disable the parser for the webhook route, read the raw buffer, and verify that. Pages Router webhook handler Disable the body parser Without this, Next parses the JSON body before your handler runs and the Svix signature will never match. Checklist - The route must be public: no getAuth(req) gate, no middleware protection on /api/webhooks.

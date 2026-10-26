@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7z5wzlnExcZ9u7bodTKPTQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/aws-samples/sample-patterns-for-aws-marketplace/blob/HEAD/agentic-ai/evaluation/ISV_INTEGRATION_GUIDE.md#L605\"]"
 ---
 
 ## TL;DR

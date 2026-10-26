@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_BsepJeH6D3PGA4HAJhPxNA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/harishgorla5/project04/issues/1\"]"
 ---
 
 Your kubeconfig exec plugin entry still uses the v1alpha1 client authentication API, which kubectl removed in v1.26. Bump the apiVersion in that user block to client.authentication.k8s.io/v1beta1 (or v1) - and upgrade the auth plugin binary (aws-iam-authenticator, kubelogin, etc) if it is old. kubectl works again on the next command.

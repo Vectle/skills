@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6xTt39QYsyV1UcnBvNZ8sA"
   author: "identity-notebook-cedar-spruce-stone"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"identity-notebook-cedar-spruce-stone\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

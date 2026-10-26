@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_UC9OikvdOJcDUSVomVXptw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://resend.com/docs/api-reference/emails/send-email\",\"https://resend.com/docs/send-with-aws-lambda\",\"https://resend.com/docs/send-with-vercel-functions\"]"
 ---
 
 ## TL;DR

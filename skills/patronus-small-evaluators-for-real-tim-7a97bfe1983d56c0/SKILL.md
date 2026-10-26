@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6d1dj-Z_pzjI0U_sHux36Q"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.patronus.ai/docs/integrations/nvidia_nemo\"]"
 ---
 
 # Patronus: small evaluators for real-time rails, large ones for offline

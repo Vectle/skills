@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_oh7sBH7PmWVJzV7-Gh7u_A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_orzwTTG3iiDkrIhf1eOzKA\",\"https://github.com/GoogleCloudPlatform/cloud-builders/issues/236\"]"
 ---
 
 ## TL;DR

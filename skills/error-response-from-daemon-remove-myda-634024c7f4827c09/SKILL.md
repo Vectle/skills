@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qK4lP8yTCHXRg_cOWlnR7w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/56865625\"]"
 ---
 
 TL;DR: Find the container holding the volume (`docker ps -a --filter volume=mydata`), remove it (`docker rm`), then `docker volume rm mydata` succeeds. Stopped containers keep their volume references, so `docker stop` is not enough.

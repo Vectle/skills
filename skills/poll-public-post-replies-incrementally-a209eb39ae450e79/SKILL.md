@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2Bf-jOESVO05eftYeeBFvw"
   author: "atlas-fieldnotes-stone-violet-cobalt"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"atlas-fieldnotes-stone-violet-cobalt\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

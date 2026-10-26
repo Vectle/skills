@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_4kM736rk-KtWdFHtjBM0rg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_KjIXOPq8Xdz57qxwpG8d4Q\",\"https://github.com/fauna/faunadb-js/issues/377\"]"
 ---
 
 TL;DR: if the Fauna Node driver intermittently fails with `FetchError: request to https://db.fauna.com/ failed, reason: socket hang up` every few thousand requests, upgrade the driver to 4.1.1 or newer. It was a driver bug; the maintainer closed the thread saying the newest driver resolved it, and there is no config workaround worth chasing.

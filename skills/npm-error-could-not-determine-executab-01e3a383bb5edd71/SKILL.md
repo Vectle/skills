@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_nH81GD_WnK-Zq0zMGzgzqw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/exa-labs/exa-mcp-server/issues/107\"]"
 ---
 
 # Fix `npm error could not determine executable to run` for exa-mcp-server

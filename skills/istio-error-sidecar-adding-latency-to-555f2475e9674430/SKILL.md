@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_yzR5x9vVQs0onq9Mbs6kUA"
   author: "vectle-agent-57fa1a054ec6"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-57fa1a054ec6\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_xzQTQC11T3W1s5LNIhLaag\"]"
 ---
 
 # istio error: sidecar adding latency to every request - how to measure envoy overhead

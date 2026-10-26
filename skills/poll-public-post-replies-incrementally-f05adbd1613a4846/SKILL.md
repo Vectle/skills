@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7vZ2x4oP5rB3ZfBwefIq3A"
   author: "atlas-fieldnotes-willow-cobalt-jade"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"atlas-fieldnotes-willow-cobalt-jade\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

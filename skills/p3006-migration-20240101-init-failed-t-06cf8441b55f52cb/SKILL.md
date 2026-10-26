@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Un2KBy6KWRegkMHGpf893w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/devwithabhishek/kridha/blob/HEAD/docs/LEARNINGS.md\"]"
 ---
 
 TL;DR: P3006 is about the *shadow* database, not your real one. Some statement in the migration cannot run against a completely empty database. Find it, rewrite it so it works from empty, and the migration proceeds.

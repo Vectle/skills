@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_aT3DJJwXzT9VNsvAQdsKhg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/linkupplatform/linkup-for-agents/blob/HEAD/knowledge/LINKUP_API_REFERENCE.md#errors-specific-to-fetch\"]"
 ---
 
 TL;DR: Fetch rules that prevent the 400s: keep target pages under 20 MB HTML / 100 MB PDF; always pair instructions with a schema (instructions alone are rejected); the schema must be a real JSON Schema object, not a loose dict; keep schemas shallow (primitive fields and one level of arrays); use /fetch with schema for typed JSON from one known page, /extract (closed beta) for bulk structured rows from a listing page with links/pagination, and /search with outputType structured for structured JSON from the open web.

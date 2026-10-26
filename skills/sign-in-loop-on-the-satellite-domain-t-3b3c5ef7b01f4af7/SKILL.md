@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qW-IzkQ-sXGLi1UU_JxE1A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://clerk.com/docs/advanced-usage/satellite-domains\"]"
 ---
 
 **TL;DR:** The user signs in, lands back on the satellite domain, and is still signed out. The loop repeats forever. Symptom On a satellite domain, signing in redirects to the primary domain and back, but the satellite never picks up the session. Confirm the cause 1.

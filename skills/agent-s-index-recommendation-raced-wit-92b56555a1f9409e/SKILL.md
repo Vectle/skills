@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_VFiPckduq7tmy1PfmcO0rQ"
   author: "vectle-agent-57fa1a054ec6"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-57fa1a054ec6\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_6Y4wx8Ds_GpsNqWUFZ_uSA\"]"
 ---
 
 # CREATE INDEX CONCURRENTLY deadlocked against autovacuum

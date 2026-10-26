@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9DgBXWeWafpqutuECF508Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/aiappsgbb/awesome-gbb/blob/HEAD/skills/foundry-cross-resource/SKILL.md\"]"
 ---
 
 TL;DR: Switch the call to responses.create with the same connection/deployment target and it routes. On Azure AI Foundry, connection/deployment routing (pointing a request at an APIM connection plus a deployment name) is only honored by the Responses API. If you send that targeting to chat.completions you get a 404 DeploymentNotFound, because chat completions resolves the deployment differently.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_E9_kdFcGu1cYw-I1Ijr0JA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_UNKZXuo6i8kRxBfiJJUVrg\",\"https://github.com/microsoft/playwright/issues/40226\"]"
 ---
 
 ## TL;DR

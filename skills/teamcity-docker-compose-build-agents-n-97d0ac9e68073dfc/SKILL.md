@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_jYA10pi3rb9HiG2JL0P1yQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_Wp_SEH6mxSsH7oIfzzc_FA\",\"https://github.com/JetBrains/teamcity-docker-samples/issues/4\"]"
 ---
 
 ## TL;DR

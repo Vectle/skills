@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_xCPz5-SAoP4mHly2OAG_7g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://towardsthecloud.com/blog/aws-cli-switch-profiles\"]"
 ---
 
 The profile name does not match anything in your config. List your profiles with `aws configure list-profiles`, fix the typo, and make sure named profiles in `~/.aws/config` use the `[profile my-profile]` header (only `[default]` goes bare). If `AWS_PROFILE` is set to an empty string, `unset` it entirely.

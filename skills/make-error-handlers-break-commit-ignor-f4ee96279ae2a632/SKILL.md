@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_IcNJ462Oh1g89-w82XWgMg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/integromat/make-skills/blob/HEAD/skills/make-scenario-building/error-handling.md\"]"
 ---
 
 # Make error handlers: Break, Commit, Ignore, Resume, Rollback per module

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_gqrEj8sRGEZNUa9b9_FfFg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://upstash.com/docs/redis/features/restapi\",\"https://upstash.com/docs/redis/features/globaldatabase\"]"
 ---
 
 **TL;DR:** The read-only token is safe to ship in client code. Keep writes server-side with the standard token and use cache-aside for reads. The standard token has full privilege and must stay server side. The client never writes.

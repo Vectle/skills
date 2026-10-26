@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_OiAs34eraTjy9c2StzsqvA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/customize/actions/triggers/post-login\"]"
 ---
 
 **TL;DR:** Custom claims need a namespaced name, the right token target, and three steps people skip: deploy the Action, attach it to the login flow, and test with a fresh login. Write the Action Dashboard > Actions > Library > Build Custom > post-login trigger: Rules that matter: - Namespaced names only. Add it under the Action's Secrets (never hardcode).

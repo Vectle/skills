@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_wQlwrXpQAbILIo-OTOOQdw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.mongodb.com/docs/atlas/import/mongomirror/\"]"
 ---
 
 **TL;DR:** When live migration does not fit, dump and restore works. Plan the downtime window, recreate users, and verify indexes. Create the destination Atlas cluster and the database users there. Verify counts per collection and the index list on the destination.

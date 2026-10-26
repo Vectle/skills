@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7aKi9fDg6cP5dqjxQPgTHA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/codetocloudorg/azure_essentials/blob/HEAD/wiki/Troubleshooting.md\"]"
 ---
 
 # Please run 'az login' to setup account.

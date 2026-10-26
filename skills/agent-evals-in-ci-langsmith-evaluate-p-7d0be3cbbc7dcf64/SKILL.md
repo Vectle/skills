@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6h0QgJHUnmEHHaIeBI-HVA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/test/evals\"]"
 ---
 
 **TL;DR:** Run agent evals two ways: the evaluate function for ad-hoc and notebook runs, and the LangSmith pytest integration for CI. Both read from versioned datasets so results are comparable across runs. Pin the judge model and record its version with the experiment. - Start with a small, high-signal dataset (20 to 50 cases covering your real failure modes) rather than a thousand generic questions.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FD7DLDlFmHbfFr-PwSZQ-g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.useparagon.com/blog/building-webhook-listeners-for-real-time-integration-use-cases\"]"
 ---
 
 # Every provider's webhooks are different: check batching, handshakes, and retries first

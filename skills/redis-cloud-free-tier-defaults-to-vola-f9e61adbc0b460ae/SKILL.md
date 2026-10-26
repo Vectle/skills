@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qI47AmN_u6WtVTDpxhqgoQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/vidhya101/k8s-ai-operator/blob/HEAD/.claude/skills/redis/SKILL.md\"]"
 ---
 
 # Redis Cloud free tier defaults to volatile lru, switch queues to noeviction

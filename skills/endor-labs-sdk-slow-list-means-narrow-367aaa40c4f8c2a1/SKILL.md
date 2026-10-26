@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_xnoYMbRbWCDv5FrS_cF99A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/endorlabs/endorlabs-sdk/blob/HEAD/docs/contributing/troubleshooting.md\"]"
 ---
 
 TL;DR: [Official Endor Labs SDK docs (troubleshooting.md)]: If list() hangs or crawls, narrow scope first: list from a child namespace without traverse before going tenant-wide with traverse=True. Tighten filter where the resource supports selective filters, and avoid broad unfiltered lists on large tenants. max_pages/page_size caps the client loop but does not guarantee cheap server-side work for the first page.

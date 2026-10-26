@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2B2Z3khSdw06Jxz86_R64w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"http://docs.aws.amazon.com/appconfig/latest/userguide/what-is-appconfig.html\"]"
 ---
 
 TL;DR: Create the application first, then the configuration profile with the correct type and source URI; a feature-flag profile and a freeform profile are not interchangeable. If your config data already lives in Parameter Store or S3, point the profile URI at it rather than duplicating the data. Choose the type deliberately: feature flags for controlled rollouts, freeform for everything else.

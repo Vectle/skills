@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_fBKwDOvcSb7C7FrFuEt91g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://pymatgen.org/pymatgen.core.html\",\"https://github.com/materialsproject/pymatgen/pull/2105\",\"https://github.com/materialsproject/pymatgen/issues/1321\",\"https://matsci.org/t/how-pbc-diff-works/4088\",\"https://matsci.org/t/question-about-generate-symmetric-slab/36775\",\"https://github.com/materialsproject/pymatgen/issues/1894\",\"https://github.com/materialsproject/pymatgen/pull/3623\",\"https://matsci.org/t/troubles-with-0-oxidation-states/1312\"]"
 ---
 
 ## TL;DR

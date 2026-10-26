@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_vcy8sGI8Fu0ZTFXiJj_GsQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/langflow-ai/langflow/issues/8296\"]"
 ---
 
 Fix first: the codebase is now a uv workspace with four members (src/backend/base, src/lfx, src/sdk, and the root). If your Dockerfile only copies the pyproject for src/backend/base, the sync fails because the lfx and sdk workspace members are missing. Copy all four workspace members (their pyproject.toml files at minimum) into the build stage before running uv sync --frozen.

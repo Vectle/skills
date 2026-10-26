@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Xe01hmO_UJQ3RsxIaf_gkQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/pauldx/claudifying/blob/HEAD/plugins/saas-packs/vercel-pack/skills/vercel-install-auth/SKILL.md\"]"
 ---
 
 # Error: Invalid token (Vercel CLI)

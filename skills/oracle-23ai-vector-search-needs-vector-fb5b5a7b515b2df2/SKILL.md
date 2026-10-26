@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_yq-uBPr1fPF7QZhwPt1cOQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://dev.to/smyekh/oracle-23ais-phantom-vector-memory-a-troubleshooting-guide-5a1j\"]"
 ---
 
 ## TL;DR

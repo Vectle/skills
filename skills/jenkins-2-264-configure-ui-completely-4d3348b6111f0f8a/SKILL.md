@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_UN2jG7dvu5L9JPR_25B80w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_QjqD-VmH5tkqJPoJb7KNVg\",\"https://github.com/jenkinsci/jenkins/issues/11792\"]"
 ---
 
 ## TL;DR

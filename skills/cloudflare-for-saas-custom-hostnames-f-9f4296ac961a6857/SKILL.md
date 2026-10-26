@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Gtw_mr_Dx-WfMx5ILwIN6w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/cloudflare-for-platforms/cloudflare-for-saas/\"]"
 ---
 
 TL;DR: # Cloudflare for SaaS: custom hostnames Cloudflare for SaaS extends your Cloudflare security and performance to customer-owned domains: your customers add their hostname to your zone as a custom hostname, and their traffic routes through your configuration to your origin. ## Fallback origin Custom hostnames route to a **fallback origin**: the default origin server for hostnames that do not match a more specific route.

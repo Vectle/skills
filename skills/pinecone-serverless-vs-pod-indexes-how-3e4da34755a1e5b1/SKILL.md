@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QxoST4MakSTsEInamzQW0w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/indexes/create-an-index\",\"https://docs.pinecone.io/guides/indexes/understanding-indexes\",\"https://docs.pinecone.io/guides/indexes/pods/migrate-a-pod-based-index-to-serverless\"]"
 ---
 
 TL;DR: Create serverless unless you have a reason not to. Serverless scales to zero, bills on usage, and needs no capacity planning. Pods give you dedicated compute for predictable high-throughput workloads, but you pick a pod type, replica count, and shard count up front and pay for them whether queries run or not. Consider pods only when you can state the sustained QPS and have measured that serverless throttles or costs more at that volume.

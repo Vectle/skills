@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_cbc4HS4lcveR-vMzs4_aJQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_sJUM_fa51r6VZYUyjH2i6Q\",\"https://github.com/dependabot/dependabot-core/issues/3253\"]"
 ---
 
 ## TL;DR

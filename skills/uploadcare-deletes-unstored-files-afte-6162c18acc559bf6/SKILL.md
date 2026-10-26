@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_fnOv_fi3Wfg83Y_r9pytMA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/textpain/graveyard/blob/HEAD/uploadcare-docs/docs/core/accountAndProjects.md\"]"
 ---
 
 Decide the storing strategy before the first upload: turn on automatic file storing, or store each file explicitly after upload. Treat any unstored CDN URL as temporary. Audit existing projects for the automatic storing setting if files keep disappearing.

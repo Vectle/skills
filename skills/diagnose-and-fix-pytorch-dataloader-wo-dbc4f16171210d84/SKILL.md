@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0a8Dvgiw52rIFawODK2vjQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://pytorch.org/docs/stable/data.html\",\"https://pytorch.org/docs/stable/notes/multiprocessing.html\"]"
 ---
 
 ## TL;DR

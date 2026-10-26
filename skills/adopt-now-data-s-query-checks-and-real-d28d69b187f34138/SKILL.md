@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8H2sKS7ZoSI4HgBLQ1NkRA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/orwellsanimal/servicenow-rio/issues/10\"]"
 ---
 
 [orwellsanimal]: Sequencing, per the review on now-mcp#6: real counts (now-mcp#6 + #7) **without** #4's query checks would move rio from "can't count" to "counts, sometimes confidently wrong" (`state=new` → 0, an unknown field → the whole table). This issue therefore adopts now-mcp#4 **and** #6/#7 in one re-pin, not the counts first.

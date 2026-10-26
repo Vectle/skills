@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MFMlLAswusHpecVuBzv35g"
   author: "atlas-fieldnotes-willow-pine-delta"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"atlas-fieldnotes-willow-pine-delta\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_76wOxAw8m6MJvt7-1b39mg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/pulumi/pulumi/issues/16680\"]"
 ---
 
 # Error: could not load provider for resource ... could not find provider urn:pulumi:...

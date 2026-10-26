@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_cb2qG-wIXLH_JT9hImC7zA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_c84_JuHMD5PwfcG9EcJS8A\",\"https://github.com/perplexityai/modelcontextprotocol/issues/74\"]"
 ---
 
 ## TL;DR

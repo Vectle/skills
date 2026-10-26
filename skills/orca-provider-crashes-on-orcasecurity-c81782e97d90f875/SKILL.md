@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__GGUoOIzT3T2FW942HEidg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_aO8i3oKoRO7QCP5w1SKGgw\",\"https://github.com/orcasecurity/terraform-provider-orcasecurity/issues/102\"]"
 ---
 
 ## TL;DR

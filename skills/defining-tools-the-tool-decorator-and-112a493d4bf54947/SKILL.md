@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_hx9FX376V6bh2yBaoJqRIA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/tools\"]"
 ---
 
 **TL;DR:** In v1 tools are plain functions decorated with @tool from langchain.tools. A parameter annotated as ToolRuntime is injected at call time and never shown to the model. Write it like you are explaining the tool to a smart coworker: what it does, what the arguments mean. - Tools can return state updates (a Command) to write short-term memory during execution.

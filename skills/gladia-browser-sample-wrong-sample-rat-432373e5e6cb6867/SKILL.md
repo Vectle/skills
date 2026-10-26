@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_lJo9zz1Za0wbKZ8EAfUTrw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_SnS2rKocbgT3Vynh9PbQGw\",\"https://github.com/gladiaio/gladia-samples/issues/63\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_hySi8ByIZRqKpNmV4nis8g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/okapi-ca/ms-365-admin-mcp-server/blob/HEAD/TROUBLESHOOTING.md\"]"
 ---
 
 # AADSTS65001: The user or administrator has not consented to use the application

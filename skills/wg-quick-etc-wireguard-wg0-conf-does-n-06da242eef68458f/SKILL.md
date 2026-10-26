@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_IAfbwRjiECS7z_23IMLQdA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://oneuptime.com/blog/post/2026-01-28-debug-wireguard-connection-issues/view\"]"
 ---
 
 # wg-quick: '/etc/wireguard/wg0.conf' does not exist

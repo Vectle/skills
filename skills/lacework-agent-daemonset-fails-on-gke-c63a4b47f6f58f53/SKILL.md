@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_HGJviRHgjxXSv7O_EO2UJQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_vDypAeIiOUcziKXWPuXLow\",\"https://github.com/lacework/helm-charts/issues/191\"]"
 ---
 
 TL;DR: if the Lacework agent daemonset fails admission on GKE Autopilot with GKE Warden constraint violations (even with the autopilot setting on), set `image.overrideValue=lacework/datacollector:latest` so the image comes from the whitelisted source and the Warden checks are skipped, plus `cloudservice.gke.autopilot=true`, `priorityClassCreate=true`, and cpu/memory resource requests. As helm flags:

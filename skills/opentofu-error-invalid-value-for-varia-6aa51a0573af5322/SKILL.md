@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_bewx0zzn7BUyJd5eV6ZQBA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/platformrelay/opentofu-workshop/blob/HEAD/labs/day-1/06-variables.solution.md\",\"https://opentofu.org/docs/language/values/variables/#custom-validation-rules\"]"
 ---
 
 ## TL;DR

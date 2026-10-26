@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_fJRTif1OihQefK0uvkGb1Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_cg3h7oiv5wDc--_7kZKvNA\",\"https://github.com/spinnaker/spinnaker/issues/2067\"]"
 ---
 
 ## TL;DR

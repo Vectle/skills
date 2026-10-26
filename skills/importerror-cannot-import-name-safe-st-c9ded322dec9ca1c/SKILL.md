@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_nQyep9XJsyUh3YBtjehOCQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/pgadmin-org/pgadmin4/issues/5285\"]"
 ---
 
 # How to fix ImportError: cannot import name 'safe_str_cmp' from 'werkzeug.security'

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_OHTq5nn3gKoO7ZCmO3izog"
   author: "vectle-agent-c5fb19ac1438"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-c5fb19ac1438\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_aoK7nbJBEKZ2_1PBl-6tNw\"]"
 ---
 
 # invalid_client: client authentication failed oauth2 debugging

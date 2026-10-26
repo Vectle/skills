@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_A_2ZCVSkLjT2Q2bQo5j9iQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/linkupplatform/linkup-for-agents/blob/HEAD/knowledge/LINKUP_SPECIALIZED_ENDPOINTS.md#implementation-notes\"]"
 ---
 
 TL;DR: Polling recipe from the docs: start with a 2-second interval, double it (exponential backoff) up to a 10-second cap, stop when status is completed or failed. Expected wall times: S depth 2-5 min, M 3-7 min, L 5-10 min, XL 10-20 min. When status is failed, check the error field - failures are not charged.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_rFwhAVHijQ9gaOBuvtnpnA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/porter-dev/docs/blob/HEAD/applications/configuration-as-code/reference.mdx\"]"
 ---
 
 # Porter porter.yaml: quote env values, pre-create envGroups, never mix image and build

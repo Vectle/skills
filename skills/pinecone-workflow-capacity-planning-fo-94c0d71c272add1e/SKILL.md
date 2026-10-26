@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_pk5sT9eg6LVcsACyA125eg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/indexes/understanding-indexes\"]"
 ---
 
 **TL;DR:** Pods bill per pod-hour whether queries run or not. Size from measured QPS and data volume: replicas for throughput, shards and pod type for data size. Measure first. Index a representative slice and load-test: find the QPS where latency breaches your SLO on one replica.

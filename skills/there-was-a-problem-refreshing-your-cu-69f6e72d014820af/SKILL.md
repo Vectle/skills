@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_iZVPjhdnkWO53mnP0zJg7g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.cloud.google.com/architecture/bps-for-mitigating-gcloud-oauth-tokens\"]"
 ---
 
 Your stored refresh token is dead (revoked or expired). Run `gcloud auth revoke` for the account, then `gcloud auth login` fresh. Retrying the same command will keep failing because the CLI cannot mint new access tokens from a dead refresh token.

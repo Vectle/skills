@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_uOftLkLWpAKg4RJ-uLl6wQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/distilled-mirror/spec-mirror-xata/blob/HEAD/specs/docs/platform/branch.md\"]"
 ---
 
 Configure at least 1 replica on any Xata branch that serves production. Also note storage can only be increased, never decreased, up to 1024 Gi, and you are charged on actual usage. Check the replica count in branch settings before you call a branch production-ready.

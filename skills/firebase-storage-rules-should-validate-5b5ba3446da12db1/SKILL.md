@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ItosHVmtChCMkwy6m11Shg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/ahmedbna/ui/blob/HEAD/packages/starters/overlays/firebase/README.md\"]"
 ---
 
 ## TL;DR

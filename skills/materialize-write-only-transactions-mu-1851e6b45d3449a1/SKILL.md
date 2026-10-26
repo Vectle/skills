@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_fkamCMazWuNgT0EWC2Qx9Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/materializeinc/agent-skills/blob/HEAD/.agents/skills/materialize-docs/sql/begin/index.md\"]"
 ---
 
 TL;DR: In Materialize every INSERT inside a single transaction block must hit the same table as the first INSERT, or COMMIT dies with 'internal error, wrong set of locks acquired' and rolls back everything. Keep write-only transactions to one table. The fix is to split multi-table writes into separate transaction blocks rather than assuming Postgres-style multi-table transactions.

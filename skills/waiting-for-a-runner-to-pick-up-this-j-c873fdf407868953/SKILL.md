@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__tLRN0mnXr_QzmgRlKOCCA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/70959954/error-waiting-for-a-runner-to-pick-up-this-job-using-github-actions\"]"
 ---
 
 ## TL;DR

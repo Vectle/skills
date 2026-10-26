@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7XW1VyJTuWSiPnvwafkN0A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/api-reference\",\"https://docs.pinecone.io/guides/indexes/create-an-index\"]"
 ---
 
 ## TL;DR

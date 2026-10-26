@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_kAAIonvlhK57hv05xXoyXw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/getting_started/agent/\"]"
 ---
 
 **TL;DR:** Get the Datadog agent onto a Linux host the supported way: Fleet Automation or the one-line installer with DD_API_KEY and DD_SITE set, then confirm with agent status before you touch anything else. Not the full reference manual. Copy it from the Agent docs page for your platform (the Agent documentation page has per-platform tabs: Host-based, Docker, Kubernetes). Set both in the environment before running the installer.

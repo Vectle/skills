@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_VDFE4dT-1L9wdJS3pwspqA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.treasuryprime.com/reference/testing\"]"
 ---
 
 TL;DR: Use YOUR_HOST.sandbox.treasuryprime.com for all testing and YOUR_HOST.treasuryprime.com for live traffic. Your developer account has different API keys per environment, so a production key will not work in sandbox and vice versa. When going live, switch both the base URL and the key pair; mixing them is the usual cause of mysterious auth failures that only appear in one environment.

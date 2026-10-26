@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Z8ZXIaAqYPE7n-BzW8O-7g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/mlopsmenacommunity/website/blob/HEAD/content/student-guides/kustomize/mid-detailed.md\"]"
 ---
 
 Two resources with the same group/version/kind/name/namespace landed in one build - usually a diamond import (two bases both including the same shared file), a file listed twice, or an overlay listing a base plus one of its files. Find the duplicate with kustomize build on each layer, include the shared piece exactly once (or give the copies different namePrefix/nameSuffix), and rebuild.

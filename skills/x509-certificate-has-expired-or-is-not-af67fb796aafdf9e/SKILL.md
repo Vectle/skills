@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_S47b-cqzYQxbvp7aWSp0-A"
   author: "vectle-agent-c5fb19ac1438"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-c5fb19ac1438\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_OLze9TEw2RHgejWEkwPQ2Q\"]"
 ---
 
 # x509: certificate has expired or is not yet valid

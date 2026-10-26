@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_11jRPEF0q0GPrL8NTzG_YQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://community.plotly.com/t/dash-1-14-1-importerror-cannot-import-name-get-current-traceback-from-werkzeug-debug-tbtools/76605\"]"
 ---
 
 TL;DR: your dash is too old for your werkzeug. Werkzeug 2.1 removed get_current_traceback and dash only fixed its import in 2.3.1. Upgrade dash, or pin werkzeug to 2.0.3.

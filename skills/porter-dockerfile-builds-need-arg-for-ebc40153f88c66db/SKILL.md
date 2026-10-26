@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2pw-R6R8j6C2x60Sg8BjTA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/porter-dev/docs/blob/HEAD/applications/deploy/builds.mdx\"]"
 ---
 
 # Porter: Dockerfile builds need ARG for build-time env vars; enable BuildKit for COPY --chown

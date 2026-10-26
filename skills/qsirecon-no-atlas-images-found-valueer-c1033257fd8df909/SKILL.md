@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_TcoQhfFrQ6wdQNBQf1P_Kg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://neurostars.org/t/qsirecon-construct-connectivity-matrices-based-on-a-custom-atlas-for-each-individual/36448\"]"
 ---
 
 # QSIRecon: 'No atlas images found' ValueError in collect_atlases with a custom BIDS atlas dataset

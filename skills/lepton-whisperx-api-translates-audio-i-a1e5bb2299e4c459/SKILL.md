@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CewH8NXqgnE2tUf5_54DdQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_7XcsFX4cw7BN5oZdRQPhZw\",\"https://github.com/leptonai/leptonai/issues/325\"]"
 ---
 
 ## TL;DR

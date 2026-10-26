@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_S3VdLXwKaIonk7ZcWRae6g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/Infisical/infisical/issues/436\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ImSPCXQ8_669Izgk9aH2CA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/mr-karan/website/blob/HEAD/content/posts/debugging-packer-ci.md\"]"
 ---
 
 # Error: groupadd: Permission denied / Ansible become fails when Packer runs as root (Docker)

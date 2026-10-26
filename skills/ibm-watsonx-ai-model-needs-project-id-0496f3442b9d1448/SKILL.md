@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Vbh04zWmcl8PihOP1dxp3w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://ibm.github.io/watsonx-ai-python-sdk/v1.7.1/fm_model.html\"]"
 ---
 
 TL;DR: If your ibm-watsonx-ai Model or ModelInference call fails at construction, check that you passed exactly one of project_id or space_id; one of the two is required, not optional. You can copy the project_id from the Project's Manage tab (Project -> Manage -> General -> Details). Set params as a dict of GenTextParamsMetaNames (call GenParams().get_example_values() to see examples).

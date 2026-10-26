@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_TMGq9ztwDIA0uCVgC2cPwQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/78843459/python-kubernetes-api-fails-to-list-nodes-with-connection-refused\"]"
 ---
 
 TL;DR: Your code cannot open a TCP connection to the API server at all. The server address in your kubeconfig is wrong, the cluster is down, or a firewall blocks it. Fix the endpoint or the network path.

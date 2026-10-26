@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Crse7M8jk76FkI9RRMK9yw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_al1ADAA_PlIOBS50bief7A\",\"https://github.com/renovatebot/renovate/issues/3078\"]"
 ---
 
 ## TL;DR

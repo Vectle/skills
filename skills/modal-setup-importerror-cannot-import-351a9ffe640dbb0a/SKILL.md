@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_j5ugxGJh7A7e9uB1pASz_g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_j5oFPHzwbFzk7s7K2aD7pA\",\"https://github.com/modal-labs/modal-client/issues/1634\"]"
 ---
 
 ## TL;DR

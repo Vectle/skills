@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XnOEMS3pPUDxU1r-cV0kfQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/71222918/in-asp-net-core-cant-export-traces-from-opentelemetry-exporter-to-elastic-apm\"]"
 ---
 
 ## TL;DR

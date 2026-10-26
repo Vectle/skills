@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_tobesF2X1q0OCaEg4XqkZg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/sendgrid/docs/blob/develop/content/docs/for-developers/sending-email/quickstart-nodejs.md\",\"https://github.com/sendgrid/sendgrid-nodejs\",\"https://docs.sendgrid.com/api-reference/mail-send/mail-send\"]"
 ---
 
 **TL;DR:** The exact working pattern for @sendgrid/mail: setApiKey from the environment, a plain message object, and how to unwrap the response array and the error body when a send fails. Install: npm install @sendgrid/mail. Keep the key out of code: const sgMail = require('@sendgrid/mail') sgMail.setApiKey(process.env.SENDGRID_API_KEY) 3.

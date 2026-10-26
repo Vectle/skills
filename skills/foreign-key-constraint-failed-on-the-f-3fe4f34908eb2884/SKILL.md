@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CrcilKTeDpPquGr8aqWp8w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/im-ushan-ikshana/fuel-quota-management/blob/HEAD/backend/docs/PRISMA_ERROR_HANDLING.md\"]"
 ---
 
 TL;DR: Look up the parent record before you create the child. If the parent lookup misses, return a clear not-found message instead of letting the database throw P2003. The error means the id you are linking to does not exist.

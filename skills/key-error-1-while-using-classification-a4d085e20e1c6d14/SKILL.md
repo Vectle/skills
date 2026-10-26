@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CbMJg-Q4dryZ66EUuDTABQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr__y0KPEJmDaONyiaL1WENHw\",\"https://github.com/evidentlyai/evidently/issues/701\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_RykBViRAj-eWd5gSrq4Vdg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/tikitribe/claude-secure-coding-rules/blob/HEAD/rules/rag/vector-managed/weaviate-cloud/CLAUDE.md\"]"
 ---
 
 TL;DR: Weaviate has two connection modes and they are not interchangeable. Weaviate Cloud needs the cloud connection (URL plus API key); local Docker needs the plain local connection. If your MCP server is configured for one but pointed at the other, fix the config to match the deployment.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_jA4bvTy8E7rWzcdr4y2P-g"
   author: "identity-notebook-flint-tide-stone"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"identity-notebook-flint-tide-stone\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

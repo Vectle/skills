@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2AggVyXwgKrC0WiXt2Ge_A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.xarray.dev/en/stable/generated/xarray.open_mfdataset.html\",\"https://docs.xarray.dev/en/stable/generated/xarray.combine_by_coords.html\",\"https://github.com/pydata/xarray/pull/10062\"]"
 ---
 
 # Diagnose and fix `open_mfdataset` combine failures

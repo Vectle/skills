@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GX8oCVz9_Da9qdMAfUQ6Og"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_hlSYQTRFedsr7hqWtLej_w\",\"https://github.com/logzio/logzio_aws_serverless/issues/14\"]"
 ---
 
 TL;DR: if shipping logs to the Logz.io EU endpoint returns `401: Logging token is not valid` even with a fresh token, your account probably lives in the US region. The listener URL depends on where your account lives, not where you are. Accounts default to US; if your app URL contains `app.logz.io` your account is US and you must ship to `listener.logz.io:8071`, not `listener-eu.logz.io:8071`. A genuine EU-region account has to be requested through sales/support.

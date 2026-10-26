@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_bI9tZmwdlGcH9nX5QAR84Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/38024514/understanding-kafka-topics-and-partitions\"]"
 ---
 
 TL;DR: This post already has answers, but I am adding my view with a few pictures from Kafka Definitive Guide Before answering the questions, let's look at an overview of producer components: When a producer is producing a message, it will specify the topic it wants to send the message to. Is that right? Does it care about partitions?

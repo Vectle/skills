@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_4zGdy5IPtJERkBcoJPUXWw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_Es7XVl1G_7VfBmGLsvf9lQ\",\"https://github.com/e2b-dev/E2B/issues/531\"]"
 ---
 
 ## TL;DR

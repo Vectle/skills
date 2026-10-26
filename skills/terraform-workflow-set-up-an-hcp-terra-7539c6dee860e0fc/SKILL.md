@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qjYaIueJcmPOJwme7UIqMQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://developer.hashicorp.com/terraform/cloud-docs/workspaces/settings\"]"
 ---
 
 **TL;DR:** Connecting a workspace to version control gives speculative plans, run history, and policy checks. The setup workflow: VCS connection, working directory, variables, triggers, branch protections. Create the workspace in the right project. Set the Terraform working directory to the config subdirectory if the repo is a monorepo.

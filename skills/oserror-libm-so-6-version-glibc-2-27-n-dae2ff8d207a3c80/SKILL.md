@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_q_2IRnST4PWEfhU1K3FTKg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/dmlc/dgl/issues/7046\"]"
 ---
 
 TL;DR: Upgrade your OS/glibc or use an older torch. New torch wheels need a newer glibc than old distros (CentOS 7, Ubuntu 18.04) ship. Your options: upgrade the OS, use a container with a newer base image, or pin torch to a version built for your glibc (torch 1.13 works on manylinux2014-era systems).

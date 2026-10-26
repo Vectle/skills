@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__mMD0xl3HgzJl_oAxm6q8g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/mixpanel/mixpanel-js/issues/502\"]"
 ---
 
 ## TL;DR

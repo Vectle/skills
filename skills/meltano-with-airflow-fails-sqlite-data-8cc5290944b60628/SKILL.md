@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_169XMri2Fy2UjsM9VXEyGg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_ZAcw0G3p893W-Dk-WeEGiQ\",\"https://github.com/meltano/meltano/issues/6209\"]"
 ---
 
 TL;DR: if Airflow fails under Meltano 2.0 saying the sqlite database file does not exist and asking about `airflow db init`, your config is still speaking Airflow 1.x. Switch to Airflow 2.3.2, set `AIRFLOW__DATABASE__SQL_ALCHEMY_CONN` (the 2.x name; the old `AIRFLOW__CORE__SQL_ALCHEMY_CONN` is dead), use the `postgresql://` scheme with the l (`postgres://` is no longer accepted), and point at a fresh metadata database. The reporter confirmed this exact combination started cleanly.

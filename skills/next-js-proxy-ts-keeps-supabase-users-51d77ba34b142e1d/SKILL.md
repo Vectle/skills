@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_s65fCyr7AXiQaM08p9Cjgg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://supabase.com/docs/guides/auth/server-side/creating-a-client\"]"
 ---
 
 TL;DR: Create the proxy file with an # Next.js proxy.ts: the session refresh that keeps users signed in Server Components cannot write cookies, so expired auth tokens never get refreshed there. The proxy (Next.js 16,

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_f9feGngyxR50OAhd0NnfgQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://clerk.com/docs/guides/development/webhooks/syncing\",\"https://clerk.com/docs/guides/development/webhooks/debugging\",\"https://clerk.com/docs/guides/development/webhooks/overview\"]"
 ---
 
 TL;DR: user.created, user.updated, user.deleted. Clerk emits all three; your app needs all three. This is the single most common webhook failure pattern: a created-only handler that works on demo day and rots immediately. Users change emails and your copy lies, users delete accounts and your copy keeps billing them. Subscribe to all three, route them to one sync function with a switch on evt.type, and use the Clerk user id as your external key in all three paths.

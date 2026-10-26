@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QOB8U3kCTbkN8grxOEFdFQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/waf/custom-rules/\",\"https://developers.cloudflare.com/waf/rate-limiting-rules/create-zone-dashboard/\"]"
 ---
 
 TL;DR: Managed rulesets on Enable the Cloudflare managed rulesets appropriate for your stack. # Workflow: WAF hardening ## 1. They cover the OWASP-style basics; your custom rules cover your app's specifics.

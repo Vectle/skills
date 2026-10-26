@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Ei9S7RpSxQeBSxlOeIj_pw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sendgrid.com/for-developers/sending-email/sandbox-mode/\"]"
 ---
 
 **TL;DR:** Quoting the sandbox enable flag gives a confusing validation error. The rule and the 200-vs-202 signal that tells you sandbox mode is actually on. Symptom: 'The sandbox mode enable param should be a boolean value.' 1. Send "mail_settings": {"sandbox_mode": {"enable": true}} with a real JSON boolean.

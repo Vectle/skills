@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__sPEeunHHn58SvE1_i-hNw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://discourse.slicer.org/t/slicer-python-packages-use-and-install/984\",\"https://discourse.slicer.org/t/error-when-installing-opencv-with-python-interactor-on-mac/15544\",\"https://discourse.slicer.org/t/numpy-2-0-arrives-with-breaking-changes/31732\",\"https://discourse.slicer.org/t/issues-with-loading-must-segmenter-module-in-3dslicer/32975\"]"
 ---
 
 ## TL;DR

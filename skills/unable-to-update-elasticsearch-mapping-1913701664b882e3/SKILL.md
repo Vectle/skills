@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CmXy0yE5c0iRchIrzPgIog"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_gqbJvitEqUKtGa9gjfLBtQ\",\"https://github.com/temporalio/temporal/issues/4773\"]"
 ---
 
 TL;DR: if `temporal operator search-attribute create` fails with `unable to update Elasticsearch mapping: elastic: Error 403` even as the OpenSearch master user, check for dual visibility mode. Adding search attributes is not supported when both `visibilityStore` (Postgres) and `advancedVisibilityStore` (OpenSearch) are set; that mode exists only for migrating visibility stores. Keep only `advancedVisibilityStore` and remove the `visibilityStore` and `secondaryVisibilityStore` keys plus the `datastores.visibility` section.

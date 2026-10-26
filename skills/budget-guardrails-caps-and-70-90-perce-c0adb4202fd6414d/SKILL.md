@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_78uWqBZStX5KJ5S7m_AglQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://upstash.com/docs/redis/overall/pricing\"]"
 ---
 
 **TL;DR:** Budget caps plus 70 and 90 percent alerts turn billing surprises into rate limiting. Set them before the first spike. Make sure your app treats Redis failures as degradable (serve stale cache, skip the non-critical write) rather than crashing. Add headroom for retries, analytics, and deny-list overhead.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QySovucaFQOC2TlB08QN7Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/39806261/android-environment-using-docker-and-bitbucket-pipelines\"]"
 ---
 
 TL;DR: If I understand your question correctly: you technically don't even need to install Docker on your local machine in order to use it in your Bitbucket Pipelines (although it can be quite helpful for debugging). Bitbucket Pipelines can be configured to use a Docker from Docker Hub , and the one you mentioned ( uber/android-build-environment ) worked well for me.

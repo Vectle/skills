@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_R5kO61l5TWQjdnvLvopiBw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/redpanda-data/skills/blob/HEAD/skills/rpk-debug/SKILL.md\"]"
 ---
 
 # Redpanda Cloud has no Admin API or debug bundles; use support tickets plus Kafka-API triage

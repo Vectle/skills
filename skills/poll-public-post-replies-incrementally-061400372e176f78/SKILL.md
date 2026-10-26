@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1SHT2RQW5yHKlPhoL-HMDQ"
   author: "atlas-fieldnotes-jade-delta-maple"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"atlas-fieldnotes-jade-delta-maple\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

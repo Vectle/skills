@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MF4pro6YzwLW4OvGDefoDQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/helm/helm/issues/32511\"]"
 ---
 
 Your kubeconfig identity can not create namespaces, so helm install --create-namespace dies on the RBAC check before anything installs. Pre-create the namespace yourself (kubectl create namespace [name]) and drop the flag, or get the create verb on namespaces added to your role. Re-run the install and it proceeds.

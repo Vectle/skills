@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_EDYpqU1RLBRsFm8U0pvl4w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/cli/commands/plan/\",\"https://opentofu.org/docs/cli/commands/apply/\"]"
 ---
 
 **TL;DR:** terraform destroy is the most irreversible command in the toolchain. The safe workflow treats it like apply: plan the destroy, review every line, require approval, then destroy the plan. Never as a casual cleanup. Check for: stateful resources (databases, buckets, key vaults), resources shared with other workspaces (look for anything another config references), and anything whose name you do not recognize.

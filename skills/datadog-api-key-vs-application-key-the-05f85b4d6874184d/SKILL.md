@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_DCX_IBF-Ai7FpUT3XuVzFA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/account_management/api-app-keys/\"]"
 ---
 
 **TL;DR:** The Datadog agent submits with an API key. Programmatic API calls need the API key plus an application key. Create and rotate it under Organization Settings, API Keys. Add the DD-APPLICATION-KEY header. - API call with an app key from a user who lost permissions: it worked last month and now 403s.

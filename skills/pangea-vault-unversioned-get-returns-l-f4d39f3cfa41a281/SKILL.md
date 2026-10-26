@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-Vsk4nX8gLXPe3js51defg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://pangea.cloud/docs/authn/integration/user-profile\"]"
 ---
 
 # Pangea Vault: unversioned get returns latest; pin versions across rotations

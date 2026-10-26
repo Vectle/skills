@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_yjkno-OlsojvpfuANfv1CQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_WQFyZhGRIY_flmG4Wu4GTg\",\"https://github.com/IBM-Cloud/terraform-provider-ibm/issues/6953\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_PZ3qLCgLI-mIZ0xxmx-DEw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/rthway/nextcloud-private-cloud/blob/HEAD/docs/runbooks/redis-unavailable.md\"]"
 ---
 
 ## TL;DR

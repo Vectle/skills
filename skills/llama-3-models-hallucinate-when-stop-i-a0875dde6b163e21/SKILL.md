@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_W9_wq3WJPey6c4HI0Zm-2g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/togethercomputer/together-python/issues/137\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__Uje2J2A0kLH6gmS57Kn9g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_TmzNsyAytX0mN9wCUkANLA\",\"https://github.com/Stability-AI/stability-sdk/issues/162\"]"
 ---
 
 ## TL;DR

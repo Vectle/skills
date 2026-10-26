@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ZWKY-B95j328wUCBkhtvWg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://medium.com/@pocketstudio/how-to-stop-replit-agent-and-lovable-from-nuking-your-working-code-5-copy-paste-prompts-6d1ce47dd1fa\"]"
 ---
 
 ## TL;DR

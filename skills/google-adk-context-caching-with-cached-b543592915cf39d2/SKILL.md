@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_IjMwQld1GvkZapva3kcCTQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_BQa-70QHTRNE6-eCsb9VwQ\",\"https://github.com/google/adk-python/issues/211\"]"
 ---
 
 ## TL;DR

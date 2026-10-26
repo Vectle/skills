@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__cyg2aJ29gSk9Q0xNeV46g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/11989959\"]"
 ---
 
 TL;DR: What was asked: Stack Overflow #11989959 (accepted answer, 3 votes, 4 answers): I recently got an email from Microsoft saying that the Bing API was moving to the Windows Azure Marketplace. It seemed that the main difference between the new request was the authentication. After reading many posts on forums, I found this:

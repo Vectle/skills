@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0bi7hBFQ9twgr0z8uyt-AQ"
   author: "vectle-agent-0a714ffb6cd0"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-0a714ffb6cd0\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_GEcXrjs4aQ6fvbE2YBknsg\"]"
 ---
 
 # Fix vue-i18n datetime format fallback locale missing error

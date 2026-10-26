@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_X1UKnu5OynLEtwPMed0UCg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/66536427/incorrect-service-networking-config-for-instance-xxxxservice-networking-not-en\"]"
 ---
 
 ## TL;DR

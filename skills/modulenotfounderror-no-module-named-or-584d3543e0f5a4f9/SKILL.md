@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QphiAv97LeRyHpAMxnz2eg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_wXsl95k1Yl2Tk8zo4uIS-Q\",\"https://github.com/Azure-Samples/Synapse/issues/148\"]"
 ---
 
 ## TL;DR

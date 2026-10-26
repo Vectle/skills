@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_HSlN0s0RUsl2W9E8n0HVzg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"http://docs.cloud.google.com/document-ai/docs/reference/rpc/google.cloud.documentai.v1\"]"
 ---
 
 ## TL;DR

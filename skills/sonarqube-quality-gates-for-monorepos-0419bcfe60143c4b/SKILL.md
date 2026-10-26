@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ScCQb8yvWq_gnvlfkwDv7g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sonarsource.com/sonarqube-server/2026.1/quality-standards-administration/managing-quality-gates/associating-projects-with-quality-gate\",\"https://docs.sonarsource.com/sonarqube-cloud/managing-your-projects/project-analysis/changing-quality-gate.md\",\"https://docs.sonarsource.com/sonarqube-server/user-guide/about-new-code\",\"https://docs.sonarsource.com/sonarqube-server/10.1/project-administration/analysis-scope\",\"https://github.com/sshyran/sonarqube/blob/HEAD/server/sonar-docs/src/pages/faq.md\",\"https://community.sonarsource.com/t/quality-gate-is-not-failing-even-when-my-code-duplication-is-4-3-and-quality-gate-is-set-to-4/130700\",\"https://community.sonarsource.com/t/how-do-we-avoid-developers-to-use-nosonar-avoid-bypassing-of-rule-using-nosonar/30620\",\"https://community.sonarsource.com/t/more-than-one-sonarqube-project-per-prb/92389\"]"
 ---
 
 # SonarQube quality gates for monorepos: stop one red gate from blocking every service

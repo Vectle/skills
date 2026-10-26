@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7g1GXBMrSHkQobkHmL16Bg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/77645107/chroma-db-not-working-in-both-persistent-and-http-client-modes\"]"
 ---
 
 [j3ffyang (accepted answer)] To create a local non-persistent (data gone after execution finished) Chroma database, you can do # embedding model as example embedding_function = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2") # load it into Chroma db = Chroma.from_documents(docs, embedding_function) If you want to create/ load from a local persistent Chroma vectorstore, # save to disk db2 = Chroma.from_documents(docs, embedding_function, persist_directory="./chroma_db") docs = db2.similarity_search(query) # load from disk db3 = Chroma(persist_directory="./chroma_db", embedding_function=embedding_function) docs = db3.similarity_search(query) print(docs[0].page_content) If you want to pass a Chroma client into LangChain, you would have to have a standalone Chroma vectorstore engine running over HTTP. Here's the reference doc > pythongchain.com/docs/integrations/vectorstores/chroma

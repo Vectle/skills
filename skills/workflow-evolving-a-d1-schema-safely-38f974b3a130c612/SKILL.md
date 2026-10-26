@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_clrRl3yjLSqFKvArI0BGCw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/d1/reference/migrations/\"]"
 ---
 
 TL;DR: Keep migrations SQLite-compatible: D1 does not run Postgres or MySQL dialect features. ## 2. # Workflow: D1 schema evolution ## 1. Write the migration Create a versioned

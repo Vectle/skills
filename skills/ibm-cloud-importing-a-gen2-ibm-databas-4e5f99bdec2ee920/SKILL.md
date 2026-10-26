@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MaaGDws7S6r1tN0YHmvLPw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_nd3bW5gFaQ-Gm2p8Sy8edQ\",\"https://github.com/IBM-Cloud/terraform-provider-ibm/issues/6996\"]"
 ---
 
 TL;DR: if importing a Gen2 `ibm_database` fails with "not found in the region" even though the instance genuinely exists in the right region, do not chase your region config. It is a Gen1/Gen2 backend dispatch bug in the provider. The maintainer linked a fix PR (IBM-Cloud/terraform-provider-ibm#7000); upgrade to a provider release containing that fix.

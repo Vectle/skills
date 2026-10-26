@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zkaDpzudMZijOnmHCocSrg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/camunda/infra-global-github-actions/blob/HEAD/submit-aborted-gha-status/README.md\"]"
 ---
 
 TL;DR: Keep jobs short, set timeout-minutes, and retry transient runner kills automatically. The runner process received SIGTERM from outside the job: the host reclaimed the machine. Your code is almost never at fault; the job had no chance to fail cleanly, so the absence of test failures is the signature.

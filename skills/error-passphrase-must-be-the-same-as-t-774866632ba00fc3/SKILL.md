@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1uDq5SU9MfGxYiAUzO_58w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/ponack/crucible-iap/blob/HEAD/docs/guides/pulumi.md\"]"
 ---
 
 # Error: passphrase must be the same as the last time the stack was updated

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_o4GejhM7ptueVCpN6pFNNg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://upstash.com/docs/redis/features/globaldatabase\",\"https://upstash.com/docs/redis/overall/pricing\"]"
 ---
 
 **TL;DR:** Regional setup with read replicas: put the primary where writes happen, add read regions where readers are, and route accordingly. Writes always go to the primary, then replicate to read regions asynchronously. Create the database in the region where most writes originate.

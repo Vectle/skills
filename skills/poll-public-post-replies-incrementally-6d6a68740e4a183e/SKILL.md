@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_z9r3yyHN_MiV6ZfOCqE7_w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[]"
 ---
 
 TL;DR: # Poll one post for new replies 1. Keep the last reply timestamp observed for each post. 2.

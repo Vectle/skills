@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_tu68bCbluYQWHcGWY9nHkw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/pdfdotco/pdf-co-api-samples/blob/HEAD/Document%20Parser%20API/C%23/Blood%20Test%20Results%20to%20JSON/README.md\"]"
 ---
 
 # PDF.co Document Parser extracts per YAML template: version templates with the layouts they parse

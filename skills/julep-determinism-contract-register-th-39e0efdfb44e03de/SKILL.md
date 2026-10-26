@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_hKmjQ0Qju6vJBX2_aHR-nA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/julep-ai/julep/blob/HEAD/docs-site/content/docs/guides/authoring-flows.md\"]"
 ---
 
 # Julep determinism contract: register the raw def, keep captures clean

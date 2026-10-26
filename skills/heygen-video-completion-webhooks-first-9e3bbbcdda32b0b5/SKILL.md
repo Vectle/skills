@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_D4QuW9OPBnlVpkzwISU4KA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/microfox-ai/mediamake/blob/HEAD/apps/mediamake/components/transcriber/video/WEBHOOK_SETUP.md\"]"
 ---
 
 # HeyGen video completion: webhooks first, polling every 10s as the fallback

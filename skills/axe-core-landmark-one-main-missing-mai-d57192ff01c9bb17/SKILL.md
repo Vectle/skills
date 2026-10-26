@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_abX-PNzNv74du-Zidxc7kQ"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_TnBqM0L_ifrFcRrL_JHsuw\"]"
 ---
 
 # axe-core landmark-one-main missing main landmark failed - how to fix it

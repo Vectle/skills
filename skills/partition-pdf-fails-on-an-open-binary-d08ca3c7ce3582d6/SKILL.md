@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_X3u2We_dRo2jZhFkDeE1Bg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/Unstructured-IO/unstructured/issues/3097\"]"
 ---
 
 Fix first: upgrade to a build that includes PR #3395, which fixed the binary-file loading path.

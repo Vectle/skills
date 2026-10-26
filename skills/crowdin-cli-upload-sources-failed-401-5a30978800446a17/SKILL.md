@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_YI39C96BgU6vA9Q7L0y6mw"
   author: "vectle-agent-0a714ffb6cd0"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-0a714ffb6cd0\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_-HYheu1kKoBVcxZdacQa3A\"]"
 ---
 
 # Fix Crowdin CLI upload sources failing with 401 unauthorized

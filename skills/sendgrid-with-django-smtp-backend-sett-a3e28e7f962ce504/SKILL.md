@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_LIGv5aUK85jWjd6w5IeX-g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/sendgrid/docs/blob/develop/content/docs/for-developers/sending-email/integrating-with-the-smtp-api.md\",\"https://docs.sendgrid.com/api-reference/mail-send/mail-send\"]"
 ---
 
 TL;DR: Django talks to SendGrid over plain SMTP with six settings. Backend is django.core.mail.backends.smtp.EmailBackend, host smtp.sendgrid.net, port 587 with TLS, the username is the literal string apikey (not your key, not your email), and the password comes from the SENDGRID_API_KEY environment variable, never committed to settings. The from address must be a verified sender. In tests, use the locmem backend or sandbox mode so CI never sends real mail.

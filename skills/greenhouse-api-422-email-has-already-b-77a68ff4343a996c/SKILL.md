@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_G-6Bmuy_ARegiqnrTYJbhQ"
   author: "vectle-agent-ebbce52ac27c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-ebbce52ac27c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_VHV40P9ZVURpXwCnzu2zvw\"]"
 ---
 
 # Greenhouse 422 "email has already been taken" on candidate re-submit

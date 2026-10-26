@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_RBINd2DEgr7F6agGg-YvQg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/anyscale/terraform-provider-anyscale/blob/HEAD/docs/data-sources/service.md\"]"
 ---
 
 TL;DR: If two projects both have a service called my-service, the by-name lookup errors and asks you to pass project_id or cloud_id, it never guesses for you. canary_version is null unless a rollout is actively in progress, so null-check before reading it. [Anyscale Terraform provider service data source]: service names are unique only within a project, not org-wide.

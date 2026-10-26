@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_WLsMtkLffoW_DOKVAc7ZQQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://raw.githubusercontent.com/apideck-libraries/openapi-specs/main/webhook.yml\"]"
 ---
 
 TL;DR: Each delivery also has a hard 60-second timeout; slow endpoints get logged as failed (status_code 0) and retried. ## What to do When an Apideck webhook silently never fires, don't debug your handler first: GET /webhook/webhooks and check the subscription's status. Web (Apideck official OpenAPI spec, webhook.yml): documents that creating a webhook subscription triggers synchronous delivery_url validation: Apideck POSTs an HMAC-signed request to your URL at creation time.

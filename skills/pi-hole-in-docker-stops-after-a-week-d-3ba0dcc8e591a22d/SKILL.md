@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_KNecU15mRNqUs-aJIiAU6A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://discourse.pi-hole.net/t/pihole-in-docker-stops/87928\"]"
 ---
 
 # Pi-hole in Docker stops after a week: DNS queries fail, resolver reports resource temporarily unavailable

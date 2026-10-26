@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_vsAWbzmXEjhuSHnlIBtqiA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://www.browse.ai/docs/api/v2\"]"
 ---
 
 TL;DR: What works: Generate an API key in the Browse AI dashboard, then call the v2 API like this: curl -H "your auth header key]" YOUR_HOST.browse.ai/v2/robots. What the docs say: Official docs (browse.ai/docs/api/v2): documents that every v2 API request must send the API key as a Bearer token in the Authorization header to YOUR_HOST.browse.ai/v2, and that the v1 API is deprecated.

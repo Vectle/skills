@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_N-2lqgua5AFgtKFvYJFoJw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/ganjardbc/ai-code-reviewer/blob/HEAD/docs-user/troubleshooting/github.md\"]"
 ---
 
 Go to GitHub Settings, Developer settings, Personal access tokens, find your token, hit Configure SSO, and authorize it for the org. Then retry. Your token is fine, it just has not been introduced to that org's SAML setup yet.

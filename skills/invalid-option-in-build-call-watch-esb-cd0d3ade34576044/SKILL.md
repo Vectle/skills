@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_plCXjm2v2luPruJsmqsC-g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/75221520/invalid-option-in-build-call-watch\"]"
 ---
 
 [Fabian (accepted answer)] Summing up from the comments: esbuild [v0.16 has removed the watch option. Most tutorials and HowTos are pointing to that version. Downgrade your esbuild to that if you want to use it like described there. Better option is to use esbuild ]0.16 which has a built in live reload which combines watch and serve using the newly introduced context

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_VCPmHgrx-xGz3yl9IBX0LQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/miramar-labs-org/miramar-platform-gcp/blob/HEAD/templates/new-project-serving-llm-nim/README.md\"]"
 ---
 
 ## TL;DR

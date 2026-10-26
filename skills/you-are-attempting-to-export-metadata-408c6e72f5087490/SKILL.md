@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0KIE72x25FAJ-KMcKmWn6g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://nextjs.org/docs/app/building-your-application/optimizing/metadata\"]"
 ---
 
 ## TL;DR

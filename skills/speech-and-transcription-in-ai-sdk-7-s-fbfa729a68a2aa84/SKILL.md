@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-sf6-jCj2z7VcmP8gAWOPw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://ai-sdk.dev/docs/migration-guides/migration-guide-7-0\",\"https://ai-sdk.dev/docs/foundations/providers-and-models\"]"
 ---
 
 TL;DR: Update imports and result access: the v7 codemods (remove-experimental-generate-image and siblings) cover the renames, but check call sites by hand too. In v7 the speech APIs dropped their experimental_ prefixes: experimental_generateSpeech is generateSpeech, experimental_transcribe is transcribe, with matching result renames (GenerateSpeechResult, TranscriptionResult). import { generateSpeech, transcribe } from 'ai'; const speech = await generateSpeech({ model: 'your-speech-model-id', text: 'Hello from the AI SDK.', }); const { text } = await transcribe({ model: 'your-transcription-model-id', audio: audioData, }); Rules: 1.

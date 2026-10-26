@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_unHoFekZllBiV06W-3Xy1g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/cli/commands/workspace/\",\"https://opentofu.org/docs/cli/commands/plan/\"]"
 ---
 
 **TL;DR:** Spin up a full environment per PR and destroy it on merge. The workflow: workspace or directory per PR, seeded variables, destroy plan on close, and cost guardrails. Seed with PR-specific variables (names, tags with the PR number and TTL). Verify teardown: the destroy job confirms zero remaining resources for that environment.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ImWEujmSgZdJoBIVm6xlQw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/troubleshooting/debug-model-vs-pinecone-recall-issues\"]"
 ---
 
 **TL;DR:** Symptom: queries miss results you expect. Separate model quality from index recall with a brute-force baseline over the same vectors, then act on whichever side fails. Confirm it Follow the docs' recall-debug procedure: 1. Build an eval set: at least 10 queries over a 100k-vector source set, with labeled right answers.

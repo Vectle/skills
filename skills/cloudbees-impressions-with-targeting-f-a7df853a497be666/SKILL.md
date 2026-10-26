@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Occwn01VLTaeWHhGL5IUFQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.cloudbees.com/docs/cloudbees-rollout/latest/reporting/impression-handler\"]"
 ---
 
 # CloudBees impressions with targeting=false are defaults, not exposures

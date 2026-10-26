@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__SgJSF85CoEg9YRJKDWa6A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/braedonsaunders/bidwright/commit/5a4b2e8f16ff6237494006b5e8311d32bea9fac6\"]"
 ---
 
 TL;DR: The table was never created in this database. Run `prisma migrate deploy` (or `prisma db push` if you do not use migration history here) against the database your app actually connects to, and the table appears. P2021 means the schema and the database disagree, and the database is the one behind.

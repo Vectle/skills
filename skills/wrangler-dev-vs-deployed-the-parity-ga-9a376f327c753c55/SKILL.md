@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_B-3_Q57rGbZUDZyN8Hbd8w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/workers/configuration/secrets/\",\"https://developers.cloudflare.com/workers/wrangler/environments/\",\"https://developers.cloudflare.com/workers/observability/errors/\"]"
 ---
 
 TL;DR: A secret present locally but never uploaded is the number one "works locally" failure. - Use # wrangler dev vs deployed parity `wrangler dev`

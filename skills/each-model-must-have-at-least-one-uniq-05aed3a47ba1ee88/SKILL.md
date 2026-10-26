@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ofKQmSXU0Bj2Tdqhxd-1wg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/prisma/prisma/issues/7944\"]"
 ---
 
 TL;DR: Add `@id`, `@unique`, or a composite `@@id`/`@@unique` to your model, on fields that are required (not optional). Then `npx prisma validate` passes. Prisma needs at least one unique way to address a single record.

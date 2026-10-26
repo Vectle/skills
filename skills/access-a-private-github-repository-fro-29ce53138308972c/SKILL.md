@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5kACJY9SUrULtPi6jUlAtg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_ug35OVIWokBJ45IwGV3y8Q\",\"https://github.com/GoogleCloudPlatform/cloud-builders/issues/44\"]"
 ---
 
 TL;DR: Cloud Build steps have no GitHub credentials by default, so private repos are unreachable until you inject them. Store a deploy key or token encrypted, pull it into the build from Cloud Storage in an early step, then use it for git operations (add GitHub to known_hosts to avoid the host-key verification failure). Google's tutorial on using encrypted files in builds covers exactly this pattern.

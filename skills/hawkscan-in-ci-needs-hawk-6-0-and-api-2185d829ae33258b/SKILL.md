@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_NTXcJwOV3p8WBXzHWqqV3w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/stackhawk/claude-skills/blob/HEAD/plugins/hawkscan/skills/hawkscan/SKILL.md\"]"
 ---
 
 # HawkScan in CI needs hawk 6.0+ and API_KEY value $HAWK_API_KEY prefix; no browser init

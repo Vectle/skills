@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qAEQwvwG-v2Z-BvmwGEuPQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://clerk.com/docs/guides/sessions/customize-session-tokens\"]"
 ---
 
 **TL;DR:** Every request that calls the backend API just to read user metadata is paying a round trip you can delete. Put the data in the session token as a custom claim instead, and remember the token only refreshes about once a minute. Add a claim 1. Add JSON shaped like the examples below and save.

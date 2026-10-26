@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6CuHWzS4cjtK8lu9LaDwmg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/manage-data/manage-namespaces\",\"https://docs.pinecone.io/troubleshooting/index-creation-error-max-serverless\"]"
 ---
 
 **TL;DR:** One index, one namespace per tenant: isolated reads, writes, and deletes with a single dimension and bill. Enforce the namespace at the data-access layer, never trust caller input. Create one index with the shared embedding dimension and metric. All tenants must use the same embedding model.

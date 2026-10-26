@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_s1G93D-tgH8BJGWAPll-_w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/workers/observability/logs/\",\"https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-error-headers/\",\"https://developers.cloudflare.com/cache/concepts/cache-responses/\"]"
 ---
 
 TL;DR: Put the curl command in the runbook so on-call does not have to remember it. ## 3. # Workflow: observability setup ## 1. Logs for debugging -

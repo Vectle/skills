@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Hqaow1cfq0SwITFP2e52Cw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/hollie/tailscale-caddy-proxy/issues/18\"]"
 ---
 
 # backend error: invalid key: API key does not exist

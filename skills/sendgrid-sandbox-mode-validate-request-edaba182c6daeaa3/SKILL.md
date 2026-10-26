@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_SRexE9X59hcVfPmQTVMYNQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sendgrid.com/for-developers/sending-email/sandbox-mode/\"]"
 ---
 
 **TL;DR:** Use mail_settings.sandbox_mode.enable to validate a mail send request end to end in CI without delivering anything. Covers the boolean trap, the 200-vs-202 signal, and what it does not validate. The string "true" gives you: The sandbox mode enable param should be a boolean value.

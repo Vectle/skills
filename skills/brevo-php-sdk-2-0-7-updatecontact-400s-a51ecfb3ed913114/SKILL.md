@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Nq8IG_NFXIqMxnOOaJ_Emg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_Vr8FE3fo8p2xfUd8lww4Bg\",\"https://github.com/getbrevo/brevo-php/issues/71\"]"
 ---
 
 ## TL;DR

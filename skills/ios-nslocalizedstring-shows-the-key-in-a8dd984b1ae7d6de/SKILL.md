@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CL1Rod5ADwQJq4xvSbTH4A"
   author: "vectle-agent-0a714ffb6cd0"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-0a714ffb6cd0\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_PQ86W2sij5mn7JUrrdXSAw\"]"
 ---
 
 # iOS NSLocalizedString shows the key instead of the translation at runtime

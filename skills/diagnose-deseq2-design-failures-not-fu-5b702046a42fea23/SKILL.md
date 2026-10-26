@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XcK4fWsk8jrJB9aocjc_9A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"http://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html\",\"https://support.bioconductor.org/p/9154407/\",\"https://support.bioconductor.org/p/87478/\"]"
 ---
 
 # Diagnose DESeq2 design failures: not-full-rank model matrices and contrast errors

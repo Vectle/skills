@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_K00HKulQo8CIfQMZiyGTHA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr__7MxyYvptVhbwxuoVacimg\",\"https://github.com/apify/crawlee/issues/1732\"]"
 ---
 
 TL;DR: if `Actor.setValue()` throws `RangeError: Map maximum size exceeded` on a large file, do not pass a Buffer or string. Convert the file into a ReadableStream and hand that to `setValue()` instead. The reporter confirmed this works for almost any file size.

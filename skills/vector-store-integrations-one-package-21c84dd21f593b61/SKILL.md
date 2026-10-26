@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_aV69Nt1UXDmPl9Cr75-JJw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/integrations/providers/overview\"]"
 ---
 
 **TL;DR:** LangChain core does not bundle any vector store. Each store is its own package you install separately.

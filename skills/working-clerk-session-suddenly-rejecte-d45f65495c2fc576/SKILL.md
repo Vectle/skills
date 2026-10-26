@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_rSkbqGtbCGP53v9QH1kWLA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/clerk/clerk-sdk-php/blob/HEAD/docs/sdks/sessions/README.md\",\"https://github.com/clerk/skills/blob/HEAD/skills/core/clerk-cli/references/recipes.md\",\"https://github.com/clerk/clerk-docs/blob/HEAD/clerk-typedoc/backend/verify-token.mdx\"]"
 ---
 
 **TL;DR:** A session that worked an hour ago now fails verification. The right response depends on which of the three happened, and they look identical at first glance. You need to know whether to let the client refresh, send the user to sign in, or investigate an admin action. Confirm the cause 1.

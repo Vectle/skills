@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_fdyianKJ1pb2p7vAjTv-yw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/mahmudur-bhuiyan/calysta-data-export/blob/HEAD/.cursor/skills/calysta-export-project/SKILL.md\"]"
 ---
 
 `pip install playwright` installs only the Python package. The actual browser binaries are a separate download, and until you fetch them every launch fails with `Executable doesn't exist`. Run `playwright install` (or `python -m playwright install chromium` for just Chromium) once, and launches work from then on.

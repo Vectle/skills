@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_bcT9NApRbc6BFxLtRTYG-Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/containers/kubernetes/installation/\"]"
 ---
 
 **TL;DR:** The supported Kubernetes install is the Helm chart: a DaemonSet agent on every node plus the Cluster Agent for cluster-level metadata. The Datadog Operator is the alternative for GitOps shops. Use the chart, it handles the RBAC, the cluster agent, and the version matrix for you. Note: the docs also cover the Datadog Operator (datadog/datadog-operator chart plus a datadog-agent.yaml custom resource).

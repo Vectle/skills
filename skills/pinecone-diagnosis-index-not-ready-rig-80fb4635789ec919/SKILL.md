@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_W5g70NUCbP3yi_Age9UUYA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/troubleshooting/wait-for-index-creation\"]"
 ---
 
 **TL;DR:** Symptom: operations fail on a just-created index. Creation is async; poll describe_index until status.ready is true before writing or querying. Confirm it Call pc.describe_index(name) in a loop and read status.ready. Log the state transitions so you can see stuck vs slow.

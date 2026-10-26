@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_dXfLVP_S7gM0JRh5offPOg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://developercommunity.visualstudio.com/t/azurefilecopy-3/1154142\"]"
 ---
 
 # AzCopy.exe exited with non-zero exit code while uploading files to blob storage

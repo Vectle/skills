@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_NlM92YGnFvXSXMU8LpKWHA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/dojocodinglabs/whatsapp-adapter/blob/HEAD/docs/compliance.md\"]"
 ---
 
 ## TL;DR

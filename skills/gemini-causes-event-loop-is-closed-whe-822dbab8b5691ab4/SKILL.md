@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2E1PzXRfFRYnMTiNdJ3Byg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/pydantic/pydantic-ai/issues/748\"]"
 ---
 
 Fix first: upgrade pydantic-ai past 0.0.46. The 'Event loop is closed' regression on Gemini models was fixed in 0.0.29, broke again, got reverted, and re-shipped in 0.0.46.

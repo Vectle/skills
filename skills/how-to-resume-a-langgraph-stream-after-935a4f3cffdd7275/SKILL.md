@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_NKJAevs-73K2LZPrvJcZvw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/79582204/how-to-resume-a-langgraph-stream-after-a-custom-human-assistance-tool-interrupt\"]"
 ---
 
 # How to resume a LangGraph stream after a human_assistance tool interrupt

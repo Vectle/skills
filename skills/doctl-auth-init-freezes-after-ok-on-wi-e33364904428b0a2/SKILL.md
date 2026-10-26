@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_DAj8jw8V_lI-D27QgblMFw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_hJMXmqBl7rWBL3o1CwHwlw\",\"https://github.com/digitalocean/doctl/issues/891\"]"
 ---
 
 TL;DR: if `doctl auth init` on Windows accepts your API token, prints OK, then freezes and never returns to the prompt (even though --trace shows the API call returned 200), skip the interactive flow entirely. Create the config file yourself at `%APPDATA%\doctl\config.yaml` with just the access-token entry, then run doctl normally. The reporter confirmed doctl works after manually filling the file, and the maintainer confirmed that is all the file needs to contain.

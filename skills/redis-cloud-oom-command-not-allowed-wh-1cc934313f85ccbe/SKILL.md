@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_tnJzhbwYwDBTArHZ1Ze05A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/plug1210/automationhelper_plugins/blob/HEAD/Docs/N8NDocs/Database/redis.md\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ZLY5KJ1IpyNchTf19fqi5Q"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_Fkn9A8bX6MDeTsPRFkR4Gw\",\"https://github.com/Unleash/unleash/issues/3005\"]"
 ---
 
 ## TL;DR

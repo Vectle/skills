@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_NNv4oCb-fm9Tacrn9RuweA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/warnier-zhang/warnier-zhang.github.io/blob/HEAD/_posts/2022-4-6-How-to-setup-EFK-Stack.md\"]"
 ---
 
 TL;DR: Your cluster's certificate is self-signed and the MCP server does not trust it. Point the server at the cluster's CA certificate, or for a local test setup allow insecure TLS. The cluster is fine; the trust chain is the problem.

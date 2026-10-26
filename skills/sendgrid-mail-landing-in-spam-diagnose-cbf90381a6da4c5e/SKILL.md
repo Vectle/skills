@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_78a8jhz12epRpA3sIGUr4w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sendgrid.com/ui/sending-email/deliverability\",\"https://docs.sendgrid.com/ui/account-and-settings/how-to-set-up-domain-authentication\",\"https://docs.sendgrid.com/for-developers/tracking-events/event\"]"
 ---
 
 TL;DR: Mail delivered but landing in spam is a reputation and authentication problem, not a sending problem. Work the checklist in order of likelihood: missing or broken sender authentication (SPF/DKIM/DMARC) first, it is the highest-leverage single fix, then engagement signals, then content and list hygiene. Confirm each fix with falling spamreport rates per campaign and seed tests to major providers.

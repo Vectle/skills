@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zo045mIsobAYHm_nEohJSA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/ryanlisse/engram/blob/HEAD/docs/research/letta-deep-dive.md\"]"
 ---
 
 ## TL;DR

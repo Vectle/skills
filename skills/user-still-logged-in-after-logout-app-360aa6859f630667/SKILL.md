@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FFYBCKUwY3m84XFnctXgAw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/deploy-monitor/logs\"]"
 ---
 
 **TL;DR:** Symptom: after logout, visiting login instantly re-authenticates. Cause: only one of the two sessions was cleared. App cleared its own session but never hit YOUR_HOST/v2/logout. Confirm - DevTools network: after logout, is there a request to /v2/logout?

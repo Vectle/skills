@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_aKp3ORsFyVW-0XuoeJLhsw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.xarray.dev/en/stable/user-guide/weather-climate.html\",\"https://docs.xarray.dev/en/stable/generated/xarray.decode_cf.html\",\"https://github.com/pydata/xarray/issues/2164\"]"
 ---
 
 ## TL;DR

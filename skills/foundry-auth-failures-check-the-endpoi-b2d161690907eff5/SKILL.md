@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_uOP55OKNNopw1L2EaRL6VA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/arturo-quiroga/PDF-ANALYZER/blob/HEAD/QUICKSTART.md\"]"
 ---
 
 TL;DR: On auth failures with a new Foundry project, check config before credentials. Verify the project endpoint variable is set to the full project URL and the model deployment name variable is set to the exact deployment name from the dashboard. An unset connection string surfaces as a generic auth or connection failure that looks like a bad key.

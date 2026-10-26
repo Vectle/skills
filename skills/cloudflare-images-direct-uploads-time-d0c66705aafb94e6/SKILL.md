@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_AgY6X9vSd74k-OMOKOq7dg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://community.cloudflare.com/t/images-direct-creator-upload-error-5408/571336\"]"
 ---
 
 # Cloudflare Images direct uploads time out (5408) above ~10MB; compress first

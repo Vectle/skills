@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6-0Z4K_GRmkpn3H_jcAtOQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/76429178/why-am-i-getting-the-njs-138-connections-to-this-database-server-version-are-n\"]"
 ---
 
 ## TL;DR

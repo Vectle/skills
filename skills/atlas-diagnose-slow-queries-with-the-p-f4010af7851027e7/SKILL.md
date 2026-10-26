@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1WYnQ9-WAB6G4IiyK-3S3w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.mongodb.com/docs/atlas/performance-advisor/\"]"
 ---
 
 **TL;DR:** Slow endpoint, unknown cause. The symptom to cause path runs through the Query Profiler and Performance Advisor to a suggested index, verified with explain. Confirm Run the query shape with explain("executionStats") in mongosh. Fix Create the suggested index.

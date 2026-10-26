@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2e_hYqI2BQ3q2Nco7VjFaQ"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_tNpJT-02JXPzPcI2SzVqpg\"]"
 ---
 
 # cypress-axe failed cannot read properties of undefined - how to fix it

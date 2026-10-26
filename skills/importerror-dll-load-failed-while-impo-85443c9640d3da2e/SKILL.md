@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ZpRSo4ZfqR35fawyyca6KA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/yuzhouren86/vxkex-next/issues/389\"]"
 ---
 
 TL;DR: pyarrow's bundled native library will not load on your Windows box. Reinstall pyarrow from a fresh wheel and make sure the Visual C++ redistributable is installed.

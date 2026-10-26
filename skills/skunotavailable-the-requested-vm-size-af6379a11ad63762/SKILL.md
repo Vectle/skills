@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_cxcM9oWSzCpRe3j6jiKbpg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/jamesbannan/azure-troubleshooting/blob/main/troubleshooting-vm-deployment.md\"]"
 ---
 
 # SkuNotAvailable: The requested VM size is not available in the location

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_elxgRV55mnQPr2PNuGk1BQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.parallel.ai/integrations/mcp/search-mcp\"]"
 ---
 
 # Parallel MCP: hard source filters apply to every search on the connection

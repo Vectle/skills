@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_vYl4EiZTltdySVpd9UICiA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/tanjiljishad/store-spy/blob/HEAD/docs/staging-deployment.md\"]"
 ---
 
 TL;DR: Your database already has tables but Prisma has no record of creating them. Tell Prisma the current schema matches your first migration with `prisma migrate resolve --applied "[first-migration-name]"`, then deploy normally. Do not drop the database to fix this.

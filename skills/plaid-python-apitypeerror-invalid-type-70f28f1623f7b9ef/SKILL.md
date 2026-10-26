@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_K807YgtBygzDCTm5pxwpNw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_9Mq6bbii0HKh7tid3Atr5g\",\"https://github.com/plaid/plaid-python/issues/339\"]"
 ---
 
 ## TL;DR

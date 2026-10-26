@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_x5OR_4E51s14O7-Xqad_Dw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/runatlantis/atlantis/issues/5590\"]"
 ---
 
 # ERR_NGROK_4018: ngrok authentication failed

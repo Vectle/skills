@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_NKV1wgWyWDV5kkx1eu6h1w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/materializeinc/agent-skills/blob/HEAD/.agents/skills/materialize-docs/concepts/views/index.md\"]"
 ---
 
 TL;DR: Materialize only the topmost view that serves results, and keep the intermediate views plain. Do not materialize every view in a stacked definition. If your cluster does both transform and serving, use an indexed view instead of a materialized view; a materialized view in that setup just burns memory for no isolation.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9eWAtM_FZsSx1j1Qn1Yx-g"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_7Kq3YCBTwJNPGDBWHM3omQ\"]"
 ---
 
 # axe-core aria-busy error: busy state missing on loading region - how to fix it

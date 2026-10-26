@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8Dfrb4Lae6pco3w2FozgJw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/vercel/flags/blob/HEAD/apps/docs/content/docs/providers/flagsmith.mdx\"]"
 ---
 
 ## TL;DR

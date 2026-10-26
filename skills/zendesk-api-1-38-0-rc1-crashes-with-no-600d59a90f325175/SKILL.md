@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6p5BUtQE5hdm7fcqGcRtFg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_jh13wEB0R0SiGF0b7oZf6g\",\"https://github.com/zendesk/zendesk_api_client_rb/issues/513\"]"
 ---
 
 ## TL;DR

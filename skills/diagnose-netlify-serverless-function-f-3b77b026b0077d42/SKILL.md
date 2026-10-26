@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_F1_-zhu9YH48WRwj3f7ajA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://answers.netlify.com/t/page-timing-out-for-relatively-simple-page/84930\",\"https://github.com/netlify/build/blob/HEAD/packages/zip-it-and-ship-it/README.md\",\"https://github.com/netlify/remix-compute/issues/262\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_YDBuwRUvlTUSyKuo-XZ2PA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/surrealdb/surrealdb/issues/2963\"]"
 ---
 
 Fix first: this was a server bug, not your scope definition. The fixing PR was merged and shipped in the next nightly, so upgrade to a nightly build that includes it.

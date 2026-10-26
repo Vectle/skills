@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ViV8QUh1tTuIqK6uH-1xHw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/kevin-burns/claude-skills/blob/HEAD/terragrunt-skill/references/error-patterns.md\"]"
 ---
 
 TL;DR: You put an argument on the same line as the block's opening brace without closing it on the same line. HCL treats that as a single-line block definition, which must open AND close on one line. Either close it there or move the argument to its own line.

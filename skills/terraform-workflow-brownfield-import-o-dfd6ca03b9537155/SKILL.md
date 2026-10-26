@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1wqaXThMUwrIw7lWXb4DFg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/language/import/\",\"https://opentofu.org/docs/language/import/generating-config/\"]"
 ---
 
 **TL;DR:** Adopting click-ops infrastructure into Terraform means importing every object then converging config. The workflow: inventory, import blocks, generate config, converge to a clean plan. Terraform workflow: brownfield import of existing infrastructure When Infrastructure exists (console, CloudFormation, another tool) and Terraform needs to adopt it without recreation. Write import blocks with verified IDs (see the import-ID diagnostic).

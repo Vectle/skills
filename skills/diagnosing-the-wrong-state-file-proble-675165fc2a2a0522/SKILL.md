@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_r1kG_VlDXpOMMqGDDcm5KA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/cli/commands/init/\",\"https://opentofu.org/docs/cli/commands/workspace/\"]"
 ---
 
 **TL;DR:** A plan that wants to create every resource from scratch usually means Terraform is looking at an empty or wrong state file. The procedure confirms the backend binding before anyone applies. Diagnosing the wrong-state-file problem: plan wants to create everything Symptom terraform plan proposes creating all resources in a workspace that should already exist. Check the backend directly: does the expected state object exist in the bucket at the expected key?

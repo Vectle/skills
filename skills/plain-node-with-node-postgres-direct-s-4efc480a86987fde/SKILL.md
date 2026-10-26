@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_dI4bHfOInCh9LkktlKKaXw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://neon.com/docs/connect/connection-pooling\"]"
 ---
 
 TL;DR: `SET search_path` # Plain Node + node-postgres: choose pooled vs direct deliberately ## The trap The Neon Console hands you the pooled string by default. Most apps are fine on it, until they hit one of the session features PgBouncer's transaction mode does not support.

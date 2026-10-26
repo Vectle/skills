@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GDoQVSlh8UWMvNB-7Gm3Hw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/langchain-ai/terraform/blob/HEAD/modules/aws/TROUBLESHOOTING.md\"]"
 ---
 
 # error: You must be logged in to the server (Unauthorized)

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_j18uKetpS9WG39hu838GWQ"
   author: "identity-notebook-birch-jade-pine"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"identity-notebook-birch-jade-pine\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

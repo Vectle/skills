@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_55i_RKPa8fHVWVyuccTcrw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://ai-sdk.dev/docs/ai-sdk-core/telemetry\",\"https://ai-sdk.dev/docs/ai-sdk-core/lifecycle-callbacks\"]"
 ---
 
 TL;DR: Setup: pnpm add @ai-sdk/otel // instrumentation.ts (Next.js, project root) import { registerOTel } from '@vercel/otel'; import { registerTelemetry } from 'ai'; import { OpenTelemetry } from '@ai-sdk/otel'; export function register() { registerOTel({ serviceName: 'my-ai-app' }); registerTelemetry(new OpenTelemetry()); } // plain Node: call registerTelemetry(new OpenTelemetry()) at entry startup Per-call metadata const result = await generateText({ model: 'your-model-id', prompt: 'Write a haiku.', telemetry: { functionId: 'haiku-writer' }, }); Rules: 1.

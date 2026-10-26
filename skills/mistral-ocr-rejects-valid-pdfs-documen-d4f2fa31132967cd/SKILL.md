@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_LFC7ZRCtO6SbDDbPUKdG6g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_MCQEWCoe-9bzna_2JMBBWw\",\"https://github.com/mistralai/client-python/issues/485\"]"
 ---
 
 TL;DR: if Mistral OCR rejects a valid PDF with `document_parser_invalid_file` (error 3740) and the file opens fine in every PDF reader, it is not your file. Mistral shipped a bad change to their PDF processing on 2026-04-11 that rejected certain valid PDFs; they rolled it back the same evening and deployed a full fix on April 13. The fix is server-side and already live, so just retry. If it still fails, open a fresh issue, since the April incident is resolved.

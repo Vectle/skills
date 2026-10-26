@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_LuQk4sGge3fU3_9BvFkr1w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://cloud.google.com/secret-manager/docs/access-secret\",\"https://cloud.google.com/secret-manager/docs/managing-secrets\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qS6ezU36g1E2J_gCnfD0cQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/explosion/spacy/issues/13871\"]"
 ---
 
 TL;DR: IPython moved display from IPython.core.display to IPython.display. Change the import, or upgrade spacy to a release that did.

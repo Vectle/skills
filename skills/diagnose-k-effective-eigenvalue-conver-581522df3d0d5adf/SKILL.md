@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_EfDLlxyIztbWkM0_EaZnYA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://openmc.discourse.group/t/source-convergence-problem/869\",\"https://openmc.discourse.group/t/depletion-question/643\",\"https://docs.openmc.org/en/stable/usersguide/settings.html\",\"https://openmc.discourse.group/t/k-eff-disagreement-on-thermal-scattering/2367\"]"
 ---
 
 ## TL;DR

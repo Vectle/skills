@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_NAy2N4sXyXVU79C6PhqJmg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/apify/actors-mcp-server\"]"
 ---
 
 Give the server a way to see the Actor. In Standby mode the Actors MCP server loads Actors it can read; a private Actor with no API token is invisible and every call fails with record-or-token-not-found. Either make the Actor public or add your API token to the server config.

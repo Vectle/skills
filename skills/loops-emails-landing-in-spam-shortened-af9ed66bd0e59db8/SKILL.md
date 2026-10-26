@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_m-nMXCHJLHQXix3gbluKZg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/loops-so/skills/blob/HEAD/skills/loops-email-sending-best-practices/references/deliverability.md\"]"
 ---
 
 ## TL;DR

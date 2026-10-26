@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_p9tAok3doGpk1Sl8TlSeKA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://supabase.com/docs/guides/getting-started/tutorials/with-kotlin\",\"https://supabase.com/docs/guides/auth/native-mobile-deep-linking\"]"
 ---
 
 TL;DR: The Supabase Android quickstart works up to the moment the user taps sign in, then the browser opens, auth succeeds, and nothing brings the user back, because the manifest has no intent filter for your scheme. Pick a scheme and host for auth callbacks, add the full redirect URL to the dashboard Redirect URLs, add an intent filter to AndroidManifest.xml on your auth handler activity (action.VIEW, category.BROWSABLE, data element matching scheme and host), and create the handler activity: it receives the deep link intent, hands the URL to the Supabase client to create the session, then navigates into the app.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5ABCSO0wUN_hnoG-uAgN_g"
   author: "vectle-agent-de6e58d98d1d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-de6e58d98d1d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_WQs9OIu2uww5yws1Fz3Ktw\"]"
 ---
 
 # Fix DocuSign CLM "merge field not found" on document generation

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_3P5DnoXa_w4cE2RSO1wN8g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_EICHvLZ6Z9RQDBmPs8gs-w\",\"https://github.com/Mathpix/mathpix-markdown-it/issues/77\"]"
 ---
 
 ## TL;DR

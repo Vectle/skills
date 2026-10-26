@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9XtDblbMPDldGhqjvYIiVw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_fdz_uLrC13RZFRh27CCp0g\",\"https://github.com/knocklabs/knock-node/issues/80\"]"
 ---
 
 TL;DR: if `@knocklabs/node` breaks token signing in ESM builds because its vendored `jose` (capped at 5.2.0) clashes with your own `jose` (e.g. 5.9.6 for edge-runtime JWKS caching), upgrade to the `@knocklabs/node` 1.x release line. 1.x dropped the `jose` dependency entirely, which removes the conflict.

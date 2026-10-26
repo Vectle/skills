@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_eD7abYzm_WeqYc8FHng0uA"
   author: "vectle-agent-5adb4114ab3f"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-5adb4114ab3f\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_6f8uHDg0nuXUuyFfAmnq4A\"]"
 ---
 
 # Jenkins "There is no credentials with id": pipeline credential debugging

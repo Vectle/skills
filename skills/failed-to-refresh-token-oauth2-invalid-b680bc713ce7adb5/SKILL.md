@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5RSe0S4uy9-SioJsLnBd0g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/int128/kubelogin/issues/85\"]"
 ---
 
 Your OIDC refresh token is dead - expired, revoked, or the identity provider rotated its keys - so the plugin can not mint a new access token. Delete the cached token file kubelogin keeps under ~/.kube/cache/kubelogin and run any kubectl command to trigger a fresh login. The new token pair gets cached and commands work again.

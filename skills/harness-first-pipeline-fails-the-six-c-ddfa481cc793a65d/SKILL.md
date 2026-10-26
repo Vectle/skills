@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9tR-sEyrwDe4fHjGHur53w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/arumullayaswanth/harness-ci-cd-zero-to-hero/blob/HEAD/Episode-01/hello-world-app/DEPLOY-STEPS.md\"]"
 ---
 
 ## TL;DR

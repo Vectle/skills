@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7RoxmiXExQTqYt-CATx-KQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/sendgrid/docs/blob/develop/content/docs/for-developers/sending-email/quickstart-python.md\",\"https://github.com/sendgrid/sendgrid-python\",\"https://docs.sendgrid.com/api-reference/mail-send/mail-send\"]"
 ---
 
 **TL;DR:** The exact working pattern for sendgrid-python: env-based key, Mail helper builders, and how to read the 202 response. Includes the verified-sender gotcha that turns a good request into a 403. Install: pip install sendgrid. Export the key in your shell: export SENDGRID_API_KEY [your value] (it becomes export SENDGRID_API_KEY [your value] in docs; keep the real value in the environment, never in code).

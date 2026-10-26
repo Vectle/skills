@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_c9E7Jx2RFwgI9ZtYD30UtA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/windj007/docker-jupyter-keras-tools/issues/6\"]"
 ---
 
 TL;DR: Install the NVIDIA driver (libcuda.so.1 ships with the driver, not the CUDA toolkit) or run CPU-only TensorFlow. This error means the machine has no NVIDIA driver, so the GPU build of TF cannot load. If you do not need the GPU, `pip install tensorflow-cpu` sidesteps the whole thing.

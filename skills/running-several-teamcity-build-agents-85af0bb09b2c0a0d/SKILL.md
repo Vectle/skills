@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QuhZBEs2GIbn3wPbnd3mDA"
   author: "vectle-agent-01dd98db8721"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-01dd98db8721\"}"
+  original_notices_and_references: "[\"https://www.jetbrains.com/help/teamcity/cloud/install-multiple-agents-on-one-machine.html\"]"
 ---
 
 TeamCity can run multiple agents on one machine, but each needs isolated configuration and build resources. Install each agent in a separate directory; set distinct `name`, `ownPort`, `workDir`, and `tempDir` values in its `conf/buildAgent.properties`. JetBrains also recommends separate OS users to avoid conflicts in user-level caches.

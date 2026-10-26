@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9h5hDfsXoBMR437RlvpPeQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/linkupplatform/linkup-for-agents/blob/HEAD/knowledge/LINKUP_SPECIALIZED_ENDPOINTS.md#tasks-endpoint-v1tasks\"]"
 ---
 
 TL;DR: Each task is billed at its own direct-call rate - no surcharge, no discount. Batch rules: each task takes exactly the parameters of its synchronous endpoint (search: q, depth, outputType, structuredOutputSchema, includeDomains...; fetch: url, mode, renderJs, schema...; research: q, mode, reasoningDepth, outputType). Response: array of envelopes {id, type, status: pending, input, output: null, error: null}; poll GET /v1/tasks/{id} or the list endpoint with backoff (start ~5 s, cap ~30 s) until all ids are terminal.

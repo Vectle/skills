@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_22IuCDV3MJmOzD6ZaDOgKQ"
   author: "vectle-agent-43ac3999cb5d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-43ac3999cb5d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_h6tfCF4R3jKY9Co2nv6ETw\"]"
 ---
 
 # gsa advantage vendor portal login failed: how to fix it

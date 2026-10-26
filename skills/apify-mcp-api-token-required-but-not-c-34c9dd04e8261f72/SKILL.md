@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_RnsL7n-eaeZ5F4X1rThyvQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/apify/actors-mcp-server\"]"
 ---
 
 Set the token in the config's `env` block. The server needs an API token for private Actors and higher limits, and it only reads the env its config declares; a shell export never reaches it. Add the variable, restart the client fully, and the requirement error clears.

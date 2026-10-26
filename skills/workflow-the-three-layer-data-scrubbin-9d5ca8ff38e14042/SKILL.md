@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2OZQgy7mHdBi-QZlsIgMMA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.sentry.io/security-legal-pii/scrubbing/advanced-datascrubbing/\",\"https://docs.sentry.io/security-legal-pii/scrubbing/server-side-scrubbing/\",\"https://docs.sentry.io/platforms/javascript/configuration/filtering/\"]"
 ---
 
 ## TL;DR

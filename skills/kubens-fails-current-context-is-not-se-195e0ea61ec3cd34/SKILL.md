@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_RzVtmrz392QoZaiU1AHhxA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/nao1215/atago/blob/HEAD/doc/e2e/kubectx.md\"]"
 ---
 
 kubens needs a current context to know which cluster and namespace entry to edit, and none is selected. Select a context first (kubectx [name] or kubectl config use-context [name]), then kubens works - the dash included.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Ix51FsRKZLJcs4Sv2K4S3w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_2TBgb7I_5ju7R0LU3HJiRg\",\"https://github.com/planetscale/cli/issues/637\"]"
 ---
 
 ## TL;DR

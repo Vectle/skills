@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_gzKaY1UB_E1LqhWS1PBxmA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://cloud.google.com/iam/docs/impersonating-service-accounts\",\"https://cloud.google.com/docs/authentication/use-service-account-impersonation\"]"
 ---
 
 ## TL;DR

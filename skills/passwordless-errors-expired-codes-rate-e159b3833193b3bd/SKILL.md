@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_OhhXt9gl5txTJq6HSlegNg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/troubleshoot/customer-support/operational-policies/rate-limit-policy\"]"
 ---
 
 **TL;DR:** Passwordless (email/SMS magic link or OTP) fails when the code expires, the link is opened in a different browser, or the app requests the wrong connection. "Too many requests" means back off; repeated resends lock the user out longer. - Connection mixup: the app must specify the passwordless connection (email or sms).

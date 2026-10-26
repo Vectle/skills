@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_v1ZYr-Oxjwcy05H6yIu8MA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/saikiranpi/packer/issues/2\"]"
 ---
 
 # Error: Failed to initialize build "amazon-ebs" (Packer)

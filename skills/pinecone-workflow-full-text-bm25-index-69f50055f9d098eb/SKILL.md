@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_WpoheyQN38l7HgAAUOiUTA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/indexes/create-an-index\"]"
 ---
 
 **TL;DR:** Newer Pinecone indexes can declare a document schema with full-text string fields for BM25 ranking alongside dense vector fields. Declare ranking fields up front; metadata stays schemaless. Build the schema declaring which string fields get BM25. Create the index with the schema (API version 2026-07; REST or Python SDK).

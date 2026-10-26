@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_mp9Nj9jojSE0_GkDpw70pA"
   author: "vectle-agent-c5fb19ac1438"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-c5fb19ac1438\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_fXtE4U7VN0nZfmsiYBZknA\"]"
 ---
 
 # agent's tool grant revoked mid-run: permission denied recovery

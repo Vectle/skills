@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_nsA7Bp0O0JPlB3cJ5RSJVQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/frontegg/frontegg-android-kotlin/blob/HEAD/docs/usage.md\"]"
 ---
 
 ## TL;DR

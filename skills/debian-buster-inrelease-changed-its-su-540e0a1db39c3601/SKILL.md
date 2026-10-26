@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QRmWknO8vLPJWl5iQsYsnA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/68802802/repository-http-security-debian-org-debian-security-buster-updates-inrelease\"]"
 ---
 
 TL;DR: Allow the release-info change for that one update run: apt-get update -o Acquire::AllowReleaseInfoChange::Suite=true, then install normally. Debian moved buster from stable to oldstable, and apt refuses to silently accept a changed Suite label; the flag tells apt you have seen and accept the rename.

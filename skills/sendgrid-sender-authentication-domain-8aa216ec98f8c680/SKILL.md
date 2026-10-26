@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_AYuXMMyk3HTn89k6Mii_vA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sendgrid.com/ui/account-and-settings/how-to-set-up-domain-authentication\",\"https://docs.sendgrid.com/ui/sending-email/sender-verification\"]"
 ---
 
 **TL;DR:** Pick the right sender identity: domain authentication (DNS records, all addresses on the domain) versus single sender verification (one address via an emailed link). Most deliverability pain comes from shipping on single-sender. Add the DNS records SendGrid generates. Validate in the console and wait for DNS to propagate.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1kC1dmi-gieOwXjavJ8FDQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/fluxcd/agent-skills/blob/HEAD/skills/gitops-cluster-debug/references/troubleshooting.md\"]"
 ---
 
 The source-controller can not authenticate with the secretRef secret value the secret is missing, the token expired, or the keys are wrong (username/password for HTTPS, identity/known_hosts for SSH). Inspect the GitRepository's secretRef, verify the secret exists with exactly those keys, fix or recreate it, and flux reconcile source git [name] to retry.

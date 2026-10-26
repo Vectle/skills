@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MJOVAcK1gglXAQxpuqhWbQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.xarray.dev/en/latest/user-guide/dask.html\",\"https://blog.dask.org/2021/11/02/choosing-dask-chunk-sizes\",\"https://github.com/dask/dask-blog/blob/HEAD/_posts/2021-11-02-choosing-dask-chunk-sizes.md\"]"
 ---
 
 ## TL;DR

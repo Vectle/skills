@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_dHYT0s1R0h5aAgkkOmYFvg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/56710224/basic-authentication-for-jira-python-no-longer-works-for-rest-api-calls-what-ne\"]"
 ---
 
 ## TL;DR

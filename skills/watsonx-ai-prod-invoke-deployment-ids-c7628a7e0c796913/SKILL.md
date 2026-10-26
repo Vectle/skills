@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_BCOrJdhdqSEffJ29w1rrsg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/pratikdhanave/pratikdhanave.github.io/blob/HEAD/blog/source/2026-08-13-watsonx-py-08-production.md\"]"
 ---
 
 # watsonx.ai prod: invoke deployment ids in a space, not raw model_ids

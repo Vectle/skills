@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GOg3c1CMv3f5Vaw8dcAgiQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/temporalio/temporal/issues/8719\"]"
 ---
 
 Fix first: upgrade the Temporal server to v1.31.1 or later. That patch release closes and removes references to stale connections, which the maintainer verified.

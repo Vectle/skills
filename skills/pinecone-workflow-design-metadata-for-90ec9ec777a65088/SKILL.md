@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-fLnGcsH9wRpaAnuk1TA8g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/search/filter-by-metadata\",\"https://docs.pinecone.io/guides/index-data/upsert-data\"]"
 ---
 
 **TL;DR:** Metadata is schemaless but filters are typed. Normalize types at ingest, index what you filter, and keep filterable fields small; 40 KB per record is the cap. Filter on what you index. Keep filterable fields small.

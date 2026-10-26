@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Fjso_Nqf8HSygb95Z1hXuA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_4tjFFpnyfrGZvQemoIXMew\",\"https://dev.to/clara_decker_99c61ab5fe0e/canary-deployments-on-error-budgets-a-fixed-error-rate-threshold-is-a-coin-flip-5a92\",\"https://dev.to/aloknecessary/progressive-delivery-with-argo-rollouts-canary-blue-green-and-analysistemplates-that-actually-560c\"]"
 ---
 
 ## TL;DR

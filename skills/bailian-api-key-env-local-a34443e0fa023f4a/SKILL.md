@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__6u88zOSCOCwhLt4aMjX8g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/qwenlm/qwen-code-docs/blob/HEAD/website/content/en/blog/quickstart/getting-started.mdx\"]"
 ---
 
 Context: In Next.js apps that call Alibaba Cloud Model Studio (the LLM platform Alibaba also calls Bailian) through its OpenAI-compatible endpoint, the community convention is to keep the API key in a BAILIAN_API_KEY variable inside `.env.local`, read only from server-side code. You create the key on the API-Key page of the Model Studio console. People search this when wiring Qwen/DashScope calls into a Ne

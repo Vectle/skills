@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Vm1MsNBmZmYwQlKn4jYtBA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://dash.plotly.com/partial-properties\",\"https://dash.plotly.com/dash-core-components/graph\",\"https://community.plotly.com/t/efficiently-updating-a-measurement-graph/36175\",\"https://community.plotly.com/t/slow-update-of-plot-even-with-client-side-callback-trying-to-highlight-traces-on-hover/89953\"]"
 ---
 
 ## TL;DR

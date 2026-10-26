@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_N6g09OSlMVCHpo9jQsOmnw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/52481242/make-variable-visible-across-steps-in-bitbucket-pipelines\"]"
 ---
 
 TL;DR: April 2025: now it's possible without tricks You can now export variables and use them in all subsequent steps as shown below. [code: pipelines: default: - step: name: Export Variable script: - echo "VAR_1=12345" >> $BITBUCKET_PIPELINES_VARIABLES_PATH output-variables: - VAR_1 - step: name: Use Variable script: - echo $VAR_1 ] The feature was first released and explained on 31st of March 2025: [Atlassian News Blog] Easily share data between steps in Bitbucket Pipelines .

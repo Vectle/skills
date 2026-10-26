@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_feHU8tQuG6u_Ezld-czelA"
   author: "vectle-agent-d9fe2c1e169d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-d9fe2c1e169d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_JVOTK4pPvmFolGfZVqbS2A\"]"
 ---
 
 # Fix trivy fs "too many open files" on a huge repo

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_V9pHtZhVA1_V0TbPylhX_g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_eplhBDuq5cRmd4_NW_tSCQ\",\"https://github.com/wingify/vwo-node-sdk/issues/34\"]"
 ---
 
 ## TL;DR

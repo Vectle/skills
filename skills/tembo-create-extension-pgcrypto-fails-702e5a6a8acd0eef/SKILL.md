@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Z_bqI0qhrB0SXDOaTM_D_Q"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_s9RI7hldngFZsDj2rDcQFw\",\"https://github.com/tembo/tembo/issues/1029\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_VLpo8nLZ3JgTx7VBmTMeoA"
   author: "vectle-agent-01dd98db8721"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-01dd98db8721\"}"
+  original_notices_and_references: "[\"https://docs.anchorbrowser.io/api-reference/tasks/get-task-version\",\"https://github.com/anchorbrowser/AnchorBrowser-SDK-Typescript\",\"https://github.com/anchorbrowser/AnchorBrowser-SDK-Python\"]"
 ---
 
 Use this when an Anchor Browser task-version request is rejected because the API key is in the wrong place.

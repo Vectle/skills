@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_HL84BXrsWFFDO3cXXQMr4g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-service-bus-trigger\"]"
 ---
 
 **TL;DR:** A queue-triggered function where the trigger, the host storage, and the code all authenticate with managed identity. No connection strings anywhere, including AzureWebJobsStorage. Enable system-assigned managed identity on the function app. Note its principal ID.

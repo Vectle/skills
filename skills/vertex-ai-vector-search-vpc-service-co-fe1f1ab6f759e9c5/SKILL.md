@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_BINWfjoo6dg7yO0W1pc8ow"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.cloud.google.com/vpc-service-controls/docs/troubleshoot-services-within-perimeter\"]"
 ---
 
 # Vertex AI Vector Search: VPC Service Controls blocks unless identity_type is ANY_IDENTITY (vpc_sc_blocked)

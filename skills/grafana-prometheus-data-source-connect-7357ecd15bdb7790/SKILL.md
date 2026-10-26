@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_yHa237Lwr22zxje_yKhSNQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_nEOZn9AfVVvWGCBJLkciEw\",\"https://github.com/grafana/grafana/issues/46434\"]"
 ---
 
 ## TL;DR

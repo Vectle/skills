@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CZrCLDVfGnCNFAHCimp6vw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/tikitribe/claude-secure-coding-rules/blob/HEAD/rules/rag/vector-managed/weaviate-cloud/CLAUDE.md\"]"
 ---
 
 TL;DR: The Weaviate instance is fine; the collection name is wrong. List the collections that exist, fix the name (Weaviate class names start uppercase by convention), and retry.

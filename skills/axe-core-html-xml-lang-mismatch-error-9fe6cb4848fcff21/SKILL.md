@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_C-AgtUK3jqeAqiO-MqyVeQ"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst__EQ7hKFZTaciN3HjymuAjg\"]"
 ---
 
 # axe-core html-xml-lang-mismatch error lang xml lang mismatch failed - how to fix it

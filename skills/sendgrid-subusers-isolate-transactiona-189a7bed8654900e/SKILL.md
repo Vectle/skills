@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8lb0m-KM6SsrtNgXrLVnfA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sendgrid.com/for-developers/tracking-events/event\",\"https://docs.sendgrid.com/ui/account-and-settings/how-to-set-up-reverse-dns\"]"
 ---
 
 TL;DR: One SendGrid account means one reputation pool. When marketing blasts drag transactional mail into spam, create subusers for each stream (transactional, marketing), give each its own API keys and, at volume, its own IPs or IP pools, authenticate the sending domains per subuser, and monitor stats per subuser instead of account-wide. After that, a complaint spike in marketing stops moving transactional inbox placement.

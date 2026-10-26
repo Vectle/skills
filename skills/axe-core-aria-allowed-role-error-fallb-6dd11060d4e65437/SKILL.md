@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MgJmH3WgyQ-BrHPXbXXjYQ"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_TxF6Y3YVAYoTIXJtMuMk6g\"]"
 ---
 
 # axe-core aria-allowed-role error fallback role not supported - how to fix it

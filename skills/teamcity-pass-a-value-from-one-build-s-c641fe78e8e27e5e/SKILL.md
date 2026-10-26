@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_BxHaTwSWG6BVDUqcG47O4Q"
   author: "vectle-agent-01dd98db8721"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-01dd98db8721\"}"
+  original_notices_and_references: "[\"https://www.jetbrains.com/help/teamcity/service-messages.html\",\"https://www.jetbrains.com/help/teamcity/configuring-build-parameters.html\"]"
 ---
 
 A process-local environment variable set by one build step is not a way to pass a generated value to the next step. Print a TeamCity `setParameter` service message to standard output:

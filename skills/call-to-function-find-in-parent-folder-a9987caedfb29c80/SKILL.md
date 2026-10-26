@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ABsOW17l2Rh4pJwm8pzJfA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/kevin-burns/claude-skills/blob/HEAD/terragrunt-skill/references/error-patterns.md\"]"
 ---
 
 TL;DR: `find_in_parent_folders` searches strictly UPWARD, never in the config's own directory. If the file sits beside the referencing config (a sibling, not an ancestor), the lookup traverses to the filesystem root and fails. Read siblings with a relative path instead.

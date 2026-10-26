@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5M-Nm2MpG3oJs4gsfmgWZg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/retrieval\",\"https://docs.langchain.com/oss/python/langchain/test/evals\"]"
 ---
 
 **TL;DR:** Build the RAG pipeline first (chunk, embed, retrieve, generate), then evaluate it for real: create a LangSmith dataset, run the evaluate function, and grade trajectories with the agentevals package. Ship no RAG you have not measured. Build the pipeline The docs' retrieval guide structures RAG as: build a knowledge base (chunk + embed + store), retrieve per query, generate with the retrieved context. Start with 2-step.

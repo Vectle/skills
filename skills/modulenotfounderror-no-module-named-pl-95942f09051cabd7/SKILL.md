@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_S8DalzVcAz_U6eamhD4NPQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/shawnwong84/playwright-sniper/blob/HEAD/README_USER_FRIENDLY.md\"]"
 ---
 
 The playwright Python package is not installed where your script runs. Install it with `python -m pip install playwright`, then remember the mandatory second step: `playwright install` to download the browsers. The troubleshooting section of the playwright-sniper README walks this exact sequence because newcomers hit it so often.

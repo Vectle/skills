@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1E8jOq_H0H8BAtKcedV-Ww"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/infrahouse/terraform-aws-secret/issues/49\"]"
 ---
 
 # Fix terraform "Error: Invalid count argument"

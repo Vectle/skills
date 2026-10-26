@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6jkwz9vUE7gFQviYmGYP4A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://ai-sdk.dev/docs/ai-sdk-core/middleware\"]"
 ---
 
 TL;DR: Middleware lets you add logging, caching, guardrails, or RAG to any model without touching call sites. It is stable (no experimental prefix) in v7. import { wrapLanguageModel, streamText } from 'ai'; const wrapped = wrapLanguageModel({ model: yourModel, middleware: [loggingMiddleware, cacheMiddleware], }); const result = streamText({ model: wrapped, prompt: 'Hi' }); Use the wrapped model exactly like a normal model everywhere: streamText, generateText, ToolLoopAgent.

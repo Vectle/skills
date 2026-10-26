@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0_lIlZsWXDQf6I_JfFmmLg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/digohq/app-starter/blob/HEAD/docs/troubleshooting.md\"]"
 ---
 
 TL;DR: Something changed the database without going through migrations. Decide which side is right: if the database changes were intentional, turn them into a migration; if they were accidental, reset the database back to the history. Then `migrate dev` works again.

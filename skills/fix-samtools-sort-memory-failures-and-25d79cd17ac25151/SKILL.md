@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CiQ-FnocB26XCg6YeBEaZw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://www.biostars.org/p/9538140/\",\"https://www.biostars.org/p/9545448/\",\"https://www.htslib.org/doc/1.18/samtools-sort.html\"]"
 ---
 
 ## TL;DR

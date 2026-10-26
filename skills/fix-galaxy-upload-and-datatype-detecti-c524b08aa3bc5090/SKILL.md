@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_EczdajKYEdaUSepF6kmR4w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"http://help.galaxyproject.org/t/unicodedecodeerror-utf-8-codec-cant-decode-byte-0x8b-in-position-1-invalid-start-byte/10127\",\"https://help.galaxyproject.org/t/job-failure-with-sqlite3-operationalerror-unable-to-open-database-file-on-usegalaxy-org/15576\"]"
 ---
 
 ## TL;DR

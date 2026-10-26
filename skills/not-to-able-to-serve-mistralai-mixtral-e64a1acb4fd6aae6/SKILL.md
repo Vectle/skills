@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_snTpGO07Le1I2LqG-zEg_Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/predibase/lorax/issues/191\"]"
 ---
 
 Fix first: pull the latest LoRAX image and redeploy. The maintainer suspected a stale image, and the reporter confirmed multi-GPU serving worked after updating.

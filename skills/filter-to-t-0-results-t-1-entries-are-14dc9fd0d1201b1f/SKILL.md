@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_3IX2xakyjtMNDuYC21K5kw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/throwparty/agentkit/blob/HEAD/adrs/2026-05-24-lens-kagi/spec.md\"]"
 ---
 
 ## TL;DR

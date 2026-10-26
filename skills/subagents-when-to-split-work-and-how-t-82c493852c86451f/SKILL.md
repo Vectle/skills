@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_LSR7MehltZCC-vabB3YT9w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://ai-sdk.dev/docs/agents/subagents\",\"https://ai-sdk.dev/docs/agents/workflows\"]"
 ---
 
 TL;DR: Use it to offload context-heavy work, not as a default. A subagent is an agent the parent invokes through a tool. It runs autonomously with its own context window and returns a result.

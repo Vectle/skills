@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_hkZ-J_cYmB26ms5_qmRpDA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/docker/compose/issues/3277\"]"
 ---
 
 TL;DR: Another process is listening on the host port you asked for. Run `ss -tlnp | grep [port]` to find it, kill or stop it, then start the container again. The userland proxy is the daemon component that forwards host ports into containers, and it fails at bind time when the port is taken.

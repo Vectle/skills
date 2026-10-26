@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5UTb_G56sy9DSAoDvoIytg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/shyuan/skills/blob/HEAD/skills/stern-logs/references/recipes.md\"]"
 ---
 
 Reading logs is its own RBAC subresource - pods/log - and whoever runs stern does not have it. Granting get on pods is not enough. Bind a ClusterRole (or Role) with get, watch, list on pods and pods/log to the identity, then stern tails normally. The stern docs publish exactly this ClusterRole for in-cluster use.

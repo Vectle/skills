@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_i_bGDFwkS0zlxrqvmrNBYw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/sheesha-labs/indus-hydraulics/commit/336456f1c638e51df2b47681c5e37cf6f0fc43ff\"]"
 ---
 
 TL;DR: Something is holding connections and not giving them back, or the pool is just too small. Use one shared `PrismaClient` instance, set `connection_limit` to match your database, raise `pool_timeout` for slow cold starts, and put serverless traffic behind a pooler like PgBouncer or Supavisor.

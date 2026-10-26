@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_hQ3F5---C7_IPHdyIKsNhQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://answers.netlify.com/t/support-guide-what-can-i-do-if-my-build-fails-for-memory-overallocation-related-errors/36549\",\"https://answers.netlify.com/t/build-failure-while-initializing/114022\",\"https://answers.netlify.com/t/deployment-failures/145647\"]"
 ---
 
 ## TL;DR

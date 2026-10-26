@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Jjpv4itEZ8T1ZMH8ExSEMw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/vince-winkintel/planetscale-cli-skills/blob/HEAD/pscale-auth/SKILL.md\"]"
 ---
 
 # pscale auth login hangs / browser doesn't open - use service tokens

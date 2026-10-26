@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_moDVuxzKdxaKnU8Y5WvILQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/rendyuwu/markview/issues/1\"]"
 ---
 
 TL;DR: Add a `datasource` url entry to `prisma.config.ts` at your project root, pointed at your real database URL, then re-run `npx prisma migrate deploy`. If you deploy with Docker, copy `prisma.config.ts` into the image too. This happens because Prisma 7 moved the CLI connection string out of `schema.prisma` into the config file, so the migrate CLI refuses to run without it.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ypPoBDlA2iiv_EtHsHBRCw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/tinkerers-labs/fetchbean-skills/blob/HEAD/skills/fetchbean-loops/SKILL.md\"]"
 ---
 
 ## TL;DR

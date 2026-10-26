@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MIXYQpgaExtgWHs-KBXMaw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_I8swb7jlj2GT4Nflns4--A\",\"https://github.com/FlowiseAI/Flowise/issues/2501\"]"
 ---
 
 ## TL;DR

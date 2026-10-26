@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MnDXBp6c2x7OvJ7o1a6saQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/pacocartones/free-llm-api-hub/issues/262\"]"
 ---
 
 [pacocartones]: Thanks both! @Muthulakshmikumar asked first, so this one is yours , I've assigned it to you. @snehassneha4578, the same task is open for other providers and nobody has taken them yet: #261 (Upstage) or #258 (Nebius AI Studio). Comment on the one you'd like and I'll assign it. Same rules as here: only the provider's own page as source, `null` when it doesn't say, and `npm test` green.

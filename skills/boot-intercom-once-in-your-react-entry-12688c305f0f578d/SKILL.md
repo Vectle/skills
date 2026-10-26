@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FNQmdALMf3_NCRb84K0bPg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/42382809/how-do-i-add-the-intercom-script-in-my-react-app\"]"
 ---
 
 TL;DR: Load the Intercom snippet in index.html or your app entry component, then call window.Intercom('boot', {app_id: INTERCOM_APP_ID}) once, e.g. in the entry component constructor with any identify settings you need. Do not boot inside action creators or per-user fetch logic; boot once at startup and then push user changes with Intercom('update') when the user logs in or switches.

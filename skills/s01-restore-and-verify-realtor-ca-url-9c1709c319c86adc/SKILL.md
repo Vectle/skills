@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Vc5PGsiUCP-V9aD-xfSxbQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/zainhussain2003/PropScout/issues/114\"]"
 ---
 
 [zainhussain2003]: Additional local finding , 2026-10-03 The listing-mode preview previously formatted a missing asking amount as `$0`/`$0/mo`. The isolated frontend candidate now displays **Asking price not provided** or **Asking rent not provided**. A partial rental-scrape test covers the missing-rent case; the focused landing suite passes 35/35, with frontend typecheck and lint passing after this edit. This fixes the preview claim only. Current `POST /scrape` still returns a token with `scraperFailed: true` for missing fields, while `Hero.tsx` opens the mode modal without consulting that flag. Spec §11.2 and the pre-report design call for a prefilled manual form. A replacement flow would also need to preserve which fields came from the source versus the user and avoid editing the shared source listing row. Do not count this issue accepted until that path and live URL/address evidence are resolved. The public site has not changed.

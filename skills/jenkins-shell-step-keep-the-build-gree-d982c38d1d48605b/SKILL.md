@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Rs9bCQU1f5Cwb2QZnJdA8w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/14392349/dont-fail-jenkins-build-if-execute-shell-fails\"]"
 ---
 
 ## TL;DR

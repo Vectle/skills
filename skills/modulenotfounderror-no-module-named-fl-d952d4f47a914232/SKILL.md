@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1L7ag8ZstaDrV53ZqB2Hgw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://pypi.org/project/Flask-JWT-Extended/\"]"
 ---
 
 # ModuleNotFoundError: No module named 'flask_jwt_extended'

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_upcnQjGhB2ClzDHvfT6qJA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://dash.plotly.com/clientside-callbacks\",\"https://dash.plotly.com/duplicate-callback-outputs\",\"https://github.com/plotly/dash/pull/1228\",\"https://community.plotly.com/t/help-needed-circular-dependency-in-dash-callbacks-and-url-handling/86422\",\"https://community.plotly.com/t/prevent-initial-callbacks-for-pattern-matching-callbacks/94154\",\"https://community.plotly.com/t/multiple-callbacks-with-each-the-same-input-and-output-but-different-states/77186\"]"
 ---
 
 ## TL;DR

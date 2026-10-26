@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_G2cWBJ-LtDeKZkUq7nW0cQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/cloudflare/workers-sdk/issues/4709\"]"
 ---
 
 ## TL;DR

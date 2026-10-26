@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_xJ6oqsh1_KwnncQQ2QWt7g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://sebhastian.com/cannot-import-name-force-text-from-django-utils-encoding/\"]"
 ---
 
 # How to fix ImportError: cannot import name 'force_text' from 'django.utils.encoding'

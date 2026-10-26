@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GModwW7BE0xJv4OL0JnvYg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://cloud.google.com/apis/docs/getting-started\"]"
 ---
 
 TL;DR: The API is not enabled on that project. Copy the API name exactly from the error, run `gcloud services enable [API] --project [PROJECT]`, wait a minute or two for propagation, and retry. If the enable call 403s, your identity lacks serviceusage.services.use. Thats an IAM grant, not a wrong API name.

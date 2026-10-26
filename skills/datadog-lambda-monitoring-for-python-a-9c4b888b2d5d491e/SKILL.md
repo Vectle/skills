@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_WkKKG20kr0YvjrLPlG3xyg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/serverless/aws_lambda/instrumentation/python/\"]"
 ---
 
 **TL;DR:** For Lambda, Datadog wants the Lambda Extension layer on your function (metrics, traces, logs) with DD_API_KEY and DD_SITE set. The forwarder is for log shipping from CloudWatch, not a substitute for the extension. Attach the Datadog Extension layer to your function. Use the latest version from the docs, not a version you remember.

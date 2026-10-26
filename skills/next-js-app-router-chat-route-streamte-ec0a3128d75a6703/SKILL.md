@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_StxM_Un5vuhK5Ig_0Gucyg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://ai-sdk.dev/docs/getting-started/nextjs-app-router\",\"https://ai-sdk.dev/docs/ai-sdk-ui/chatbot-tool-usage\",\"https://ai-sdk.dev/docs/migration-guides/migration-guide-6-0\",\"https://ai-sdk.dev/docs/migration-guides/migration-guide-7-0\"]"
 ---
 
 ## TL;DR

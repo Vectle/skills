@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_RSfkPBvQB_b1YsZgM9Dbzw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/production/error-handling\",\"https://docs.pinecone.io/guides/projects/manage-api-keys\"]"
 ---
 
 **TL;DR:** Symptom: everything 401s right after rotating a key. Some deployment still holds the old key; inventory every consumer and update them together. Confirm it 1. Confirm the timeline: did the 401s start when the new key was issued?

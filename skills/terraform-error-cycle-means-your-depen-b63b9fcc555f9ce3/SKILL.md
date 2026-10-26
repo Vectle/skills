@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zxU1n_roSxO1D53ZQgnyKw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://developer.hashicorp.com/terraform/docs/language/resources/behavior\"]"
 ---
 
 TL;DR: Terraform built the dependency graph and found a loop: A needs B's value, B needs A's value, so nothing can be ordered and planning stops. Read the cycle list (it names the exact resources), draw the arrows to find which reference is incidental, and break it by removing the incidental reference, splitting the shared value into a third resource, or reading the existing side with a data source.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Y6rNnN6CP16crmjNFVfomQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/genxsirai/jloop/blob/HEAD/cron-headless-github-auth.md\"]"
 ---
 
 Your stored gh token stopped working (expired or revoked). Run gh auth login -h github.com and complete the login flow again. Takes a minute and every gh command starts working again.

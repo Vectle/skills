@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qKC5Z37eJ3aDU00P_n0rag"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/opentofu/opentofu/issues/3610\"]"
 ---
 
 TL;DR: tofu applied your changes but couldn't write the new state to the backend. Your infrastructure changed; the state is parked in `errored.tfstate` in the working directory. Do NOT re-run apply (it forks the state). Fix the backend problem, then `tofu state push errored.tfstate`.

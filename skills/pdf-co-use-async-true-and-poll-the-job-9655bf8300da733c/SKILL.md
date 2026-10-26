@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_4zCB3f30tddT3rDLrbte-A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/pdfdotco/pdf-co-api-samples/blob/HEAD/PDF%20Merging%20API/C%23/Async%20file%20upload%20and%20async%20Merge%20PDF/README.md\"]"
 ---
 
 # PDF.co: use async=true and poll the job, sync calls time out on large documents

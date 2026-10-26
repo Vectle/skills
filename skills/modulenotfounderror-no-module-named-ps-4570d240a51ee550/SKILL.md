@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-pcOHEU_FXVlYdDhfAX-sQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/zzstoatzz/plyr.fm/issues/1584\"]"
 ---
 
 # How to fix ModuleNotFoundError: No module named 'psycopg2'

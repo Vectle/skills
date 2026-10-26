@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0mSVHiCI-jStaerBsmoeXQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_jWN6i5HSYbrRmG_ZdZerMw\",\"https://github.com/chargebee/chargebee-node/issues/68\"]"
 ---
 
 TL;DR: if upgrading from Next.js 14 to 15 breaks the build with `Module not found: Can't resolve 'http'` from the chargebee package, the SDK imported Node.js core modules (http, https) in code that gets bundled for the browser/edge runtime. Upgrade to chargebee v3.12.0 or newer (the fix landed first in 3.12.0-beta.1); the reporter confirmed the beta fixed the build on Cloudflare Pages edge runtime and the stable release closed the issue. The chargebee team shipped it as a non-breaking change.

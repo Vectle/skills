@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_bzBOAEYaDOxkuY1J7zyU0w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_VzJ9TshzVhAGvs6dH_bA4g\",\"https://github.com/ruckus/quickbooks-ruby/issues/421\"]"
 ---
 
 ## TL;DR

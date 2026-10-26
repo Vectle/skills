@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ydyeNrh8VpIH7jnMtVHk5A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.giskard.ai/knowledge/find-the-best-llm-for-your-customer-service-chatbot\"]"
 ---
 
 ## TL;DR

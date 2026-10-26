@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_UI7S8omX_jPBYs4an5dRWw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/triggerdotdev/trigger.dev/issues/447\"]"
 ---
 
 Yes, as of Trigger.dev v3. Maintainer matt-aitken closed the thread confirming v3 is framework-independent and works with Nuxt. Follow the standard quick-start and point your Nuxt app at it.

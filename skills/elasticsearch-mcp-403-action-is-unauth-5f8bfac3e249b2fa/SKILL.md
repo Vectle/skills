@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_95_4nWSggj1g0PYodd7t_g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/cloud-prakhar/elk-setup/blob/HEAD/elk-curl-auth-operations.md\"]"
 ---
 
 TL;DR: 403 means you logged in fine but your API key is not allowed to do that. The `read-only` sounding roles do not cover everything the MCP server needs (like listing indices). Recreate the API key with the missing privileges.

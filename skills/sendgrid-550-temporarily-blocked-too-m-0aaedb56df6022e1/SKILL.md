@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_JM947V7oNG_mBr7lXT-mtA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"http://sendgrid.com/docs/Glossary/email_error_messages.html\",\"https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/errors\"]"
 ---
 
 ## TL;DR

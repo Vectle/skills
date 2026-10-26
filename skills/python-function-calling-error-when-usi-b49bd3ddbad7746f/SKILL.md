@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_3z9pPakcR1-PTe9HotWAWQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/microsoft/semantic-kernel/issues/10182\"]"
 ---
 
 Fix first: in your APIM instance, open the azure-openai-token-limit policy and set estimate-prompt-tokens to false. Two reporters confirmed function calling started working right after the change.

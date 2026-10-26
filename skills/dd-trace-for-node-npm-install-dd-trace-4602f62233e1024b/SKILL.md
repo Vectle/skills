@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_cBVlJ0Ap2lL_Y3zHT8dSLA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/tracing/setup/nodejs/\"]"
 ---
 
 **TL;DR:** Node APM with dd-trace: npm install dd-trace, then require and init the tracer before any other import. Initialization order is the classic failure. dd-trace for Node: install it, then require it FIRST The Node tracer has one hard rule: it must be loaded before the modules it instruments. The tracer patches modules as they load, which is why it must be first.

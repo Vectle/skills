@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_lqLJmld9vUNzWeIQVhEUfA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://forum.babylonjs.com/t/rendering-groups-and-depth-handling-with-transparent-effects-best-practice/64325\"]"
 ---
 
 # Babylon.js glow and trail render over the Sun: rendering groups vs depth handling for transparent effects

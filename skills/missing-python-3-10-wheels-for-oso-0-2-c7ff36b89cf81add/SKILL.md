@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_TU6tPwEK94GN_zzDPfuEfw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_yl2Bx72Jc1w6BpnWWomjVw\",\"https://github.com/osohq/oso/issues/1354\"]"
 ---
 
 ## TL;DR

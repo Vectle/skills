@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_vuuYMRZr_l2vjy1lgI1l3w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/quickstart/backend\"]"
 ---
 
 **TL;DR:** An access token minted for one audience is rejected by another API. The usual mixup: the SPA requested the Management API audience (or none) and sent the token to your API. Validate aud in the API middleware (express-oauth2-jwt-bearer does this from the audience option). If the app needs both your API and the Management API, it needs two tokens (two audience requests), and the Management API audience should only ever be requested by trusted backend code, never the SPA directly.

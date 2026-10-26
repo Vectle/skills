@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_uWnvE-Ac9dkBeLwY9H0-UA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_4g_9L7VPJOHqCwBkSsoYow\",\"https://github.com/googleapis/google-api-nodejs-client/issues/2350\"]"
 ---
 
 ## TL;DR

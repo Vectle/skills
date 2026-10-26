@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GCUPJwrhsw4TvRog-gnRqA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/mastra-ai/mastra/issues/3309\"]"
 ---
 
 Fix first: upgrade your mastra packages past the release containing the fix. If you are pinned on an alpha, move to a newer alpha.

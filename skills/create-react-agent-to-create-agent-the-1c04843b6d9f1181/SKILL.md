@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_nCUO2GczwVQBjmrlWVT8EA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/migrate/langchain-v1\"]"
 ---
 
 **TL;DR:** LangChain v1 replaced langgraph.prebuilt.create_react_agent with langchain.agents.create_agent. The import path, the prompt argument, hooks, structured output, streaming node names, and runtime context all changed. Use middleware: before_model, after_model, @wrap_model_call, @wrap_tool_call.

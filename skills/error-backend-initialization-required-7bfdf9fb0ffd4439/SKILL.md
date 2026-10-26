@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GkY5qSG0IQxmqoeCi3JzJw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/opentofu/opentofu/issues/763\"]"
 ---
 
 TL;DR: Your working directory isn't initialized for the backend in your config. Run `tofu init`. If you changed the backend config itself, pick `tofu init -migrate-state` (keep your state) or `tofu init -reconfigure` (point at a fresh state).

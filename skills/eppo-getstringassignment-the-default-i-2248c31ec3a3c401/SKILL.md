@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_wBb8uG73bM8OD8W773lH1g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.geteppo.com/sdks/server-sdks/node/assignments/\"]"
 ---
 
 TL;DR: call it with intent. Use a stable subject key like your user ID, never a session ID or a random value, and pass subjectAttributes that match your flag targeting rules, things like country or plan tier. Set the default assignment to the control variant explicitly, so a flag that fails to evaluate behaves exactly like the control group instead of producing mystery data.

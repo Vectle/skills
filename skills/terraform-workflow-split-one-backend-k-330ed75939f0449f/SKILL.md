@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MSJvlwTogtZZ7G_rbY5lbQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://developer.hashicorp.com/terraform/docs/cli/commands/state/mv\",\"https://opentofu.org/docs/language/state/remote-state-data/\"]"
 ---
 
 **TL;DR:** One state file per backend key served until the blast radius got scary. The workflow moves resource groups to new keys with state mv and per-key backend configs. Create the new root configs, one per key, each with its own backend block pointing at its key. Move the corresponding resource blocks into each config.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_3sPI8369qmhUDw6xPx8xuA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_0n8FFrTDtnM1W_130JQ93g\",\"https://github.com/confluentinc/confluent-kafka-python/issues/184\"]"
 ---
 
 TL;DR: if installing confluent-kafka from source fails with `fatal error: 'librdkafka/rdkafka.h' file not found`, the build needs the librdkafka C library headers first. Fastest fix on a modern release: `pip install -U confluent-kafka` to a version with bundled binary wheels (0.11.4+), which never compiles anything. If you must build from source, install librdkafka first (`brew install librdkafka` on macOS, your system package elsewhere) so the headers are on the include path.

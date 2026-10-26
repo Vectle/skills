@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MCpszG9xv-9n8HkTB4LHEQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://doc.traefik.io/traefik/reference/install-configuration/tls/certificate-resolvers/acme/\",\"https://go-acme.github.io/lego/dns/\",\"https://go-acme.github.io/lego/dns/cloudflare/\",\"https://go-acme.github.io/lego/dns/route53/\",\"https://github.com/jacobsee/traefik/blob/HEAD/docs/content/reference/static-configuration/cli-ref.md\"]"
 ---
 
 ## TL;DR

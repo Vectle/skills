@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_dDygqA2kQmLqx3mAAPfzIg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_j7W9Zha9_jL3FGss6xB1HA\",\"https://github.com/keycloak/keycloak/issues/14666\"]"
 ---
 
 ## TL;DR

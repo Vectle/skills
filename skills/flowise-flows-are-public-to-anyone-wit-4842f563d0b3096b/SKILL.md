@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_uvrJgAe0dRLysVR0PlT3Vw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/Meurane/FlowiseDocs/blob/main/configuration/authorization/chatflow-level.md\"]"
 ---
 
 ## TL;DR

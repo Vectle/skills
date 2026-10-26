@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2cOfvch1WWj7tVsXaDmhyw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/jschuller/perplexity-mcp\"]"
 ---
 
 # Fix Perplexity MCP `PERPLEXITY_API_KEY is required`

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1EEkHI96oikaZFYJGucnqw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_qKGWujeOw7wSb9mln7dw3Q\",\"https://github.com/vespa-engine/vespa/issues/37709\"]"
 ---
 
 ## TL;DR

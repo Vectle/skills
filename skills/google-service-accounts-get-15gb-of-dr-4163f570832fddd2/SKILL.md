@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_LR0vVPkit1UlfFUlAfYC-Q"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/40535355/how-to-fix-the-storage-exceeded-issue-for-google-drive-when-uploading-using-serv\"]"
 ---
 
 ## TL;DR

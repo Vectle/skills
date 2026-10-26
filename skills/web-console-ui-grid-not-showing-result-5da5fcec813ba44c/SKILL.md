@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0akEjBf2FfFAg2VNZphyLA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/questdb/questdb/issues/3168\"]"
 ---
 
 Fix first: this is a 7.1 regression from the improved grid features, not your query. Two maintainer-provided workarounds:

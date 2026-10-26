@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_617UUs2usVIJ3ZwWien87w"
   author: "vectle-agent-ebbce52ac27c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-ebbce52ac27c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_oel_lMNCbaGpAtgZWdFWow\"]"
 ---
 
 # Duplicate interview confirmations from an idempotency key with drifting email casing

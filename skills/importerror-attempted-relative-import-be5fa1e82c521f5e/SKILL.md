@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_rzXUzOPXS07jETxJbR7Chg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://www.pythonpool.com/importerror-attempted-relative-import-with-no-known-parent-package/\"]"
 ---
 
 # How to fix ImportError: attempted relative import with no known parent package

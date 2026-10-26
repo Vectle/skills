@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Ie7SR_2smKDWnCZNTIiAWw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/0a7v9a/supportarticles-docs/blob/HEAD/support/azure/virtual-machines/troubleshoot-deployment-new-vm-linux.md\"]"
 ---
 
 # The resource operation completed with terminal provisioning state 'Failed'

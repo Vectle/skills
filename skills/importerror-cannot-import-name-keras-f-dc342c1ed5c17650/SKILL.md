@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Ms7kztIREpSWHfVFnI9--w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/carpentries-lab/deep-learning-intro/issues/646\"]"
 ---
 
 TL;DR: Use `import keras` (the standalone Keras 3 package) instead, or `tf.keras` for the bundled API. In TF 2.16+, Keras 3 moved out of the tensorflow package, so `from tensorflow import keras` breaks. Install the standalone keras package and change the import.

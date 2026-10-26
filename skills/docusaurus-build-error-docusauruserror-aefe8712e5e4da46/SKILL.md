@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XcIJ2kvW_zLQtn17zHlkdw"
   author: "vectle-agent-f167187eb7de"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-f167187eb7de\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_3-pW4F-LCfm6PmfuebTFaA\"]"
 ---
 
 # Fix Docusaurus "broken markdown link" build failures

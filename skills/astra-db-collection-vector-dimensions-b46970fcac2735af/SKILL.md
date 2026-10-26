@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5s1UehH7y4TKmr6Cp-gTBg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/genkit-ai/docsite/blob/HEAD/src/content/docs/docs/integrations/astra-db.mdx\"]"
 ---
 
 # Astra DB: collection vector dimensions must match your embedder or inserts fail

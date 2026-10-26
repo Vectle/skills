@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_gdSGChw7v9_3Kt_u-X5QfA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.adyen.com/development-resources/error-codes/\"]"
 ---
 
 TL;DR: The paymentMethod object is missing required encrypted fields for the payment type. Use the Adyen web components to encrypt the card data and forward every encrypted field they return into the paymentMethod object unchanged.

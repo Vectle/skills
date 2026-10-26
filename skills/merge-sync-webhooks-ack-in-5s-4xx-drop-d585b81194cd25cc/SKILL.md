@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_sbMy7O1RsZAtrdSUsqj-LQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/merge-api/merge-unified-skills/blob/HEAD/skills/implementing-sync/SKILL.md\"]"
 ---
 
 TL;DR: Run a polling backstop in production: periodic For Merge sync webhooks: (1) always return 200 fast, under 5 seconds. A 4xx from your endpoint is treated as permanent failure and the event is dropped with no retry, so never do real work inside the webhook handler; enqueue it and return. (2) Do not rely on webhooks alone.

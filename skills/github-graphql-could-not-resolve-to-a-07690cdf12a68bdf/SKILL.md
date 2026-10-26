@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_tdZCOFZ6TYnoBSc3S-E4zg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/Syknapse/Contribute-To-This-Project/pull/4561\",\"https://github.com/plugwerk/plugwerk/commit/9e05936e4c1bd5a73957f4afaf2de52c31713057\"]"
 ---
 
 # Fix "Could not resolve to a PullRequest with the number of N" in GitHub GraphQL

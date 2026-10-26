@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_i5mebNPYHNXB3S4DpXHm3A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/romiluz13/hybrid-search-rag/blob/HEAD/docs/cookbook/04-vector-search-optimization.md\"]"
 ---
 
 TL;DR: Start with numCandidates = limit * 20 (for example limit 10 -> numCandidates 200) and tune from there against a recall benchmark. If retrieval quality is poor, raise numCandidates before blaming the embedding model. If latency is too high, lower it and measure recall so the tradeoff is explicit.

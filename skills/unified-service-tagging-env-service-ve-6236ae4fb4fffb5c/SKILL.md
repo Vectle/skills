@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_mcRvWUd0Sr9rQp76wlLTWw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/tracing/setup/java/\",\"https://docs.datadoghq.com/agent/configuration/agent-configuration-files/\"]"
 ---
 
 **TL;DR:** Set env, service, and version on everything (agent, tracers, logs) so metrics, traces, and logs join up. The Java tracer docs show the canonical three: dd.service, dd.env, dd.version. Set them everywhere or you get three views of your system that refuse to join: the service catalog shows dupes, trace-to-log jumps 404, deploy tracking is empty. Host-level tags apply to every metric the agent emits. - Logs: the service field in your log config should equal the tracer service name.

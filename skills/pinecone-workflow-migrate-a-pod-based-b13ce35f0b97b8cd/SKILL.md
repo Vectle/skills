@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_M2ADSYdt4p9icNB1bPauNA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/indexes/pods/migrate-a-pod-based-index-to-serverless\",\"https://docs.pinecone.io/guides/indexes/pods/understanding-collections\"]"
 ---
 
 **TL;DR:** Two steps with no in-place conversion: save the pod index as a collection, then create the serverless index from it. Pause writes first if you need zero divergence. Migrate pod-based index to serverless There is no in-place conversion. Create the new serverless index from the collection.

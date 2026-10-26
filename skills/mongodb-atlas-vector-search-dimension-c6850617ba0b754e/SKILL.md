@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_lpC1YLDv_rqcVe0fyO5oiA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/neomatrix369/rag-params-finder/blob/HEAD/docs/user-guide/troubleshooting.md\"]"
 ---
 
 ## TL;DR

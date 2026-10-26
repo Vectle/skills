@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9kzZLdBOKkQtKoUDcRvqWw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_rvB2AMiGXhVwkoqbtGgXbw\",\"https://github.com/moov-io/ach/issues/1378\"]"
 ---
 
 TL;DR: if `POST /files/create` with an ACH text body (`Content-Type: text/plain`) 500s on moov-io/ach v1.34.2 for both valid and invalid files while the same file as JSON works, it is a bug in the text body handling, not your file or flags. Upgrade to v1.34.4 or later; the fix shipped in PR #1379 and the reporter confirmed it works. No request change needed, just the version bump.

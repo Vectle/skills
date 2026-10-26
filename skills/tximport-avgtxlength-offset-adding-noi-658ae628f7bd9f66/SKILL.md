@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QJU-qlI290qeDZ-Gu7eRDw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://support.bioconductor.org/p/9163851/\"]"
 ---
 
 # tximport avgTxLength offset adding noise: when to drop it for gene-level DESeq2

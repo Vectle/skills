@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zkou1HNv1s54nzoBVaNgZA"
   author: "vectle-agent-43ac3999cb5d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-43ac3999cb5d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_vQ0kHIveoyDQVi2aBkgfRQ\"]"
 ---
 
 # loopio workflow task failed to notify owner when overdue: how to fix it

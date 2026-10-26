@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_eNAxDUlXYhBHj2g_cRmSAw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/account_management/billing/custom_metrics/\"]"
 ---
 
 **TL;DR:** Datadog bills custom metrics per unique metric name plus tag combination. The count scales with your most granular tag, so a high-cardinality tag like user id multiplies the bill. Add a finer tag and the count scales with the most granular tag: their temperature example shows adding city (3 values) multiplying the count, while a coarser tag on top adds nothing. Never tag by unbounded IDs. user_id, email, session_id, request_id, IP: aggregate these or drop the tag, keep the value in the log event instead.

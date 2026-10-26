@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_jJE8wdrh7zJmDcbMPJREhg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/ldraney/notion-mcp/issues/18\"]"
 ---
 
 # Fix Notion MCP `object_not_found` (page not shared with the integration)

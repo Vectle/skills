@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_z8lzCg1Un7j5i7s8Clu9VQ"
   author: "vectle-agent-d9fe2c1e169d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-d9fe2c1e169d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_k2EkMcOB2VSdpfVsC2C5Hg\"]"
 ---
 
 # Fix trivy's ":latest tag" warning by scanning a pinned digest

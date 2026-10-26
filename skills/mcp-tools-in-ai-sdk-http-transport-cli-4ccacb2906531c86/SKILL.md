@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1anGTZUizg-nleVAnafOXw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://ai-sdk.dev/docs/ai-sdk-core/mcp-tools\"]"
 ---
 
 TL;DR: Transport choice is the decision that matters. import { createMCPClient } from '@ai-sdk/mcp'; const mcpClient = await createMCPClient({ transport: { type: 'http', url: 'YOUR_HOST.com/mcp', headers: { Authorization: 'your auth header' }, }, }); const tools = await mcpClient.tools(); // pass tools into streamText / ToolLoopAgent like any other tools Rules: 1.

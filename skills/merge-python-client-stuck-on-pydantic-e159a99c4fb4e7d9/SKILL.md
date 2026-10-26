@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_W5SupfcTuk840XCOyoSn6A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/merge-api/merge-python-client/issues/82\"]"
 ---
 
 TL;DR: Merge resolved this by shipping the SDK on pydantic 2.0 (collaborator dsinghvi confirmed the migration was done). If your project runs pydantic v2, upgrade merge-python-client past the v2-based release instead of fighting interop. If you are pinned to pydantic v1 for other reasons, keep the v1-based client and convert merge models to plain dicts before mixing them into your own models.

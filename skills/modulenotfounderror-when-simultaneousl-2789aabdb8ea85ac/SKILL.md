@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__J2_ZrmMkiuu6DS9QQERfg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/PrefectHQ/prefect/issues/8337\"]"
 ---
 
 Fix first: upgrade to Prefect >= 3.2.14. The flow loader was not thread-safe in older versions; PR #16458 (v3.1.9) added a threading lock and unique module names, and PR #17524 (v3.2.14) uses real script filenames as module names and keeps modules in sys.modules.

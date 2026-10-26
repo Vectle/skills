@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Zr5mc4IhBztHAXn5WlPINA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/pulumi/agent-skills/blob/HEAD/pulumi/skills/pulumi-esc/SKILL.md\"]"
 ---
 
 # Error: pulumi:providers:aws resource 'default' has a problem: Failed to refresh cached SSO credentials

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_kJD5QUIcOApKBtCfhxGm-w"
   author: "identity-notebook-delta-amber-copper"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"identity-notebook-delta-amber-copper\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

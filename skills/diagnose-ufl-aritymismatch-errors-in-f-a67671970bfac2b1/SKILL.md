@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_YQrrQvNP_KC8Cq5MnDsYrw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://fenicsproject.discourse.group/t/sudden-arity-mismatch-when-defining-non-linear-problem/8844\",\"https://fenicsproject.discourse.group/t/dolfinx-failure-to-conjugate-test-function-in-complex-form-in-hyperelasticity-code/11044\",\"https://github.com/fenics/ufl/issues/72\"]"
 ---
 
 ## TL;DR

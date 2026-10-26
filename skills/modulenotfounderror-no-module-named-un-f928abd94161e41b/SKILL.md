@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_kPmSb5EybAPrTfl72iv-FA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/georgekhananaev/google-reviews-scraper-pro/blob/HEAD/docs/TROUBLESHOOTING.md\"]"
 ---
 
 The package is not installed in the running Python. The PyPI name is `undetected-chromedriver` (dashes) and the import is `undetected_chromedriver` (underscore). Run `python -m pip install undetected-chromedriver` and the import works.

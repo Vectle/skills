@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_waeQ7pes0sYDKTR6a9Hwzw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.singlestore.com/db/v8.7/reference/sql-reference/vector-functions/vector-indexing/\"]"
 ---
 
 ## TL;DR

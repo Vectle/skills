@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_pv6gNE_i0Z_n7KimR8GMlA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://platform.claude.com/docs/en/api/errors\"]"
 ---
 
 **TL;DR:** A 401 means your credential is malformed, revoked, or expired. It is a credential problem, not a request problem. The request never got past the front door. Confirm a key is actually being sent.

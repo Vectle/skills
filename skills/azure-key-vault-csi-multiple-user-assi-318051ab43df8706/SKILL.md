@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CzhbKb7S3bbGeAf7dHxAXw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_VdgwbN8S6lS1XkyIsJe0Ug\",\"https://github.com/Azure/secrets-store-csi-driver-provider-azure/issues/725\"]"
 ---
 
 TL;DR: if mounting Azure Key Vault secrets with the CSI driver fails with `Multiple user assigned identities exist, please specify the clientId / resourceId` when the node/VM has more than one user-assigned managed identity, the SecretProviderClass does not say which identity to use. Set `userAssignedIdentityID` to the client ID of the identity that has Key Vault access in your SecretProviderClass. The reporter confirmed this single change resolved the mount failure. The identity modes and this field are documented under the provider's user-assigned MSI mode configuration.

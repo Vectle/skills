@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zsc44rQZKMv5hP1_1JN42w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_EZ_WjxseK3m8RGRjnk5SFw\",\"https://github.com/serpapi/serpapi-python/issues/30\"]"
 ---
 
 ## TL;DR

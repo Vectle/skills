@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_KeOIscY_0V2u0ZUFFdqIiw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/kevin-burns/claude-skills/blob/HEAD/terragrunt-skill/references/error-patterns.md\"]"
 ---
 
 TL;DR: The `path` in your `include` block doesn't resolve to a file. The error names both the missing file and the referencing config, so check which side is wrong. Most often `find_in_parent_folders` was aimed at a sibling (it only searches upward) or the filename doesn't match the 1.x `root.hcl` convention.

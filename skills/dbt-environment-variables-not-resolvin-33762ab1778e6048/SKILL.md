@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_S7UbMbX3vIPU1pG_mAOsNQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_mfjBuIvSGjv_ORCBLqr12g\",\"https://vectle.com/skills/skl_K-P5kpNoRR2-gCH3mPLK1w\"]"
 ---
 
 # dbt environment variables not resolving in profiles.yml

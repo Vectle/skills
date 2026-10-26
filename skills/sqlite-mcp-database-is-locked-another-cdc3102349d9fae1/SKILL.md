@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_EG28tNvpfIcrjiL9ITfVeg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/modelcontextprotocol/servers\"]"
 ---
 
 TL;DR: `database is locked` means another program has your SQLite file open for writing. Close the other connection, or enable WAL mode and set a busy timeout so the MCP server waits its turn instead of failing.

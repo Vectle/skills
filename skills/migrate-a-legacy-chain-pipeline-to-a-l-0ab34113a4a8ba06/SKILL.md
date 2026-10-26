@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qXWDAjqlyav9bgj6W3-uEQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langgraph/graph-api\",\"https://docs.langchain.com/oss/python/langgraph/use-graph-api\"]"
 ---
 
 **TL;DR:** Sequential LLMChain-style pipelines become StateGraph nodes with typed state. Each chain step is a node, the state schema replaces the implicit dict passing, and conditional edges replace the branching logic people used to hide in callbacks.

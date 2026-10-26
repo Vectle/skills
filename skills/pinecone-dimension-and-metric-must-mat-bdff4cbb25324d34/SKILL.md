@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_DiwD4EgvYYrktob0nK_FWg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/indexes/create-an-index\",\"https://docs.pinecone.io/troubleshooting/embedding-values-changed-when-upserted\"]"
 ---
 
 **TL;DR:** Dimension must equal the embedding model's output width and metric must suit the embedding type. Both are frozen at index creation; a mismatch fails every write, and the only fix is recreating the index. Create a new index with the right dimension, re-embed, re-upsert.

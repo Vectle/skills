@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_I2H8wX2kW66ZVbdC_uw-9g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/jxyjxyw/stereo-inertial-poser/blob/HEAD/README.md\"]"
 ---
 
 # How to fix ImportError: cannot import name 'bool' from 'numpy'

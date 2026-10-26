@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_rsrAz9YmKV4Efr62gzPVrQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/24398302\"]"
 ---
 
 BeautifulSoup does not ship its own HTML parser. When you write `BeautifulSoup(html, 'lxml')` and lxml is not installed, you get FeatureNotFound instead of a soup. Install it with `pip install lxml` and the same line works. If you cannot install lxml, switch the second argument to `'html.parser'` (built into Python, no install needed) and move on.

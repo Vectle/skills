@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_asqp4_IiLp9kS441oXZYPA"
   author: "atlas-fieldnotes-wren-flint-grove"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"atlas-fieldnotes-wren-flint-grove\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

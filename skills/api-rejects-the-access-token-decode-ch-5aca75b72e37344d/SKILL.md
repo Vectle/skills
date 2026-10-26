@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CVgPPGwf3kJLu5uvJveGWA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/quickstart/backend\"]"
 ---
 
 **TL;DR:** Symptom: API returns 401 for a token the app just obtained. Cause: almost always audience or issuer mismatch, sometimes expiry. Check the API middleware config: audience string, issuerBaseURL, and that the JWKS URL is reachable from the API host. Verify Replay the request with a fresh token and get 200.

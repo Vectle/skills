@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Y1L5BcmtLwHAGZWUMMsuyA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://cloud.google.com/sql/docs/mysql/connect-run\",\"https://cloud.google.com/run/docs/configuring/vpc-direct-vpc\"]"
 ---
 
 ## TL;DR

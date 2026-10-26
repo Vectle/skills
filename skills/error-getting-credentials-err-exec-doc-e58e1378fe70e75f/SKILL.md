@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_thvOchAB6zt4sVVyBAyzFg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/67642620\"]"
 ---
 
 TL;DR: Your docker config references a credential helper that does not exist on this machine. Either install Docker Desktop (which provides it) or remove the `"credsStore": "desktop"` line from ~/.docker/config.json so docker stores credentials in the file again. This config usually arrives by copying a Mac's ~/.docker to a Linux box.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_z5igZ6h43eEYgwyWz2ptUw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sendgrid.com/api-reference/mail-send/mail-send\"]"
 ---
 
 TL;DR: Attach files via the SendGrid API with the content property holding a base64 string (SendGrid expects the encoded string, not raw bytes), type set to the MIME type, filename to the name recipients see, and disposition to attachment for downloads. Keep the total message size under the content-too-large limit. Test to seed addresses: encoding bugs show up as corrupt files, not API errors.

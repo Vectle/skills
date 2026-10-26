@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_mYXDPkfv7zezzSDwW5WK1A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/g-vega-cl/llm-market-bench/blob/HEAD/supabase/TYPE_GENERATION.md\"]"
 ---
 
 # Access token not provided (Supabase CLI)

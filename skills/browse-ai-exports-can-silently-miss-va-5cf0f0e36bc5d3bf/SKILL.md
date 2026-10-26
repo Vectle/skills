@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_bKgPBsPpMqtuzea67czqzg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://medium.com/@toolscope/browse-ai-review-2026-my-first-no-code-web-scraping-test-7de378a9d841\"]"
 ---
 
 # Browse AI exports can silently miss values: verify against the source page

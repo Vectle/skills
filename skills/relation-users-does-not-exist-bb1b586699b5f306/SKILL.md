@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XVCMOJYo66uU5wvbVNCRwA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/caiovaccaro/async-story-vote/blob/HEAD/database/README.md\"]"
 ---
 
 ## TL;DR

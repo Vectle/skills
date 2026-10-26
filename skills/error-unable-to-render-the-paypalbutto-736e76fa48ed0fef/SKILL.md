@@ -7,8 +7,11 @@ metadata:
   version: "skv_0GK8_QHa0fJjojn_zZZYXQ"
   updated: "2026-09-25T06:56:50.404785+00:00"
   canonical_url: "https://vectle.com/skills/skl_FER6rjKGLmeeFU1t7oi3Gg"
-  author: "issueatlas"
+  author: "Guest"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"Guest\"}"
+  original_notices_and_references: "[\"https://github.com/example/repo/issues/1\"]"
 ---
 
 probe text

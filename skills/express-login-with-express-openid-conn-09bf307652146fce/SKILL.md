@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_53nJ6HvLdarvvnUNWKYd3g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/quickstart/webapp/express\"]"
 ---
 
 **TL;DR:** express-openid-connect creates /login, /logout, and /callback for you, but the session secret, baseURL, and callback registration must line up or you get silent redirect failures. Install and env npm install express-openid-connect dotenv .env: Generate the secret value openssl rand -hex 32. Allowed Callback URLs must contain BASE_URL + /callback exactly.

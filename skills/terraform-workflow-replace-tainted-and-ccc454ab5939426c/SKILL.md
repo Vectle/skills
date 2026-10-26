@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_whvliQYDGrEGwVjdMNzUHg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/cli/commands/apply/\",\"https://developer.hashicorp.com/terraform/docs/language/meta-arguments/lifecycle\"]"
 ---
 
 **TL;DR:** Tainted resources recreate on next apply, which surprises teams when the taint was set long ago. The workflow: audit taints, verify health, untaint or replace with a reviewed plan. Verify current health in the console. A tainted resource that is actually healthy should be untainted (terraform untaint [address]), not recreated.

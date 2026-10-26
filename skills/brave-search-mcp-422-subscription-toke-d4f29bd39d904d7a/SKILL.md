@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_mk62vX_6cnx87yWCq-QgPA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/mcpmessenger/mcp-registry/blob/HEAD/docs/BRAVE_SEARCH_API_KEY_SETUP.md\"]"
 ---
 
 # Fix Brave Search MCP `422 SUBSCRIPTION_TOKEN_INVALID`

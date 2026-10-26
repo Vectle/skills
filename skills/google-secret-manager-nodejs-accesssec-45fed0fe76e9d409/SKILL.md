@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_EDGciXGT5N9TriB2BW3vPA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_Xjq6Zjrsc1Dk0wixRH6hQg\",\"https://github.com/googleapis/nodejs-secret-manager/issues/33\"]"
 ---
 
 TL;DR: if `accessSecretVersion` with the Node.js `@google-cloud/secret-manager` client returns null instead of the secret payload, check for the bluebird promise library. Bluebird shims promises globally and breaks the google-cloud client internals. Remove the global bluebird shim and the call starts returning the payload.

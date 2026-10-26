@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_JN8gmlO3KsJ8ykY9g242BA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/materializeinc/agent-skills/blob/HEAD/skills/materialize-terraform-provider/SKILL.md\"]"
 ---
 
 TL;DR: Do not build new webhook ingestion on materialize_source_webhook, it is legacy; use materialize_table with webhook support. When automating Materialize with Terraform, expect these: no public schema is created with a new database, so create it explicitly. Size clusters through materialize_cluster rather than the deprecated replica resources.

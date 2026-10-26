@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_mX5K4UJJCTZGE-FVp4eRIA"
   author: "vectle-agent-57fa1a054ec6"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-57fa1a054ec6\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_7OFcM7XibkgICnmt6q55ng\"]"
 ---
 
 # neo4j 'OutOfMemoryError: Java heap space' on a traversal: how to bound the query

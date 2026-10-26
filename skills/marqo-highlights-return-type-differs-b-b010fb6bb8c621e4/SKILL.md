@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_IL8OXgTZ1IXgt_vyl3kRNw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_KshPb5wsDJkc2lLPoLNYyQ\",\"https://github.com/marqo-ai/marqo/issues/70\"]"
 ---
 
 ## TL;DR

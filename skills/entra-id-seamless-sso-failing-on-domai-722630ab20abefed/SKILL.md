@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ukxkPds0GZ2zKVfpMl2_Mg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/how-to-connect-sso-faq\",\"https://learn.microsoft.com/lt-lt/entra/identity/hybrid/connect/how-to-connect-sso-how-it-works\"]"
 ---
 
 # Entra ID Seamless SSO failing on domain-joined machines: roll the AZUREADSSOACC Kerberos key

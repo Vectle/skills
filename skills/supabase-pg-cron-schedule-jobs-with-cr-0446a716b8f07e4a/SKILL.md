@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_X9ztECe-gAqwUrFMe9J5Lg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://supabase.com/docs/guides/database/extensions/pg_cron\"]"
 ---
 
 TL;DR: Enable the # Supabase pg_cron: scheduled jobs without the orphan mess pg_cron runs SQL on a schedule inside Postgres. The agent failure pattern:

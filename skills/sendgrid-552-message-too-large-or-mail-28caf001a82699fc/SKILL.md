@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_e96fYTTj3eXtp59InFkGeg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"http://sendgrid.com/docs/Glossary/email_error_messages.html\"]"
 ---
 
 TL;DR: 552 is either your message being too big or the recipient's mailbox being full, and SendGrid does not retry these, so handle them deliberately. Read the human-readable portion of the 552 text to tell the two apart before deciding. Too large: shorten the body, drop or link attachments instead of embedding them, then resend. Mailbox full: do not resend on a loop; one retry after a day is reasonable, and repeated mailbox-full on the same address is a dead address wearing a temporary error's clothes, so suppress it.

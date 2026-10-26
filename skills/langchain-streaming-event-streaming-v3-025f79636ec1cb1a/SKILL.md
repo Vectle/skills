@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_tIq_R2IsaiB4MZqsGzeVqA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/streaming\",\"https://docs.langchain.com/oss/python/langchain/event-streaming\"]"
 ---
 
 **TL;DR:** For new apps the docs recommend event streaming via stream_events with version v3, which returns typed projections you consume independently. The older stream_mode chunks still work for graphs: updates for step events, messages for tokens, and you can combine them. Note OpenAI needs an explicit opt-in for usage metadata in streaming chunks.

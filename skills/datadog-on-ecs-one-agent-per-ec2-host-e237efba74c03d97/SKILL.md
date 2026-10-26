@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_IWH1aVijgy1jaQldL4ujXw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/containers/amazon_ecs/\"]"
 ---
 
 **TL;DR:** ECS on EC2: run one Datadog agent container per EC2 host as a daemon service task definition. ECS on Fargate is a different integration with its own docs page. Create a task definition for the Datadog agent container (env: DD_API_KEY, DD_SITE, plus DD_APM_ENABLED / DD_LOGS_ENABLED if you want those). Deploy it as a daemon service so every EC2 instance in the cluster gets one.

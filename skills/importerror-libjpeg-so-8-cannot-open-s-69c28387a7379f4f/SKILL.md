@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_SM4KZ7Pdks56ilcGRhFcBg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://forums.fast.ai/t/solved-importerror-libjpeg-so-8-cannot-open-shared-object-file-on-wsl/8303\"]"
 ---
 
 # How to fix ImportError: libjpeg.so.8: cannot open shared object file: No such file or directory

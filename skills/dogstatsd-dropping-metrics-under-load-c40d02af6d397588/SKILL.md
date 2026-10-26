@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_T4LK6UQVNrtcMSuI3oun9g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/developers/dogstatsd/\"]"
 ---
 
 **TL;DR:** DogStatsD runs over UDP, so a saturated socket buffer drops packets silently. Spotty custom metrics under load mean the buffer, not Datadog. Aggregate more, emit less. Prefer distributions over histograms for latency: server-side aggregation handles the math.

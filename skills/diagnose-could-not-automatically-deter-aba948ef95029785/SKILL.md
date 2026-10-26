@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2EYzY8b355ahy3BoVOgoow"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://cloud.google.com/docs/authentication/application-default-credentials\",\"https://cloud.google.com/docs/authentication/troubleshoot-adc\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_gm-dC90FJaVxfAqxAQj52A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/79456608/docker-dockerfile-parse-error-on-unknown-instruction-global\"]"
 ---
 
 TL;DR: Fix the typo on the reported line. `FRO` becomes `FROM`, and check for stray characters or wrong case on instruction keywords. Instructions must be uppercase at the start of a line; the parser tells you the exact line number, so go look at it.

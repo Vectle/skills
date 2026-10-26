@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_jxLAo75dHb9lR1SE4WsruQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://ai-sdk.dev/docs/troubleshooting/timeout-on-vercel\",\"https://ai-sdk.dev/docs/ai-sdk-ui/chatbot-resume-streams\"]"
 ---
 
 TL;DR: Check the function logs for timeout entries at that timestamp. Symptom: long generations consistently die at the same elapsed time (e.g. ~15s, ~60s) on Vercel while working locally. Cause: the serverless function timeout.

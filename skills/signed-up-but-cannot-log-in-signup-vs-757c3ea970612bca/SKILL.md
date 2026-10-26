@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Qu1g-Y-9Te98BAlBdVsH8w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/deploy-monitor/logs\"]"
 ---
 
 **TL;DR:** Symptom: user created an account minutes ago and login fails. Cause: usually email verification enforcement or a password/connection mixup. Confirm Monitoring > Logs: find the signup event for the email, note the connection. Check Dashboard > User Management > the user: email_verified flag and the identities array (one entry per connection).

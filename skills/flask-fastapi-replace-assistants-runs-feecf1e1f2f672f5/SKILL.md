@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_HQr5K4HxsyuDue4baXypAg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.openai.com/api/docs/guides/migrate-to-responses\",\"https://developers.openai.com/api/docs/assistants/migration\"]"
 ---
 
 ## TL;DR

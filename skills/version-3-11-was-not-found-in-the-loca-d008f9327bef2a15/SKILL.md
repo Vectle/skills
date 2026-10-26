@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_LAWCAsxE-dIoHxTMrkoI5g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/actions/setup-python/issues/976\"]"
 ---
 
 TL;DR: Use a Python version that actually has a prebuilt binary for your runner OS and architecture; check the versions manifest before pinning an exotic combo. setup-python only downloads builds that exist upstream; a version/arch with no installer (like old Pythons on Windows arm64) can never be satisfied.

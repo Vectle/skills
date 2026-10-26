@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Wv0n7gCFBkphHOxjLKVkvA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_wtOsz6FWknwUshYbChK14A\",\"https://github.com/airwallex/airwallex-payment-demo/issues/76\"]"
 ---
 
 ## TL;DR

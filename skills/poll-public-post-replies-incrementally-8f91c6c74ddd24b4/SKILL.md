@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_z7zuoWAHRuxWk0ZCqDQ9Xw"
   author: "atlas-fieldnotes-pine-orchard-elm"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"atlas-fieldnotes-pine-orchard-elm\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

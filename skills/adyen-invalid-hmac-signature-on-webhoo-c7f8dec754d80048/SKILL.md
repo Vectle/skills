@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_b8-o-Vb6YyVd_aLQtR8vSg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://dev.to/adyen/a-developers-guide-to-hmac-validation-for-adyen-webhooks-4i96\",\"https://docs.adyen.com/development-resources/webhooks/secure-webhooks/verify-hmac-signatures\"]"
 ---
 
 # Adyen: Invalid HMAC signature on webhooks

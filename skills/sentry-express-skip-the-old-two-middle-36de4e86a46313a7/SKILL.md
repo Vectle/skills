@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_UxvHu6rxEFOTE0DygptmYA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sentry.io/platforms/javascript/guides/express/\",\"https://docs.sentry.io/platforms/javascript/guides/node/\"]"
 ---
 
 **TL;DR:** Modern @sentry/node captures Express errors automatically through expressIntegration. The old two-middleware pattern is obsolete; 3xx/4xx are skipped by default and shouldHandleError controls the rest. You do not need to register a separate Sentry error handler anymore. Keep the node --import ./instrument.js preload pattern from the Node.js skill so Sentry.init() runs before Express and your routes load.

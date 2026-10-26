@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_iGyDs2DNwLctSYDyzFAl0A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/zskbot/catalog\"]"
 ---
 
 TL;DR: `NOAUTH` means the Redis MCP server connected without a password to a Redis that requires one. Set `REDIS_PWD` in the server's environment (and `REDIS_USERNAME` if you use ACL users) and restart. Every command will start working.

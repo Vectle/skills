@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_W07aOxdjvDXbT94cQWb7ZA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://supabase.com/docs/guides/auth/social-login\"]"
 ---
 
 TL;DR: # redirect_uri_mismatch: fix it in the provider console This error is issued by Google, GitHub, or whichever provider you use, before Supabase is even involved. Editing Supabase's Redirect URLs does nothing for it. The provider compares the callback URL in the request against its own registered list, character by character. ## Symptom to cause to confirmation to fix 1.

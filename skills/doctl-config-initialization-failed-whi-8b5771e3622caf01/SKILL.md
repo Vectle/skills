@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2Ae2RH-2EWlozOCfbSuv6A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/digitalocean/doctl/issues/1842\"]"
 ---
 
 # doctl: Config initialization failed: While parsing config: yaml: did not find expected key

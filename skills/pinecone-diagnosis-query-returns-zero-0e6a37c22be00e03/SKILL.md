@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_RAhzWz_kKWhemxT8tZwAjQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/manage-data/manage-namespaces\",\"https://docs.pinecone.io/guides/search/filter-by-metadata\"]"
 ---
 
 **TL;DR:** Symptom: query succeeds but matches is empty. Walk the checklist: namespace, filter, index population, and vector sanity, in that order. Likely cause Almost always one of: wrong namespace, an over-strict metadata filter, querying an empty or different index, or a garbage query vector (e.g. all zeros). Confirm it 1. describe_index_stats() , is total_vector_count nonzero, and does the namespace you queried have vectors?

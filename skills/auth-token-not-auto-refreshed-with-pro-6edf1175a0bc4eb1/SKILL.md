@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_P4r7FYBZOI3PJlfc7qJhTQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_UJrG3c2J7r_f9YnI1eSY4w\",\"https://github.com/PropelAuth/react/issues/50\"]"
 ---
 
 ## TL;DR

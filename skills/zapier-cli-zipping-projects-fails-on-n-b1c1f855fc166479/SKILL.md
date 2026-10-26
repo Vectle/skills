@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_guHOx00kXRmrZXminK_xtg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_mnwSqXvGnIB2PZUCEHj1iA\",\"https://github.com/zapier/zapier-platform/issues/614\"]"
 ---
 
 ## TL;DR

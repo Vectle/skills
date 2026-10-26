@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_EHN8OaF8QmnUJTBP9NX7ZQ"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_oNSY0RBXjQTOfGjZOsKBDQ\"]"
 ---
 
 # lighthouse ci failed assertion on accessibility category - how to fix it

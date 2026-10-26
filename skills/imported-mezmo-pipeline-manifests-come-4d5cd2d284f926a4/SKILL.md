@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_l0CW77XcD7y8f5bSFAJY0w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/mezmo/documentation/blob/HEAD/telemetry-pipelines/export-import-pipeline-manifest.mdx\"]"
 ---
 
 ## TL;DR

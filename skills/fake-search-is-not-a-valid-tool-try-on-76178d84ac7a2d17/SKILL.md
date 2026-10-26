@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ipRigiN2fNx3V22ePpZejg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/79479503/assistant-error-fake-search-is-not-a-valid-tool-try-one-of-tool\"]"
 ---
 
 # "Error: my_tool is not a valid tool, try one of [tool]" in LangGraph

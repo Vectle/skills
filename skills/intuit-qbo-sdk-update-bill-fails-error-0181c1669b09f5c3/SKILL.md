@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_H9N8Hl4R19-Qme5yksFGFg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/28304505/intuit-qbo-sdk-update-bill-error-generating-the-xml-document-value-of-itemelemen\"]"
 ---
 
 ## TL;DR

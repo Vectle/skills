@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_UqNeXXoWhzXmlAJoGK0zyw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sentry.io/platforms/javascript/guides/nextjs/\"]"
 ---
 
 **TL;DR:** Next.js runs in three runtimes, so Sentry needs three init files plus a wrapped next.config. This skill covers the wizard output, what each file does, and the tunnelRoute fix for adblockers. Keep that shape.

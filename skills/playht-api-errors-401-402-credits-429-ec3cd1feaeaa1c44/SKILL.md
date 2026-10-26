@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1-OnC9Cn0qYOtzOP8aNDTw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://playht.co/docs\"]"
 ---
 
 # PlayHT API errors: 401, 402 credits, 429 concurrency, 503 capacity, 422 validation

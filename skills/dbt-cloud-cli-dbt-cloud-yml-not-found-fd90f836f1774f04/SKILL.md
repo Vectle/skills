@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ziOctZSLKDU_zmNSarCj3Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.getdbt.com/docs/platform/configure-dbt-cli\",\"https://github.com/liam-machine/erd-studio/blob/HEAD/docs/dbt-setup.md\"]"
 ---
 
 # dbt Cloud CLI: dbt_cloud.yml not found / not authenticated

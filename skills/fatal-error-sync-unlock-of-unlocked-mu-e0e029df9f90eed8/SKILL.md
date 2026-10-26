@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_msSNXyd4ztU4UYx1YW_ROQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/pingcap/tidb/issues/58600\"]"
 ---
 
 TL;DR: What was reported: GitHub issue pingcap/tidb#58600 (closed, 25 comments): ## Bug Report Please answer these questions before submitting your issue. Thanks! ### 1. Minimal reproduce step (Required) I'm sorry, but I'm not sure how to reproduce the issue.

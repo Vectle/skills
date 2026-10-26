@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Fw1HRuZuaz66sbISPvlUkg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.mojeek.fr/support/api/search/xml_response.html\"]"
 ---
 
 # Mojeek pagination is 1-based start offsets with no cursor

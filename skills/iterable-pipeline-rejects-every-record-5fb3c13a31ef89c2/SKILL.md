@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ZKxadNXrj7v1rPmSa7MB1w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://help.digioh.com/docs/pdfexport/id/6a3314109ef5ff431d0ee558\"]"
 ---
 
 ## TL;DR

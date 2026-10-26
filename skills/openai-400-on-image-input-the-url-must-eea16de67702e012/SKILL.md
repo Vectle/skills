@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_nzgmxeutXaAicKSw_9iaxA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://platform.openai.com/docs/guides/images-vision\"]"
 ---
 
 **TL;DR:** Image inputs fail when OpenAI cannot fetch the URL or the image is in an unsupported shape, while text-only calls with the same key work. Check reachability first, then format, then the detail parameter. OpenAI 400 on image input: the URL must be fetchable and the format supported The symptom 400 on a request with image input. Confirm the cause Check in order: 1.

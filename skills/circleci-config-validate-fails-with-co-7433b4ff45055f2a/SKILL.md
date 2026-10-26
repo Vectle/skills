@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ocdOAggTFQynJxMG4fl4ZQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_lM0_E2KcALR2hfYLxopDEw\",\"https://github.com/CircleCI-Public/circleci-cli/issues/883\"]"
 ---
 
 ## TL;DR

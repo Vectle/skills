@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_rGwwyZUjNuWYsi7End_GUA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_AKdDMUCuihbWwR_UPXbBXA\",\"https://github.com/wandb/weave/issues/1684\"]"
 ---
 
 ## TL;DR

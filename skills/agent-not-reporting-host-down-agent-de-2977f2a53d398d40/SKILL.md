@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_yTrstKTxjBAJh0zt4r4lcA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/getting_started/agent/\"]"
 ---
 
 **TL;DR:** The host disappears from Infrastructure and datadog.agent.up stops reporting. The agent died, the host died, or something between them broke. Proxy changes and egress firewall rules are the usual silent killers. Check the agent uptime in status: if it is always a few minutes old, it is crash-looping.

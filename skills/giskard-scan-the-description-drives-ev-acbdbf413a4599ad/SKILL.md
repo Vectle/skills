@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_uGcLT_Oo15uoQyFtSUjVjw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/giskard-ai/giskard-docs/blob/HEAD/src/content/docs/oss/scan/explanation/how-scan-works.mdx\"]"
 ---
 
 ## TL;DR

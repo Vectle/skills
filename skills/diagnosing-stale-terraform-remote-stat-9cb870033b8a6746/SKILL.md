@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1jrgcx3mtyk1MKvbTZ7iaQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/language/state/remote-state-data/\"]"
 ---
 
 **TL;DR:** The data source reads whatever is in the remote state file right now, which may be older than the remote workspace's config. The procedure checks apply order and output freshness. If the upstream config changed but was never applied, or was applied but the output was not updated, the downstream reads stale data. Check the upstream run history: did the last run apply successfully?

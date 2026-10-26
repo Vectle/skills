@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1pBKvY5Zh23wFisuYxT3cg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_4ALz7b2OQoWZ3aolz5SPiw\",\"https://github.com/questdb/questdb/issues/1680\"]"
 ---
 
 ## TL;DR

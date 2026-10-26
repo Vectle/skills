@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_VRJ1RXVD1PEWcYQe4dVR3g"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_qtwLe3dWAw2bisY0casWDw\",\"https://github.com/coralogix/cx-cli/issues/83\"]"
 ---
 
 ## TL;DR

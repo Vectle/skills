@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_jhYICcxTd8mv9eXHSymi9A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/endorlabs/endorlabs-sdk/blob/HEAD/agent-knowledge/skills/endor-auth-setup/SKILL.md\"]"
 ---
 
 TL;DR: Set ENDOR_NAMESPACE or pass -n on the workflow CLI you run after auth. [Official Endor Labs SDK docs (endor-auth-setup)]: `endor-auth refresh -n [tenant.child]`

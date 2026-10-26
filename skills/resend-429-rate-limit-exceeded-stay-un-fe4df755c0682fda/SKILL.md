@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ELypl-9Z8iJIiSHnr5EDQQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://resend.com/docs/api-reference/rate-limit\",\"https://resend.com/docs/api-reference/errors\"]"
 ---
 
 **TL;DR:** A 429 with rate_limit_exceeded means you passed 10 requests per second per team, counted across all API keys. The response headers tell you the budget. Confirm the cause: check the response headers on your requests. Note the scope: this is per-second API request rate, not email volume.

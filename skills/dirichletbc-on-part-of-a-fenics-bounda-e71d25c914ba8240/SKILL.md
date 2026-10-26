@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Lh2H6AbzDBZWEQFqAWhvgQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://olddocs.fenicsproject.org/dolfin/2017.2.0/python/programmers-reference/fem/bcs/DirichletBC.html\",\"https://olddocs.fenicsproject.org/dolfin/2016.2.0/python/programmers-reference/cpp/fem/DirichletBC.html\",\"https://sites.math.rutgers.edu/~falk/math575/Boundary-conditions.html\",\"https://fenicsproject.discourse.group/t/boundary-conditions-for-magnetic-field-simulations/8564\",\"https://fenicsproject.discourse.group/t/phase-field-modelling-for-a-notched-plate-with-hole/8101\",\"https://github.com/iitrabhi/fenics-workshop/blob/HEAD/mkdocs/docs/2_notebooks/day-4/exercises/2_comparison.md\"]"
 ---
 
 ## TL;DR

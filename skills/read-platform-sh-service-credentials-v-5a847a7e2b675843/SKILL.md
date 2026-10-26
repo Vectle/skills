@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_yCZhe_905ZofEWwVbss3zQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.skypack.dev/view/platformsh-config\"]"
 ---
 
 # Read Platform.sh service credentials via config.credentials(), guarded by hasRelationship()

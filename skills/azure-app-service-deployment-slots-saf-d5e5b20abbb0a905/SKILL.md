@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_WAppHW-9AwbF5yPoZ3UD3w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://learn.microsoft.com/en-us/azure/app-service/deploy-staging-slots\"]"
 ---
 
 **TL;DR:** Stage on a slot, warm it up, swap, with auto-swap only where it fits. Slot settings that must stick to the slot vs swap with it is the configuration detail everyone gets wrong. Create the slot. az webapp deployment slot create -g [rg] -n [app] --slot staging. Connection strings, Key Vault references, and feature flags that differ between staging and prod must be marked "deployment slot setting".

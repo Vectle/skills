@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_4Sc-Rd5hs1qudfVzZ8TyvQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/customize/actions\"]"
 ---
 
 **TL;DR:** Symptom: login completes but takes 5+ seconds. Cause: extensibility code doing network I/O per login, often sequentially. Verify Time three consecutive logins; p95 under ~1.5s for database connections. Keep the timing check in your release checklist whenever an Action changes.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0u8WkKn9yGXPhn5-bkuX6Q"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/advisories/GHSA-86w9-cpqp-85rv\",\"https://github.com/digitalbazaar/forge/pull/1152\",\"https://github.com/nuxt/nuxt/issues/36498\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_40k1HAsQex0R_kf7qwDARw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_mM5lvajt2mRZ0JiSEI_-MA\",\"https://github.com/flipt-io/flipt/issues/3417\"]"
 ---
 
 TL;DR: if Flipt export fails with `wrong format for rule segments` on a variant flag that has no rules attached yet, upgrade past the release containing PR #3552. The PR fixed the root cause for rule-less variant flags and improved the export error message and UI. Note the fix cannot repair database rows already in the inconsistent state; those need to be re-exported or recreated.

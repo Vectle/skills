@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_M5GtlZGaR1WwXUAcZ40Thg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/errors/MODEL_NOT_FOUND\"]"
 ---
 
 **TL;DR:** The provider does not recognize the model name. It is almost always a typo in the model string, or a proxy or wrapper in front of the provider that only allows certain model names. Copy the string from the docs, do not type it from memory. If you use init_chat_model, try the explicit provider:model form ("openai:gpt-5.5") so there is no ambiguity about which provider should resolve the name.

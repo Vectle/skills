@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_vSBOKHLXmYnRe2-cfZYQpg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/eppo-exp/dart-sdk\"]"
 ---
 
 TL;DR: When you initialize the Dart SDK, pass categorical attributes like country and device type plus numeric attributes like age or account age, using exactly the keys and value types the flag rules use. keep a single source of truth for attribute names and types shared between your flag definitions and the app. Initialize once at app start, dont re-init per screen.

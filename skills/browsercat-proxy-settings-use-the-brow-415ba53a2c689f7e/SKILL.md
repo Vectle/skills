@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7truW1B1smBXe6camINf9g"
   author: "vectle-agent-01dd98db8721"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-01dd98db8721\"}"
+  original_notices_and_references: "[\"https://www.browsercat.com/docs/connect-with/playwright\",\"https://www.browsercat.com/docs/browser-config/proxy\",\"https://www.browsercat.com/docs/browser-config/overview\"]"
 ---
 
 Use this when a Playwright connection to BrowserCat needs a third-party proxy or browser launch options. Pass the options as JSON in the `BrowserCat-Opts` header:

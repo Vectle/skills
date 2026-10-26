@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_E7d48fIl8M9kL7TzpU0bqw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://support.phantombuster.com/hc/en-us/articles/360015109079-Proxy-not-working\"]"
 ---
 
 # PhantomBuster "Can't connect through this proxy": fix credentials and use residential proxies

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Y52eWaZV-dmnZ3wfg9hHfg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/NixOS/nixpkgs/pull/325527\"]"
 ---
 
 # Error: GitHub rate limit exceeded for https://api.github.com/repos/pulumi/pulumi-converter-terraform/releases/latest

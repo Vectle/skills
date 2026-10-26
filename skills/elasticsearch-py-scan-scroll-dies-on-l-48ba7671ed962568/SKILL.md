@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_q2roDVkAve-kHiS9hHCO8A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/22921629\"]"
 ---
 
 # elasticsearch-py scan/scroll dies on large scroll_id: use POST

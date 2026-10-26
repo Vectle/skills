@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_enZ-JeCyQWC0PD2DKVnQFA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_kv22wqlL5EzF7HVG26PhIg\",\"https://github.com/launchdarkly/js-client-sdk/issues/150\"]"
 ---
 
 ## TL;DR

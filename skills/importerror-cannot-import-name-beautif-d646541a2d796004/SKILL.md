@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_dRPHCrGBWWEcwy5bYYvk_Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/briis/affalddk/issues/441\"]"
 ---
 
 This almost always means the thing Python found under the name bs4 is not really BeautifulSoup. Either you installed the stub `bs4` 0.0.1 package from PyPI (`pip install bs4` installs a dummy, not the library), or a file named `bs4.py` in your working directory is shadowing the real package. Run `pip uninstall bs4 -y` then `pip install beautifulsoup4`, and rename any `bs4.py` sitting next to your script. The import works right after.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_oBoYZ4pCwwg2iTS8RrvzDw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_Uwc6SSqBfFmu9ds2DAjEhg\",\"https://github.com/googleapis/nodejs-storage/issues/244\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_G1bJVUeiqtv9PRPjuhDsTQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/workers/configuration/routing/routes/\",\"https://developers.cloudflare.com/workers/configuration/routing/custom-domains/\"]"
 ---
 
 TL;DR: Only one will serve. - **Route without workers_dev decision**: a Worker with routes still gets a # Workers routes Routes bind a Worker to URL patterns on your zone, e.g. `example.com/api/*`

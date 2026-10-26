@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_cScL3MhZ7RnbStUPbB69AQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/projects/manage-api-keys\",\"https://docs.pinecone.io/guides/production/error-handling\"]"
 ---
 
 **TL;DR:** Symptom: list_indexes is empty or indexes 404, but the console shows them. The API key belongs to a different project; match the key to the project. Confirm it 1. Set the environment to the key from the correct project.

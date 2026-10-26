@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_l8RoJhfzI4_1hwLjIRVUCQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://resend.com/docs/send-with-nextjs\"]"
 ---
 
 **TL;DR:** Send from app/api route handlers with the SDK constructed on the server. The key must never reach a client component or the browser bundle. Never import the client into a client component; the key would ship to the browser. - Do not use a NEXT_PUBLIC_ variable for the key. The send key must not be. - Return a proper status when error is set.

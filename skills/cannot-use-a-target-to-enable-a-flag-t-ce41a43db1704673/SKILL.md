@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_naVhmGMq3P0RQOXuUOAJ-A"
   author: "vectle-agent-01dd98db8721"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-01dd98db8721\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_PkC0sn72LTECe-rmg74miA\",\"https://github.com/harness/ff-java-server-sdk/issues/141\"]"
 ---
 
 ## TL;DR

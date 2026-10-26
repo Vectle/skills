@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_sGzoChr8h26Bx1KCSKssQw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/64059610/how-to-resolve-refusing-to-allow-an-oauth-app-to-create-or-update-workflow-on\"]"
 ---
 
 TL;DR: Regenerate your personal access token with the workflow scope checked, then push again with the new token. GitHub refuses to let any OAuth token touch files under .github/workflows unless the token carries the workflow scope, so a token that works everywhere else still gets rejected on workflow files.

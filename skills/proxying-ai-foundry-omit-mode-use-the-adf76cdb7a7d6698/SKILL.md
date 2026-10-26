@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ihjOoZRaCczGkvzr3y9O1g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/microsoft/simplel7proxy/blob/HEAD/ai-foundry-integration.md\"]"
 ---
 
 TL;DR: If you proxy requests to Azure AI Foundry, leave the mode parameter out of the payload; including it the wrong way is a common source of 400s. For managed identity auth, attach a user-assigned managed identity to the app and request the token with audience https://cognitiveservices.azure.com/.default, not the Foundry endpoint.

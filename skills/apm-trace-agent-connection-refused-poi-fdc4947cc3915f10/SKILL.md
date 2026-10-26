@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_z3oU0ZdrPY1LO_tYQMhp-g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/containers/amazon_ecs/\",\"https://docs.datadoghq.com/tracing/setup/python/\"]"
 ---
 
 **TL;DR:** Tracers ship to the Datadog agent on the same host by default. Connection refused means the tracer cannot reach it: wrong DD_AGENT_HOST in containers, agent APM not enabled, or a firewall in between. Connection refused is always hop one. Fix by environment - Same host: should just work.

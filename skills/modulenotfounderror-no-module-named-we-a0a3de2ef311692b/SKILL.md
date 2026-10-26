@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XGBelmUDdMTJeXpvKNvdsw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/dmitri-sintsov/djk-sample/issues/1\"]"
 ---
 
 html5lib needs the tiny `webencodings` package and it is not installed. Run `python -m pip install webencodings` (or reinstall html5lib normally so pip resolves it). The import works right after.

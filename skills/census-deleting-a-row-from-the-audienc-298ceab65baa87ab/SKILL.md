@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5BFc1pG9ANsjK6Z81hsGiA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.getcensus.com/audience-hub/getting-started/warehouse-managed-audiences\"]"
 ---
 
 TL;DR: But the audience list itself refreshes on a 15-minute background job: adding a row creates a new audience at the next refresh, updating a row renames it, and removing a row marks the audience invalid, at which point any related syncs begin to fail. [Official Census docs (warehouse-managed audiences)]: Audience membership lives in your warehouse's audience membership table, and Census queries it just-in-time, so adding or removing rows updates membership on the next sync.

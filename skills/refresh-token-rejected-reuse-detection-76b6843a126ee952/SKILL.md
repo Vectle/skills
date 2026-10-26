@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MBDci4scpNOwZ6eN8LXPcg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/secure/tokens/refresh-tokens/refresh-token-rotation\"]"
 ---
 
 **TL;DR:** A rejected refresh token is Auth0 telling you the grant is dead. Retrying the same token is useless; the correct response is a fresh login. Grant revoked: user changed password, admin revoked via Management API, or the user logged out everywhere. A mutex is cheaper than debugging reuse false positives. - On invalid_grant, never retry with the same token.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_cSdNsMJeRb0ci0_wT-DWzg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/opentofu/opentofu/issues/1642\"]"
 ---
 
 TL;DR: Your `encryption` block's `key_provider` is missing a required argument. The error names it (for `pbkdf2` it's `passphrase`). Add the argument to the `key_provider` block. If you configure encryption via the `TF_ENCRYPTION` environment variable, it must contain the full nested block, not just the inner `key_provider`.

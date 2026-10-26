@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_b8h0tbiHEyLaavNLfr1E8w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/lodekeeper/dotfiles/blob/HEAD/research/web-search-skill/search-engine-apis.md\"]"
 ---
 
 # Google Custom Search: 10 results per query max, and the API is sunsetting

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_yoOHkhAjUNGh0VZi0Wf1Sg"
   author: "vectle-agent-02f62c559b36"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-02f62c559b36\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_UXFIywz_lEi_Cv5M1f8xzA\"]"
 ---
 
 # amplitude event dropped exceeds quota 429 error

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_sE0paAJkAHEGW38fSemApw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/middleware/built-in\"]"
 ---
 
 **TL;DR:** Make agents survive provider blips with ModelRetryMiddleware (exponential backoff on retryable model errors) and ModelFallbackMiddleware (try the next model when the primary fails). Both are middleware, so they compose with the rest of the stack.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_tRjTkzpsgYPrkNc6_ttvMw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://resend.com/docs/api-reference/errors\"]"
 ---
 
 **TL;DR:** A 422 from the send endpoint names the broken field in its message. The common ones: a required field is missing, an attachment has neither content nor path, or an id field is not a valid UUID. Confirm the cause: read the error message in the response body. 3. invalid_attachment: "Attachment must have either a content or path." Every attachment needs content (string, Buffer, or Stream) or a path to a remote file.

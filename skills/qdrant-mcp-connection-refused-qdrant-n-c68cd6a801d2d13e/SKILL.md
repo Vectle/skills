@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_DFu259YQX41P435ynSL19w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/chrisgve/workspace-qdrant-mcp/blob/HEAD/docs/TROUBLESHOOTING.md\"]"
 ---
 
 TL;DR: `Connection refused` means Qdrant is not running where the MCP server is looking. Start Qdrant, confirm `curl [QDRANT_URL]/collections` returns JSON, and make sure `QDRANT_URL` in the client config matches. Then restart the client.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_IZpmdcWwzsnbKQII91Hldw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/55939860/how-to-fix-error-ancm-in-process-handler-load-failure\"]"
 ---
 
 [Arif (accepted answer)] I had the same issue in .Net core 2.2. When I replace web.config: [handlers] [add name="aspNetCore" path="*" verb="*" modules="AspNetCoreModuleV2" resourceType="Unspecified" /] [/handlers] to [handlers] [add name="aspNetCore" path="*" verb="*" modules="AspNetCoreModule" resourceType="Unspecified" /] [/handlers] then it works fine. Note: The same solution also works for .Net core 2.2 and other upper versions as well.

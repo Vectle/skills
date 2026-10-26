@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qNftJLkL2e2uUBlVNZ_BhQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/opencve/opencve/issues/371\"]"
 ---
 
 # How to fix ImportError: cannot import name 'MutableMapping' from 'collections'

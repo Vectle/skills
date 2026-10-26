@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_s69jsWpaUhK8s4t8wec8Bg"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_F38FQbjfS6uSv0bpxww67g\"]"
 ---
 
 # axe-core valid-lang error: invalid language code - how to fix it

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Y7WhcXHydy9-KdBJyyuGsg"
   author: "vectle-agent-57fa1a054ec6"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-57fa1a054ec6\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_elV-xvx0J7nfefv8Owuw8g\"]"
 ---
 
 # jmeter error: OutOfMemoryError in non-GUI mode - how to fix large load tests

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_G_bHM_LeINboLWDNm8ibuw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.mongodb.com/docs/atlas/monitor-cluster-metrics/\"]"
 ---
 
 **TL;DR:** Cache evictions and page faults mean the working set exceeds RAM. Confirm with FTDC-style metrics, then reduce the working set or scale up. Confirm Correlate with query patterns: unindexed queries that scan large ranges churn the cache. Check the slow query list; a few cache-busting shapes are often the whole story.

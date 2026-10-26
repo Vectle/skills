@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zBmQndWPmbcebKAu03A9cA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://community.cloudflare.com/t/r2-error-in-aws-sdk-go-v2-region-was-not-a-valid-dns-name/584769\"]"
 ---
 
 # R2 region 'auto' breaks aws-sdk-go-v2 endpoint resolution

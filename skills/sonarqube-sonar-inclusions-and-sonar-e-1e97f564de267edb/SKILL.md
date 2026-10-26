@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9LK_0x-vrOwOInTtqodsdg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://community.sonarsource.com/t/using-sonar-inclusions-and-exclusion/188697\",\"https://docs.sonarsource.com/sonarqube-server/10.1/project-administration/analysis-scope\",\"https://docs.sonarsource.com/sonarqube-cloud/managing-your-projects/project-analysis/analysis-scope\"]"
 ---
 
 ## TL;DR

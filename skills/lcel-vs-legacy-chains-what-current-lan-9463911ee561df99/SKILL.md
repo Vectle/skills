@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_IKAAF5kLPReNL-mqo8SGSw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/migrate/langchain-v1\"]"
 ---
 
 **TL;DR:** Current LangChain composes runnables with the pipe operator (LCEL). LLMChain and the other legacy chains moved to langchain-classic in v1. Chains are for straight pipelines; the moment the model needs to decide, that is an agent.

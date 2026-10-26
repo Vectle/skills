@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_CiAGVk1qS60TshQhCjhayw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_WL7bcjNngUqW2rlBeJWN4Q\",\"https://github.com/denoland/deploy_feedback/issues/574\"]"
 ---
 
 TL;DR: if environment variables registered on the Deno Deploy dashboard read with `Deno.env.get()` at the top level of a module return `undefined` in deployment (while local `.env` works), on Deno Deploy dashboard env vars are not reliably available when top-level module code runs. Move any `Deno.env.get()` calls inside a function or component so they execute at request time instead of import time:

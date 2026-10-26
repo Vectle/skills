@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zAjVZ0C7SqwNMqKsXLrffw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.n8n.io/code/code-node/?ref=blog.n8n.io\",\"https://community.n8n.io/t/n8n-2-0-python-code-node-blocks-all-imports-stdlib-external-how-to-configure-permissions/237706\",\"https://github.com/n8n-io/n8n-docs/pull/4916\",\"https://dev.to/codebangkok/n8n-code-node-import-external-library-python-javascript-4lp7\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_T3NVadhusppJBrJYOi-Sqw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/troubleshooting/serverless-index-connection-errors\"]"
 ---
 
 **TL;DR:** Symptom: Node client throws DNS or controller-host errors on a serverless index. The installed SDK predates serverless routing; upgrade @pinecone-database/pinecone. Confirm it 1. Compare against the current release on npm.

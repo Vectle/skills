@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5b04WqyUrzMLTxsFhH5LyQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/srneha24/Milvus-MCP-Server\"]"
 ---
 
 TL;DR: Databases in Milvus are exact names too. List them with `milvus_list_databases`, switch with the exact name via `milvus_use_database`, and set `MILVUS_DB` to it for future sessions.

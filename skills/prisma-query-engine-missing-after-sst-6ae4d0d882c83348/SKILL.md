@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__CF5Sn9kwh3aGv9qL7rKNg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/anomalyco/sst/issues/5077\"]"
 ---
 
 ## TL;DR

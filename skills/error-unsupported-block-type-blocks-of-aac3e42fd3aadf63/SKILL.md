@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_tgTN1QkScNOuOKwouU3YOQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/talkops-ai/aws-orchestrator-agent/blob/HEAD/skills/tf-module-validator/references/common-errors.md\"]"
 ---
 
 ## TL;DR

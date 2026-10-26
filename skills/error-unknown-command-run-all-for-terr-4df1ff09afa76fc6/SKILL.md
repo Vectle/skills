@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ByDk-hqv4VlmEEs9b61vhg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/blurayne/claude-experiments/blob/HEAD/terragrunt/index.md\"]"
 ---
 
 TL;DR: Terragrunt 1.0 redesigned the CLI: `run-all` became `run --all`. Your old command isn't forwarded anymore. Insert `run --` between `terragrunt` and the subcommand.

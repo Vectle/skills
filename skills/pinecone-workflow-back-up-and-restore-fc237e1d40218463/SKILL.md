@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_mguM_lnGYbD-3iV5ywy-SQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/indexes/pods/understanding-collections\",\"https://docs.pinecone.io/troubleshooting/return-all-vectors-in-an-index\"]"
 ---
 
 **TL;DR:** Pod indexes back up to collections: static, restorable copies. Serverless uses export or re-import instead. Backup and restore Pod indexes: collections 1. Create a collection from the index.

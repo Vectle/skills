@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_M8ogGjhUJ3UJCW4xWyauTw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/getzep/graphiti/issues/1651\"]"
 ---
 
 # MCP server: get_episodes and delete_episode query the wrong graph on FalkorDB (bypass per-group routing)

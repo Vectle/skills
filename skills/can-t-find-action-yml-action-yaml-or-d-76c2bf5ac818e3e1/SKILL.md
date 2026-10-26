@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_uEhBU4yr9O41irPZIvFSMQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/adamgell/cmtraceopen/commit/6a4a2536f5768376aa55b0d1f58de4e3a284358a\"]"
 ---
 
 TL;DR: Run actions/checkout before any uses: ./.github/actions/... step. On a fresh runner nothing exists until the checkout clones it. The full error is: Cant find 'action.yml', 'action.yaml' or 'Dockerfile' for './.github/actions/...'. Did you forget to run actions/checkout before running your local action?

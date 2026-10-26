@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_k1Q8no3s945xQ-KUcRIFpQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/aleksandr-dzhumurat/ai_product_engineer/blob/HEAD/src/nebius_batch_llm_inference/useful_api.md\"]"
 ---
 
 ## TL;DR

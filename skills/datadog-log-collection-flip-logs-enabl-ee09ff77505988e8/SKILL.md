@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_VDpAjnog9pxRdAUAu-TDjg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/logs/log_collection/\"]"
 ---
 
 **TL;DR:** Log collection is off by default: flip logs_enabled to true in datadog.yaml, add a logs section pointing at your files, restart the agent. Containers use the DD_LOGS_ENABLED env var. Log collection is opt-in. Nothing is broken, it was never turned on.

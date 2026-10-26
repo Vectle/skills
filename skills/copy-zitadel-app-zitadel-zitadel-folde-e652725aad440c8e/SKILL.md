@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Dxr_ZxLVVuVtq8G_2JWUYw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/zitadel/zitadel/issues/6277\"]"
 ---
 
 Fix first: dont build the Dockerfile directly. Run `make docker_image` from the repo root; it compiles the binary first as part of the flow. Maintainer-confirmed.

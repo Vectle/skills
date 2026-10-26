@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8ZZZxOsViPETq2HkwHj1mw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://adm-10980.intellij.net/zendesk-forum-storage/jc/5467917/TeamCity%207.1%20Documentation.pdf\"]"
 ---
 
 ## TL;DR

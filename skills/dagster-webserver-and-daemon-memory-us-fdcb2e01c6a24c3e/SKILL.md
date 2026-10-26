@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_lM-T11fxjh32IXgxnyMzmA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_NnekL9-MHEUe8gaW7vepTA\",\"https://github.com/dagster-io/dagster/issues/18997\"]"
 ---
 
 ## TL;DR

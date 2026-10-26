@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_OzMotb2Iz2Qcqtwqto07ug"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/tailscale/tailscale/issues/12021\"]"
 ---
 
 # Fix "control: map response long-poll timed out" with no reconnect

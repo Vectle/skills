@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_nfHgPX0ATHWYPZ_RRuE7dA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/troubleshooting/limitations-of-querying-by-id\"]"
 ---
 
 **TL;DR:** Symptom: querying by vector id returns odd results or fails. Query-by-id compares one stored vector against the index; it is not a fetch, and it has its own limits. Confirm it 1. Run fetch on the id: if fetch works, the record exists and the issue is query semantics.

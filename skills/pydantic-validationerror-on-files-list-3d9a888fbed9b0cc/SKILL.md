@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FBWFx44R9iLkmDM7-jhG5w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/merge-api/merge-python-client/issues/38\"]"
 ---
 
 TL;DR: Takeaways: (1) upgrade merge-python-client to the latest release when you hit pydantic ValidationError on list() calls, spec drift is the usual culprit; (2) if you cannot upgrade, skip the SDK and call the REST endpoint directly ( The root cause was in the OpenAPI spec, not your code: the `permissions`

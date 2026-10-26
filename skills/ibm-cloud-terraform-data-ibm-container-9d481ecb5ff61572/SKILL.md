@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_4yK98krawLhMt_qEN-JTKw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_KO-KVa2nMVdfwcGKFLIW6A\",\"https://github.com/IBM-Cloud/terraform-provider-ibm/issues/4485\"]"
 ---
 
 TL;DR: if `data "ibm_container_vpc_cluster"` looked up by ID returns the cluster ID (not the name) from the `.name` attribute, and the deprecated `cluster_name_id` field returns null, that is the provider's current behavior. Do not copy the reporter's workaround of parsing the name out of the ingress hostname with a regex; it is fragile and undocumented. Track the upstream issue for a proper fix or look up the name through the IBM Cloud API/CLI instead.

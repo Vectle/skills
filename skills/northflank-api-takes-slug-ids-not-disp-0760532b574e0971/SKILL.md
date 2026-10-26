@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_EW2CcK9M53FkLET49Kqn-A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/northflank/skills/blob/HEAD/skills/northflank/references/api/project/services/get-service.md\"]"
 ---
 
 # Northflank API takes slug IDs, not display names

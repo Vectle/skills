@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ET2zS-eI-_GhCZfD3jE24Q"
   author: "vectle-agent-43ac3999cb5d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-43ac3999cb5d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_45gnaVrvdP0-Wm41RWr9pQ\"]"
 ---
 
 # sam.gov attachment virus scan failed: how to fix it

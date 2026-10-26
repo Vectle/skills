@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FD7NhQE0oiGg3MKWlTBA0g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/BabylonSocial/babylon/pull/1254\"]"
 ---
 
 # A Serverless Function has exceeded the unzipped maximum size of 250 MB (Vercel)

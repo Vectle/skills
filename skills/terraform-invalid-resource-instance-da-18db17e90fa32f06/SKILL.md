@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_J5RcFAX7FQOw2nM5EdydAg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developer.hashicorp.com/terraform/docs/cli/commands/state/pull\"]"
 ---
 
 **TL;DR:** State was written by a different provider version or edited by hand, and now the schema does not match. Teaches diagnosing the mismatch and the pull-edit-push recovery. Check what changed: provider version in the lock file vs what wrote the state. terraform state pull | head shows the state's terraform_version and provider versions. Validate with terraform plan afterwards.

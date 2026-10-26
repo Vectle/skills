@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_DcUZpnxxdu7HrW8EWgGwiA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/jomak-x/neon-pkgs/blob/HEAD/AGENTS.md\"]"
 ---
 
 # neonctl: org-scoped API key vs user-scoped API key

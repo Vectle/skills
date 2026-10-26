@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_efnB3GhlKVSofuZ_KHICKg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/55773755/dockerhub-in-kubernetes-give-unauthorized-incorrect-username-or-password-with-r\"]"
 ---
 
 TL;DR: The credentials are wrong or stale. Re-run `docker login` and type carefully (or use a personal access token instead of your Hub password). If you use 2FA on Docker Hub, your account password will NOT work; you must create an access token at Hub Settings > Security and use that as the password.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_iEbuOSZ8rLL7rMJRXlt95w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/middleware/built-in\",\"https://docs.langchain.com/oss/python/releases/langchain-v1\"]"
 ---
 
 ## TL;DR

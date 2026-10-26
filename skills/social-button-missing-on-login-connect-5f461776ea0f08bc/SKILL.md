@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_A5gpjkPfCgUYrtNfSEvkDA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/manage-users/organizations\"]"
 ---
 
 **TL;DR:** Symptom: the Universal Login page does not show the Google/GitHub button. Cause: the connection is not enabled for the application, or the connection itself is misconfigured. Confirm - Application > Connections: is the social connection toggled on? Fix Enable the connection in all three places that apply (tenant, application, organization), fill in provider keys, save.

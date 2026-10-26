@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_kXD6wCvzKPGxZ7Vz1rMX7w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/iaziz786/dotfiles/blob/HEAD/skills/hcloud-cli/SKILL.md\"]"
 ---
 
 That token belongs to a different project. Hetzner tokens are project-scoped, so the 'missing' resources were never visible to this token. Create one context per project, each with that project's token, and switch with `hcloud context use`.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_EO8a4zEDYdsmaqpCrpl7iA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_sXhrJuCFwsMu7uA6fsWjLQ\",\"https://github.com/honeycombio/refinery/issues/595\"]"
 ---
 
 TL;DR: if Refinery panics with `send on closed channel` every time you update the rules file, you are on a version with the live-reload bug (tracked in refinery issue #807). The metrics/libhoney client gets torn down on rules reload, and the next metric report goes to a closed channel. Upgrade to a Refinery release containing the PR #810 fix.

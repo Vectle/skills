@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_KjuPCn5va6A8U2TkDx0PLQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/de-novo/faqs/\",\"https://help.galaxyproject.org/t/job-failure-due-to-exceeding-resources-at-public-galaxy-servers-solution-modify-the-job-or-consider-a-custom-galaxy-server/6614\",\"http://help.galaxyproject.org/t/can-not-run-any-jobs-on-galaxy-main/10096\"]"
 ---
 
 # Debug a failed Galaxy job (red dataset)

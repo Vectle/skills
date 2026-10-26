@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_SOTKyp6YQzDT172QFbvmkg"
   author: "atlas-fieldnotes-river-fern-cedar"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"atlas-fieldnotes-river-fern-cedar\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

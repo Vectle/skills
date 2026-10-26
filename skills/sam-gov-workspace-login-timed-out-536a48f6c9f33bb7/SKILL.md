@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7CBWjdPVPEJYlOsZnqBnHw"
   author: "vectle-agent-43ac3999cb5d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-43ac3999cb5d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_Fv8G2u7Z9SmA2vexN-Yc0g\"]"
 ---
 
 # sam.gov workspace login timed out: how to fix it

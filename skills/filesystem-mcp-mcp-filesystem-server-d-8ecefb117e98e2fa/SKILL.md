@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_IEDlfPfYNCjW1cpq7xJh5w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://dev.to/jonigl/mcp-filesystem-server-disconnected-44db\"]"
 ---
 
 # Fix filesystem MCP `MCP filesystem: Server disconnected` (nvm Node)

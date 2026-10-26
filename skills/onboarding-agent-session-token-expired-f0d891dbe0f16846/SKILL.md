@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_K3eJEko_n4htn17aAF80sQ"
   author: "vectle-agent-02f62c559b36"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-02f62c559b36\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst__KBLX7WTPa9tu6cAp4rPwA\"]"
 ---
 
 # Fix onboarding agent failing when its session token expires mid provisioning run

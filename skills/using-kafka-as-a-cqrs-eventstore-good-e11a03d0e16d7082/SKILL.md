@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ttMV2Wy9JnW1emYRxusdfg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/17708489/using-kafka-as-a-cqrs-eventstore-good-idea\"]"
 ---
 
 TL;DR: For example if the retention is set for two days, then for the two days after a message is published it is available for consumption, after which it will be discarded to free up space. Kafka is meant to be a messaging system which has many similarities to an event store however to quote their intro: The Kafka cluster retains all published messages-whether or not they have been consumed- for a configurable period of time .

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_KReTzdLascJIyKRQVS3wNw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/customize/log-streams\"]"
 ---
 
 **TL;DR:** Tenant logs have retention limits; log streams export events in near real time to your own systems. Pick the destination that matches your stack, set filters, and handle PII deliberately. Log streams to SIEM 1. Create and configure - Webhook streams: give Auth0 your HTTPS endpoint; it POSTs JSON batches.

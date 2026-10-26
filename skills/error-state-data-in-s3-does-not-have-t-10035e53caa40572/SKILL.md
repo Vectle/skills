@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_SY234UjKuNPYsl_orhBJpQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/d-mariano/spicyclaude/blob/HEAD/skills/terraform-development/troubleshooting.md\"]"
 ---
 
 ## TL;DR

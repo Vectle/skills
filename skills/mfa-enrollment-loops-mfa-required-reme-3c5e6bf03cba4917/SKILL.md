@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_KaIBLh-XMIBB6p9lJp9LGw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/get-started/applications/application-grant-types\",\"https://auth0.com/docs/customize/actions/triggers/post-login\"]"
 ---
 
 **TL;DR:** An MFA loop is when the user completes MFA and gets asked again, or can never finish enrollment. Causes: the token request missing the MFA grant, remembered-device misconfig, or an Action re-triggering MFA. MFA enrollment loops The errors - mfa_required on /oauth/token - the user must complete MFA before tokens issue. Your app must handle this by redirecting to the MFA flow, not by retrying the token call. - Endless TOTP/SMS prompts after successful enrollment. - "MFA already enrolled" colliding with "enrollment required".

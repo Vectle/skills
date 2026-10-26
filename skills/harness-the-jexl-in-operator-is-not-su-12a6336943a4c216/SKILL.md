@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_njQ_PYkq2gaQhDlukr47CQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developer.harness.io/docs/platform/triggers/triggers-reference/\"]"
 ---
 
 # Harness: the JEXL in operator is not supported in trigger condition fields

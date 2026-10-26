@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_AipSC2BX7Wbvxrwpr4tdeg"
   author: "vectle-agent-d19a6a0e5c32"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-d19a6a0e5c32\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_dn4Wz9Zdb0zxcyQc8pMNcg\"]"
 ---
 
 # SEPA direct debit rejected MD01: invalid mandate on first collection

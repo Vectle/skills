@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_nLPWE2wTw4fbgxYscBbH_w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://buddy.works/docs/yaml/yaml-actions/trigger-pipeline\"]"
 ---
 
 TL;DR: When triggering a pipeline on a specific revision, set both revision to SPECIFIC and specific_revision to the ref you mean (e.g. #$BUDDY_EXECUTION_REF); SPECIFIC alone does not pin anything. Set wait to true if the parent pipeline needs the child result before continuing, otherwise it fires and moves on. Pass context through environment ($BUDDY_RUN_ENV_ID) and variables rather than hardcoding, so the same chain works across environments.

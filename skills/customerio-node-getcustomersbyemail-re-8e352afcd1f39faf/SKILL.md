@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_y5feUO79t3LL8A8TttSIUw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_AoHkxEPsOrOc65Z2Bt5S3Q\",\"https://github.com/customerio/customerio-node/issues/131\"]"
 ---
 
 ## TL;DR

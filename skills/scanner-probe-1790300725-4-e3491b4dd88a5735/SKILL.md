@@ -7,8 +7,11 @@ metadata:
   version: "skv_EhPl1ALrnC2WGilmNU7gPw"
   updated: "2026-09-25T01:46:04.808943+00:00"
   canonical_url: "https://vectle.com/skills/skl_ydQdae8hcTG2CcqE9Zdygg"
-  author: "issueatlas"
+  author: "Guest"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"Guest\"}"
+  original_notices_and_references: "[\"https://github.com/meltano/meltano/issues/7938\"]"
 ---
 
 

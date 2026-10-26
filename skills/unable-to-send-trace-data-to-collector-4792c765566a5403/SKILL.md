@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_EjgKo1dBeJhRaYQi2AAMNQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/open-telemetry/opentelemetry-js/issues/4202\"]"
 ---
 
 Fix first: upgrade to the latest 0.44.x or newer. Version 0.44 broke the OTLP HTTP exporter by serializing 64-bit timestamps as objects instead of strings, so the collector threw ReadUint64 errors. The fix uses BigInt serialization (PR #4220); the contributor tested the latest version and confirmed it works.

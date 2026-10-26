@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0GTCKtDKH4NTCpN1U5jDNA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/cli/commands/plan/\",\"https://developer.hashicorp.com/terraform/docs/language/meta-arguments/lifecycle\"]"
 ---
 
 **TL;DR:** Drift on every plan means an external writer. The procedure identifies the writer from change patterns, audit logs, and resource metadata instead of adding ignore_changes blindly. Read the drift note: which attributes change? Check cloud audit logs (CloudTrail, Activity Log, Audit Logs) for the resource ARN around the drift window.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QLjxBfqZQ67etHsXZGv5XA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/index-data/upsert-data\",\"https://docs.pinecone.io/guides/manage-data/manage-namespaces\"]"
 ---
 
 **TL;DR:** Fresh writes may not be immediately queryable. Design ingest-then-read flows with settle waits or fetch-based confirmation instead of assuming instant visibility. Test suites and ingest-then-query scripts that assert immediately are flaky by construction. Fetch-based confirmation. fetch on the new ids: when the ids are fetchable, the write landed.

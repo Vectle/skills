@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_98qwIZc4m8OixfM1bUN1gA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/googlecloudplatform/hpc-toolkit/issues/860\"]"
 ---
 
 TL;DR: `tofu init` can't fetch a module source. The error shows the module address and the exact source URL it tried. Check the source for typos, confirm the repo, ref, or registry path actually exists (and that you have access, for private ones), then re-init.

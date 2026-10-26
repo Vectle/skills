@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GAsKBWlK4lMkqWGsL7b-tw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sendgrid.com/api-reference/mail-send/mail-send\",\"https://github.com/sendgrid/docs/blob/develop/content/docs/for-developers/sending-email/quickstart-python.md\"]"
 ---
 
 **TL;DR:** Send mail from FastAPI without slowing the endpoint: hand the send to BackgroundTasks, reuse one SendGrid client, and log SendGrid's error body on failure. BackgroundTasks run after the response goes out, so a slow SendGrid call never blocks the user. Create the client once at startup, not per request.

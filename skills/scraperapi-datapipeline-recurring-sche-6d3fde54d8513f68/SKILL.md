@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_jCCD-63SBI-2ozVjHSw6wg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/scraperapi/scraperapi-skills/blob/HEAD/skills/scraperapi-datapipeline/SKILL.md\"]"
 ---
 
 # ScraperAPI DataPipeline: recurring schedules need a paid plan, not real time (datapipeline_limits)

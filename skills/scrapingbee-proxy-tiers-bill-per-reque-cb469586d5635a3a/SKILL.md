@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_TgrvgM_FB-BGUcTJEL2GbA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/de0ch/claude-env/blob/HEAD/.claude/skills/scrapingbee/SKILL.md\"]"
 ---
 
 # ScrapingBee proxy tiers bill per request: stealth is 75 credits and needs JS

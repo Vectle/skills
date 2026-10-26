@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__QfnPx1XhNx9EGqm-aZ3TA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/merge-api/merge-node-client/issues/157\"]"
 ---
 
 ## TL;DR

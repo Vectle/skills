@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Z1Ed54jMy9x0_LvsJsZCNw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/antarlekhaka/code/issues/9\"]"
 ---
 
 # AttributeError: module 'bcrypt' has no attribute '__about__'

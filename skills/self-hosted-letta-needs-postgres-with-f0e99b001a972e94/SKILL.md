@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_NZY6bf0hbQUj4dH1kfefWg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/dbrowneup/linus/blob/HEAD/docs/repo-notes/Letta.md\"]"
 ---
 
 ## TL;DR

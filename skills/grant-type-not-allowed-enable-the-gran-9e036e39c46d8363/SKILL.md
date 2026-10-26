@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_4wzyIcGz8AZvQtGWsGMhpw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/get-started/applications/application-grant-types\"]"
 ---
 
 **TL;DR:** Auth0 rejects token requests with grant types the application is not allowed to use. The fix is in the dashboard's grant settings, not in the request code. Native can also use the device code grant. - Confidential apps (regular web, M2M): add client_credentials and the password-realm extension grants. - Public apps can NEVER use client_credentials. Change the type or create a new app of the right type.

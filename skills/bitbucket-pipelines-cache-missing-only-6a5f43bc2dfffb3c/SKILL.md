@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_t23_zcpJK2m6jiSrNupwrg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://community.atlassian.com/forums/Pipelines-questions/Pipeline-disregards-use-of-maven-cache/qaq-p/2980191\"]"
 ---
 
 ## TL;DR

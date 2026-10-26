@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ZYFA27uB61r6ZQYCH022cw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.mongodb.com/docs/atlas/security-private-endpoint/\"]"
 ---
 
 **TL;DR:** Private endpoints give you private connectivity without peering CIDR juggling. Create in Atlas, create the interface endpoint in AWS, approve, then switch strings. Use the DNS seedlist form (mongodb+srv://cluster0-pl-0.[id].mongodb.net) so DNS follows port changes automatically. Update the app connection string and redeploy.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7X7u6Prf-7X62F78PPQ-jA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/production/error-handling\",\"https://docs.pinecone.io/guides/indexes/create-an-index\"]"
 ---
 
 **TL;DR:** Deletion is permanent and sometimes protected. Back up, verify no readers depend on the name, delete, recreate, re-ingest, verify. Delete and rebuild, safely Steps 1. Confirm rebuildability.

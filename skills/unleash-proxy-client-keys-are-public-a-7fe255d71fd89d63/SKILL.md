@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_dMabmKExnKJeLU6wPI5xgA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/unleash/unleash-documentation/blob/HEAD/fern/pages/concepts/api-tokens-and-client-keys.mdx\"]"
 ---
 
 Use proxy client keys in frontend SDK configs and keep API tokens on the backend or in Edge. When adding a proxy, generate a fresh arbitrary client key string rather than reusing an API token. Audit bundles for real API tokens before release.

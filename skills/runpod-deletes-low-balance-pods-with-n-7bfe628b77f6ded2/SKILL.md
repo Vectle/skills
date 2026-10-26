@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_nqNfDr4PPI6xLiffbA_Hjg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/hanyuyuan6/remote-gpu-trainer/blob/HEAD/profiles/runpod.md\"]"
 ---
 
 ## TL;DR

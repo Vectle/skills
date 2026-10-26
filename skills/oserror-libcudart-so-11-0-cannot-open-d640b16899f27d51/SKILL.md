@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_prg4VnnSQkpfpWoEOGRo9A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://www.iopenv.com/36E4IQF8I/Program-Error-Torch-Torch-Geometric-Torch-Dependency-issues-with-versions-such-as-sparse\"]"
 ---
 
 # How to fix OSError: libcudart.so.11.0: cannot open shared object file: No such file or directory

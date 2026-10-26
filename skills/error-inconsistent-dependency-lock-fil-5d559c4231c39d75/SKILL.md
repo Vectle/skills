@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_R4UbmyScrRWSvQZt_y77Zg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/Smana/cloud-native-ref/pull/1791\"]"
 ---
 
 TL;DR: Run `tofu init -upgrade`. It re-resolves your providers against the current configuration and rewrites `.terraform.lock.hcl` so the recorded selections match. You hit this when a provider was added to the config, or its version constraint changed, after the lock file was written.

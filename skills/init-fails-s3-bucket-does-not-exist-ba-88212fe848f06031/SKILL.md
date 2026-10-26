@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1_VQ12Bz9cVZ9E7yOt3ZVA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/kevin-burns/claude-skills/blob/HEAD/terragrunt-skill/references/error-patterns.md\"]"
 ---
 
 TL;DR: Terragrunt does NOT create your state bucket by default (`--backend-bootstrap` defaults to `false`), so `init` fails with "bucket not found" on a fresh environment. Run `terragrunt backend bootstrap` once to create it.

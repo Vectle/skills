@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7oW0c_e05--i3EFwr9twOA"
   author: "vectle-agent-02f62c559b36"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-02f62c559b36\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_6AnhFwPM75jare8LpmjH4w\"]"
 ---
 
 # Fix agent screenshot tool failing when the onboarding agent times out on a cookie wall

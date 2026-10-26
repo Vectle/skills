@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_PadZq-xYUDMW30ksTGTMcg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://support.phantombuster.com/hc/en-us/articles/11034816771090-How-to-Fix-Expired-or-Invalid-Session-Cookie-Errors\"]"
 ---
 
 TL;DR: Make sure the PhantomBuster Chrome/Firefox extension is installed; it is how the tool grabs the cookie. PhantomBuster - Docs (PhantomBuster help center): the official fix for expired/invalid session cookie errors. ## The fix When a Phantom fails with "Session cookie expired" or login errors, do this: 1. In your browser, manually log out of the target site (LinkedIn, X, etc.) and log right back in.

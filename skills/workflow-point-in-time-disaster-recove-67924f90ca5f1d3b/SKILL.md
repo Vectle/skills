@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_otBmIkON8aAVACpoQJZ2SQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://neon.com/docs/postgres/backup-restore/branch-restore\",\"https://neon.com/docs/postgres/backup-restore/history-window\"]"
 ---
 
 # Workflow: point-in-time disaster recovery drill

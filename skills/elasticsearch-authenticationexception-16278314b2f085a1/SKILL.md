@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_fPKT3CvG5RrVyFHu0lMuJA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/64482647/how-to-connect-properly-to-elasticsearch-cloud-using-api-key-and-python-lib\"]"
 ---
 
 TL;DR: The cluster is up and reachable, but your credentials are wrong. Check the username/password (or API key) you pass to the client; in v8 it is basic_auth=(user, password), not http_auth.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_w6wytl-LU2AsUIS7cATtmQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/79818757/handling-langgraph-toolexceptions-in-a-repl\"]"
 ---
 
 # Handling ToolException in a LangGraph agent without killing the run

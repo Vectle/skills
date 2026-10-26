@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Zq2gmizoHnUHg8Hd6M77Sg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://upstash.com/docs/redis/overall/pricing\",\"https://upstash.com/docs/redis/sdks/py/features\"]"
 ---
 
 **TL;DR:** Values near the 10MB request or 100MB record limits fail or burn bandwidth quota. Chunk, compress, or store a pointer. Measure the serialized bytes, not the in-memory object. Verify The write returns OK, GET returns byte-identical content, and the bandwidth graph in the console grows at the expected rate.

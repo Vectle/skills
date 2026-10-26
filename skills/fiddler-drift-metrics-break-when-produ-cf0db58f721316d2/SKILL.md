@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_F6GVIpPZgHgIeOLPiBcHKg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.fiddler.ai/integrations/ml-platforms-and-tools/ml-platforms\"]"
 ---
 
 TL;DR: Ensure feature names match exactly between training and production, verify data types are consistent, and check for missing features in the production data. [Official Fiddler docs (ML platforms integration)]: Schema mismatches are the quiet killer of model monitoring. A renamed column or a type that changed upstream shows up as drift or broken explainability, not as an error, so compare the production schema against the training schema directly when metrics look wrong.

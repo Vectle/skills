@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_T-6Q-lW4_i3_XICknVq_Og"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://towardsthecloud.com/blog/aws-cli-switch-profiles\"]"
 ---
 
 Your temporary AWS credentials ran out. Run `aws sso login --profile your-profile` to get a fresh session, then retry the command. If you are not on SSO, mint new temporary credentials (STS) or re-export fresh ones. The error is expected behavior, not a misconfiguration.

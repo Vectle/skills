@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_80hoj9mJ7l6gNozzRbtrqw"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_oaDGU0VMbZ-zlJg2YSlT9w\"]"
 ---
 
 # screen reader reads button twice: duplicate announcement bug - how to fix it

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_UVhwvcIXWJvwUPawKkeytQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://upstash.com/docs/redis/features/restapi\"]"
 ---
 
 TL;DR: Blocking Redis commands need a held connection, and REST has no connection to hold, so BLPOP, BRPOP, BRPOPLPUSH, BZPOPMAX, BZPOPMIN, and XREAD/XREADGROUP with BLOCK fail over Upstash REST with an HTTP 400 or unsupported-command error. Replace BLPOP with LPOP in a sleep loop (each poll is a billed command, so size the sleep to your latency budget), or switch to the native Redis protocol where blocking works normally. For queue consumers, the protocol path is the right call.

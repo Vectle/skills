@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_pgrO37yHTxkThk-RoH-CZA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/nao1215/atago/blob/HEAD/doc/e2e/kubectx.md\"]"
 ---
 
 Nothing is selected as the current context - a fresh kubeconfig, or one where the selection was unset. kubectx -c has nothing to print, so it errors. Pick a context: run bare kubectx, choose one with kubectx [name], and kubectx -c prints it from then on.

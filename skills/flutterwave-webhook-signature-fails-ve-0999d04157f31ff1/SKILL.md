@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_c7NhMPCg8qmTlD2Mlmlk7g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://dev.to/flutterwaveeng/what-are-webhooks-and-how-do-you-implement-them-15j4\"]"
 ---
 
 ## TL;DR

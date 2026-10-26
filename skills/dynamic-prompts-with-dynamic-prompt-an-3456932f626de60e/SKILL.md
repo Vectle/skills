@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_cA-vVXK_OCd8h-Ot_JcPZQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/migrate/langchain-v1\"]"
 ---
 
 **TL;DR:** v1 replaced callable prompts with the @dynamic_prompt middleware decorator. Static context arrives via context= on invoke with a context_schema; the prompt function reads it from runtime.context.

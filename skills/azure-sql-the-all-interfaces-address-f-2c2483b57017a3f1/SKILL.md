@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_XnaOFEZ-TjPWUEHceKtTnw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/azure/sql-action/blob/HEAD/README.md\"]"
 ---
 
 TL;DR: if you need the quick unblock for Azure-hosted CI, run: az sql server firewall-rule create --resource-group YOUR_RG --server YOUR_SERVER --name AllowAzureServices --start-ip-address the all-interfaces address --end-ip-address the all-interfaces address. The the all-interfaces address to the all-interfaces address range is special in Azure SQL, its the switch for Allow Azure Services, not a real IP range.

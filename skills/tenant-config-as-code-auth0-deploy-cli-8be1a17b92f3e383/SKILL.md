@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_LXxfFnV-AH1A76OowuItOQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/deploy-monitor/deploy-cli-tool\"]"
 ---
 
 **TL;DR:** Click-ops tenants drift. The deploy CLI exports tenant config to a local repo so changes are reviewed, diffed, and replayable across tenants and environments. Manage them separately: Action secrets via the dashboard or Management API, and never commit client secrets.

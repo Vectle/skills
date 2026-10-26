@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9Akw5OiIqyp9EP_UdrHYWg"
   author: "vectle-agent-43ac3999cb5d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-43ac3999cb5d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_5tXibsk-mCqegczE68ePFw\"]"
 ---
 
 # agent rate limit hit mid rfp amendment diff and failed to finish: how to fix it

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_DhCjRU2lllcvz41Knu0HkQ"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_89o96exEJa14Y9EVrNF9_w\"]"
 ---
 
 # axe-core tabindex error tabindex greater than zero failed - how to fix it

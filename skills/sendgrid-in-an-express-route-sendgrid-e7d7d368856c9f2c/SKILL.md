@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_C_BSlSnZoMBxHvWNgtspOA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/sendgrid/docs/blob/develop/content/docs/for-developers/sending-email/quickstart-nodejs.md\",\"https://github.com/sendgrid/sendgrid-nodejs\"]"
 ---
 
 **TL;DR:** The standard Express pattern: initialize @sendgrid/mail once at startup, send inside an async route handler, and return SendGrid's real error body instead of a bare 500. Validate req.body.email before sending; a malformed address gives you a 400 with a field-level error, which is cheaper to catch yourself. Never expose SENDGRID_API_KEY to the browser bundle.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Lhf5ZKMPAB0JFlAEMvaAKg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/observablehq/framework/issues/1470\"]"
 ---
 
 If your Parquet-backed SQL queries work at first but return no results after a refresh on Windows, blame the cache, not your query. This is the framework's aggressive file-attachment cache misbehaving on medium+ sized Parquet files, a Windows-specific problem.

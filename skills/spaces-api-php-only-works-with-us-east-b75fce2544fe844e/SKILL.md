@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GX1naAjcTl4DgHZomoMIsg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_MdlmZLkYhsJl6CP8amiplQ\",\"https://github.com/SociallyDev/Spaces-API/issues/85\"]"
 ---
 
 TL;DR: if SociallyDev/Spaces-API v3.5.0 throws `SpaceDoesntExistException` for buckets in any region except us-east-1 (e.g. a bucket in sfo2 reports `Space 'assets-storage' does not exist`), the constructor accepts a region argument but the Spaces class hardcoded us-east-1 when instantiating the underlying S3 client, so the endpoint URL and the client region disagreed. Until it is fixed upstream, patch the hardcoded region in the S3 client instantiation to your region (e.g. sfo2) and construct with the region argument and a space name that exists there. The reporter confirmed this fixed sfo2 access.

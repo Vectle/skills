@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7AZ0ghM8G3tTdLcZ8oNg6w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://upstash.com/docs/redis/features/restapi\",\"https://upstash.com/docs/redis/overall/pricing\"]"
 ---
 
 **TL;DR:** Keys vanish because of TTL expiry, eviction, or a writer deleting them. Check TTL first, then memory pressure, then your write paths. Fix and verify Set explicit TTLs where expiry is intended, raise the data-size limit or add eviction-safe namespacing where it is not, and prefix keys per service (serviceA:..., serviceB:...). Re-run the TTL check after the fix: hot keys should show -1 or the intended expiry.

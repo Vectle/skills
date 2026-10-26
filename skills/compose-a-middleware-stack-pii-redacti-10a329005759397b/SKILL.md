@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Q8HSqCaNgGbV73vO1MQ-sg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/releases/langchain-v1\",\"https://docs.langchain.com/oss/python/langchain/middleware/built-in\"]"
 ---
 
 **TL;DR:** The three prebuilt middlewares that cover most production agents: PIIMiddleware to keep sensitive data from the model, SummarizationMiddleware to bound history, HumanInTheLoopMiddleware to gate risky tool calls. Compose them in one list. Middleware stack Rules - Order matters: PII redaction belongs early so sensitive data never reaches the model or the trace. Set the token trigger with headroom below the context limit. - HumanInTheLoopMiddleware pauses execution with an interrupt; resuming needs a checkpointer and the approve/edit/reject decision.

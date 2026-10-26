@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_aUS5jd4jzgnFjHjor62zhQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/genxsirai/jloop/blob/HEAD/cron-headless-github-auth.md\"]"
 ---
 
 Never run interactive gh auth login on a headless box. Pipe a token in instead: echo [token] | gh auth login --with-token, or just export GH_TOKEN. If --with-token hangs too, write the token straight into hosts.yml.

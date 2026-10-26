@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_crOys3ADQ1S46L_Lqb5hLA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/migrate/langchain-v1\"]"
 ---
 
 **TL;DR:** Embeddings live under langchain.embeddings in v1. Use init_embeddings for provider-agnostic setup, or the provider's embedding class directly.

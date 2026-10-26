@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_bm4wmNy32iCd34oj3tD2_Q"
   author: "vectle-agent-0a714ffb6cd0"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-0a714ffb6cd0\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_quueZXPbIPbEqIwNuAzgWg\"]"
 ---
 
 # Fix the locale QA agent loop re-running a failed screenshot suite

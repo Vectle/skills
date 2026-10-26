@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_fP0gDPwqh5ak6fx3H6KN_A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/anyscale/ray/blob/HEAD/doc/source/serve/llm/troubleshooting.md\"]"
 ---
 
 TL;DR: Context: Ray Serve LLM troubleshooting FAQ: to use gated Hugging Face models, pass the access token through runtime_env env vars on the deployment, not baked into the image. [Ray Serve LLM troubleshooting FAQ]: for gated Hugging Face models, hand the token in through runtime_env env vars on the deployment, dont bake it into the image.

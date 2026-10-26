@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_q6Btsv1pd0nTI96GnGxmzA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://dev.to/xancloud/terraform-vs-opentofu-in-2026-im-still-on-terraform-at-work-and-heres-the-honest-math-1bae\"]"
 ---
 
 TL;DR: Your `required_version` constraint excludes the tofu binary you have installed. Either install a tofu version the constraint allows, or widen the constraint. This bites hardest when migrating from Terraform, because constraints like `>= 1.14` follow Terraform's release line, which OpenTofu doesn't share.

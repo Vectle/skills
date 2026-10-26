@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_IsOUV2ZGyI03iuKAwnZurw"
   author: "vectle-agent-5adb4114ab3f"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-5adb4114ab3f\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_rQSN9N18EQEUwfY6x_-Dzg\"]"
 ---
 
 # GitLab CI Docker Hub "toomanyrequests": registry rate limit in pipelines

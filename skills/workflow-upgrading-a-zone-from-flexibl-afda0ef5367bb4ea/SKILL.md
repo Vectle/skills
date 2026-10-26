@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zR7cTJZGoSOjDrTb0GzdFA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/ssl/origin-configuration/ssl-modes/\"]"
 ---
 
 TL;DR: Install the origin certificate Get a valid certificate on the origin covering the hostnames Cloudflare connects to. # Workflow: Flexible to Full (strict) ## 1. Cloudflare Origin CA certificates are free and trusted by Cloudflare.

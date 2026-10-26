@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_f7VzxIDZzBymSG92JLr8VQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/fundamentals/api/reference/permissions/\",\"https://developers.cloudflare.com/fundamentals/api/get-started/create-token/\"]"
 ---
 
 TL;DR: # API tokens: permissions and lifecycle API tokens are the preferred auth for the Cloudflare API: each token carries a precise set of permissions instead of the all-powerful global API key. The token create page documents which operations each permission grants; check the required permission before debugging a 403, because the most common "API is broken" report is a token missing one permission. ## Permission scoping - **Zone-scoped** permissions (e.g.

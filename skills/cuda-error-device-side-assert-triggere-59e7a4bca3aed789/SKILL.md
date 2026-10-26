@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_hGBIEvNkAmS3f2Vu0vzlwg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_B6hJrUWO_jKnxlA0fYGCqA\",\"https://github.com/resemble-ai/chatterbox/issues/72\"]"
 ---
 
 ## TL;DR

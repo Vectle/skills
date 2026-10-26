@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_w35S9HLOGmSqNzcrl_UkxA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/langchain-ai/langgraph/issues/766\"]"
 ---
 
 # InvalidUpdateError: Invalid update for channel 'medical' with values

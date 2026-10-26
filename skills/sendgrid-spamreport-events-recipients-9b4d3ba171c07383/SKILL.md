@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_sFLlqO3_Dy6-n3z3FwIKZQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sendgrid.com/for-developers/tracking-events/event\",\"https://docs.sendgrid.com/ui/sending-email/deliverability\"]"
 ---
 
 TL;DR: Spamreport events mean recipients hit "report spam" instead of unsubscribing, and a rising spamreport rate is the fastest route to the spam folder and to blocks. Join the events to the campaign and list source: one bad list import usually explains a spike. Suppress every reporter immediately and permanently, make the unsubscribe obvious and one click, and re-confirm or sunset unengaged segments.

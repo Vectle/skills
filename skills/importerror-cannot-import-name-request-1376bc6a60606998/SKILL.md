@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ikzqiGKSjhwvZPm1r87NOg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/boto/botocore/issues/2217\"]"
 ---
 
 TL;DR: botocore used to ship a private copy of the requests library at botocore.vendored.requests, and it was removed. Replace `from botocore.vendored import requests` with a plain `import requests` (pip install requests if needed). Never import from botocore.vendored; it is private API.

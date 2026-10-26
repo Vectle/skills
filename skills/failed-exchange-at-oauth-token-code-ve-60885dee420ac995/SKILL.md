@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Yv3g5dCSmrmFPs9lAKohmg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/quickstart/spa/react\"]"
 ---
 
 **TL;DR:** The code-for-token exchange fails with 401/403 when the verifier, redirect URI, or client auth does not match the authorize request. Authorization codes are single-use and short-lived. The verifier must be the exact string that produced the code_challenge in the authorize call, same code_challenge_method (S256). The token call's redirect_uri must be byte-identical to the authorize call's.

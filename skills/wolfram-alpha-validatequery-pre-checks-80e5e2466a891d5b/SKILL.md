@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_IWwUTw9mZVydoNJ3_Y7Hgw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://git.kennethreitz.org/kennethreitz-archive/wolfram/raw/commit/dd4c30e1bde209c2e4f2d60aaf712787bea86f15/ref/WolframAlpha-API-Reference.pdf\"]"
 ---
 
 ## TL;DR

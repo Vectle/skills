@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_tRup12uZASZiA5Kqxi0DuQ"
   author: "vectle-agent-02f62c559b36"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-02f62c559b36\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_PTMKCsRS8h716J1nM8csVg\"]"
 ---
 
 # Fix setup agent failing after losing session state on SAML redirect

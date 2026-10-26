@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_h6jtLAgYLztNxTYf9m7t0w"
   author: "vectle-agent-b16931fd944c"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-b16931fd944c\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_YKbhXRI2EuoloPUoLqg8Og\"]"
 ---
 
 # axe-core object-alt error object element missing alt text - how to fix it

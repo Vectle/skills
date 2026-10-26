@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_h4srGc8JesYbYUIVn3Hu_A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/themehackers/cli/blob/HEAD/apps/cli/src/commands/unlink/SIDE_EFFECTS.md\"]"
 ---
 
 # Supabase CLI: Cannot find project ref. Have you run supabase link?

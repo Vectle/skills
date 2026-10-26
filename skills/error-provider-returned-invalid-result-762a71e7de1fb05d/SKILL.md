@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_1B2boI_lvFOAhym28ew_MA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_A6xSQFLCPYaOH4vwqQ7rAQ\",\"https://github.com/orcasecurity/terraform-provider-orcasecurity/issues/133\"]"
 ---
 
 TL;DR: if `terraform apply` on `orcasecurity_business_unit` ends with `Error: Provider returned invalid result object after apply` (id still unknown after apply), it is a provider-side bug in how the business unit resource reads back state. Update the provider to v0.0.23; the reporter confirmed the resource then applies cleanly.

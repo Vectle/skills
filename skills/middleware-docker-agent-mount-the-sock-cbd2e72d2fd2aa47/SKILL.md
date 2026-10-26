@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_RzK7IiAmrU_9gYLy4gljBg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.middleware.io/agent-installation/docker\"]"
 ---
 
 TL;DR: If the Middleware Docker agent does not report data, check two things first. Mount /var/run/docker.sock into the container; without the socket the agent cannot collect container metrics and may exit. Then confirm only one agent runs on the host: two agents with the same hostname fight each other and one silently wins.

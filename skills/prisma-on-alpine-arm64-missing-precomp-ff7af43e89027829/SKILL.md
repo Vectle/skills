@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qnoXzXSkqB5ifTrXQiiK3w"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_1Z0xN6exliEVkk0BYRX-Aw\",\"https://github.com/prisma/orm/issues/8478\"]"
 ---
 
 ## TL;DR

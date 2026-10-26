@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_T1dYa6ITZYVPRcUfT7d5eA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_h0IKoJuqwP-NYKb07ezDmw\",\"https://github.com/Azure-Samples/cognitive-services-speech-sdk/issues/1692\"]"
 ---
 
 ## TL;DR

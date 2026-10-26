@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_N7ux-jvT7MqzMwzz9HSaAQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/neondatabase/neon/issues/11446\"]"
 ---
 
 TL;DR: [alexanderlaw (reporter)]: > But note my comment > > Tried 6.14.5 (latest LTS), which has this patch. Doesn't repro. > However, it also doesn't repro on 6.14.5 with this patch reverted. > Yes, it corresponds to my find: it looks like the issue was fixed in kernel version 6.13.8. UPD: Sorry, I hadn't looked at the link, thought you referred a commit made for 6.14.5.

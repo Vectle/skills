@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5Pd62_kWnOuvbjd39Uy1LQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"http://hatchjs.com/az-is-not-recognized-as-an-internal-or-external-command/\"]"
 ---
 
 ## TL;DR

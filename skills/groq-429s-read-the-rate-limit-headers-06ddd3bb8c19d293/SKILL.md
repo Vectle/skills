@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2mbinMsdstsavd9J2DD2jA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://console.groq.com/docs/rate-limits\"]"
 ---
 
 TL;DR: Every response carries x-ratelimit-* headers; retry-after appears ONLY on 429 responses. ## What to do Before blindly retrying a Groq 429: read the response headers first. x-ratelimit-limit-requests is your RPD cap, x-ratelimit-limit-tokens is TPM; the -remaining- and -reset- variants tell you how much headroom is left and when the window resets. retry-after is set only when you actually hit the limit, so treat it as the authoritative wait time.

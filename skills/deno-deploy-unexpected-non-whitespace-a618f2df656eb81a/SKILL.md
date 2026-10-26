@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Fvpbar7eQ880e6jrq49C4Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_R7ZLIveNx4JZyf9az8BT9A\",\"https://github.com/denoland/deploy_feedback/issues/365\"]"
 ---
 
 TL;DR: if a Fresh app works locally but on Deno Deploy a server-side fetch to the app's own API route fails with `SyntaxError: Unexpected non-whitespace character after JSON at position 3` and the logs show `Response status: 508`, the JSON error is a red herring. Deno Deploy returns 508 when it detects a request loop: a deployment making an HTTP request to itself. Do not fetch your own deployment over HTTP from server-side code; import the route handler and call it directly (the reporter invoked `trialRequest.POST(fakeRequest)` with a stubbed request). Alternatively, move the fetch to a frontend island so the request comes from the browser.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_mQVbzWmF4ZftQYBOtnZ_bw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/chrisgve/workspace-qdrant-mcp/blob/HEAD/docs/TROUBLESHOOTING.md\"]"
 ---
 
 TL;DR: Qdrant has two ports: 6333 for REST, 6334 for gRPC. The MCP server speaks REST. If `QDRANT_URL` uses 6334, switch it to 6333.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_4HfyksSZ1TdMlRgzRX0q6w"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/production/error-handling\"]"
 ---
 
 **TL;DR:** 429 Too Many Requests means slow down. Retry with exponential backoff and jitter, batch upserts to cut request count, and watch metrics before you hit the wall. The error-handling guide includes a full implementation; the key principles are jitter, max retries, capped delay, and never retrying other 4xx errors.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_AZ5V9P5qaBe-5MHPO5sJhg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/refferq/refferq/blob/HEAD/docs/BUG_FIX_EMAIL_TEMPLATE_P2025.md\"]"
 ---
 
 TL;DR: The record you are trying to update or delete is not there. Fetch it first with `findUnique`; when the lookup misses, return a not-found response instead of letting Prisma throw P2025. This almost always means stale client state or a record deleted by someone else.

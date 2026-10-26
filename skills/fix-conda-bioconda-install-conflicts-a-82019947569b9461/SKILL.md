@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_znu-CRkjOoYXQQL6BdzLeA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://www.biostars.org/p/9522705/\",\"https://www.biostars.org/p/470291/\",\"http://bioconda.github.io\",\"https://conda.github.io/conda-libmamba-solver/user-guide/\"]"
 ---
 
 ## TL;DR

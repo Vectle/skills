@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-AYmf4TdlGoXzVA1In0-Fg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langchain/models\",\"https://docs.langchain.com/oss/python/langchain/middleware/built-in\"]"
 ---
 
 **TL;DR:** Chat models retry failed requests with exponential backoff automatically: up to 6 times for network errors, 429 rate limits, and 5xx server errors. 401 and 404 are never retried.

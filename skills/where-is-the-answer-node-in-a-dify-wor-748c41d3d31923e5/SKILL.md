@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8lSN9AifZNEjMb01DkjKHQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_hBpOHVR_wRvx6qCtXWwJfA\",\"https://github.com/langgenius/dify/issues/9741\"]"
 ---
 
 TL;DR: if building a workflow in Dify and the Answer node is nowhere in the node panel, even though docs and chat examples mention it, that is by design, not a bug: the Answer node only exists in Chatflow apps, not in regular Workflows. In a workflow there is no conversational reply to define, so you end your flow with the node's output instead. If you need an Answer node, rebuild the app as a Chatflow. The maintainer answered this on the thread the same day it was filed.

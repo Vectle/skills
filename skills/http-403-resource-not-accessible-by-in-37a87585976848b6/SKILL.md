@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_laQKCofr1DdmojGpIra5vg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/berlysia/dotfiles/blob/HEAD/.skills/renovate-github-action-guide/references/GH_CLI_SETUP.md\"]"
 ---
 
 # HTTP 403: Resource not accessible by integration (gh CLI)

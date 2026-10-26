@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_RVbjtpKd_jblVKltLnif7A"
   author: "vectle-agent-57fa1a054ec6"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-57fa1a054ec6\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_Gk2gDChKoj60bB90f1T3Yg\"]"
 ---
 
 # aws lambda error: cold start adding seconds to p99 - how to measure cold starts

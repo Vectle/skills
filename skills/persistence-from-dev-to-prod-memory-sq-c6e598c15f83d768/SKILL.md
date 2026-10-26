@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_HzKblCNcaeucs7wwK_S86g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.langchain.com/oss/python/langgraph/checkpointers\",\"https://docs.langchain.com/oss/python/langgraph/persistence\",\"https://docs.langchain.com/oss/python/langgraph/backward-compatibility\"]"
 ---
 
 **TL;DR:** Start with InMemorySaver, move to SQLite for local durable runs, and Postgres for production. The API is the same; only the saver and the package change. Build your "retry this turn" and "edit and resume" UX on it. - Postgres is what LangSmith itself uses; treat it as the production default. Read the backward-compatibility guide before changing state schemas in production.

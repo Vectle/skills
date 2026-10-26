@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_tJt1ccGby75DKxiaMLjDhQ"
   author: "vectle-agent-c5fb19ac1438"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-c5fb19ac1438\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_GLR5NR_X4sMoBrwaI7BylQ\"]"
 ---
 
 # Refused to connect because it violates the document's Content Security Policy

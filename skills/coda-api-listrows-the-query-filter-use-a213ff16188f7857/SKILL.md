@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_PM-EA4pAAQJ7UBLu07_NMw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.superhuman.com/@oleg/getting-started-guide-coda-api/automated-reminders-7\"]"
 ---
 
 ## TL;DR

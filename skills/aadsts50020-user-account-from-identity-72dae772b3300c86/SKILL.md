@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0a-q4x72pV_QM2da9KXc4g"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/microsoft/openclaw-dev/blob/HEAD/docs/troubleshooting/tenant-subscription-troubleshooting.md\"]"
 ---
 
 # AADSTS50020: User account from identity provider does not exist in tenant

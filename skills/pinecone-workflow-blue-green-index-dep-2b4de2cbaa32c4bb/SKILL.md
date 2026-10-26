@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_q38hHekysQZR22FF3zaHsQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/indexes/create-an-index\",\"https://docs.pinecone.io/guides/manage-data/manage-namespaces\"]"
 ---
 
 **TL;DR:** Build the new embedding version in a fresh index or namespace, verify recall parity, flip readers, then delete the old. Never re-embed in place on a serving index. Build green. Create docs-v2 (new index) or a v2 namespace with the new dimension and metric.

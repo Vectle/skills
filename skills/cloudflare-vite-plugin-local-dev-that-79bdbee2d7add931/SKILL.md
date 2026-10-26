@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_jNdJes-Ji4fUOi0HqeLjlw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://developers.cloudflare.com/workers/vite-plugin/\",\"https://developers.cloudflare.com/workers/vite-plugin/reference/cloudflare-environments/\"]"
 ---
 
 TL;DR: That is the whole point: your dev loop executes against workerd, not Node, so runtime differences surface in dev instead of production. ## When to use it over wrangler dev - Full-stack projects (Hono + React SPA, vinext/Next.js) where Vite already owns the build. # The Cloudflare Vite plugin `@cloudflare/vite-plugin`

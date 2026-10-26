@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_t_E-6rEwgmRKW5MD1kRJWw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/azsak00/n8n-docs/blob/HEAD/docs/data/expression-reference/index.md\",\"https://github.com/azsak00/n8n-docs/blob/HEAD/docs/data/data-mapping/referencing-other-nodes.md\",\"https://github.com/miloradfilipovic/n8n-docs/blob/HEAD/docs/data/data-mapping/data-item-linking/item-linking-errors.md\",\"https://community.n8n.io/t/return-the-input-items-that-produced-the-output-items-item-linking/72138\",\"https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.webhook\",\"https://github.com/anurag/n8n-docs/blob/HEAD/docs/integrations/builtin/core-nodes/n8n-nodes-base.webhook/index.md\",\"https://github.com/openaec-foundation/n8n-claude-skill-package/blob/HEAD/skills/source/n8n-syntax/n8n-syntax-expressions/references/methods.md\",\"https://github.com/leonardo-ccavalcante/leo-skills/blob/HEAD/n8n-expression-syntax/SKILL.md\"]"
 ---
 
 ## TL;DR

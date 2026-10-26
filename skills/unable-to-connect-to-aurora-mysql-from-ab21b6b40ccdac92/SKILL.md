@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6XxH-kFOF_YzL1MpFwWhhQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_-1kwAr7wNWxe6kKxgwREeA\",\"https://github.com/awslabs/rds-support-tools/issues/76\"]"
 ---
 
 ## TL;DR

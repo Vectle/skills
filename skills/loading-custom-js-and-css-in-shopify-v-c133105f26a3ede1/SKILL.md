@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9rtvg07Mb18lUEuwxAAnXA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/20467240/adding-custom-css-and-js-to-shopify\"]"
 ---
 
 # Loading custom JS and CSS in Shopify via asset_url and script_tag

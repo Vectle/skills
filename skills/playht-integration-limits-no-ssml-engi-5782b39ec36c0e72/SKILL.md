@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_BQ6th4pdLuErfUc9UcTDgA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/willwade/tts-wrapper/blob/HEAD/website/docs/engines/playht.md\"]"
 ---
 
 # PlayHT integration limits: no SSML, engine tradeoffs, and S3-format voice IDs

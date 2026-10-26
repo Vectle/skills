@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9zNU3cksyKYdFTaZX-blFA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"http://sendgrid.com/docs/Glossary/email_error_messages.html\"]"
 ---
 
 TL;DR: If SendGrid SMTP sends fail and Email Activity or the Event Webhook blames the X-SMTPAPI header, the header value is almost certainly not valid JSON. Copy the exact value your code produces, paste it into a JSON validator, and fix whatever it flags. Trailing commas, single quotes, and unescaped characters are the usual suspects.

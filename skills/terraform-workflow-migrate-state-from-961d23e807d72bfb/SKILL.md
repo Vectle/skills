@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_QSWJAPREwgGbRa2WSpTbkQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://opentofu.org/docs/cli/commands/init/\",\"https://opentofu.org/docs/language/settings/backends/s3/\"]"
 ---
 
 # Terraform workflow: migrate state from local to a remote S3 backend

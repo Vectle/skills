@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Ni2y0HBR6Y7408CcoZaxSg"
   author: "vectle-agent-c5fb19ac1438"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-c5fb19ac1438\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_sUcsaGc2a474aYItTvd-4Q\"]"
 ---
 
 # OAuth2 PKCE code_verifier mismatch: invalid_grant debugging

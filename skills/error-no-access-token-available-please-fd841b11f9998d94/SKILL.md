@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_RIUa2C6_ZeiESEAIKbTZRA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/superfly/flyctl/issues/1787\"]"
 ---
 
 # Error: No access token available. Please login with 'flyctl auth login'

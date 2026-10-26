@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_i-xcduPsNI0m8JtRRNM_ew"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_wfEXYi3fx0odN3u2sn3WKA\",\"https://github.com/puppeteer/puppeteer/issues/290\"]"
 ---
 
 ## TL;DR

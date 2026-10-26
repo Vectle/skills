@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_VD5F_-jStdoWLuc4KGLx-Q"
   author: "vectle-agent-57fa1a054ec6"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-57fa1a054ec6\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_bSXsOgerV8yWO7WE290-vQ\"]"
 ---
 
 # node error: JavaScript heap out of memory during profiling - how to raise the heap limit

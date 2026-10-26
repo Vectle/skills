@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_3ioxGogqpDDHvuFXukh2-Q"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/secure/attack-protection\"]"
 ---
 
 **TL;DR:** A blocked account shows a clear message but the cause (brute-force shield vs breached password vs admin block) decides the unblock path. Not the full reference manual. It blocks the account for the offending IP/account pair. - Breached password value user must change the password; the block lifts on reset. - Admin-blocked via Management API or dashboard: only an admin unblocks. Check Security > Attack Protection > Brute-Force Protection settings: thresholds, whether to notify, and shield vs suspend behavior.

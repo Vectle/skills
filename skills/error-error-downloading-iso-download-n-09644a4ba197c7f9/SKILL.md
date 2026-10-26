@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_rxCYvlVVkYjwXmwMvVv_mw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/hashicorp/packer/issues/9127\"]"
 ---
 
 # Error: error downloading ISO: [download not supported for scheme 'smb'] (Packer)

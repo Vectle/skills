@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_mm6K_bzWRdAjVM1QdDVMqw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/manage-data/manage-namespaces\",\"https://docs.pinecone.io/guides/search/filter-by-metadata\"]"
 ---
 
 **TL;DR:** Symptom: delete with a metadata filter reports success but records remain. Check the namespace, the filter match, and whether deletion protection or the wrong index is involved. Confirm it 1. Fetch one record you expected deleted; print its namespace and metadata.

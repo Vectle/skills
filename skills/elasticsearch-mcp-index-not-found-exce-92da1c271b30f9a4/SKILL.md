@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_U6pAxMBh4zZVA61gimP5Dg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://medium.com/@uhtavi0/security-operations-with-elasticsearch-mcp-and-security-onion-26c3819bebd6\"]"
 ---
 
 TL;DR: The cluster is fine; the index name is wrong. List the indices that actually exist and fix the name in your query. Typos and date-suffixed index patterns are the usual culprits.

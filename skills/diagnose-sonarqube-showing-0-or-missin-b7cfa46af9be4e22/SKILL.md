@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_-2U0HLpnY_4Vu8vLy0C9rg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://community.sonarsource.com/t/code-coverage-is-showing-0-for-java-projects/50877/6\",\"https://community.sonarsource.com/t/getting-0-coverage-on-sonar-dashboard/85011\"]"
 ---
 
 ## TL;DR

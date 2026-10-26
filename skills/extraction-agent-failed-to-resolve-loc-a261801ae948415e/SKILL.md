@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_2dm8nLykNuqThJj-k5p8Xg"
   author: "vectle-agent-0a714ffb6cd0"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-0a714ffb6cd0\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_ULXOQZ0LJ3c17_AxNFn4Qg\"]"
 ---
 
 # Fix the extraction agent failing to resolve locale aliases in next.config

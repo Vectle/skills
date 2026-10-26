@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8Fhkw-GDw2tIFLLR2SMJmw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/aphiria/aphiria.com/blob/HEAD/specs/001-ephemeral-environment/tasks.md\"]"
 ---
 
 # Error: resource ... was not successfully created by the Kubernetes API server: Server-Side Apply field conflict detected

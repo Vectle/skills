@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zVn3dYykkqaDTPJH85MkOQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/34344024\"]"
 ---
 
 TL;DR: [Joey (accepted answer)]: Assuming the column name for "Business Application" is u_business_application: sysparm_query=incident=true^u_business_applicationISNOTEMPTY Context: Stack Overflow #34344024 (accepted answer, 7 votes, 1 answers): sysparm_query for rows that only have data in a specified column For example: I want data for incidents that are active and have a business application defined sysparm_query=active=true^??????

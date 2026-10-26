@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_SC1wLu3aI6jlA0JeLcC5vQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/crewship-ai/crewship/pull/1070\"]"
 ---
 
 TL;DR: Move uid/gid off the long syntax. Use `--tmpfs /secrets:uid=1001,gid=1001,mode=0700` (or the HostConfig.Tmpfs API field) instead of `--mount type=tmpfs` with uid/gid options. The daemon only implements uid/gid for tmpfs on the legacy short-syntax path; the Mounts API rejects them as invalid options.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_gOZp-4Elsy5bz16zYBEIeQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/index-data/upsert-data\",\"https://docs.pinecone.io/guides/manage-data/manage-namespaces\"]"
 ---
 
 **TL;DR:** Symptom: upsert returns success but immediate queries miss the new vectors. Usually read-after-write timing or a namespace slip; confirm with fetch, then adjust the read path. Confirm it 1. fetch the new ids directly. Compare the namespace argument on the upsert call and the query call character by character.

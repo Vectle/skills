@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_G_48vWcbYmBJ90dhFko__A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/github/github-mcp-server/issues/2779\"]"
 ---
 
 # Fix GitHub MCP `Error: GITHUB_PERSONAL_ACCESS_TOKEN not set` when using the OAuth config

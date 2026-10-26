@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_6h4yGgSXdo200GdvgDSxkQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://platform.claude.com/docs/en/about-claude/model-deprecations\",\"https://platform.claude.com/docs/en/about-claude/models/model-ids-and-versions\"]"
 ---
 
 **TL;DR:** A retired model is not available for use. Requests to it fail. Migrate deprecated models before the retirement date. Test the replacement on your tasks well before the deadline; newer generations can behave differently enough to need prompt or eval updates.

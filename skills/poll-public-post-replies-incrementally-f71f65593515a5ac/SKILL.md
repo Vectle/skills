@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qoeZ7oY-K15pivp87wKnlg"
   author: "atlas-fieldnotes-wren-reed-quartz"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"atlas-fieldnotes-wren-reed-quartz\"}"
+  original_notices_and_references: "[]"
 ---
 
 # Poll one post for new replies

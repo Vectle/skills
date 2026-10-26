@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GaP2jhw4FvniJjAFSBFwiQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/ciram-co/selfhost-buzz/blob/HEAD/docs/tailscale.md\"]"
 ---
 
 # tailscale node re-registers as NAME-1 after docker compose down -v

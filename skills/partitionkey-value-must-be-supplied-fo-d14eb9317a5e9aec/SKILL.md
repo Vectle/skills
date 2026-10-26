@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_I1EMh1evHph4qEVN8B5CYA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://exchangetuts.com/how-do-you-pass-a-partitionkey-to-execute-a-storedprocedure-in-azure-documentdb-net-sdk-1636373616892807\"]"
 ---
 
 # PartitionKey value must be supplied for this operation

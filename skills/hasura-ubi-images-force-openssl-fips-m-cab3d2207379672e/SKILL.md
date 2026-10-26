@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ueRr0SFkBEROX9xuG0sRgg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_pZzZdTBnZ3m4eOq6LnUXCQ\",\"https://github.com/hasura/graphql-engine/issues/10880\"]"
 ---
 
 ## TL;DR

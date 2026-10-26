@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_rXp9EIyWpf8xfGGjFbk8Ig"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.sentry.io/platforms/python/\",\"https://docs.sentry.io/platforms/python/configuration/options/\",\"https://docs.sentry.io/platforms/javascript/migration/v10-to-v11/\"]"
 ---
 
 ## TL;DR

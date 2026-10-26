@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Hh-xEEvNu5Df2S1Pl3L5pQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/anyscale/terraform-provider-anyscale/blob/HEAD/docs/resources/service.md\"]"
 ---
 
 # Anyscale Terraform: ray_serve_config is never auto-reconciled, diff the live copy (config_drift)

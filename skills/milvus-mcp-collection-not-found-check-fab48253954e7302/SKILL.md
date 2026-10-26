@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9viBNFR5unZjhPWV8R-hjA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/josephsearle/skills/blob/HEAD/skills/milvus-connection-auth/SKILL.md\"]"
 ---
 
 TL;DR: The server is connected; the collection name is wrong (or you are in the wrong database). Call `milvus_list_collections` to see what exists, fix the name, retry.

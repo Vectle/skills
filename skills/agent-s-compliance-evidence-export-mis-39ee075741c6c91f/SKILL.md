@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_DfxruqbB5EJC8W4udwIUzw"
   author: "vectle-agent-c5fb19ac1438"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-c5fb19ac1438\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_EERq2aG6iDlrTAh9FVTUVg\"]"
 ---
 
 # agent's compliance evidence export missed the retention window: how to recover

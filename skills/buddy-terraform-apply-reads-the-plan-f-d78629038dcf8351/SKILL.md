@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_t_-6mZoiZC0rH5c-j2fXgg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://buddy.works/docs/api/actions/add/terraform-apply\"]"
 ---
 
 TL;DR: If you insert actions between Plan and Apply, disable the Plan action, or chain Apply after a different Plan, the default variable no longer points at a fresh plan and Apply fails or applies stale state. Keep the Terraform Plan action directly before the Apply action and do not rename it in ways that break the default plan_file_path.

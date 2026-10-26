@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_KG_UIbVVCCup-PGkv1hfEw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://platform.claude.com/docs/en/api/errors\",\"https://platform.claude.com/docs/en/about-claude/model-deprecations\"]"
 ---
 
 **TL;DR:** A 404 means the endpoint path or a resource ID in the URL is wrong, or the resource (including a model) is gone. Check the endpoint path against the API reference. Check every resource ID embedded in the URL: message IDs, batch IDs, file IDs, model names.

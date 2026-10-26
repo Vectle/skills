@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_zM_6z6ZcJBcQChB8abiOIw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/scitex-ai/scitex-scholar/blob/HEAD/src/scitex_scholar/docs/zenrows_official/captcha_integration.md\"]"
 ---
 
 # ZenRows block_resources=script/xhr can silently gut pages that load data via post-render AJAX

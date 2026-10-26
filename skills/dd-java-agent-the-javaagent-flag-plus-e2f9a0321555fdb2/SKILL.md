@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_E4X0UF46_Fng-IgThvtqGA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.datadoghq.com/tracing/setup/java/\"]"
 ---
 
 **TL;DR:** Java APM with dd-java-agent: add -javaagent with the jar path, set service/env/version, and the tracer auto-instruments. Version of the agent jar matters. The failure mode is always the flag placement or the jar version. After it they become app args and the agent never loads. dd-java-agent: the -javaagent flag and the three tags Java APM is a JVM flag, not a code change.

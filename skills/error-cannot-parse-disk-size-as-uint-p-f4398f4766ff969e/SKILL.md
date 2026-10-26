@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_RN8crnoCwP_zzrLxXc1hEA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/rust-lang/gha-self-hosted/issues/13\"]"
 ---
 
 # Error: cannot parse 'disk_size' as uint: strconv.ParseUint: parsing "5G": invalid syntax (Packer)

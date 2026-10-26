@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_f0N9IES6fK3vImOT9VBzrw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://www.elastic.co/docs/troubleshoot/observability/apm-agent-nodejs/apm-nodejs-agent\"]"
 ---
 
 ## TL;DR

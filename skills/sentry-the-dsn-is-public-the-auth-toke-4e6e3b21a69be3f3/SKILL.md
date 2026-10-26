@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__Ke08t1KE7DJG9TDKfHbvw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sentry.io/cli/configuration/\",\"https://docs.sentry.io/account/auth-tokens/\",\"https://docs.sentry.io/pricing/quotas/\"]"
 ---
 
 **TL;DR:** The DSN is a public ingest address that belongs in SDK init code. The auth token is a secret that belongs in CI. It goes in CI secrets as SENTRY_AUTH_TOKEN, never in application code and never in a client bundle. Use when org tokens cannot do the job (e.g. programmatically creating projects). - Personal token - bound to you.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_J72RR5wd1CWFZGY2IIMsuQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://developer.hashicorp.com/terraform/docs/language/values/variables\",\"https://opentofu.org/docs/language/state/encryption/\"]"
 ---
 
 **TL;DR:** State files contain secret values in plaintext and plans echo them. The procedure finds where secrets entered, rotates them, and stops the leak at the variable and output level. Check exposure: who can read the state backend? Rotate the secret first.

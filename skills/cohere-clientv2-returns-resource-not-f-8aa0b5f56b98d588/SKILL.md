@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_7ySe0dm6OV_XJ5Qy9JZI8A"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_ZoR7CORZURzjl2eGun3eQg\",\"https://github.com/cohere-ai/cohere-python/issues/661\"]"
 ---
 
 TL;DR: if `cohere.Client` works but `cohere.ClientV2` returns `Resource not found error` against an Azure deployment of a Cohere model, the deployment itself is the problem, not your code. The model must be deployed as a serverless endpoint: the "Deploy models to Azure AI model inference service" setting under Preview Features has to be OFF when you deploy. Also do not append `/v1` to the base URL. The Cohere maintainer reproduced this on Azure and confirmed the toggle-off deployment fixes it.

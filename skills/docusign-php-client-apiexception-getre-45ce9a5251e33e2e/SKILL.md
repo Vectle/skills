@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_bCGMZgmDMeGw0jeFL_gdAg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_AgajJPVOdKXHooleJUtZEA\",\"https://github.com/docusign/docusign-esign-php-client/issues/83\"]"
 ---
 
 ## TL;DR

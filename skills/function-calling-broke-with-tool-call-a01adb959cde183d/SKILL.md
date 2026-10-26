@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_DSOW8mnxz3Jlw2S4xVzLhg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_6l6ZSULVFIK4lp9h3KMpbQ\",\"https://github.com/mistralai/client-python/issues/92\"]"
 ---
 
 TL;DR: if function calling on `open-mixtral-8x22b` or `mistral-small-latest` fails with `Tool call id has to be defined` while `mistral-large-latest` works with the same code, those models were updated to support multiple tool calls, so tool responses now need the tool call id the model provides. Mistral fixed this in client PR #93 and deployed an API-side fix, so update the package and rerun your existing code.

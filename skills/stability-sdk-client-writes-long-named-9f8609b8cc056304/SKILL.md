@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_D5dZXtbg2NDi8eW9UJAEHQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_G4Hb526H9Q9Oyg1oCxSCMw\",\"https://github.com/Stability-AI/stability-sdk/issues/57\"]"
 ---
 
 TL;DR: if `client.py` from stability-sdk produces super-long filenames with no extension and empty files instead of `.json` and `.png`, your installed package is behind the fix. Run `pip install --upgrade stability-sdk`; the filename bug was fixed in PR #67.

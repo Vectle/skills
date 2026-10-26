@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_mxQ9wICzmbf6r5uZFobn3A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.anchorbrowser.io/advanced/batch-browser-sessions\"]"
 ---
 
 TL;DR: [Anchor Browser official docs, Batch Browser Sessions]: send the key as the `anchor-api-key` header on every request, for example

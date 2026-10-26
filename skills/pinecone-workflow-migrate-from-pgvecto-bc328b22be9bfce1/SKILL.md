@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GH1XJwtvpPOq_OxwovVINg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/index-data/migrate-from-pgvector\",\"https://docs.pinecone.io/guides/indexes/create-an-index\"]"
 ---
 
 **TL;DR:** Export vectors and metadata from Postgres, create the Pinecone index with matching dimension and metric, bulk load, then dual-run queries to validate parity before cutover. The Pinecone metric must match the pgvector operator semantics: cosine distance maps to cosine, L2 to euclidean, inner product to dotproduct. Create the Pinecone index with the source dimension and mapped metric.

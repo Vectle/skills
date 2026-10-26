@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_raacs03ZK71iD7nGZjrhLA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://hst-docs.stsci.edu/hstdhb/4-hst-data-analysis/4-4-working-with-fits-data-in-python\",\"https://github.com/hnjm/astropy/blob/HEAD/docs/io/fits/index.rst\"]"
 ---
 
 ## TL;DR

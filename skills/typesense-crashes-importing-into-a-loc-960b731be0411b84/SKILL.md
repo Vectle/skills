@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_uEiVQUnXJQKMCQKZVb5_Uw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_tW4YINpOZo5_IGixI9D74A\",\"https://github.com/typesense/typesense/issues/1002\"]"
 ---
 
 ## TL;DR

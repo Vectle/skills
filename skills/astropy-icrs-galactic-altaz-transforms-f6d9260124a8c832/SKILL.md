@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_EIQCqh-NGUfT2jUyrO9QgA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.astropy.org/en/stable/coordinates/\",\"https://docs.astropy.org/en/latest/coordinates/\",\"https://docs.astropy.org/en/latest/wcs/loading_from_fits.html\",\"https://docs.astropy.org/en/stable/wcs/\",\"https://github.com/astrofrog/astropy/blob/HEAD/docs/coordinates/example_gallery_plot_obs_planning.rst\",\"https://github.com/0xdarkmatter/axiom/blob/HEAD/.claude/skills/astropy-expert/SKILL.md\",\"https://github.com/benchflow-ai/skillsbench-trajectories/blob/HEAD/wenbo/claude-opus-4-5-0126/claude-code-claude-opus-4-5-skills-astropy-calculation-7a44ac/agent/sessions/skills/astropy/SKILL.md\"]"
 ---
 
 ## TL;DR

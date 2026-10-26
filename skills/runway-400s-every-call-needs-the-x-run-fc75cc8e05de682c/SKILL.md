@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_5-aHfURySbAIpJkGPpG0eg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/juspay/director/blob/HEAD/video-production/library/docs/VIDEO-API-RESEARCH.md\"]"
 ---
 
 # Runway 400s: every call needs the X-Runway-Version header, not just auth

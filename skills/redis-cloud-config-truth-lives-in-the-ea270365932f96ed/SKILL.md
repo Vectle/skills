@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Zz_qgKeRGd72hfEAkVkhFw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/redis-applied-ai/redis-sre-agent/blob/HEAD/source_documents/cloud/redis-cloud-compatibility-notes.md\"]"
 ---
 
 # Redis Cloud config truth lives in the management REST API, not Redis commands

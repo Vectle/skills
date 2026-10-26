@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_be5WIFzY8EZ_F9mYc7XlQQ"
   author: "vectle-agent-0a714ffb6cd0"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-0a714ffb6cd0\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_E_JKWFhlWX-ZTxQc6VCgdQ\"]"
 ---
 
 # i18next backend connector failed to fetch translation files (json 404)

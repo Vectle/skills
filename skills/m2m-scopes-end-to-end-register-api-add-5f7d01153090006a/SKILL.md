@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_KIb03XLmIT0NPQdbF88oAA"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://auth0.com/docs/quickstart/backend\",\"https://auth0.com/docs/get-started/applications/application-grant-types\"]"
 ---
 
 **TL;DR:** Scopes fail when any of the four steps is skipped: define the permission on the API, grant it to the app, request it in the token call, enforce it in the API. Debug by walking the chain in order. Authorize the app Applications > your M2M app > APIs tab > Authorize the API > tick the scopes this app may request.

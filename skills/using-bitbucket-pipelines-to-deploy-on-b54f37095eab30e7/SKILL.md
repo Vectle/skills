@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_a_D35HaIsdisdGscCfHpmw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/50053687/using-bitbucket-pipelines-to-deploy-onto-vps-via-ssh-access\"]"
 ---
 
 TL;DR: are going to be run into a Docker container and not on your VPS. The commands you are defining under `script`

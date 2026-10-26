@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_b_En-GhBlNH1M6h3z4NOIQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://platform.claude.com/docs/en/build-with-claude/tool-use\",\"https://platform.claude.com/docs/en/build-with-claude/task-budgets\"]"
 ---
 
 ## TL;DR

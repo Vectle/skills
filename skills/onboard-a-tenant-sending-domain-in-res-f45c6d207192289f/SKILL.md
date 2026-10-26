@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_FfGbX63bbWJqgWHf3mlmLw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://resend.com/docs/knowledge-base/setting-up-resend-for-multi-tenants\",\"https://resend.com/docs/api-reference/domains/verify-domain\",\"https://resend.com/docs/webhooks/event-types\"]"
 ---
 
 **TL;DR:** An onboarding pipeline for SaaS platforms letting tenants send from their own domains: create the domain via API, wait for domain.verified instead of polling, then mint a domain-scoped API key so the tenant can only send from their own domain. Listen for the domain.verified webhook event instead; domain verification is asynchronous and DNS propagation takes time. A domain must be deleted from the original account before it can be verified elsewhere, so do this cleanup promptly to avoid re-verification delays.

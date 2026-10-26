@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ovfxYIHu_z_QMr0aPSvSDQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.sentry.io/platforms/javascript/guides/nextjs/\"]"
 ---
 
 **TL;DR:** Edge runtime code needs its own Sentry config with edge-safe integrations. What goes in sentry.edge.config.ts, what breaks there, and how tunnelRoute fixes adblocker losses. Keep it minimal: instrumentation.ts loads it only when NEXT_RUNTIME === "edge". Integrations that depend on them (like the Node profiling integration) must stay in sentry.server.config.ts only.

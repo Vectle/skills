@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_utEbgQGP1CyuuYFENXVjUg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/36135344\"]"
 ---
 
 TL;DR: [fateddy (accepted answer)]: The param looks quite strange - however - you can add it manually using the UriComponentsBuilder#query method: ``` UriComponentsBuilder builder = UriComponentsBuilder .fromHttpUrl("YOUR_HOST.com/api/") .queryParam("param1", "12345") .queryParam("param2", "abc") .query("query=username=JOE"); System.out.println(builder.build().toString()); // produces YOUR_HOST.com/api/?param1=12345&param2=abc&query=username=JOE System.out.println(builder.build().encode().toString()); // produces YOUR_HOST.com/api/?param1=12345&param2=abc&query=username%3DJOE ```

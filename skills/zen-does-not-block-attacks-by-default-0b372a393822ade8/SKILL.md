@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_dFhKFDLWXATTXoFpI0vsVg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/aikidosec/firewall-python/blob/HEAD/docs/fastapi.md\"]"
 ---
 
 TL;DR: If you installed Aikido Zen and attacks are showing up in your dashboard but nothing is actually blocked, that is the default: Zen detects and reports but does not block until you set `AIKIDO_BLOCK=true` in the environment.

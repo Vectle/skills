@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl__0bXAnywWTW7xj6NHRXuFw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.mongodb.com/docs/search/indexes/manage-indexes/\"]"
 ---
 
 **TL;DR:** A sort or aggregation stage blew past the 100MB in-memory limit. The fix is an index on the sort, not just flipping allowDiskUse. Confirm Run the query with explain("executionStats"). Fix, in order 1.

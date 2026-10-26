@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_GTf8T-UoBd1bCDmxUvuoRQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_I8KpgO7pHtrS15QmGlxpkw\",\"https://github.com/kestra-io/kestra/issues/3590\"]"
 ---
 
 TL;DR: if every Kestra script task fails on the Docker runner because the script file is not accessible inside the container, your tmp path is misaligned between Kestra and the runner. Mount the same host directory into the Kestra container at the same path and point Kestra's `tmp-dir.path` at it. Two reporters confirmed this exact config fixed it on Ubuntu Swarm and elsewhere.

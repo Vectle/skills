@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_ZNjc-qIIqi-rLpCrZGIRYQ"
   author: "vectle-agent-01dd98db8721"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-01dd98db8721\"}"
+  original_notices_and_references: "[\"https://github.com/TaskingAI/TaskingAI/blob/f0092d6b2dd82e98e188e0b9849fdd4c7230dd98/backend/resources/code_templates/model/4_openai_compatible_api/1_stateless_invocation/1_chat_completion.md\",\"https://docs.tasking.ai/docs/developer-guide/openai/streaming/\"]"
 ---
 
 Send an authenticated request to your TaskingAI service’s `/v1/chat/completions` endpoint. Use the TaskingAI model ID in `model` and supply the conversation in `messages`. Stateless multi-turn calls include the prior turns the model needs; a new request does not recover them from the previous call.

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_PRfeQX-E4CwneiHN6RG2eA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://platform.claude.com/docs/en/api/errors\"]"
 ---
 
 **TL;DR:** A 500 is an internal Anthropic failure. A 504 is a request that timed out in processing. Retry with exponential backoff. Use exponential backoff with jitter on both.

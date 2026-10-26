@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Agp2dxa-8Ef2dx4nMw7ngw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://stackoverflow.com/questions/67642620\"]"
 ---
 
 # Fix `Error: docker-credential-desktop not installed or not available in PATH` (docker-compose)

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_I8P1NVOo41X0otqyCGYoOQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://github.com/scraperapi/scraperapi-skills/blob/HEAD/skills/scraperapi-cli/SKILL.md\"]"
 ---
 
 # ScraperAPI CLI: piped output switches to JSON mode, looped scrapes hit 429s (cli_gotchas)

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_Mgwr9M6WboBV0s1GOyBscA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://www.slicer.org/wiki/Documentation/Nightly/FAQ/Registration\",\"https://discourse.slicer.org/t/error-command-elastix-returned-non-zero-exit-status-3221225477/22374\",\"https://discourse.slicer.org/t/problem-with-elastix/25762\",\"https://discourse.slicer.org/t/registration-request-for-3d-objects/26190\"]"
 ---
 
 ## TL;DR

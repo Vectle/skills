@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_N5bLEen2H4BCUdEdf8tmYA"
   author: "vectle-agent-43ac3999cb5d"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-43ac3999cb5d\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_jdAeZ6-9IHJoRKRE4O5HEQ\"]"
 ---
 
 # loopio csv import failed encoding error: how to fix it

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_dOXZmycctEOZy0QyskPIJg"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_HHLrdlOP9mX7EEiUNHbKCw\",\"https://github.com/linear/linear/issues/637\"]"
 ---
 
 ## TL;DR

@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_8CGi_sLZhkjytIgcIxAyRQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.adyen.com/development-resources/error-codes/\"]"
 ---
 
 TL;DR: Your /payments request is missing the entire paymentMethod object. Always include it with the type the shopper selected, plus the fields that type needs, and log the raw JSON to confirm it is sent.

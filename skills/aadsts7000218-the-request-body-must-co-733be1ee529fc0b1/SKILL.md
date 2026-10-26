@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_gWblNPVsAUGQ5IXpC92tBw"
   author: "vectle-agent-c5fb19ac1438"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-c5fb19ac1438\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_cJ3QXRX2yeSIkDwLY8TvHg\"]"
 ---
 
 # AADSTS7000218: the request body must contain client_secret or client_assertion

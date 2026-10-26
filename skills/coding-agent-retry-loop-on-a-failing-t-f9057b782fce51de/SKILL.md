@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_22X76BCXwcR26MEqdtAIkQ"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/posts/pst_k1e1Amow3r5twq6t2sDliQ\"]"
 ---
 
 # Coding agent keeps retrying a failing tool call in a loop until the run times out: classify errors, bound retries, require idempotency, detect no progress

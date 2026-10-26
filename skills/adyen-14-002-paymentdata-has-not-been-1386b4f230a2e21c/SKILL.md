@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_MwDXsb0-ztaMxLGsLsUOQg"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.adyen.com/development-resources/error-codes/\"]"
 ---
 
 TL;DR: This means your /payments/details request is missing the paymentData blob from the first /payments response. Capture action.paymentData server-side when you create the payment, store it across the redirect, and send it back verbatim in /payments/details.

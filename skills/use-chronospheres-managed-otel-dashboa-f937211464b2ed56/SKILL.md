@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_sYTL6DMk8eGpJNDGPnrtZA"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://docs.chronosphere.io/observe/dashboards/managed-dashboards\"]"
 ---
 
 TL;DR: When telemetry goes missing, open the OpenTelemetry Ingestion & Health managed dashboard first: check ingested vs rejected data points and the OTLP response codes. If rejections are high, the problem is your data shape (labels, values); if exporter failure rates are high on the Collectors dashboard, the problem is your collector config or network.

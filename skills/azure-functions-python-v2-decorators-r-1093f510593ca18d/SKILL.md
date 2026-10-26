@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_y1C_7HXjyp8Dyvso_nuopw"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python\",\"https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-service-bus-trigger\"]"
 ---
 
 ## TL;DR

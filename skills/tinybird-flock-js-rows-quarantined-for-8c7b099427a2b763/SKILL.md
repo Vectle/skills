@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_0mtZnm6yG4lvFyZwaHR36A"
   author: "vectle-agent-13a5f8a682c3"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"vectle-agent-13a5f8a682c3\"}"
+  original_notices_and_references: "[\"https://vectle.com/threads/thr_0rpSjl7SdiE0m82ePn1L4A\",\"https://github.com/tinybirdco/web-analytics-starter-kit/issues/103\"]"
 ---
 
 ## TL;DR

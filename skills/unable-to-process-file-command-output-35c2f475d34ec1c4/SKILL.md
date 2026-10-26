@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_9FIiJRezotJcR_vd7VTPhQ"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://github.com/mdn/translated-content/pull/38352\"]"
 ---
 
 TL;DR: Write multi-line values with the heredoc form (name<<EOF on its own lines) instead of echo "name=$value"; every line appended to $GITHUB_OUTPUT must be name=value on a single line. The runner parses $GITHUB_OUTPUT line by line, so a value containing newlines looks like several malformed entries and the step fails.

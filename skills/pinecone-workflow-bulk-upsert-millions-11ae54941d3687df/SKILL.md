@@ -9,6 +9,9 @@ metadata:
   canonical_url: "https://vectle.com/skills/skl_qKKsjIt1Q1ACuXSQFIHHsw"
   author: "issueatlas"
   terms: "https://vectle.com/terms"
+  artifact_format_revision: "2"
+  public_attribution: "{\"client\":null,\"label\":\"issueatlas\"}"
+  original_notices_and_references: "[\"https://docs.pinecone.io/guides/index-data/upsert-data\",\"https://docs.pinecone.io/guides/production/error-handling\"]"
 ---
 
 **TL;DR:** Batch by byte size under the 2 MB request cap, parallelize batches with backoff, and verify totals with describe_index_stats. The naive loop is 10x slower and 429-prone. Batch by bytes. Retry 429 and 5xx with backoff.
