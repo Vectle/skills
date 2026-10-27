@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "OrvU3Q3BKWsS1MqtCgPXNBz8WFZqOuGy",
-    "generation": "216924",
-    "generated_at": "2026-10-26T14:31:39.564762+00:00",
-    "expires_at": "2026-10-26T20:31:39.564Z",
+    "snapshot_id": "F-D5cLr3O65ieRw7jgYYa9Sy64dtzAad",
+    "generation": "217086",
+    "generated_at": "2026-10-27T13:31:17.930057+00:00",
+    "expires_at": "2026-10-27T19:31:17.930Z",
     "page_size": 250,
-    "expected_entry_count": 21397
+    "expected_entry_count": 21407
   },
-  "manifest_digest": "a96808640cd1d247fec4f31f475278b2e36ebcb5016dabae44baa3534103ebdd",
+  "manifest_digest": "2bf940fb9dc60a20568f155773da0912b2edab9c9304baf99bdfb69f9ba0da83",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -42520,6 +42520,27 @@
       "sha256": "35eac9216ddc595fa26681119b02dd11536a7bcf6ca2a936d6ec1a6f203cd344"
     },
     {
+      "skill_id": "skl_56Le4CeNdBrebxTmImAttA",
+      "name": "how-to-log-denied-traffic-from-kuberne-be5311ad4de57ff2",
+      "title": "how to log denied traffic from Kubernetes network policies",
+      "description": "how to log denied traffic from Kubernetes network policies",
+      "url": "https://vectle.com/skills/skl_56Le4CeNdBrebxTmImAttA",
+      "exact_version_url": "https://vectle.com/skills/skl_56Le4CeNdBrebxTmImAttA/versions/skv_BqLNuFsLzAQaAyn3tD2EdQ",
+      "version": "skv_BqLNuFsLzAQaAyn3tD2EdQ",
+      "version_sequence": "1",
+      "updated": "2026-10-26T21:02:38.922391+00:00",
+      "path": "skills/how-to-log-denied-traffic-from-kuberne-be5311ad4de57ff2/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "06ca6610159f7ae2af675cb9c026d0c18761c9c947e87210a23de297f60bf961",
+      "public_input_digest": "9007aec82aab455b9bf73bea3b1e607ea0a1f870b454e78d04a98655bc685947",
+      "sha256": "9c9b518dae55f8cfd0cb0c54e0f01cb7fce88cdcc6637bee6360df2757d2bd7b"
+    },
+    {
       "skill_id": "skl_56sFbEetE2Jlml5J1o9BHQ",
       "name": "api-rate-limit-hit-mid-workflow-when-a-c6f43647c557f892",
       "title": "API rate limit hit mid-workflow when agent tried to chase expired insurance certificate renewal error failed quota",
@@ -47705,6 +47726,27 @@
       "source_snapshot_digest": "36d40fef147b2e56718438cad9c8924bcb76d3c2026872103836421c547a9652",
       "public_input_digest": "8a5383c2b8da8c01b4f45a1ab0a0f522397d7fe725ddcfbb4cfb3be99fe36330",
       "sha256": "035490727fd5f9eece6763af5e66bd9c1bec8413d8a60a7aa2cbdcc7980039a9"
+    },
+    {
+      "skill_id": "skl_5o8qqtqbp3OG5yVsV3q53g",
+      "name": "docusign-nda-error-reminder-schedule-n-0c36f4f0b5dccefc",
+      "title": "DocuSign NDA error reminder schedule not applied to bulk envelopes",
+      "description": "DocuSign NDA error reminder schedule not applied to bulk envelopes",
+      "url": "https://vectle.com/skills/skl_5o8qqtqbp3OG5yVsV3q53g",
+      "exact_version_url": "https://vectle.com/skills/skl_5o8qqtqbp3OG5yVsV3q53g/versions/skv_wlTK3gEKb8uT3vqcfjlkQw",
+      "version": "skv_wlTK3gEKb8uT3vqcfjlkQw",
+      "version_sequence": "1",
+      "updated": "2026-10-26T21:16:39.329093+00:00",
+      "path": "skills/docusign-nda-error-reminder-schedule-n-0c36f4f0b5dccefc/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "c35763d12d68609d9c3748e2a67a498578fdb92f70147478565fe5252d0fe1d9",
+      "public_input_digest": "7f0aa53016b11b634ece77d31cda3b8d6d1bd9eb5701f774c8b7c0d9b566d97c",
+      "sha256": "30cec94c2b2cb16ccbf94786b2b69cab293437faa7df83908f8ba09f2154593b"
     },
     {
       "skill_id": "skl_5oEGG3BmVe5XSkVko-vgaA",
@@ -240781,6 +240823,27 @@
       "sha256": "9f4d315ae03800c6368fdb8a7903c8ff66bec99350ca95af68a062bf1dad7675"
     },
     {
+      "skill_id": "skl_X3B9Zs9mapXtHGFeVZqMAg",
+      "name": "onetrust-error-vendor-evidence-request-6ce163452c05b665",
+      "title": "OneTrust error vendor evidence request sent to outdated contact",
+      "description": "OneTrust error vendor evidence request sent to outdated contact",
+      "url": "https://vectle.com/skills/skl_X3B9Zs9mapXtHGFeVZqMAg",
+      "exact_version_url": "https://vectle.com/skills/skl_X3B9Zs9mapXtHGFeVZqMAg/versions/skv_kFhkh5dEAfirxR8Z9Hwy5g",
+      "version": "skv_kFhkh5dEAfirxR8Z9Hwy5g",
+      "version_sequence": "1",
+      "updated": "2026-10-26T21:17:26.165672+00:00",
+      "path": "skills/onetrust-error-vendor-evidence-request-6ce163452c05b665/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "38d92083630b8177b703a58eb1683a8d352d36e74c7c5a1c3ee5aa19486cb098",
+      "public_input_digest": "7d236e786695d03224684449f90bf7981bb9dd0a5aad8d747e0c89628721121b",
+      "sha256": "02dab78c25e366540ee30102746c9904c259d233f696b6107c24f42c5bf8ff0e"
+    },
+    {
       "skill_id": "skl_X3DTDPMvuq8G5lGy-bHeog",
       "name": "docs-showed-filter-params-in-the-query-4c1f8215d8cac86f",
       "title": "docs showed filter params in the query string - the live API wants them in a JSON body and every filtered call...",
@@ -308821,6 +308884,27 @@
       "sha256": "263df8fec7b8e4da52849cb718eabd065b8c230fe0acc4281432a936b48cd6d6"
     },
     {
+      "skill_id": "skl_fgcjEWAk8kaYhUYKaikYUQ",
+      "name": "how-to-fix-docusign-nda-error-reminder-e891e9f9b006108c",
+      "title": "how to fix DocuSign NDA error reminder schedule not applied to bulk envelopes fails error",
+      "description": "how to fix DocuSign NDA error reminder schedule not applied to bulk envelopes fails error",
+      "url": "https://vectle.com/skills/skl_fgcjEWAk8kaYhUYKaikYUQ",
+      "exact_version_url": "https://vectle.com/skills/skl_fgcjEWAk8kaYhUYKaikYUQ/versions/skv_LKIyovgMGJ9LgBm6WvwmBQ",
+      "version": "skv_LKIyovgMGJ9LgBm6WvwmBQ",
+      "version_sequence": "1",
+      "updated": "2026-10-27T01:55:51.416761+00:00",
+      "path": "skills/how-to-fix-docusign-nda-error-reminder-e891e9f9b006108c/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "cb512139d1ed0901f7e81ec4e957107ea1e7d56dcda77e84dc07d0738402b63d",
+      "public_input_digest": "3aeae44451f69bccd6e3c38b0ca1802034e1edc4e67298d667e6d7611ae8b7ac",
+      "sha256": "2c20f01aeeadf004c25449763c7a10d3648b066cb60593b49ca8004c3cd2f696"
+    },
+    {
       "skill_id": "skl_fh74vVl_G9xxgRcxuJfmvw",
       "name": "crowdin-string-comments-not-exported-t-303652916a0ae820",
       "title": "crowdin string comments not exported to xliff error",
@@ -347776,6 +347860,27 @@
       "sha256": "e075b17b4ddb9a05b01332a24fe12950136257934f7379e3b0f4528bbf9d14dc"
     },
     {
+      "skill_id": "skl_l98A3ikTqapxDIqw-YU03g",
+      "name": "how-to-fix-ironclad-clause-library-err-993bf39f6b6c16dc",
+      "title": "how to fix Ironclad clause library error redline suggestion inserts wrong fallback tier fails error",
+      "description": "how to fix Ironclad clause library error redline suggestion inserts wrong fallback tier fails error",
+      "url": "https://vectle.com/skills/skl_l98A3ikTqapxDIqw-YU03g",
+      "exact_version_url": "https://vectle.com/skills/skl_l98A3ikTqapxDIqw-YU03g/versions/skv_P0xB-S7E34obm6UYYY2w9g",
+      "version": "skv_P0xB-S7E34obm6UYYY2w9g",
+      "version_sequence": "1",
+      "updated": "2026-10-27T01:52:32.485689+00:00",
+      "path": "skills/how-to-fix-ironclad-clause-library-err-993bf39f6b6c16dc/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "82063e28eb3d11768e2fc29b02b913099dd1afe79aa713e7cc1cf5c7ef66fbb4",
+      "public_input_digest": "968ba775d1aa40bc51e9947bec240999df990db9e996d788744c2fceb712b106",
+      "sha256": "1ed65b3d86529301df2bf87c3d09599c33b660deb834488c894cc7fea90b0ab6"
+    },
+    {
       "skill_id": "skl_l9A6qhIcPZl_j3VBgz_bpQ",
       "name": "github-actions-oidc-unable-to-get-acti-e34303b238fbbc55",
       "title": "GitHub Actions OIDC \"Unable to get ACTIONS_ID_TOKEN_REQUEST_TOKEN\": AWS auth fix",
@@ -353234,6 +353339,27 @@
       "source_snapshot_digest": "63f9831174335c12bf745b5730c3e60b639c86651652c6ba2dded0d436dbf00d",
       "public_input_digest": "247539bb1c942c5021cb12b66aabb28c155a7653c6d75c45d5896741fe6499ec",
       "sha256": "35fb33c68431ae6db226c4664d7284859dbc99ab51ffc3b148f9538d38475e68"
+    },
+    {
+      "skill_id": "skl_lwKFHgQWg8daKIH-7ZevMw",
+      "name": "how-to-fix-coupa-matching-error-unit-p-f1f0f68e616bf7f3",
+      "title": "how to fix Coupa matching error unit price rounding creates false price variance fails error",
+      "description": "how to fix Coupa matching error unit price rounding creates false price variance fails error",
+      "url": "https://vectle.com/skills/skl_lwKFHgQWg8daKIH-7ZevMw",
+      "exact_version_url": "https://vectle.com/skills/skl_lwKFHgQWg8daKIH-7ZevMw/versions/skv_M8D3YDE1uKQWIgrkKKNp_Q",
+      "version": "skv_M8D3YDE1uKQWIgrkKKNp_Q",
+      "version_sequence": "1",
+      "updated": "2026-10-27T01:54:45.006567+00:00",
+      "path": "skills/how-to-fix-coupa-matching-error-unit-p-f1f0f68e616bf7f3/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "e197d83fcdcdd91e2de076305e321cf58544598603ed7584a744b7e4ae42f868",
+      "public_input_digest": "17067be1250ee272c9f86dc2556cf8e24bea76d0ebdb5fb18f80eca119ed8c9f",
+      "sha256": "b6af9dada9f1f05d18ecb20f4d53edc28cea78308ba634c5400cdf23b185dcad"
     },
     {
       "skill_id": "skl_lwMc8hKmHqnB0VchDP5TnQ",
@@ -379444,6 +379570,27 @@
       "sha256": "0cd414a9247bebbadb972a294e1ee6c29d37781928ec1a2cf84a63363f09d11e"
     },
     {
+      "skill_id": "skl_pwE6TL16kxUHU9WEwIcrCA",
+      "name": "how-to-fix-onetrust-error-vendor-evide-4fbba2ba9930c806",
+      "title": "how to fix OneTrust error vendor evidence request sent to outdated contact fails error",
+      "description": "how to fix OneTrust error vendor evidence request sent to outdated contact fails error",
+      "url": "https://vectle.com/skills/skl_pwE6TL16kxUHU9WEwIcrCA",
+      "exact_version_url": "https://vectle.com/skills/skl_pwE6TL16kxUHU9WEwIcrCA/versions/skv_pSiupUntAkpz0n_Yxg_oLg",
+      "version": "skv_pSiupUntAkpz0n_Yxg_oLg",
+      "version_sequence": "1",
+      "updated": "2026-10-27T01:57:18.943797+00:00",
+      "path": "skills/how-to-fix-onetrust-error-vendor-evide-4fbba2ba9930c806/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "eb5e9ee406c0cdbbab065a55d6a44a40440c33467ab4158e0dcf8806695a3e8f",
+      "public_input_digest": "942cdcbd1e6f41e6547f10bb3bd2412dd3bfe7ada0bfe417843b9795faf05bfb",
+      "sha256": "88c44c6d4cd343ec65b0463da653a3ac35d81af0c7b975af867bf2bd322ad9ed"
+    },
+    {
       "skill_id": "skl_pwQxpoo0vhuI4AgSHRwcXA",
       "name": "saml-signing-certificate-expiring-how-fde794afd8fef738",
       "title": "saml signing certificate expiring: how to rotate without downtime",
@@ -388493,6 +388640,27 @@
       "source_snapshot_digest": "7467ec5a6f9ab85423863b0b913fef59f2942fbe9d9c45ced47991d5c372ad58",
       "public_input_digest": "c7def5b2c55acd5d9377fa01949005582f4e22cee3aab04dd20e19dc7e4d7c69",
       "sha256": "8d7b4233f52e78e1052e32a2bff56b18ad1c90203a8bf796906ff466b00fe23d"
+    },
+    {
+      "skill_id": "skl_rBLArTBfgd1J90zDay-URQ",
+      "name": "coupa-matching-error-unit-price-roundi-a564488795885307",
+      "title": "Coupa matching error unit price rounding creates false price variance",
+      "description": "Coupa matching error unit price rounding creates false price variance",
+      "url": "https://vectle.com/skills/skl_rBLArTBfgd1J90zDay-URQ",
+      "exact_version_url": "https://vectle.com/skills/skl_rBLArTBfgd1J90zDay-URQ/versions/skv_bNnTGQaMYQvbTaBA57BJAg",
+      "version": "skv_bNnTGQaMYQvbTaBA57BJAg",
+      "version_sequence": "1",
+      "updated": "2026-10-26T21:16:54.497319+00:00",
+      "path": "skills/coupa-matching-error-unit-price-roundi-a564488795885307/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "08a580ff632349650be1b4704652699a67021417bd4730edf24914a85aa82619",
+      "public_input_digest": "2e2c06b74fb6a7b9f285f980b58023afe4f30ed1d9bde475617d17741ba79f06",
+      "sha256": "b21217b099bbcfb26f829c18cd3d068c8aeb72cf07bb822b38a378a4a2f6e27f"
     },
     {
       "skill_id": "skl_rBLeZeC8vDqAFXyub2V4dg",
@@ -424930,6 +425098,27 @@
       "sha256": "18dddbaf3f86e3c7c0c6bbc0a98ec2dcc6248f8db14a2a3a3a3d3513e7be2f31"
     },
     {
+      "skill_id": "skl_wXmnzqa9huaBKMdaNIDWGw",
+      "name": "ironclad-clause-library-error-redline-215fde14c14507a0",
+      "title": "Ironclad clause library error redline suggestion inserts wrong fallback tier",
+      "description": "Ironclad clause library error redline suggestion inserts wrong fallback tier",
+      "url": "https://vectle.com/skills/skl_wXmnzqa9huaBKMdaNIDWGw",
+      "exact_version_url": "https://vectle.com/skills/skl_wXmnzqa9huaBKMdaNIDWGw/versions/skv_N9_8iIRuHnaon4YgEGBFXA",
+      "version": "skv_N9_8iIRuHnaon4YgEGBFXA",
+      "version_sequence": "1",
+      "updated": "2026-10-26T21:16:21.939517+00:00",
+      "path": "skills/ironclad-clause-library-error-redline-215fde14c14507a0/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "4eee28ea4d2c9fd835d16085ebbf91a037c7091d108ef6bbeb7abf561a555576",
+      "public_input_digest": "a94746737386e426f2018fd79ae2be9933b25dab8b1c6edf8ab87c669b1f8da1",
+      "sha256": "8a526a71033c1137c28ea4bbc0a796a1a7d0045c67b4358b3906a97035ccb2b5"
+    },
+    {
       "skill_id": "skl_wXtZuFoM_zbAN0I1rECGoA",
       "name": "scraper-failed-on-snowflake-usage-quer-f226544d14af001b",
       "title": "scraper failed on Snowflake usage query result returning empty results for backfilling usage history error scraping...",
@@ -428792,6 +428981,27 @@
       "source_snapshot_digest": "9bab86dd47395606fd9ab9562d97c1c5ad886c2cafd463d004ff2944d037c4f4",
       "public_input_digest": "3a2817f7b5f27a5611901437c0a2add5828d26ddbeeb7b89e3b4a54072c4af79",
       "sha256": "8f0ed3f60147a05818d5e8fa8796dc4ed1bd95d99c812604525354f09be4fa29"
+    },
+    {
+      "skill_id": "skl_x2xk_6hEpF18HV8obCHe_w",
+      "name": "coupa-spend-error-tail-supplier-count-be81de1ae1487910",
+      "title": "Coupa spend error tail supplier count changes after hierarchy update",
+      "description": "Coupa spend error tail supplier count changes after hierarchy update",
+      "url": "https://vectle.com/skills/skl_x2xk_6hEpF18HV8obCHe_w",
+      "exact_version_url": "https://vectle.com/skills/skl_x2xk_6hEpF18HV8obCHe_w/versions/skv_ZPc_yEFhvHkDQCajlb57qA",
+      "version": "skv_ZPc_yEFhvHkDQCajlb57qA",
+      "version_sequence": "1",
+      "updated": "2026-10-26T21:19:08.166403+00:00",
+      "path": "skills/coupa-spend-error-tail-supplier-count-be81de1ae1487910/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "e6a0167c45fb737efb09a2da4eae62fca731da85643c51b2084e6732a285acbf",
+      "public_input_digest": "e317c510517efa2afe4323aec16dd381cac7b2dc4f37801e32e9e8c37632b7d9",
+      "sha256": "6da95cbdabd939eda29d8f9a4122681976daebfa1f9a720c7cbb3d86af748c78"
     },
     {
       "skill_id": "skl_x33AS5_OUFTQhcgP-tVfCA",
