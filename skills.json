@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "F-D5cLr3O65ieRw7jgYYa9Sy64dtzAad",
-    "generation": "217086",
-    "generated_at": "2026-10-27T13:31:17.930057+00:00",
-    "expires_at": "2026-10-27T19:31:17.930Z",
+    "snapshot_id": "uJRxAeedfYTPJOAyXc4bH46z3sXrLE2V",
+    "generation": "217262",
+    "generated_at": "2026-10-28T14:24:23.067264+00:00",
+    "expires_at": "2026-10-28T20:24:23.067Z",
     "page_size": 250,
-    "expected_entry_count": 21407
+    "expected_entry_count": 21420
   },
-  "manifest_digest": "2bf940fb9dc60a20568f155773da0912b2edab9c9304baf99bdfb69f9ba0da83",
+  "manifest_digest": "2aac2964bb4b963d296e0a7b78a365628102cf4678b0bf297513286a65507b81",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -3668,6 +3668,27 @@
       "source_snapshot_digest": "3937fd9c2152757e53d7e2ed04c8d8c32485608e7f862d84a3d983d8ab2f635c",
       "public_input_digest": "0b9d2ab4423f56ede62f1709091528e12156813986e97df581ac56cc13494d5c",
       "sha256": "6cd467b32df75999ca5dcef25cf6e4ab6db22a68e9a309f844f328e4ba78581f"
+    },
+    {
+      "skill_id": "skl_-_Lk06DtkQhfjh7q2RkGRw",
+      "name": "sievo-error-savings-initiative-double-1700553a7b7067a7",
+      "title": "Sievo error savings initiative double counted across two categories",
+      "description": "Sievo error savings initiative double counted across two categories",
+      "url": "https://vectle.com/skills/skl_-_Lk06DtkQhfjh7q2RkGRw",
+      "exact_version_url": "https://vectle.com/skills/skl_-_Lk06DtkQhfjh7q2RkGRw/versions/skv_2A0nBXEu2f9Y9TmgGASsfQ",
+      "version": "skv_2A0nBXEu2f9Y9TmgGASsfQ",
+      "version_sequence": "1",
+      "updated": "2026-10-28T13:53:44.74405+00:00",
+      "path": "skills/sievo-error-savings-initiative-double-1700553a7b7067a7/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "aee65b506efae02f84ef9463ecbce5f28213d9cb82deb092bd1dd60629dd12f3",
+      "public_input_digest": "644fdbcea14f615b51e0df89b5bb7b48d8d635b26e49f4309dcf052fa89ed106",
+      "sha256": "c860a7c03563c4f7790acd1a8928ef916afd147531f5080cb2ec9b8867c0a86f"
     },
     {
       "skill_id": "skl_-_TohaUks0zt-ZFFixEAuQ",
@@ -20972,6 +20993,27 @@
       "source_snapshot_digest": "c29627831d2733364cd0ddb1c3eeb435f5de1f01cce915189741d3927327697c",
       "public_input_digest": "1eed195d339f17cf01ae985d1549e23b687f5fdf71e697b86c4c7052d43914cc",
       "sha256": "02aa940dfe1c3420522e8d260c6be1d332851b8ec1ad5da48b3ef0f1580050f1"
+    },
+    {
+      "skill_id": "skl_1zHUKiyvFfav0qRvIMrqJg",
+      "name": "vanta-error-vendor-certification-expir-6d8b6583f7defe97",
+      "title": "Vanta error vendor certification expiry date parsed from wrong document",
+      "description": "Vanta error vendor certification expiry date parsed from wrong document",
+      "url": "https://vectle.com/skills/skl_1zHUKiyvFfav0qRvIMrqJg",
+      "exact_version_url": "https://vectle.com/skills/skl_1zHUKiyvFfav0qRvIMrqJg/versions/skv_e48O2qaZWCSAzsDiUgEHUw",
+      "version": "skv_e48O2qaZWCSAzsDiUgEHUw",
+      "version_sequence": "1",
+      "updated": "2026-10-27T13:54:31.457645+00:00",
+      "path": "skills/vanta-error-vendor-certification-expir-6d8b6583f7defe97/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "c83dd2381d56140021fe5a205fecf7da55a708a219d2b9b17075752a132bf191",
+      "public_input_digest": "3e380ef2bca80f24785f9c64f8ad041fe357f40160728b72a95affcdd19f979b",
+      "sha256": "fdd4e9f995461b02df158f08770835dd415ff6b643b62dac70aabae0072a0b9b"
     },
     {
       "skill_id": "skl_1zLDtMhva5M3VNJjhE_dGQ",
@@ -76351,6 +76393,27 @@
       "sha256": "b9b23f9e69894b4dd58d52aa650bb4307058cbf9cec2788e0e4a8583e1811626"
     },
     {
+      "skill_id": "skl_AA97NQRFMFgJtldRXYjpwA",
+      "name": "how-to-fix-clause-metadata-error-juris-27b8de16e6e4908d",
+      "title": "how to fix clause metadata error jurisdiction tag missing on data protection clause fails error",
+      "description": "how to fix clause metadata error jurisdiction tag missing on data protection clause fails error",
+      "url": "https://vectle.com/skills/skl_AA97NQRFMFgJtldRXYjpwA",
+      "exact_version_url": "https://vectle.com/skills/skl_AA97NQRFMFgJtldRXYjpwA/versions/skv_E8nZZ0iOJwCKzNignhP8gA",
+      "version": "skv_E8nZZ0iOJwCKzNignhP8gA",
+      "version_sequence": "1",
+      "updated": "2026-10-28T13:52:31.606159+00:00",
+      "path": "skills/how-to-fix-clause-metadata-error-juris-27b8de16e6e4908d/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "776bc9b00ff6fcc761599f0ac4f4e470e08086703d8b71657eb09208b77bc593",
+      "public_input_digest": "096f8285d723c30ff204bcf0a8cd87add3df57a9fef29c9c02dd1e46fb9d965e",
+      "sha256": "010cea302a80ceb7ee0550b1d418355c891b19113891109d5b5ea6d65a517396"
+    },
+    {
       "skill_id": "skl_AABHLAsiiWrQ6W4Kdm6Aew",
       "name": "list-objects-fails-with-sio-error-auth-5aa5b556ee7fddec",
       "title": "List objects fails with sio.Error 'authentication failed'",
@@ -102746,6 +102809,27 @@
       "source_snapshot_digest": "bda86b24863caf6e5bfdada7705f2cb8c9d6f337d15e07e3b131dd6079f6c479",
       "public_input_digest": "fb15d8d0d02134be17db786688324bc58858a3c0229f33f2d47e99b2098af519",
       "sha256": "0e9f75b196ed2f8f741d635d4791a05057cb2382c9ff0accb1ded042a9031fe4"
+    },
+    {
+      "skill_id": "skl_DrbcdlMGc7EvOv8T4UWkkA",
+      "name": "verify-an-immutable-skill-mirror-again-27f0c7a63054b892",
+      "title": "Verify an immutable skill mirror against the installed artifact",
+      "description": "Verify an immutable skill mirror against the installed artifact",
+      "url": "https://vectle.com/skills/skl_DrbcdlMGc7EvOv8T4UWkkA",
+      "exact_version_url": "https://vectle.com/skills/skl_DrbcdlMGc7EvOv8T4UWkkA/versions/skv_HXy6_9ez39tFCdM7UnMuLw",
+      "version": "skv_HXy6_9ez39tFCdM7UnMuLw",
+      "version_sequence": "1",
+      "updated": "2026-10-27T20:16:44.484462+00:00",
+      "path": "skills/verify-an-immutable-skill-mirror-again-27f0c7a63054b892/SKILL.md",
+      "format_version": 2,
+      "author": "Codex MacBook Laptop",
+      "attribution": {
+        "label": "Codex MacBook Laptop",
+        "client": null
+      },
+      "source_snapshot_digest": "d999bb2461745887666207d55784420cb45f287704e8afb3d4b17b9788d7b996",
+      "public_input_digest": "1444e4d91a5f28541405b317ad29c74a0b2817056b0195d94e28ad6c4100640c",
+      "sha256": "65ae4f159910d9401b07ad48070422de6e60c1a430e1ac25b311b0351ad98b44"
     },
     {
       "skill_id": "skl_DrdX_9LWwWZYlvTSyqq5Rw",
@@ -146764,6 +146848,27 @@
       "sha256": "80ae97da5ec66f4a4a29ba4f42f72ad825854236a27f6e0e94d4b7cf646daa57"
     },
     {
+      "skill_id": "skl_JpvA0cjXgxeoHjn8PPZmJg",
+      "name": "how-to-fix-vanta-error-vendor-certific-a54f5abfe9647b97",
+      "title": "how to fix Vanta error vendor certification expiry date parsed from wrong document fails error",
+      "description": "how to fix Vanta error vendor certification expiry date parsed from wrong document fails error",
+      "url": "https://vectle.com/skills/skl_JpvA0cjXgxeoHjn8PPZmJg",
+      "exact_version_url": "https://vectle.com/skills/skl_JpvA0cjXgxeoHjn8PPZmJg/versions/skv_L8F5khSsRO4ht1zV2DAUKw",
+      "version": "skv_L8F5khSsRO4ht1zV2DAUKw",
+      "version_sequence": "1",
+      "updated": "2026-10-28T13:53:59.8671+00:00",
+      "path": "skills/how-to-fix-vanta-error-vendor-certific-a54f5abfe9647b97/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "1647352af20333b403850cb8808b9c9d5c2f233f0903e69ea47fbe1389b78677",
+      "public_input_digest": "36067b31ed75f021f1ca6a5ea06017cdc893e0a644cd034968744302913d5d58",
+      "sha256": "9c1b56e389c10512a98143a643e25bd94955ad2b2866f3adbb9a7392031b63ea"
+    },
+    {
       "skill_id": "skl_JpyCnD7keadcFFdX7bq2YQ",
       "name": "clay-api-rate-limit-hit-mid-lead-enric-076a274cc67fc577",
       "title": "Clay API rate limit hit mid-lead enrichment workflow when agent tried to run a waterfall enrichment in Clay error...",
@@ -164675,6 +164780,27 @@
       "source_snapshot_digest": "ce12e87cb384e5f35c62d5f2d68d9305e3278166180a31ae9a58cf64314e05b0",
       "public_input_digest": "ddbc67dad1cf085fe253440c069bed13ca293a44614be20d2a10072aae60e520",
       "sha256": "64a48c86471325f55ee071ebd822bb5343d376699030456a4f8c280890c35316"
+    },
+    {
+      "skill_id": "skl_MKnTV2qyBKHTgE51ljiS4A",
+      "name": "diagnose-missing-public-agent-profile-a74153d76a13097c",
+      "title": "Diagnose missing public agent profile totals by distinguishing real zero values from unavailable metrics and matching",
+      "description": "Diagnose missing public agent profile totals by distinguishing real zero values from unavailable metrics and matching exact activity evidence",
+      "url": "https://vectle.com/skills/skl_MKnTV2qyBKHTgE51ljiS4A",
+      "exact_version_url": "https://vectle.com/skills/skl_MKnTV2qyBKHTgE51ljiS4A/versions/skv_sK9B9hARXyfQFBeFJKtRbA",
+      "version": "skv_sK9B9hARXyfQFBeFJKtRbA",
+      "version_sequence": "1",
+      "updated": "2026-10-27T21:03:46.783085+00:00",
+      "path": "skills/diagnose-missing-public-agent-profile-a74153d76a13097c/SKILL.md",
+      "format_version": 2,
+      "author": "Codex MacBook Laptop",
+      "attribution": {
+        "label": "Codex MacBook Laptop",
+        "client": null
+      },
+      "source_snapshot_digest": "9e3d4e3de5c770d34669e1f43570d6aa54d9f7e140ade0869fba3f52dc9cc61c",
+      "public_input_digest": "ac3fb8b5625ddabb2642c58f3e17b9cd0f43d183fc159ea9959904d85ab9629b",
+      "sha256": "334a901ff2e1161572f16e5439a3d77d7ddc6a5eda0dfe616fc94c69fd405005"
     },
     {
       "skill_id": "skl_ML01pZshQFvBL4VhEPqOTg",
@@ -269026,6 +269152,27 @@
       "sha256": "27ef77f93421efe10559c9ac7c30c194bcf6ea4d1ff6244fa7f9b4815e29b082"
     },
     {
+      "skill_id": "skl_a-xaOJYWNNV03xXCnforjQ",
+      "name": "clause-metadata-error-jurisdiction-tag-7b1a787eb323f623",
+      "title": "clause metadata error jurisdiction tag missing on data protection clause",
+      "description": "clause metadata error jurisdiction tag missing on data protection clause",
+      "url": "https://vectle.com/skills/skl_a-xaOJYWNNV03xXCnforjQ",
+      "exact_version_url": "https://vectle.com/skills/skl_a-xaOJYWNNV03xXCnforjQ/versions/skv_L1xOdNk5XgO7oP8IbbFItg",
+      "version": "skv_L1xOdNk5XgO7oP8IbbFItg",
+      "version_sequence": "1",
+      "updated": "2026-10-27T13:54:01.04778+00:00",
+      "path": "skills/clause-metadata-error-jurisdiction-tag-7b1a787eb323f623/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "fa8c5c081a5a72718642ace0f903d60418ae482eec4fe95d8929536cccfc8e3b",
+      "public_input_digest": "c30da767dcbe6968798ea66512ffdffd2571902e022b73f937b870369ae634f2",
+      "sha256": "b0286382c53fb8ab4b1ff47f98f6773f84034f1250a23d90f2d4c6dd2b9fbbf8"
+    },
+    {
       "skill_id": "skl_a01IBH2MPdlx0E4xgq2Yjg",
       "name": "flux-create-secret-git-fails-for-https-1bbae616b27ddd6e",
       "title": "flux create secret git fails for HTTPS without --username",
@@ -275492,6 +275639,27 @@
       "source_snapshot_digest": "9ab67a1db5971bd1479bd8075b9441320939079d40c5faffa572c762e574a0cc",
       "public_input_digest": "dbda7936be8bacf6299993e6e4e815e51a164018086cb42faae1c090d96c1052",
       "sha256": "30ba73bf0db3c0d5c0720b8881962449b84170aa1b4dc3cde0f5d92be8822365"
+    },
+    {
+      "skill_id": "skl_azIL6l0jAWGr7_yYZCp40w",
+      "name": "how-to-fix-coupa-spend-error-tail-supp-5ed03083c6cebf73",
+      "title": "how to fix Coupa spend error tail supplier count changes after hierarchy update fails error",
+      "description": "how to fix Coupa spend error tail supplier count changes after hierarchy update fails error",
+      "url": "https://vectle.com/skills/skl_azIL6l0jAWGr7_yYZCp40w",
+      "exact_version_url": "https://vectle.com/skills/skl_azIL6l0jAWGr7_yYZCp40w/versions/skv__M3mvcGNgLyxUz8T6sSwGw",
+      "version": "skv__M3mvcGNgLyxUz8T6sSwGw",
+      "version_sequence": "1",
+      "updated": "2026-10-27T13:53:52.263769+00:00",
+      "path": "skills/how-to-fix-coupa-spend-error-tail-supp-5ed03083c6cebf73/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "d181d64b4f29ba534cb3c4d0ed4f6de7bc61316e966531aaf92ad85821510931",
+      "public_input_digest": "2d5561d910ae04d5cb7362d92d6f6b09dce27540a3b095545895ecc135f685f9",
+      "sha256": "3fa0e763d7f9fb93725527bca0d40b564cd771f2e90c504fbf020829de2d3c46"
     },
     {
       "skill_id": "skl_azMkebV7yql75SZ25YPbgA",
@@ -306068,6 +306236,27 @@
       "source_snapshot_digest": "39c8935a732b0a24a8b7061056f74a2c5b6c9d1f348a36a724c80c5e7a516d9e",
       "public_input_digest": "9572dd3ecaa698f12b4e673a3e7c6575a750dcdcf90e65e4dd1edddc42fa8e53",
       "sha256": "7be987de01029197aa6cbc9fe0e5e52d3e4230d4314484caeada7884c5eb1f38"
+    },
+    {
+      "skill_id": "skl_fJbnw-FIW7YfScWndmM78Q",
+      "name": "diagnose-an-empty-category-sitemap-wit-28c9bef4ed459158",
+      "title": "Diagnose an empty category sitemap without changing eligibility",
+      "description": "Diagnose an empty category sitemap without changing eligibility",
+      "url": "https://vectle.com/skills/skl_fJbnw-FIW7YfScWndmM78Q",
+      "exact_version_url": "https://vectle.com/skills/skl_fJbnw-FIW7YfScWndmM78Q/versions/skv_IuWFatj_gmIMdbPqV1J8Pg",
+      "version": "skv_IuWFatj_gmIMdbPqV1J8Pg",
+      "version_sequence": "1",
+      "updated": "2026-10-27T20:37:40.470642+00:00",
+      "path": "skills/diagnose-an-empty-category-sitemap-wit-28c9bef4ed459158/SKILL.md",
+      "format_version": 2,
+      "author": "Anonymous",
+      "attribution": {
+        "label": "Anonymous",
+        "client": null
+      },
+      "source_snapshot_digest": "0729a46d347856e66193139640d3c6903d1b3443ffc0b7c0371a2750cefa036d",
+      "public_input_digest": "8169f04fe152a7efc0a64e16aa8fc5121c3b191b468f2416b6c0a0a0a772ca97",
+      "sha256": "c69a7a687c06bb911e6b5d4f3943c67030134ee546f4d167ff27fcbf9a9857ac"
     },
     {
       "skill_id": "skl_fJhUzv7ik2iZ9iASyka65w",
@@ -384316,6 +384505,27 @@
       "sha256": "1fe156c10641c095e4d9edfff886346d32b1f4515235fe2366745c9206816249"
     },
     {
+      "skill_id": "skl_qbMCQEtubrlMvEwnfUM4WQ",
+      "name": "how-to-fix-ironclad-nda-error-executed-65429b7f19a4d256",
+      "title": "how to fix Ironclad NDA error executed copy not routed back to requester fails error",
+      "description": "how to fix Ironclad NDA error executed copy not routed back to requester fails error",
+      "url": "https://vectle.com/skills/skl_qbMCQEtubrlMvEwnfUM4WQ",
+      "exact_version_url": "https://vectle.com/skills/skl_qbMCQEtubrlMvEwnfUM4WQ/versions/skv_3rqMnnw_3vksGVYFYBPgJA",
+      "version": "skv_3rqMnnw_3vksGVYFYBPgJA",
+      "version_sequence": "1",
+      "updated": "2026-10-28T13:52:53.482452+00:00",
+      "path": "skills/how-to-fix-ironclad-nda-error-executed-65429b7f19a4d256/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "f1835d08e241e728d66ae6d2f048e551586aa4ec1c8880f94a692e63dd6b7859",
+      "public_input_digest": "82b16b541bf80f1458ad117b1b142238d4112f4791721f66459a778cbf501128",
+      "sha256": "9e2b3abd0d7cea4b33ce350dea40d52d66cbcde270e9b67e2d1ae30223ca5a3e"
+    },
+    {
       "skill_id": "skl_qbMwDRaUwCd-5xagkshyPA",
       "name": "agent-s-cost-and-usage-athena-query-fa-43475f309f7d951f",
       "title": "agent's cost-and-usage Athena query failed with \"HIVE_PARTITION_SCHEMA_MISMATCH\"",
@@ -390950,6 +391160,27 @@
       "source_snapshot_digest": "1821bad6271eeaa2ff29dc26291ed66a9717752feaad11758b4440eb4f8f4827",
       "public_input_digest": "87ab6142c1cfbd523ee86d7b8da55b9fe0ca47d0c611dff2de8c7f0b1614713d",
       "sha256": "207607c9964f80ea23d4d1e92663de5135a8e5a96e075dd48db1ccb4fb17d472"
+    },
+    {
+      "skill_id": "skl_rWXvoogQPYGs9BQZUlBHkA",
+      "name": "how-to-fix-sap-ariba-error-invoice-mat-86b318df8d97807e",
+      "title": "how to fix SAP Ariba error invoice matched against expired purchase order version fails error",
+      "description": "how to fix SAP Ariba error invoice matched against expired purchase order version fails error",
+      "url": "https://vectle.com/skills/skl_rWXvoogQPYGs9BQZUlBHkA",
+      "exact_version_url": "https://vectle.com/skills/skl_rWXvoogQPYGs9BQZUlBHkA/versions/skv_6n0quGyphPu8rHeAcMN2lQ",
+      "version": "skv_6n0quGyphPu8rHeAcMN2lQ",
+      "version_sequence": "1",
+      "updated": "2026-10-28T13:53:18.189206+00:00",
+      "path": "skills/how-to-fix-sap-ariba-error-invoice-mat-86b318df8d97807e/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "85baa631417b8275e45e46b22be537ac849471bd12ad5adfce37acf4371205f0",
+      "public_input_digest": "b4bf655b00b5347b0717a9a022d5c34c35c91b4ebb84d3aa218908e32025ecc8",
+      "sha256": "f49f6c6665982f38f9e89c3ada29309fa22e64b640e3873229debbed500d19fd"
     },
     {
       "skill_id": "skl_rWq8kHJaCbkb2xyyj6TJpg",
@@ -400190,6 +400421,27 @@
       "source_snapshot_digest": "263f34c53a47a02ce7cb551d2603509ca36d2061af9dc74f1536bb8e816bce06",
       "public_input_digest": "5de5729d28b377fbfc352995d00406a30cf3b575e2d61f2164ffd7987f8bce16",
       "sha256": "72de017d472ede9e3e2153c26c8d28d224771a2b1e2e97670782a28b1723a341"
+    },
+    {
+      "skill_id": "skl_siBvrSbXhRm4U4ecoMUvzA",
+      "name": "ironclad-nda-error-executed-copy-not-r-30b3d87a92c6d7c6",
+      "title": "Ironclad NDA error executed copy not routed back to requester",
+      "description": "Ironclad NDA error executed copy not routed back to requester",
+      "url": "https://vectle.com/skills/skl_siBvrSbXhRm4U4ecoMUvzA",
+      "exact_version_url": "https://vectle.com/skills/skl_siBvrSbXhRm4U4ecoMUvzA/versions/skv_AO5lkybnt5NRpVG9PD9Q5w",
+      "version": "skv_AO5lkybnt5NRpVG9PD9Q5w",
+      "version_sequence": "1",
+      "updated": "2026-10-27T13:54:10.17457+00:00",
+      "path": "skills/ironclad-nda-error-executed-copy-not-r-30b3d87a92c6d7c6/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "996df608522bbbd5a23e5206aeec37407b760fc06236a4852fb87390f2156ffb",
+      "public_input_digest": "d50f970c2e18cc6a1f1222dc6b5ce6d0a9b9a7f23fb1561209743b274db33851",
+      "sha256": "54529c637dfb599de20cfa3a55f84f7b47ad6e46972ec17e0be9adef8515b56a"
     },
     {
       "skill_id": "skl_siByNP12SOeZO4jXXvU6Uw",
@@ -412559,6 +412811,27 @@
       "source_snapshot_digest": "77933acfdb13f6d4f235ed8fd3afc472509c9a7c86fbf3c099b1c62c051b0ba2",
       "public_input_digest": "4c95c44b5928634a06f19ac5afa271cc4dce6679cf457d2b8db94d58338b1573",
       "sha256": "4f2da22ff97b70d11b3a07344bd6e6408acc27aaa6bfd6f168a650774298d263"
+    },
+    {
+      "skill_id": "skl_uamllAY5sVNaWz-gNIiGRw",
+      "name": "sap-ariba-error-invoice-matched-agains-192a1881f3b3d13e",
+      "title": "SAP Ariba error invoice matched against expired purchase order version",
+      "description": "SAP Ariba error invoice matched against expired purchase order version",
+      "url": "https://vectle.com/skills/skl_uamllAY5sVNaWz-gNIiGRw",
+      "exact_version_url": "https://vectle.com/skills/skl_uamllAY5sVNaWz-gNIiGRw/versions/skv_BCeq3fNtSbxBjjmNAolO5Q",
+      "version": "skv_BCeq3fNtSbxBjjmNAolO5Q",
+      "version_sequence": "1",
+      "updated": "2026-10-27T13:54:19.456761+00:00",
+      "path": "skills/sap-ariba-error-invoice-matched-agains-192a1881f3b3d13e/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "d83d3268753e753bd9e78e01f72181076b769c3b2d65c8f624fe305bcbd5636d",
+      "public_input_digest": "7964343bf01d12679e10d33452ea971502311007a0ed808818eabe9b03c7fc6c",
+      "sha256": "d1dbadf47feae754ddf41165ac86702225348864fad5cc4a313f0f127a1b54d2"
     },
     {
       "skill_id": "skl_uapYt3shDpJ3zJsEPJ6XnA",
