@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "uJRxAeedfYTPJOAyXc4bH46z3sXrLE2V",
-    "generation": "217262",
-    "generated_at": "2026-10-28T14:24:23.067264+00:00",
-    "expires_at": "2026-10-28T20:24:23.067Z",
+    "snapshot_id": "WCjjjKhhGfosEDMCv96Q89kkUnKvQW6S",
+    "generation": "217444",
+    "generated_at": "2026-10-29T14:37:45.204207+00:00",
+    "expires_at": "2026-10-29T20:37:45.204Z",
     "page_size": 250,
-    "expected_entry_count": 21420
+    "expected_entry_count": 21433
   },
-  "manifest_digest": "2aac2964bb4b963d296e0a7b78a365628102cf4678b0bf297513286a65507b81",
+  "manifest_digest": "70b8095159b8aa9b51b207809cdcf92bbe3916e917d0fcd0616ee44bb37ce666",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -25571,6 +25571,27 @@
       "source_snapshot_digest": "b40a9e79077ed5eef3502d8802a84e10e9834a9edf1603d71f8c942325db5597",
       "public_input_digest": "e3c81721bb0e608c083b77c83788494066e78b44fa21eed883c39f05b7446b93",
       "sha256": "a4db7f26c7491f6ab65f55d96913abb51f7deaa0699d43ebc3620ce7273f9aab"
+    },
+    {
+      "skill_id": "skl_2b6S58TNkhMrxIineCwR0w",
+      "name": "how-to-fix-lexion-clause-error-obligat-d7266c3ea28cdf93",
+      "title": "how to fix Lexion clause error obligations extraction misses renewal notice period fails error",
+      "description": "how to fix Lexion clause error obligations extraction misses renewal notice period fails error",
+      "url": "https://vectle.com/skills/skl_2b6S58TNkhMrxIineCwR0w",
+      "exact_version_url": "https://vectle.com/skills/skl_2b6S58TNkhMrxIineCwR0w/versions/skv_xNRANx0giTgBpm_8km_ABA",
+      "version": "skv_xNRANx0giTgBpm_8km_ABA",
+      "version_sequence": "1",
+      "updated": "2026-10-29T13:53:57.278099+00:00",
+      "path": "skills/how-to-fix-lexion-clause-error-obligat-d7266c3ea28cdf93/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "de25f17a2e706f2c62b9632bdb225757af468dcc9fca8dab464c95a853ddf69f",
+      "public_input_digest": "a63478da34a934b1404d366509953b53ffd3e93c6a85407a80ac39f6e7f85c70",
+      "sha256": "b5f74245b02f579b9827df0e639d9419047557f40c5e3b105a7a5ce47458a040"
     },
     {
       "skill_id": "skl_2bakQqa-irSzkXlDISRdSg",
@@ -87586,6 +87607,27 @@
       "sha256": "41da02ae447b6308d012b08f6f1200c010f6eda6a769b5b0eafcf348a9d542e3"
     },
     {
+      "skill_id": "skl_BkRYKdPwdu8D7OAv-rdfnA",
+      "name": "spendhq-error-preferred-supplier-spend-3e41d6278f4f082c",
+      "title": "SpendHQ error preferred supplier spend not separated from tail spend",
+      "description": "SpendHQ error preferred supplier spend not separated from tail spend",
+      "url": "https://vectle.com/skills/skl_BkRYKdPwdu8D7OAv-rdfnA",
+      "exact_version_url": "https://vectle.com/skills/skl_BkRYKdPwdu8D7OAv-rdfnA/versions/skv_8KJCdlq6tiYv2Vd104n3EA",
+      "version": "skv_8KJCdlq6tiYv2Vd104n3EA",
+      "version_sequence": "1",
+      "updated": "2026-10-29T13:54:48.342826+00:00",
+      "path": "skills/spendhq-error-preferred-supplier-spend-3e41d6278f4f082c/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "559257667cde62a67277c41a98fc03c042256ab688068a88c1c322ae1abfe15f",
+      "public_input_digest": "fa848b931196f9f910f942670fb9c25e8acda95c446e5f4dc16bb5054cc2bff9",
+      "sha256": "e0053b0d9aa9d71eda635ce2a6d388760ab9f8a6e7db70aef3e22f2b290f74e5"
+    },
+    {
       "skill_id": "skl_BkUD5I7NNYDDRGbnwB5YMw",
       "name": "agent-stopped-idle-kafka-brokers-consu-405657584f70d94f",
       "title": "agent stopped \"idle\" kafka brokers  -  consumer lag exploded overnight",
@@ -108584,6 +108626,27 @@
       "source_snapshot_digest": "053d82045e4feade79358132e34f6438328fb181ce8823f225a734aa0f2fbcca",
       "public_input_digest": "0f384ea8f63b3cb29a736c57942905f9b14f2fd31d3febe694c240c6816f2322",
       "sha256": "482a5116f9b63514f0e8be07d0f0f7b9bac10237ea139d26b98dafec1c3c2965"
+    },
+    {
+      "skill_id": "skl_EZwHb51eEmBBRK66NmzwYw",
+      "name": "lexion-clause-error-obligations-extrac-b208de96110b61e3",
+      "title": "Lexion clause error obligations extraction misses renewal notice period",
+      "description": "Lexion clause error obligations extraction misses renewal notice period",
+      "url": "https://vectle.com/skills/skl_EZwHb51eEmBBRK66NmzwYw",
+      "exact_version_url": "https://vectle.com/skills/skl_EZwHb51eEmBBRK66NmzwYw/versions/skv_EyMb-Y7FXGf_zOq7Emi_TA",
+      "version": "skv_EyMb-Y7FXGf_zOq7Emi_TA",
+      "version_sequence": "1",
+      "updated": "2026-10-29T01:54:58.684147+00:00",
+      "path": "skills/lexion-clause-error-obligations-extrac-b208de96110b61e3/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "82038f3d228dc06b6262e7da0633fe0e243b254b70b4b706e743246311436eee",
+      "public_input_digest": "ff605edc57f9ef8aee078762a473ea68e6fa2b9b38a92ffa53a2ea448d10e75d",
+      "sha256": "b888ab7a26779281cdf64aa826180c0c2c1913eedbf7298509744da0f340a569"
     },
     {
       "skill_id": "skl_E_13wJPhPKmsG3ov7bZ9LQ",
@@ -190654,6 +190717,27 @@
       "sha256": "1f0d9e7f47425be9b9019fdb5cc932f3b82a9f650a73a66f2d037d7f79903b35"
     },
     {
+      "skill_id": "skl_Q2dHqZ2wkiE7tqT9AZ_Y7w",
+      "name": "how-to-fix-sievo-error-savings-initiat-4af0aeb63397d1e8",
+      "title": "how to fix Sievo error savings initiative double counted across two categories fails error",
+      "description": "how to fix Sievo error savings initiative double counted across two categories fails error",
+      "url": "https://vectle.com/skills/skl_Q2dHqZ2wkiE7tqT9AZ_Y7w",
+      "exact_version_url": "https://vectle.com/skills/skl_Q2dHqZ2wkiE7tqT9AZ_Y7w/versions/skv_kF7R5J-FlCm-WYwoYTpFDQ",
+      "version": "skv_kF7R5J-FlCm-WYwoYTpFDQ",
+      "version_sequence": "1",
+      "updated": "2026-10-29T01:57:05.758064+00:00",
+      "path": "skills/how-to-fix-sievo-error-savings-initiat-4af0aeb63397d1e8/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "60ef68e5a6ded5fab2c5b40bec621eab4308929baa0c872487948b74b76ab0af",
+      "public_input_digest": "5558670aeea50b5c2fc3e9743fc356cab702baed7ac63db43844e39e790c01b6",
+      "sha256": "289f24d6521059aa43d387f6633fe0cf9d764f451a9d298058df8597080cb88e"
+    },
+    {
       "skill_id": "skl_Q34KRM9Sy-RqePrI5xRJuA",
       "name": "grafana-incident-status-page-announcem-f57bb1457bb2bed9",
       "title": "Grafana Incident status page announcement failed \"webhook signing secret mismatch\" error",
@@ -212996,6 +213080,27 @@
       "source_snapshot_digest": "dde5c5f5d74c02be632fbd59c0b847f66a27fdd27285c944b6dda33e4f90d32c",
       "public_input_digest": "f8df695831f5f0804e7f4d035dd61a42a662a3b2ff9dcad915c9186c97001474",
       "sha256": "7a1127619b077c5a515d020bb8cff8fff6ae53f607e4c7981e96bb504933469e"
+    },
+    {
+      "skill_id": "skl_T8w3YzgRGdubb9POWGkE9Q",
+      "name": "how-to-fix-securityscorecard-error-ven-b8077a836f7b1df1",
+      "title": "how to fix SecurityScorecard error vendor domain mapped to parent company findings fails error",
+      "description": "how to fix SecurityScorecard error vendor domain mapped to parent company findings fails error",
+      "url": "https://vectle.com/skills/skl_T8w3YzgRGdubb9POWGkE9Q",
+      "exact_version_url": "https://vectle.com/skills/skl_T8w3YzgRGdubb9POWGkE9Q/versions/skv_r-uCZ7sA1XnMccX4HT0nPQ",
+      "version": "skv_r-uCZ7sA1XnMccX4HT0nPQ",
+      "version_sequence": "1",
+      "updated": "2026-10-29T13:55:08.831955+00:00",
+      "path": "skills/how-to-fix-securityscorecard-error-ven-b8077a836f7b1df1/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "20d91bb5dbcd3bb8f5b352e63b59ed6ef970138bfef8cc6e8bb38129a8ea42c9",
+      "public_input_digest": "927fb75e9a5c12b67417ab77f17c96248d4cde205e997345052860ebbabeb108",
+      "sha256": "f67979b865154aef3364b24a886f5a10f474293ce4ccdb0bda164f6ebec7e07d"
     },
     {
       "skill_id": "skl_T9-H-umGV7n6ObHOnrOfkQ",
@@ -238532,6 +238637,27 @@
       "source_snapshot_digest": "72e9a2bfc464a8ab0f4683bf7daef2175ef9dd8e8c22005248409f28a88eb1e6",
       "public_input_digest": "ad49525c8837dd140cc831bfa74f71d08e7caa5dca40327753e070aa5e3f9c68",
       "sha256": "f9a122452fd0f53e1414095a30ef0f0def446f04828c56ffd70e0268a3633558"
+    },
+    {
+      "skill_id": "skl_WhxHtd5mCrPp2pFoEBS8lg",
+      "name": "fix-discovery-pagination-timeout-error-dac22bbe59b2ed73",
+      "title": "Fix discovery pagination, timeout errors, and provider-aware health",
+      "description": "Fix discovery pagination, timeout errors, and provider-aware health",
+      "url": "https://vectle.com/skills/skl_WhxHtd5mCrPp2pFoEBS8lg",
+      "exact_version_url": "https://vectle.com/skills/skl_WhxHtd5mCrPp2pFoEBS8lg/versions/skv_1ivvRD7-hQpbDUmGF2IBxg",
+      "version": "skv_1ivvRD7-hQpbDUmGF2IBxg",
+      "version_sequence": "1",
+      "updated": "2026-10-28T15:23:22.998802+00:00",
+      "path": "skills/fix-discovery-pagination-timeout-error-dac22bbe59b2ed73/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "a6f4f5bf2aa2312a54882a20cb5c63f4b1b345b6206c4f2166823082441c8a04",
+      "public_input_digest": "ffa70159779c02927c210c860d9112277a58173125a3f6b594f4fac97fc74312",
+      "sha256": "f88b10f8286a948392e2bc8d838fe86c0a0c9395f1c7d70430a7ae576075982b"
     },
     {
       "skill_id": "skl_WhyZSlwJPviJIHMSn4Rvag",
@@ -310081,6 +310207,27 @@
       "sha256": "cf9c8ac40109b4501b2652992f9c684c041ed8126eca122bb509ab0d248caeca"
     },
     {
+      "skill_id": "skl_fovEj_D_S6BZc5xoXVv_lw",
+      "name": "securityscorecard-error-vendor-domain-786a05715009a9e6",
+      "title": "SecurityScorecard error vendor domain mapped to parent company findings",
+      "description": "SecurityScorecard error vendor domain mapped to parent company findings",
+      "url": "https://vectle.com/skills/skl_fovEj_D_S6BZc5xoXVv_lw",
+      "exact_version_url": "https://vectle.com/skills/skl_fovEj_D_S6BZc5xoXVv_lw/versions/skv_fg8cS9pKrKA2VdZzwPMSkA",
+      "version": "skv_fg8cS9pKrKA2VdZzwPMSkA",
+      "version_sequence": "1",
+      "updated": "2026-10-29T01:57:25.560208+00:00",
+      "path": "skills/securityscorecard-error-vendor-domain-786a05715009a9e6/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "21412a03f0b7b72930f8ca8c719b8f8b0fe8704dd6c7b18988d38603b9c06dd2",
+      "public_input_digest": "8e6231019b1db71957a11686107bec59f843a12c4d6e093f5e9a6d71e7229b22",
+      "sha256": "10aace9c65ab15168c333ce0eb46fafd88e0cdae344ae4d0e9127253708f8a7c"
+    },
+    {
       "skill_id": "skl_fp7lly4uMKxBEwB_xKxrdg",
       "name": "help-center-recently-updated-widget-li-afb07b6e58da5f8a",
       "title": "help center recently updated widget lists articles unchanged for two years",
@@ -312746,6 +312893,27 @@
       "source_snapshot_digest": "18ea4be6f4cceced02b9562f20b3d4399ec6a702206475bc9625b3df37c6c269",
       "public_input_digest": "6b125298e772c3de08026510e5c24847f73b081163048f39895fb89f710b77d9",
       "sha256": "6c244cb4268963bf55750eb626441d58e0d9c1203b0ebdcc078622bc17b6f602"
+    },
+    {
+      "skill_id": "skl_gE0QKLOYkdIgM0n7gw4y9Q",
+      "name": "nda-expiry-error-tracker-misses-agreem-3d3c2920bbb06fc2",
+      "title": "NDA expiry error tracker misses agreements expiring within 30 days",
+      "description": "NDA expiry error tracker misses agreements expiring within 30 days",
+      "url": "https://vectle.com/skills/skl_gE0QKLOYkdIgM0n7gw4y9Q",
+      "exact_version_url": "https://vectle.com/skills/skl_gE0QKLOYkdIgM0n7gw4y9Q/versions/skv_ECJ0qiDZKpo9Tn9JiM367A",
+      "version": "skv_ECJ0qiDZKpo9Tn9JiM367A",
+      "version_sequence": "1",
+      "updated": "2026-10-29T13:54:18.093814+00:00",
+      "path": "skills/nda-expiry-error-tracker-misses-agreem-3d3c2920bbb06fc2/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "0024358caa007a851498a76cce60c5933fe8a39e3277962357928f3dbedc2b9e",
+      "public_input_digest": "6c813dc68f84ac83c5c7235b4b31b06848ca49db73313b858e4bef39c532a605",
+      "sha256": "df4131a41cd0282d130156697143a5f08200c470e3c4859957b1d3dc760d06de"
     },
     {
       "skill_id": "skl_gEQf0gGIFyJdoGcSezv2Pg",
@@ -328288,6 +328456,27 @@
       "sha256": "7ec4bc5620f2fa9dae20248a5d0746f46b984badf8ed737b5e5c7b112c6c65ab"
     },
     {
+      "skill_id": "skl_iJu1ei3HIz2jwhx_7GXxOw",
+      "name": "pandadoc-nda-error-signing-order-ignor-51c6bce107ed6ca3",
+      "title": "PandaDoc NDA error signing order ignored for three party NDA",
+      "description": "PandaDoc NDA error signing order ignored for three party NDA",
+      "url": "https://vectle.com/skills/skl_iJu1ei3HIz2jwhx_7GXxOw",
+      "exact_version_url": "https://vectle.com/skills/skl_iJu1ei3HIz2jwhx_7GXxOw/versions/skv_L3KIz14wJoyIUXJkZlOoXg",
+      "version": "skv_L3KIz14wJoyIUXJkZlOoXg",
+      "version_sequence": "1",
+      "updated": "2026-10-29T01:55:32.949055+00:00",
+      "path": "skills/pandadoc-nda-error-signing-order-ignor-51c6bce107ed6ca3/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "f1663c16dc40ddb7d0860a60c28d5797c262b6a8961f5824474fcbf4da715742",
+      "public_input_digest": "dc2c920cceb0638dec1aeda13ae7511aaf0e8f91d20483f81e547358e6a3f1e1",
+      "sha256": "102c1d7b9809437b52f707f1bf704a975d58be855992cd1b2202221fa9a12098"
+    },
+    {
       "skill_id": "skl_iJxN4921vP36J0Lz8UKq_A",
       "name": "agent-failed-to-handle-hubspot-s-pagin-58848e6f135f18a8",
       "title": "agent failed to handle hubspot's paginated search cursor reset",
@@ -331898,6 +332087,27 @@
       "source_snapshot_digest": "51d540a726881d627ba963b66374aa8dd11859af2d17f288f9f6332eac4b1af5",
       "public_input_digest": "66f998995289ad3ac181b186887d12a1ff312e1e057eb44274058da6efc9fa3c",
       "sha256": "67eba209efc33741228211008c443452aa6be6bfc15f8a700ed57dc21fa8ee8a"
+    },
+    {
+      "skill_id": "skl_ip6S8t15XpIIRZH6cl-WHw",
+      "name": "how-to-fix-netsuite-match-error-tax-li-d8649d2e3a3e9e4e",
+      "title": "how to fix NetSuite match error tax line on vendor bill blocks three-way match fails error",
+      "description": "how to fix NetSuite match error tax line on vendor bill blocks three-way match fails error",
+      "url": "https://vectle.com/skills/skl_ip6S8t15XpIIRZH6cl-WHw",
+      "exact_version_url": "https://vectle.com/skills/skl_ip6S8t15XpIIRZH6cl-WHw/versions/skv_HSVhvueqZDnXQHvBUN1uvA",
+      "version": "skv_HSVhvueqZDnXQHvBUN1uvA",
+      "version_sequence": "1",
+      "updated": "2026-10-29T01:59:48.121117+00:00",
+      "path": "skills/how-to-fix-netsuite-match-error-tax-li-d8649d2e3a3e9e4e/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "1379e043e3628357c54661bca421dc6c16ab7c4db559514e0b9b77ee701e9200",
+      "public_input_digest": "29ca9ce15b4eb4160e3ecc6d3a6e69c686063e1b8bc23a0eff326e6dbb8ea305",
+      "sha256": "ec1d279d24eddb140185c5787617183cfb9f1ccd8c9b370e6a2a1444f4f7d994"
     },
     {
       "skill_id": "skl_ipAa7r4iUYoK-wLM0YdpBw",
@@ -411028,6 +411238,27 @@
       "sha256": "df756901ecec16d192f89b35c215a2e82da13ccc2c64b210295654985721f3da"
     },
     {
+      "skill_id": "skl_uL2vn4yWMDOG-b6BiK1TdA",
+      "name": "fix-pxc-operator-reconcile-loop-error-ff724e3761596f1e",
+      "title": "Fix PXC operator reconcile loop: Error 4006 CREATE USER failed for a view definer account",
+      "description": "Fix PXC operator reconcile loop: Error 4006 CREATE USER failed for a view definer account",
+      "url": "https://vectle.com/skills/skl_uL2vn4yWMDOG-b6BiK1TdA",
+      "exact_version_url": "https://vectle.com/skills/skl_uL2vn4yWMDOG-b6BiK1TdA/versions/skv_oE4gbaOMeVI4yphIrgS0NA",
+      "version": "skv_oE4gbaOMeVI4yphIrgS0NA",
+      "version_sequence": "1",
+      "updated": "2026-10-29T10:57:41.79533+00:00",
+      "path": "skills/fix-pxc-operator-reconcile-loop-error-ff724e3761596f1e/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "f5d76cb654fa92764f0fad217c5499ea98da2ad18ae8849cebc1fe3f9ccf25b2",
+      "public_input_digest": "3af6ef628ab7b816b92597f05076230adb27bf65c087c91a3d7743b71f55f9f1",
+      "sha256": "5643fa14441ff7b0a1a9cc8e50fef715e10e551771f96e79d4ce5612f0778593"
+    },
+    {
       "skill_id": "skl_uLByWXYlSnEX4gMUkCJb4Q",
       "name": "how-to-fix-synthetic-time-series-error-dd56c8bf0f2530fa",
       "title": "how to fix synthetic time series error temporal order broken generated events out of sequence failure",
@@ -426293,6 +426524,27 @@
       "source_snapshot_digest": "5a494e275302ffe22c8fc49773bd70148ad92eaeaf39cf0a9706ab2147150512",
       "public_input_digest": "773f16a1cc1bb7688b3b3fdcdbd0fa3f912839bf574b4cef938ca879bb242c95",
       "sha256": "320ec887b1bfa4628c98af365efbf8ba8afc00bff0295d97c86948a530d7cdb3"
+    },
+    {
+      "skill_id": "skl_weNFZKKLId8PKC7wS9I-MQ",
+      "name": "oracle-payables-error-exchange-rate-va-5eb2125e04af199d",
+      "title": "Oracle payables error exchange rate variance hold on foreign currency invoice",
+      "description": "Oracle payables error exchange rate variance hold on foreign currency invoice",
+      "url": "https://vectle.com/skills/skl_weNFZKKLId8PKC7wS9I-MQ",
+      "exact_version_url": "https://vectle.com/skills/skl_weNFZKKLId8PKC7wS9I-MQ/versions/skv_Lea_qULY2Q5wWneDWsGpDg",
+      "version": "skv_Lea_qULY2Q5wWneDWsGpDg",
+      "version_sequence": "1",
+      "updated": "2026-10-29T13:54:36.594351+00:00",
+      "path": "skills/oracle-payables-error-exchange-rate-va-5eb2125e04af199d/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "7be936a2382fc125043a693bd5cbd2b4d61c176570a022da459779aa95337ed9",
+      "public_input_digest": "5576050a735a620bb9eb2a4531eade96da76645ce47d0a16676d01517dc23af9",
+      "sha256": "494ee30eb5d67fb1dda79bc4af542402320c6a2db41b11ae9567c93ca0e4d8bc"
     },
     {
       "skill_id": "skl_weVBJd-M0mFwYWU8SKcrow",
@@ -446096,6 +446348,27 @@
       "source_snapshot_digest": "8146e39fadf456dc96c7a4415b5ae1e497146c5ec34fc987f11b713a94fb6025",
       "public_input_digest": "3d7a14a446ed5caa1f2eba98066092edc7ae202a73e6fc9e1f932b46d3a03a69",
       "sha256": "cb8239df13316ed641e9aa1d4109dc621faaffb8d95f0be72655344f746abf2b"
+    },
+    {
+      "skill_id": "skl_zTF1BACanlKW9I3uriVyew",
+      "name": "how-to-fix-pandadoc-nda-error-signing-cc8463c6ac712423",
+      "title": "how to fix PandaDoc NDA error signing order ignored for three party NDA fails error",
+      "description": "how to fix PandaDoc NDA error signing order ignored for three party NDA fails error",
+      "url": "https://vectle.com/skills/skl_zTF1BACanlKW9I3uriVyew",
+      "exact_version_url": "https://vectle.com/skills/skl_zTF1BACanlKW9I3uriVyew/versions/skv_LnG7b2NJj8uzkRHQQiEqgA",
+      "version": "skv_LnG7b2NJj8uzkRHQQiEqgA",
+      "version_sequence": "1",
+      "updated": "2026-10-29T01:59:31.912076+00:00",
+      "path": "skills/how-to-fix-pandadoc-nda-error-signing-cc8463c6ac712423/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "04e43f08e7ea7e3b6c0d88332e55fbf68f4d6bf0a531388bc36bf6f0d6271149",
+      "public_input_digest": "318ecc451c11ad894aedff4f731682aa1a5fc84dbb45eb5462838096f52c3211",
+      "sha256": "76ca23ca4d5a070647e0bbd037e42fe60940d9868013316e2a94ae63db27be95"
     },
     {
       "skill_id": "skl_zTJaGAM9qmaY84o5i_f_AQ",
