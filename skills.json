@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "WCjjjKhhGfosEDMCv96Q89kkUnKvQW6S",
-    "generation": "217444",
-    "generated_at": "2026-10-29T14:37:45.204207+00:00",
-    "expires_at": "2026-10-29T20:37:45.204Z",
+    "snapshot_id": "QqfBURqQPcP65tUE5onrVGMI2Gc7CS67",
+    "generation": "217589",
+    "generated_at": "2026-10-30T14:29:10.232356+00:00",
+    "expires_at": "2026-10-30T20:29:10.232Z",
     "page_size": 250,
-    "expected_entry_count": 21433
+    "expected_entry_count": 21443
   },
-  "manifest_digest": "70b8095159b8aa9b51b207809cdcf92bbe3916e917d0fcd0616ee44bb37ce666",
+  "manifest_digest": "137a7405208b184fdf7f54db3b6e045f90edf7bb30bbc1c1a8f5cce3baece22d",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -10535,6 +10535,27 @@
       "source_snapshot_digest": "36a08bf0f0f77543965376ce2929a672671282c6bed792fdbc587728baf3dfc4",
       "public_input_digest": "5dbc6601ebad74101ce00654e296f006edeba677fc753da121bfe0aac971afa0",
       "sha256": "4e5f9b08522baa454cc2b076a9033a38b3b456d764572078cd21b9bc66f13a95"
+    },
+    {
+      "skill_id": "skl_0b_X2NZn_8MqeVwQtDjZCA",
+      "name": "how-to-fix-oracle-payables-error-excha-b51ef4b63c43180f",
+      "title": "how to fix Oracle payables error exchange rate variance hold on foreign currency invoice fails error",
+      "description": "how to fix Oracle payables error exchange rate variance hold on foreign currency invoice fails error",
+      "url": "https://vectle.com/skills/skl_0b_X2NZn_8MqeVwQtDjZCA",
+      "exact_version_url": "https://vectle.com/skills/skl_0b_X2NZn_8MqeVwQtDjZCA/versions/skv_HpQM32kY47MrMSzSjpMUfg",
+      "version": "skv_HpQM32kY47MrMSzSjpMUfg",
+      "version_sequence": "1",
+      "updated": "2026-10-30T01:55:23.130057+00:00",
+      "path": "skills/how-to-fix-oracle-payables-error-excha-b51ef4b63c43180f/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "15b9b03dbed58c30376361f4b2ee0a83c5fdc13af9079d9021f4e0fcf7d13b89",
+      "public_input_digest": "aedafb852e01501709a935172888a42cf95beda89940ea303ddac1eddafa7235",
+      "sha256": "41d4ff367d60b6edb42abc76aebdff21eaeeb8c6c56e1047c3f352c1cadea09f"
     },
     {
       "skill_id": "skl_0beOpS0SSI5MeV9aIDZEQQ",
@@ -165349,6 +165370,27 @@
       "sha256": "d35d10034046f986587a04570fee681a0701731a1c4fbdd44156feb251149fc8"
     },
     {
+      "skill_id": "skl_MPUIxF2aGq6OmeZWBfv4xA",
+      "name": "zip-error-shadow-it-subscription-found-44a77b4a073216f7",
+      "title": "Zip error shadow IT subscription found in card feed not in intake",
+      "description": "Zip error shadow IT subscription found in card feed not in intake",
+      "url": "https://vectle.com/skills/skl_MPUIxF2aGq6OmeZWBfv4xA",
+      "exact_version_url": "https://vectle.com/skills/skl_MPUIxF2aGq6OmeZWBfv4xA/versions/skv_4J-0Bi36At3B-Fn9-7MJng",
+      "version": "skv_4J-0Bi36At3B-Fn9-7MJng",
+      "version_sequence": "1",
+      "updated": "2026-10-30T13:54:59.418137+00:00",
+      "path": "skills/zip-error-shadow-it-subscription-found-44a77b4a073216f7/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "d4ad110603f2d67e68d3bbcb1648e5ea2937e73ea81f917f4f0be2d92e79d905",
+      "public_input_digest": "465c280e93c7f3e373657de1e36e814d7b579474f2cd8f91e82505e811de7cba",
+      "sha256": "64291735e96653d6130c84d52a38dca7738a024cc3f560f0b99c9ea1d6516b7d"
+    },
+    {
       "skill_id": "skl_MQ-Z9MowUV8mt3rgi69Tig",
       "name": "deel-contractor-offboarding-error-agre-f505a78d2b50aa33",
       "title": "Deel contractor offboarding error agreement still active after end date",
@@ -205879,6 +205921,27 @@
       "sha256": "61c65018f06d62294b06a77d2849f2a5d4868aa7c7b0b06c456d8874822b414a"
     },
     {
+      "skill_id": "skl_S8LTYpqu_q6etID_0O8RYw",
+      "name": "how-to-fix-drata-error-vendor-critical-81a7e42f0db072ad",
+      "title": "how to fix Drata error vendor criticality not synced from asset inventory fails error",
+      "description": "how to fix Drata error vendor criticality not synced from asset inventory fails error",
+      "url": "https://vectle.com/skills/skl_S8LTYpqu_q6etID_0O8RYw",
+      "exact_version_url": "https://vectle.com/skills/skl_S8LTYpqu_q6etID_0O8RYw/versions/skv_j1Q4Hk30IfIoM27MDbOejQ",
+      "version": "skv_j1Q4Hk30IfIoM27MDbOejQ",
+      "version_sequence": "1",
+      "updated": "2026-10-30T13:55:11.962379+00:00",
+      "path": "skills/how-to-fix-drata-error-vendor-critical-81a7e42f0db072ad/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "a44bb9c1d6972dd9a66fe22f8f056aa5db5b12c4aaf0dcba48fb6a76ea31b0df",
+      "public_input_digest": "ccb1811d6318d464fb6cbf2468f33aeaef3c18a019ebf4d3112316ab11885fbf",
+      "sha256": "9c00c2894d296b0d97a5be6cae0cfade04bd5d79564a972ec7b8221580fe9bb8"
+    },
+    {
       "skill_id": "skl_S8g0K7SVrVU1_Wy9cIso2A",
       "name": "cannot-pip-install-traceloop-sdk-0-33-c5c33d435e51807d",
       "title": "Cannot pip install traceloop-sdk 0.33.12: conflicting opentelemetry-instrumentation pins",
@@ -216083,6 +216146,27 @@
       "source_snapshot_digest": "5b5bef9f33b531468a2a2feee23a44b846c3c93e7cc9bfef0bb01d06771cf452",
       "public_input_digest": "65975d04d04f7b95a53675b20cc5d74a5196f78eb1669916459bcb62a56626f8",
       "sha256": "263ff02600447ab33c9e951df7808191f2efc161453e3cc9dbe425cffe1362df"
+    },
+    {
+      "skill_id": "skl_TYLZBf4gGXMd0XV-kFLoFA",
+      "name": "tipalti-matching-error-remittance-deta-30f6ca3cb3a783b7",
+      "title": "Tipalti matching error remittance detail missing purchase order reference",
+      "description": "Tipalti matching error remittance detail missing purchase order reference",
+      "url": "https://vectle.com/skills/skl_TYLZBf4gGXMd0XV-kFLoFA",
+      "exact_version_url": "https://vectle.com/skills/skl_TYLZBf4gGXMd0XV-kFLoFA/versions/skv_wE2mk7BhjVTsJvP14lemcQ",
+      "version": "skv_wE2mk7BhjVTsJvP14lemcQ",
+      "version_sequence": "1",
+      "updated": "2026-10-30T13:54:38.490791+00:00",
+      "path": "skills/tipalti-matching-error-remittance-deta-30f6ca3cb3a783b7/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "34001d2e6e817240b7666ffa7be3cf80b51ab7700c14fc1eba5c3f0d9a5e8d3a",
+      "public_input_digest": "cc7bdec1cae438f25471ca231b904b8b4fe1229be0541e1ffb9a4cc3cba63453",
+      "sha256": "a4327afe2d46f599e878f0ee834fdc2d2bacabb7c8ebc87c98a8966ef989800a"
     },
     {
       "skill_id": "skl_TYtyA3NKbf2lL7gh-7Rxig",
@@ -263837,6 +263921,27 @@
       "source_snapshot_digest": "d7657213c04ccfb0fbd98175d9939efc42798c4c2d89697ce11814ade64f0bf7",
       "public_input_digest": "486836724de35bcece1a1d7e6c479ff3c0ffb1ef65c5903cf5f5d7a31c74c339",
       "sha256": "f5383f181c34e90ee501e83380ec9bbed9cc881e845b19e3901dffe93175435d"
+    },
+    {
+      "skill_id": "skl__GKAFlQF2fo3Z-ClZLTo1g",
+      "name": "how-to-fix-spendhq-error-preferred-sup-7b9fa5ff0dc7f967",
+      "title": "how to fix SpendHQ error preferred supplier spend not separated from tail spend fails error",
+      "description": "how to fix SpendHQ error preferred supplier spend not separated from tail spend fails error",
+      "url": "https://vectle.com/skills/skl__GKAFlQF2fo3Z-ClZLTo1g",
+      "exact_version_url": "https://vectle.com/skills/skl__GKAFlQF2fo3Z-ClZLTo1g/versions/skv_4B1_5ZPobdX_BZalmEDKqA",
+      "version": "skv_4B1_5ZPobdX_BZalmEDKqA",
+      "version_sequence": "1",
+      "updated": "2026-10-30T01:56:03.198053+00:00",
+      "path": "skills/how-to-fix-spendhq-error-preferred-sup-7b9fa5ff0dc7f967/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "bf6f03f4b575dc51f093df9146bc32796c2b752f55fb5b1a75aa0fbc902fcb04",
+      "public_input_digest": "bca90569495d1d96339e56e1f4f3d17f1e01b2fd2303cf35ecb291da0caf2013",
+      "sha256": "e88fa0479d2429c2a88a5552caf79b786b5bd8aa1d2c9c7512a297106339ce5c"
     },
     {
       "skill_id": "skl__GMK9nTza6qpcs1omA4_5g",
@@ -313796,6 +313901,27 @@
       "source_snapshot_digest": "6915f2861664b501d9160cc1b2f18d4fc346ecb383dff6e469913a4d18a4918a",
       "public_input_digest": "6ae417744c429cf768c3d52b87efdada7a71e22078214222d6497f695bea4dda",
       "sha256": "947f5b57b9d32f93d58b61589fa7094aacc48537ddcce199f36e9a468b5da5dd"
+    },
+    {
+      "skill_id": "skl_gKzqIM542SLiGuHXGGGGSQ",
+      "name": "linksquares-clause-error-compare-view-989a0c22e4f002a4",
+      "title": "LinkSquares clause error compare view fails to highlight changed wording",
+      "description": "LinkSquares clause error compare view fails to highlight changed wording",
+      "url": "https://vectle.com/skills/skl_gKzqIM542SLiGuHXGGGGSQ",
+      "exact_version_url": "https://vectle.com/skills/skl_gKzqIM542SLiGuHXGGGGSQ/versions/skv_6jE1sAEKZe05-sXCNPd7JA",
+      "version": "skv_6jE1sAEKZe05-sXCNPd7JA",
+      "version_sequence": "1",
+      "updated": "2026-10-30T01:54:23.357104+00:00",
+      "path": "skills/linksquares-clause-error-compare-view-989a0c22e4f002a4/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "54bab7eff917ae9ee403a0641956c2fd73f307a4f4765801af79028a0917a94b",
+      "public_input_digest": "a20b8419cef8f9d004abe8e286dacdc88dd8b303ab04095b532e052c156dd4c9",
+      "sha256": "ccf7159fa30cfd1016c1cfda40fb0558105d0f45925b9c77e8f07fb7760d78a9"
     },
     {
       "skill_id": "skl_gL6GysqwSOBoY2gxHMByrA",
@@ -371149,6 +371275,27 @@
       "sha256": "493fcd35ba0b1d5dfbdf000af47f8793ef0400ea64e486aec2e457d3e0cd3c7a"
     },
     {
+      "skill_id": "skl_oaxvfFxBPHDWQDofNC_mGg",
+      "name": "how-to-fix-nda-expiry-error-tracker-mi-44fdef2918ce6c4f",
+      "title": "how to fix NDA expiry error tracker misses agreements expiring within 30 days fails error",
+      "description": "how to fix NDA expiry error tracker misses agreements expiring within 30 days fails error",
+      "url": "https://vectle.com/skills/skl_oaxvfFxBPHDWQDofNC_mGg",
+      "exact_version_url": "https://vectle.com/skills/skl_oaxvfFxBPHDWQDofNC_mGg/versions/skv_WQEMkfi_ghK2SRlzB19Qug",
+      "version": "skv_WQEMkfi_ghK2SRlzB19Qug",
+      "version_sequence": "1",
+      "updated": "2026-10-30T01:54:46.974993+00:00",
+      "path": "skills/how-to-fix-nda-expiry-error-tracker-mi-44fdef2918ce6c4f/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "3dfc757816a0013f3a44c287a3414476d8d8a90184f002064a0740e3562720a4",
+      "public_input_digest": "83f30c64df82235163a66d471c387608c8fa50e3c7cac6185815d4d7cd9813a5",
+      "sha256": "e71bc4ab13f6be981fd02c014830f0f36e1dbff292bdab045862c3a52e151b03"
+    },
+    {
       "skill_id": "skl_ob0WhKRey1EurIAerPtPeg",
       "name": "neon-api-create-and-delete-branches-pr-7d589f9b02f50531",
       "title": "Neon API: create and delete branches programmatically",
@@ -393218,6 +393365,27 @@
       "source_snapshot_digest": "e03f0780307315788de598abc482250f9fbdc720f6e6c21cf978d95540bd5b19",
       "public_input_digest": "6def49267da391de55bca190c048229e2d300840f67d3eb604cfa1172f92e46c",
       "sha256": "ca9a79a7084b14b43962ec4dfb5fdc6442ec4f8acfbd95704114c5fc201a369c"
+    },
+    {
+      "skill_id": "skl_rksewI767VWuDEjAerggVA",
+      "name": "how-to-fix-linksquares-clause-error-co-6b8523c772eeec99",
+      "title": "how to fix LinkSquares clause error compare view fails to highlight changed wording fails error",
+      "description": "how to fix LinkSquares clause error compare view fails to highlight changed wording fails error",
+      "url": "https://vectle.com/skills/skl_rksewI767VWuDEjAerggVA",
+      "exact_version_url": "https://vectle.com/skills/skl_rksewI767VWuDEjAerggVA/versions/skv_Uzid-CdfIruUnqCycujdfg",
+      "version": "skv_Uzid-CdfIruUnqCycujdfg",
+      "version_sequence": "1",
+      "updated": "2026-10-30T13:53:25.152054+00:00",
+      "path": "skills/how-to-fix-linksquares-clause-error-co-6b8523c772eeec99/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "cf5b90dcab23f503547bf7a23fd39db15b732a18e9bbdae5a137932eee520f12",
+      "public_input_digest": "ecbd6dab2ee0ae491257cc598cc713d01a11538c4e9a83b4e679b7e2569ad860",
+      "sha256": "9f60cb7aa04f0fd1ea156a8196b8d3223e3b4de3f7560af4d40dbc7eb47d4bf7"
     },
     {
       "skill_id": "skl_rktM8RiGbQ5I9wrPKfx0Kw",
@@ -418924,6 +419092,27 @@
       "sha256": "335bdc77e0bfe15b8424e47edba322ae46f48f881dcec42fccd12e5847be1065"
     },
     {
+      "skill_id": "skl_vXMvhawMSo36lggR0vMr_A",
+      "name": "adobe-sign-nda-error-delegate-signing-c3cf25b9fa743127",
+      "title": "Adobe Sign NDA error delegate signing fails for external recipient",
+      "description": "Adobe Sign NDA error delegate signing fails for external recipient",
+      "url": "https://vectle.com/skills/skl_vXMvhawMSo36lggR0vMr_A",
+      "exact_version_url": "https://vectle.com/skills/skl_vXMvhawMSo36lggR0vMr_A/versions/skv_EbpWlLMgsqdjaqYL3TsZFQ",
+      "version": "skv_EbpWlLMgsqdjaqYL3TsZFQ",
+      "version_sequence": "1",
+      "updated": "2026-10-30T13:54:02.770073+00:00",
+      "path": "skills/adobe-sign-nda-error-delegate-signing-c3cf25b9fa743127/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "e93c546850339f193320c081324d60dd4fa9746502ede99ddbd973497a759be1",
+      "public_input_digest": "a85bff28e72da8d204b28a6f6e8984579115a59dac874b0f2082be56bc46a275",
+      "sha256": "f1f9e1f60fae89b530e8937ef9280894123a752fe384e44d65a05c1c4a1d0822"
+    },
+    {
       "skill_id": "skl_vXNzTI701RvIhhroQlFd7w",
       "name": "labelbox-export-failed-error-ndjson-pa-8a47464e9f124642",
       "title": "Labelbox export failed error \"NDJSON parse error at line 142\"",
@@ -443954,6 +444143,27 @@
       "source_snapshot_digest": "259183f825774936e47626c858b5cc3f9ec0410be837866a2676105c97aa53e0",
       "public_input_digest": "ec35bb1b2dc9934e6bb4e25d7bad4a0a44890ede2959ed9ef4e113ca50a69343",
       "sha256": "8c99b22f2f651c2face5af361f4586444a662ee570afce809b15e75ffe2aad30"
+    },
+    {
+      "skill_id": "skl_z8uOSh6qMF7_uXXrHCHc6Q",
+      "name": "drata-error-vendor-criticality-not-syn-6a540f852b7f6abb",
+      "title": "Drata error vendor criticality not synced from asset inventory",
+      "description": "Drata error vendor criticality not synced from asset inventory",
+      "url": "https://vectle.com/skills/skl_z8uOSh6qMF7_uXXrHCHc6Q",
+      "exact_version_url": "https://vectle.com/skills/skl_z8uOSh6qMF7_uXXrHCHc6Q/versions/skv_zxKk27zTQE0S0G7eUVFAJg",
+      "version": "skv_zxKk27zTQE0S0G7eUVFAJg",
+      "version_sequence": "1",
+      "updated": "2026-10-30T01:56:21.999757+00:00",
+      "path": "skills/drata-error-vendor-criticality-not-syn-6a540f852b7f6abb/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "35165b4d8a5d09619fdac0f31b734157847aa98b44a3cc7350fc46f6e27e234e",
+      "public_input_digest": "275dee4069ca5193e5462c7918fa7c9033209f8bcecdd5b51ec74f670ca1b4ee",
+      "sha256": "ab2585237340a500d5112cc2ae8d0e014f1e01b052b98221e9ef380a160b888e"
     },
     {
       "skill_id": "skl_z91SNPrYd0E7PlAF_P4xzw",
