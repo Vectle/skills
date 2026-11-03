@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "OTUct2EQbEkXuAkVvDedBgHjUMIsRlL0",
-    "generation": "217750",
-    "generated_at": "2026-11-02T17:23:34.744465+00:00",
-    "expires_at": "2026-11-02T23:23:34.744Z",
+    "snapshot_id": "2-QaUbITkVTYufW4NpkIcU4LBb6LR5EF",
+    "generation": "217859",
+    "generated_at": "2026-11-03T15:27:09.127163+00:00",
+    "expires_at": "2026-11-03T21:27:09.127Z",
     "page_size": 250,
-    "expected_entry_count": 21455
+    "expected_entry_count": 21463
   },
-  "manifest_digest": "706efda913545fa5b925584bc7718238d9be73c22bbb9a2cf3302f8f7009978d",
+  "manifest_digest": "d9ac2ce0f3003916160129a6f39b6150094174f7396a35d762ea17d1cf9c58de",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -55034,6 +55034,27 @@
       "source_snapshot_digest": "e5603378025971dd575c083b96423ca9f73ff18f38511bbe938375263d4f0d78",
       "public_input_digest": "421d78fc72a369849ccff09bf86ff6c4c96704c7e128c467e6099568bb145053",
       "sha256": "cdf914f82692889f8680eda8030a2bcf8866d0a36fb60fed0460b6184f958c8b"
+    },
+    {
+      "skill_id": "skl_6wp9EdArpgrn6-dHNoRwnQ",
+      "name": "aws-cli-error-could-not-load-credentia-1096cbdbd501c85c",
+      "title": "aws cli error could not load credentials token is expired sso login fails bug",
+      "description": "aws cli error could not load credentials token is expired sso login fails bug",
+      "url": "https://vectle.com/skills/skl_6wp9EdArpgrn6-dHNoRwnQ",
+      "exact_version_url": "https://vectle.com/skills/skl_6wp9EdArpgrn6-dHNoRwnQ/versions/skv_waS8Mpd3RWL-7lbFgVXN0w",
+      "version": "skv_waS8Mpd3RWL-7lbFgVXN0w",
+      "version_sequence": "1",
+      "updated": "2026-11-03T13:52:51.71707+00:00",
+      "path": "skills/aws-cli-error-could-not-load-credentia-1096cbdbd501c85c/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "68d802d1c7b33eef23982c520a14f35f548f650d52d18b6f5c3c580df3b73846",
+      "public_input_digest": "7d2f4f5e771b2ee17a5844ba9f13bc32a2392a082b52caea9e4ae2d4acb34e6f",
+      "sha256": "fd9ccc0c2cd8d17a0c7091fffad425334943ea5cafef5f2e147e78daf60b8ff9"
     },
     {
       "skill_id": "skl_6wuAMYHVky6RtUlQHa5S7Q",
@@ -127255,6 +127276,27 @@
       "sha256": "56e3edf6555bc0d538c076a2364e969012c351906d1836967abde80f378fcd66"
     },
     {
+      "skill_id": "skl_H8f3OfYP8iQy_yU27-dSfA",
+      "name": "isp-retention-chat-disconnects-before-f9d1e7d6334b0418",
+      "title": "ISP retention chat disconnects before promo applied: session error how to fix",
+      "description": "ISP retention chat disconnects before promo applied: session error how to fix",
+      "url": "https://vectle.com/skills/skl_H8f3OfYP8iQy_yU27-dSfA",
+      "exact_version_url": "https://vectle.com/skills/skl_H8f3OfYP8iQy_yU27-dSfA/versions/skv_udfKdPVk6RBkHrUSoSp60A",
+      "version": "skv_udfKdPVk6RBkHrUSoSp60A",
+      "version_sequence": "1",
+      "updated": "2026-11-03T13:55:01.757975+00:00",
+      "path": "skills/isp-retention-chat-disconnects-before-f9d1e7d6334b0418/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "ddab8c9dba45899b140de36a2da35eeab129ad3c03f2a8accaad14d397178993",
+      "public_input_digest": "21c448b14d80a1b782899ee1bd0efa19392174bbd7866a21950bd0cf86083948",
+      "sha256": "0fa3ecb7ef12e5d0f6989a94193b1f6ca0a41a3c8fbf0382fbd20f3664130302"
+    },
+    {
       "skill_id": "skl_H8oZfPkmms1oOuGP2ukiaw",
       "name": "cloudnativepg-a-missing-shared-preload-9e416a4d08264b42",
       "title": "CloudNativePG: a missing shared preload library can prevent PostgreSQL startup",
@@ -182380,6 +182422,27 @@
       "sha256": "fa6e347266f1b7b798991a449466db264cb9c93ff1d10bdf7c61092775db4301"
     },
     {
+      "skill_id": "skl_Or8mUjGftFZOyM6vsik9Qg",
+      "name": "bs4-exceptions-featurenotfound-couldn-41eb0482e73bb7d8",
+      "title": "bs4.exceptions.featurenotfound couldn't find a tree builder with the features you requested lxml error",
+      "description": "bs4.exceptions.featurenotfound couldn't find a tree builder with the features you requested lxml error",
+      "url": "https://vectle.com/skills/skl_Or8mUjGftFZOyM6vsik9Qg",
+      "exact_version_url": "https://vectle.com/skills/skl_Or8mUjGftFZOyM6vsik9Qg/versions/skv_V-GzLeXSUbB8et8uALtDkQ",
+      "version": "skv_V-GzLeXSUbB8et8uALtDkQ",
+      "version_sequence": "1",
+      "updated": "2026-11-03T13:54:44.057566+00:00",
+      "path": "skills/bs4-exceptions-featurenotfound-couldn-41eb0482e73bb7d8/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "54f560f4ce4b90368c8b7bafc65cd697f87c2932cf61ac1f80f89e941677cb82",
+      "public_input_digest": "7dbde3f5efdf485c21c6498123809b464c54ada5689c5935210dbb08f015f253",
+      "sha256": "66b8e2393ef55734830f560f958f649209d24add0f8b65b0aac1fc66203c9fd8"
+    },
+    {
       "skill_id": "skl_OrGUzeUDruw-nWMDzNDxKA",
       "name": "how-to-debug-a-stuck-terminating-pod-f-abbfc8c8de9cbeb5",
       "title": "how to debug a stuck terminating pod (finalizers)",
@@ -216272,6 +216335,27 @@
       "source_snapshot_digest": "34001d2e6e817240b7666ffa7be3cf80b51ab7700c14fc1eba5c3f0d9a5e8d3a",
       "public_input_digest": "cc7bdec1cae438f25471ca231b904b8b4fe1229be0541e1ffb9a4cc3cba63453",
       "sha256": "a4327afe2d46f599e878f0ee834fdc2d2bacabb7c8ebc87c98a8966ef989800a"
+    },
+    {
+      "skill_id": "skl_TYZPMVxId8BYXSHYXu1FsQ",
+      "name": "abctl-logs-shows-no-output-after-airby-a59d2b54ab01d661",
+      "title": "abctl logs shows no output after airbyte install failed",
+      "description": "abctl logs shows no output after airbyte install failed",
+      "url": "https://vectle.com/skills/skl_TYZPMVxId8BYXSHYXu1FsQ",
+      "exact_version_url": "https://vectle.com/skills/skl_TYZPMVxId8BYXSHYXu1FsQ/versions/skv_HjqYqWdOMOk4GX9cCFjouA",
+      "version": "skv_HjqYqWdOMOk4GX9cCFjouA",
+      "version_sequence": "1",
+      "updated": "2026-11-03T01:56:26.824253+00:00",
+      "path": "skills/abctl-logs-shows-no-output-after-airby-a59d2b54ab01d661/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "22622b273bc60c7c6e525459b35c40ef6936d291fc22152eed54f3058b96bb85",
+      "public_input_digest": "e7cd0ac9fe63698724cf158f548c25ed7e577515e43525912271282c3ee73760",
+      "sha256": "cb9d4e648663066f509abd2fbaeaa65f0d3c4ac8286a99b219cfbf3cbf88f9ff"
     },
     {
       "skill_id": "skl_TYtyA3NKbf2lL7gh-7Rxig",
@@ -279862,6 +279946,27 @@
       "sha256": "8f3d5227cb6b4bf89ea45b16e426fd864a712d385875ce5ffee377f5a3407d56"
     },
     {
+      "skill_id": "skl_bWupnLxkTyz3poEVwPhwHg",
+      "name": "anthropic-stream-ended-before-message-4fd32d194e7f9542",
+      "title": "anthropic stream ended before message_stop error",
+      "description": "anthropic stream ended before message_stop error",
+      "url": "https://vectle.com/skills/skl_bWupnLxkTyz3poEVwPhwHg",
+      "exact_version_url": "https://vectle.com/skills/skl_bWupnLxkTyz3poEVwPhwHg/versions/skv_22Xkg_fSIv7OKJtM4jiduQ",
+      "version": "skv_22Xkg_fSIv7OKJtM4jiduQ",
+      "version_sequence": "1",
+      "updated": "2026-11-03T01:56:59.729658+00:00",
+      "path": "skills/anthropic-stream-ended-before-message-4fd32d194e7f9542/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "23b8856d101fff4a3ebe155d4d41943dc8c9cb13ea432bd3da102e2aa2d4b152",
+      "public_input_digest": "f0ee153f61167c33670d8daedf1e382f292dbdb568ffc5c93c09d7b0210ec4a5",
+      "sha256": "830e29bfb7cdd63fc1c25ae647df5444d1824428e56ff9f188d5c8b16fcd6a2d"
+    },
+    {
       "skill_id": "skl_bXlr3Eg0_1yyoD3MFHdGHw",
       "name": "agent-granted-vpn-access-to-the-wrong-4585f6bdd5f01e8a",
       "title": "agent granted vpn access to the wrong contractor: approval-webhook misparse",
@@ -282718,6 +282823,27 @@
       "sha256": "645759857ec673c1a3b57aef4ebb31da70202b25c7ba7861a7190243fd9aa710"
     },
     {
+      "skill_id": "skl_bwulYx4IKaTvY6Vxc7jugQ",
+      "name": "cross-site-post-form-submissions-are-f-f5a32624ab64b264",
+      "title": "cross-site post form submissions are forbidden astro error",
+      "description": "cross-site post form submissions are forbidden astro error",
+      "url": "https://vectle.com/skills/skl_bwulYx4IKaTvY6Vxc7jugQ",
+      "exact_version_url": "https://vectle.com/skills/skl_bwulYx4IKaTvY6Vxc7jugQ/versions/skv_7BxgU9tRN-zXGAV8uXNBVQ",
+      "version": "skv_7BxgU9tRN-zXGAV8uXNBVQ",
+      "version_sequence": "1",
+      "updated": "2026-11-03T01:57:12.993332+00:00",
+      "path": "skills/cross-site-post-form-submissions-are-f-f5a32624ab64b264/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "66d53f4c5d283415eef84a9f6c1cc88797e6bb3b6cd9d99336e4a76ee8cdd123",
+      "public_input_digest": "ddd655e6966cda2665b782b06b1bac5153f0f990aab8eb275a2b3093ed78a1a7",
+      "sha256": "b2240470c357ee3c96eb907589dd18be1e415ecf63d9d2af845f0ecb903642d6"
+    },
+    {
       "skill_id": "skl_bwvUMKmiqyP8A_IsO_pn2w",
       "name": "v10-2-4-is-missing-release-assets-5ad1f207e73ac8ca",
       "title": "v10.2.4 is missing release assets",
@@ -285341,6 +285467,27 @@
       "source_snapshot_digest": "d9687e32609cda4a32c8204ba7fcef75c3836b8bb2b6c895e39550ee9083e655",
       "public_input_digest": "98f936aae87c7741f3ac281f0e6d86cac3fb57ffe41bf8bb045c321609b2e490",
       "sha256": "21629f71fc17fa6a7962292d6e4be11cc06b473959d9a1ce3fe8d98ec6414c9c"
+    },
+    {
+      "skill_id": "skl_cJrtlTsiEkR_XWcWaPT4bg",
+      "name": "az-is-not-recognized-as-an-internal-or-9cea8a1bc89e35f8",
+      "title": "az is not recognized as an internal or external command",
+      "description": "az is not recognized as an internal or external command",
+      "url": "https://vectle.com/skills/skl_cJrtlTsiEkR_XWcWaPT4bg",
+      "exact_version_url": "https://vectle.com/skills/skl_cJrtlTsiEkR_XWcWaPT4bg/versions/skv_RxE7msHRGVv45O4D0wJ0Rw",
+      "version": "skv_RxE7msHRGVv45O4D0wJ0Rw",
+      "version_sequence": "1",
+      "updated": "2026-11-03T13:53:03.43003+00:00",
+      "path": "skills/az-is-not-recognized-as-an-internal-or-9cea8a1bc89e35f8/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "a65ee778baa43ac2a82f02f9491a56356b707141bea68ce871c31ec2ca23b216",
+      "public_input_digest": "79a1f3cbb8d315bb42214535772cfe4e4a8567fefca5fac3221ca2d0f0e227e9",
+      "sha256": "f691e3cdd1b840678b246f96863a8dcb74a1ee76c6d8c2f6cdf900b92b229ce3"
     },
     {
       "skill_id": "skl_cKSiwniA8Zjsrmx9_vECuA",
@@ -436877,6 +437024,27 @@
       "source_snapshot_digest": "6adb3d921ee2ba0b1767bb0538d4cebe3821d6402f1b8ffcc77210d985deacfb",
       "public_input_digest": "0f4235a3edc252dfb16951032efe384a2bb20cf95d42d626300ba02fc1d19d30",
       "sha256": "13cf9c2bf64ca31b5cf2ab952e2cf251543042490a1d4bb96acb50e2d337e39c"
+    },
+    {
+      "skill_id": "skl_y4f8Iu7QUgT1cyiQuwcr4Q",
+      "name": "attributeerror-module-bcrypt-has-no-at-10ea29603d0e7caa",
+      "title": "attributeerror: module 'bcrypt' has no attribute '__about__'",
+      "description": "attributeerror: module 'bcrypt' has no attribute '__about__'",
+      "url": "https://vectle.com/skills/skl_y4f8Iu7QUgT1cyiQuwcr4Q",
+      "exact_version_url": "https://vectle.com/skills/skl_y4f8Iu7QUgT1cyiQuwcr4Q/versions/skv_ZEU16TRep1iGpigJKFDGZw",
+      "version": "skv_ZEU16TRep1iGpigJKFDGZw",
+      "version_sequence": "1",
+      "updated": "2026-11-03T13:53:23.059333+00:00",
+      "path": "skills/attributeerror-module-bcrypt-has-no-at-10ea29603d0e7caa/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "897e65eb7a9fb9f5ded1132309c22dc8c8a353697d1db7cd4fcc3dcf4998390b",
+      "public_input_digest": "f08bf2f8e4af631694ebecbb9b73807530a68fbb3509596e16b6df47608db30e",
+      "sha256": "34cb858e3f952e9f2e9ba34c6c90408162b963eeaa7f65db01a14c13bb371c59"
     },
     {
       "skill_id": "skl_y4zQtrOQtlMnQkWUhJLIqQ",
