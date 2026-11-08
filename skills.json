@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "n60YP8uaWz8XlWE9CupsbyOPofj4hTsu",
-    "generation": "218229",
-    "generated_at": "2026-11-06T15:19:59.868327+00:00",
-    "expires_at": "2026-11-06T21:19:59.868Z",
+    "snapshot_id": "pgArvsPs7p37GbVwFL_RXamprQm6zJdC",
+    "generation": "218467",
+    "generated_at": "2026-11-08T14:29:10.086055+00:00",
+    "expires_at": "2026-11-08T20:29:10.086Z",
     "page_size": 250,
-    "expected_entry_count": 21491
+    "expected_entry_count": 21509
   },
-  "manifest_digest": "f82480c48c4e651ef249bf50837182d8f051cc7bcae51a9de204d4279d382953",
+  "manifest_digest": "49685ad411bee38249e4e7eecd47f21c863da19b69cbb1c652279fbead73b5b8",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -13664,6 +13664,27 @@
       "source_snapshot_digest": "e0ff1fc1c6e3482e7004ed46a603710553b28d49145f645f1e15f0508389c1aa",
       "public_input_digest": "12679b148f1eee10ecb270a9575af94a5483c8de9a84668a433695a9f79bd3a5",
       "sha256": "1295e66e6bd127392aa5d2561f5d3aa2ef5b6ae38482ac37e95165f8c677bd65"
+    },
+    {
+      "skill_id": "skl_10Q5Vt2e9T9J3D6KHcyOow",
+      "name": "alembic-error-cant-locate-revision-ide-a852c7a5edc7f0bb",
+      "title": "alembic error cant locate revision identified by head fails bug",
+      "description": "alembic error cant locate revision identified by head fails bug",
+      "url": "https://vectle.com/skills/skl_10Q5Vt2e9T9J3D6KHcyOow",
+      "exact_version_url": "https://vectle.com/skills/skl_10Q5Vt2e9T9J3D6KHcyOow/versions/skv_9IfIPBvx2drs-CuA1mM7lg",
+      "version": "skv_9IfIPBvx2drs-CuA1mM7lg",
+      "version_sequence": "1",
+      "updated": "2026-11-08T01:52:30.174234+00:00",
+      "path": "skills/alembic-error-cant-locate-revision-ide-a852c7a5edc7f0bb/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "113209a64ede7f8c76b65abaff543b31a40c8988134904a0cf5b91af9f6dc05d",
+      "public_input_digest": "f975677183b72236d2b9d48871d3d4957313d803891603755eabc3934173d188",
+      "sha256": "5cde1336c6b111f1f5bd24351d4e35636da5bfaf78c5f500964e25519f38549a"
     },
     {
       "skill_id": "skl_10f_kE3tnCKA9-3BtzIFdQ",
@@ -28723,6 +28744,27 @@
       "sha256": "fb8678e6b01823621ffdb5326ad7062be56cc1ac1021b935bb888e2ea0448b88"
     },
     {
+      "skill_id": "skl_33Y08Lx1yvhXM8G3CDHpqA",
+      "name": "mongodb-query-doing-collscan-instead-o-9fa8f7e57a5b8a0b",
+      "title": "mongodb query doing COLLSCAN instead of IXSCAN is slow and times out",
+      "description": "mongodb query doing COLLSCAN instead of IXSCAN is slow and times out",
+      "url": "https://vectle.com/skills/skl_33Y08Lx1yvhXM8G3CDHpqA",
+      "exact_version_url": "https://vectle.com/skills/skl_33Y08Lx1yvhXM8G3CDHpqA/versions/skv_GXGnuQUKKwgixnWGU0F4Tw",
+      "version": "skv_GXGnuQUKKwgixnWGU0F4Tw",
+      "version_sequence": "1",
+      "updated": "2026-11-07T01:53:42.66996+00:00",
+      "path": "skills/mongodb-query-doing-collscan-instead-o-9fa8f7e57a5b8a0b/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "deb2da2af665b76f9a5d04ebcf557b17aa0a0d5a1f0e69a7f4316bf53774ebc0",
+      "public_input_digest": "35fbc0747422b23c6ade74ab16c93c7586044cd3b271ce258f9117c029ca2edf",
+      "sha256": "a1c91df719a7713c18ab10c4a22da6887101ee6a3729f588b1752ba4348b1574"
+    },
+    {
       "skill_id": "skl_33dW3NsaRKcIBMeK-yC_BA",
       "name": "test-pollution-how-one-test-breaks-ano-54a385dab84f43b1",
       "title": "test pollution: how one test breaks another",
@@ -41995,6 +42037,27 @@
       "sha256": "7a88c1630cc365a72c0deb30a2cdcbe7ab9ad18dd0736d4302f1a46d1d0d6e9c"
     },
     {
+      "skill_id": "skl_51BsvTP0Dd19xpPdwgIKFg",
+      "name": "abctl-install-local-fails-with-error-f-81c343cc4f95ef5c",
+      "title": "abctl install local fails with error \"failed to install the airbyte helm releases\"",
+      "description": "abctl install local fails with error \"failed to install the airbyte helm releases\"",
+      "url": "https://vectle.com/skills/skl_51BsvTP0Dd19xpPdwgIKFg",
+      "exact_version_url": "https://vectle.com/skills/skl_51BsvTP0Dd19xpPdwgIKFg/versions/skv_DwkoKXSelepylPOmupycOw",
+      "version": "skv_DwkoKXSelepylPOmupycOw",
+      "version_sequence": "1",
+      "updated": "2026-11-08T01:52:20.33049+00:00",
+      "path": "skills/abctl-install-local-fails-with-error-f-81c343cc4f95ef5c/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "5369204e46d60bb7d594350a816d8e999cd60f18b41f03c4d312c4defc887c12",
+      "public_input_digest": "ff92c47f60f7c44c2480158773111a33b2d6360b5a929cf21fa9b788951d2600",
+      "sha256": "130f4d9c0ff8d29497b179aff475cb286ec767ca3b6274882791f6a3f4429d33"
+    },
+    {
       "skill_id": "skl_51EETV7PO8BqudPXt67XoQ",
       "name": "knowledge-base-search-error-security-a-46ae8e9fd65ddbc2",
       "title": "knowledge base search error security answers missing for AI governance questions failure",
@@ -49091,6 +49154,27 @@
       "source_snapshot_digest": "f869f77176df06718b0c0d9124257c38f0ab5e15c47fda0de9e00788120c93be",
       "public_input_digest": "5113ddda3ba15e76fe31cb51e9881f54a44aff84e240c288689630ca025eb8ff",
       "sha256": "2492bcfbdd844788575ecc1cab5c14df819f7cc228c5e7435b3dd55ac0f2f99d"
+    },
+    {
+      "skill_id": "skl_61zGmPgvlBUag6oMWHZytw",
+      "name": "az-is-not-recognized-as-an-internal-or-6fd190c8df23bcd2",
+      "title": "az' is not recognized as an internal or external command, operable program or batch file.",
+      "description": "az' is not recognized as an internal or external command, operable program or batch file.",
+      "url": "https://vectle.com/skills/skl_61zGmPgvlBUag6oMWHZytw",
+      "exact_version_url": "https://vectle.com/skills/skl_61zGmPgvlBUag6oMWHZytw/versions/skv_KaWNkWwlW4_rTBW2Y1W5kA",
+      "version": "skv_KaWNkWwlW4_rTBW2Y1W5kA",
+      "version_sequence": "1",
+      "updated": "2026-11-08T13:53:55.086077+00:00",
+      "path": "skills/az-is-not-recognized-as-an-internal-or-6fd190c8df23bcd2/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "f4600361472c3d2a79532d76464fd13c57e68f85ad6f6a848727ae449f03d71c",
+      "public_input_digest": "e936c87ee4474f5739fc2e554fb2f4edf7e8717039630994a5235d1fee7c4b86",
+      "sha256": "c4cff5377e0c0c8368a11d58488cbd8a0fd4fa8f2381c2bde416b5c949c635ac"
     },
     {
       "skill_id": "skl_62So6zrr7Em2C0gQ7kKihg",
@@ -63014,6 +63098,27 @@
       "source_snapshot_digest": "b5cc927f3cc834ba47542f7564f87c7c6dfc7edf630d053933d716dac07d7981",
       "public_input_digest": "089cf04fe85210fa698d9faa2e905a4a81b950efa8a0c15500ed587115b6dbdf",
       "sha256": "e21bcac7197d1091d8e18a8ced0d1cc6d469eab7004134adc68064f070da623d"
+    },
+    {
+      "skill_id": "skl_85U68zU_YFU5k0CdfnrUHg",
+      "name": "morning-news-briefing-compilation-fail-f4e88048ca064ad8",
+      "title": "morning news briefing compilation fails with timeout error after long wait: how to fix",
+      "description": "morning news briefing compilation fails with timeout error after long wait: how to fix",
+      "url": "https://vectle.com/skills/skl_85U68zU_YFU5k0CdfnrUHg",
+      "exact_version_url": "https://vectle.com/skills/skl_85U68zU_YFU5k0CdfnrUHg/versions/skv_npkz2TIFid2Oy6HGpvg_yg",
+      "version": "skv_npkz2TIFid2Oy6HGpvg_yg",
+      "version_sequence": "1",
+      "updated": "2026-11-07T01:54:25.790636+00:00",
+      "path": "skills/morning-news-briefing-compilation-fail-f4e88048ca064ad8/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "d52bbcf84ddd1b74cd9b34a5208e22fdbf9a8b8ca5d3cc488e34c08e9fb1f07c",
+      "public_input_digest": "b3ce770c5f34cf62a2f41f67b02b61aaa80068f4e01400b64ad45084a168c5fc",
+      "sha256": "eea45dd0c84fe66da28d1c7f0df9ab2a7e10194a241b0c4adea55f200da5f5d6"
     },
     {
       "skill_id": "skl_85aN1EXOYqewdClHWvGcIQ",
@@ -77147,6 +77252,27 @@
       "source_snapshot_digest": "a830f04855ea2e63f51cc6a6382a5288fb333735ababc6972122f0626846d484",
       "public_input_digest": "0457c972e42a06822cfe1bae04f93db1c2151506a24902a09936281381fa6c26",
       "sha256": "cd53e5c7ad8f0b8cd5c0fadc209748c660515dfb91016ee3783fd19b15ff4f7e"
+    },
+    {
+      "skill_id": "skl_AF3k1VDj6DEE6dQDFj3klA",
+      "name": "jenkins-github-app-authentication-fail-727ef9d1d5b9e40d",
+      "title": "Jenkins GitHub App authentication failed: remote Repository not found, fatal Authentication failed on git ls-remote",
+      "description": "Jenkins GitHub App authentication failed: remote Repository not found, fatal Authentication failed on git ls-remote",
+      "url": "https://vectle.com/skills/skl_AF3k1VDj6DEE6dQDFj3klA",
+      "exact_version_url": "https://vectle.com/skills/skl_AF3k1VDj6DEE6dQDFj3klA/versions/skv_GEOYqcOTP8bv6fPodNqhlw",
+      "version": "skv_GEOYqcOTP8bv6fPodNqhlw",
+      "version_sequence": "1",
+      "updated": "2026-11-08T11:55:45.45714+00:00",
+      "path": "skills/jenkins-github-app-authentication-fail-727ef9d1d5b9e40d/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "e8484ba1e7484f1490530bf9d2d6de0d7475abacba606a4a09e3d8a044f774d0",
+      "public_input_digest": "f881a462d0ed717cf9a0c0fc09c77d129c4a9fc0e4d914a159843f0b78e57405",
+      "sha256": "d4769f21f44f9a07f63fdc2b4355272f8ec03dc7085b88074e65ab64006bc9d5"
     },
     {
       "skill_id": "skl_AFGfzLbWMaf-9QOK_NBliw",
@@ -101927,6 +102053,27 @@
       "source_snapshot_digest": "e27ac3bc086a58592b94356e476811a65ac2f8844181fba80f6500a88292d934",
       "public_input_digest": "5c7dd602edde0f53657fa1c39458f73b50833e88cd57354138a075f7c5840b85",
       "sha256": "af5a2ded9a5ecbbfa4d31cbcf84c1b5cf204d78772ceefdb0866d1defc981890"
+    },
+    {
+      "skill_id": "skl_Dg5Z2scrYip9LJaDRyOpfA",
+      "name": "aikido-ignore-rule-not-working-finding-8188805557a2a818",
+      "title": "aikido ignore rule not working: finding still reported after aikido ignore comment fails",
+      "description": "aikido ignore rule not working: finding still reported after aikido ignore comment fails",
+      "url": "https://vectle.com/skills/skl_Dg5Z2scrYip9LJaDRyOpfA",
+      "exact_version_url": "https://vectle.com/skills/skl_Dg5Z2scrYip9LJaDRyOpfA/versions/skv_lOuHsoK59B7QzqUjGxlLUw",
+      "version": "skv_lOuHsoK59B7QzqUjGxlLUw",
+      "version_sequence": "1",
+      "updated": "2026-11-08T01:52:10.124366+00:00",
+      "path": "skills/aikido-ignore-rule-not-working-finding-8188805557a2a818/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "afe16931166f0c57c186c56b84d560b62bb8858e47727b9fd9d90d37030cbf34",
+      "public_input_digest": "0265759335d87c9c01a16f561946a9e2d4a274132cfa1fbca39a34ef3a2515dd",
+      "sha256": "7b1becba4f299f18b28a6c27696eb93baf251a13a992babce55d00bcdac8d4a3"
     },
     {
       "skill_id": "skl_Dg5mtko6j59fof9Rf5uhSQ",
@@ -163459,6 +163606,27 @@
       "sha256": "bf3cb4cb7ef8186c61a66d10f23c435d570b75b529ce484446419f6952028ba9"
     },
     {
+      "skill_id": "skl_M56Kykxj2I8xIipVZQbBIg",
+      "name": "beautifulsoup-featurenotfound-lxml-par-ea22a9dcefdab84d",
+      "title": "beautifulsoup featurenotfound lxml parser not installed error fails",
+      "description": "beautifulsoup featurenotfound lxml parser not installed error fails",
+      "url": "https://vectle.com/skills/skl_M56Kykxj2I8xIipVZQbBIg",
+      "exact_version_url": "https://vectle.com/skills/skl_M56Kykxj2I8xIipVZQbBIg/versions/skv_PRTFAXNPCi5lnSln4NQq2Q",
+      "version": "skv_PRTFAXNPCi5lnSln4NQq2Q",
+      "version_sequence": "1",
+      "updated": "2026-11-08T13:54:27.59143+00:00",
+      "path": "skills/beautifulsoup-featurenotfound-lxml-par-ea22a9dcefdab84d/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "fbb0bb53d24faa8a37a7e1c755394a695fd23d09ae26097e90cef7dc97ae34e2",
+      "public_input_digest": "b1d1fe2d277ec89de9fd7249a17d954b59771dc54964c899ad78f2708edf5025",
+      "sha256": "972119d4b6e5f75025882264d74605dbf88b24d5994f37fb7f8e2814d7e9a74e"
+    },
+    {
       "skill_id": "skl_M5GtlZGaR1WwXUAcZ40Thg",
       "name": "model-not-found-the-model-string-is-wr-c573d0a12f896483",
       "title": "MODEL_NOT_FOUND: the model string is wrong or the proxy restricts it",
@@ -169127,6 +169295,27 @@
       "source_snapshot_digest": "3fcdb90a42c74c3c4f11c2a295adb5c8b7958ed12cbb85d2fe666d9ff65d7718",
       "public_input_digest": "8230bb49e5f09cdd5364fc4714968e803d4bd411f22ef1dcad7f731fe6debf96",
       "sha256": "8c3d1e62026033b7dd64fcbc82ca039e6f525c1bc97a178a07235ea1d53f0161"
+    },
+    {
+      "skill_id": "skl_Mrty155XZKrmQAL3avgUwA",
+      "name": "autopilot-80070002-error-during-device-9b87dc1a6fbfabdb",
+      "title": "autopilot 80070002 error during device setup",
+      "description": "autopilot 80070002 error during device setup",
+      "url": "https://vectle.com/skills/skl_Mrty155XZKrmQAL3avgUwA",
+      "exact_version_url": "https://vectle.com/skills/skl_Mrty155XZKrmQAL3avgUwA/versions/skv_UjYZ_SPICtlhGbKfe1aIBA",
+      "version": "skv_UjYZ_SPICtlhGbKfe1aIBA",
+      "version_sequence": "1",
+      "updated": "2026-11-08T13:53:38.63638+00:00",
+      "path": "skills/autopilot-80070002-error-during-device-9b87dc1a6fbfabdb/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "9a6f569162be93672e15b5920e6c4ff42ff8e371834644acf267e64d2e671b20",
+      "public_input_digest": "44930180af74ace82aff8912d5221a0b464f61e2f07613b155dd8ec768ee107a",
+      "sha256": "afda7402d1dacc97e82ca3b9b6c8f7245765fd1ece5077f2eeadeed36e330c15"
     },
     {
       "skill_id": "skl_MruYfT3aaJpLJuHKUct49A",
@@ -253318,6 +253507,27 @@
       "sha256": "821fce1d43cb5f247d7b73813619a80c4b32b1257082f88f52d0e2c60f0a7ba1"
     },
     {
+      "skill_id": "skl_YdKtDVW8cQZTqmHVyj1B8A",
+      "name": "modulenotfounderror-no-module-named-bc-972456d025229ebc",
+      "title": "modulenotfounderror: no module named 'bcrypt'",
+      "description": "modulenotfounderror: no module named 'bcrypt'",
+      "url": "https://vectle.com/skills/skl_YdKtDVW8cQZTqmHVyj1B8A",
+      "exact_version_url": "https://vectle.com/skills/skl_YdKtDVW8cQZTqmHVyj1B8A/versions/skv_tamAQ2_TanhTGVnSPiV1gQ",
+      "version": "skv_tamAQ2_TanhTGVnSPiV1gQ",
+      "version_sequence": "1",
+      "updated": "2026-11-08T13:54:03.133365+00:00",
+      "path": "skills/modulenotfounderror-no-module-named-bc-972456d025229ebc/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "3773b53e415023f32fb43a2e8be037f92c39bd1db9e0455820bb88c7f0f8f130",
+      "public_input_digest": "6927ea0866dbd0e4da5823cb03f89e8557d4bf232fc14837d0c7a057d151590b",
+      "sha256": "16d8eedd4914678b465a42c7410b114d4624de305403bfc6e5921d8a40a952b8"
+    },
+    {
       "skill_id": "skl_YdTQ13v9BXahRxFRdJcM7Q",
       "name": "browser-automation-failed-on-dashboard-d0c84e8dab3c4991",
       "title": "browser automation failed on dashboard page when agent tried to sync interviewer calendars for availability error...",
@@ -282130,6 +282340,27 @@
       "sha256": "c7483f4e197e017e35b313eba022db5df63b970a0e3e441e9aaac89c76b9bcf1"
     },
     {
+      "skill_id": "skl_blMWXHlPkSgS3VfPcathYg",
+      "name": "spoonacular-api-meal-plan-generation-f-b2432bb7e47cf96f",
+      "title": "Spoonacular API meal plan generation fails with \"quota exceeded\" error: how to fix",
+      "description": "Spoonacular API meal plan generation fails with \"quota exceeded\" error: how to fix",
+      "url": "https://vectle.com/skills/skl_blMWXHlPkSgS3VfPcathYg",
+      "exact_version_url": "https://vectle.com/skills/skl_blMWXHlPkSgS3VfPcathYg/versions/skv_p61_h4_pG8qKJSqvBCHF0A",
+      "version": "skv_p61_h4_pG8qKJSqvBCHF0A",
+      "version_sequence": "1",
+      "updated": "2026-11-07T01:52:52.596798+00:00",
+      "path": "skills/spoonacular-api-meal-plan-generation-f-b2432bb7e47cf96f/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "0ee006aec14d2e1809752be2d9f3e085612008e44068c9b45fb52ca984d71215",
+      "public_input_digest": "239f024ddc5c32b1105f1600b285322473ba303529bf5e9c46090764db0c786d",
+      "sha256": "df5a7ace33cece98f1e405238072f6515a4db5222f8cbfee93ca6593d1727c8e"
+    },
+    {
       "skill_id": "skl_blz_kFrqe8NDjqtGwLdzhQ",
       "name": "agent-s-scheduler-broke-the-run-notebo-ac31fe3754baa6b9",
       "title": "agent's scheduler broke the run: notebook executed twice concurrently, corrupted output, second run failed",
@@ -284186,6 +284417,27 @@
       "source_snapshot_digest": "4322448ac4e6637528afa0bbdd35672ab951c58e8728835486328732f47e1f95",
       "public_input_digest": "9202871eced64c573899fb92076903c9791e85b5424f58c976a72c37f891cb26",
       "sha256": "3fc371f9989972b232925af6b900f2eb057c604bd0c7166514d49c8b93d609af"
+    },
+    {
+      "skill_id": "skl_c4ow7qKAAxe103_WwetxnQ",
+      "name": "anthropic-429-rate-limit-error-too-man-b52075b91843a90c",
+      "title": "anthropic 429 rate limit error too many requests fails",
+      "description": "anthropic 429 rate limit error too many requests fails",
+      "url": "https://vectle.com/skills/skl_c4ow7qKAAxe103_WwetxnQ",
+      "exact_version_url": "https://vectle.com/skills/skl_c4ow7qKAAxe103_WwetxnQ/versions/skv__w27oPAhPorkiQrRumBe1w",
+      "version": "skv__w27oPAhPorkiQrRumBe1w",
+      "version_sequence": "1",
+      "updated": "2026-11-08T01:52:55.633716+00:00",
+      "path": "skills/anthropic-429-rate-limit-error-too-man-b52075b91843a90c/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "5b5ae1a566538e8711740a93162e72f7094e566c03d813ea22f70843bf4d75e0",
+      "public_input_digest": "b6273c1f9064a9edd9885db65a8300fa403836c321a203c27c17c0fa3c5ffef4",
+      "sha256": "c595d57058c20342bf86e41aadd1dcd2054fe9dedcda4bff0a23c25761a0435f"
     },
     {
       "skill_id": "skl_c4t1rQ8PZob1RxM8dilkFw",
@@ -306826,6 +307078,27 @@
       "sha256": "b1a107c6ae40b1afc55c8dadbf8e15752aeb6a84bf7a43f4768eceb8d1214575"
     },
     {
+      "skill_id": "skl_fFyER6HTHDvUFygZLD8Pew",
+      "name": "aws-sso-error-token-has-expired-run-aw-2baab62ecd4a543b",
+      "title": "aws sso error token has expired run aws sso login fails",
+      "description": "aws sso error token has expired run aws sso login fails",
+      "url": "https://vectle.com/skills/skl_fFyER6HTHDvUFygZLD8Pew",
+      "exact_version_url": "https://vectle.com/skills/skl_fFyER6HTHDvUFygZLD8Pew/versions/skv_JWqaFxqGUHfHUNS7L2ZcgQ",
+      "version": "skv_JWqaFxqGUHfHUNS7L2ZcgQ",
+      "version_sequence": "1",
+      "updated": "2026-11-08T13:53:46.931158+00:00",
+      "path": "skills/aws-sso-error-token-has-expired-run-aw-2baab62ecd4a543b/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "58e76bf498088d4a1c06b08e112b20a26c4362dbbf57ba9162b73e78f7bb26bd",
+      "public_input_digest": "6910239d4737a7771c7f7b27578d5c61b39f9ef00839658b3133bc2a72d405ae",
+      "sha256": "3670c6f0a1e162fa81fab680f237eef9220a77eaaf98f875f08b283b88a13d7d"
+    },
+    {
       "skill_id": "skl_fG7mMO6OLUsnCO0ecOX_YQ",
       "name": "browser-automation-failed-on-dashboard-99619d159e6c975b",
       "title": "browser automation failed on dashboard page when agent tried to create the vendor record in the ERP error timeout...",
@@ -328855,6 +329128,27 @@
       "sha256": "fabf409db487e0d8d3f286c3471e42ff3be812fd8c950bad3c7fba91c4d85f2a"
     },
     {
+      "skill_id": "skl_iG7v_7v5F92iEl9WaLj_vQ",
+      "name": "terraform-login-fails-with-http-error-40eb2b04c278d1a8",
+      "title": "terraform login fails with HTTP ERROR 422 during HCP Terraform sign-in and account linking",
+      "description": "terraform login fails with HTTP ERROR 422 during HCP Terraform sign-in and account linking",
+      "url": "https://vectle.com/skills/skl_iG7v_7v5F92iEl9WaLj_vQ",
+      "exact_version_url": "https://vectle.com/skills/skl_iG7v_7v5F92iEl9WaLj_vQ/versions/skv_MJa9abNiD79PyZOb5kbGHQ",
+      "version": "skv_MJa9abNiD79PyZOb5kbGHQ",
+      "version_sequence": "1",
+      "updated": "2026-11-08T11:56:56.275382+00:00",
+      "path": "skills/terraform-login-fails-with-http-error-40eb2b04c278d1a8/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "14e8499dafff9f46e8613cc5f7229bf9544e1f7bdf3932e8ad363cd74177da61",
+      "public_input_digest": "437abc39ebe5e39ffa0d2639fee2b87beb3a1ab6086fd42b9fe62191c2492e8c",
+      "sha256": "bd2c5ccd7fceddac9e30612e6d4d7bb2ab1690a72276a1dca5c2277e57bed863"
+    },
+    {
       "skill_id": "skl_iG_G_iaCYgOIqkbtqMcZIA",
       "name": "agent-ignored-velero-partial-failure-w-dd7201e7b15015ea",
       "title": "agent ignored Velero partial failure warnings and declared a namespace restore complete with missing PVCs",
@@ -329945,6 +330239,27 @@
       "source_snapshot_digest": "9e6e1cc4ec7b68d7fed0d735937097c90f2a285609bf2bf1b1cec1108c39354e",
       "public_input_digest": "f1cdbe40e998ee13e4b18d457831acc5a9e3196ed147c57dffca93dd170bdd3b",
       "sha256": "ab5690a31d7554600d037822e3f5b90e146df267cf1c395989c2ef12dd1acdc2"
+    },
+    {
+      "skill_id": "skl_iSSET5ftHPqJEqhf-Wsi7Q",
+      "name": "factorytalk-optix-reusable-faceplate-p-7c2ce6c7ec774dda",
+      "title": "FactoryTalk Optix reusable faceplate parameter passing: pass a different PLC tag to each faceplate instance",
+      "description": "FactoryTalk Optix reusable faceplate parameter passing: pass a different PLC tag to each faceplate instance",
+      "url": "https://vectle.com/skills/skl_iSSET5ftHPqJEqhf-Wsi7Q",
+      "exact_version_url": "https://vectle.com/skills/skl_iSSET5ftHPqJEqhf-Wsi7Q/versions/skv_DsST9YLfx1PqeZL4F3Mxww",
+      "version": "skv_DsST9YLfx1PqeZL4F3Mxww",
+      "version_sequence": "1",
+      "updated": "2026-11-08T12:01:02.311929+00:00",
+      "path": "skills/factorytalk-optix-reusable-faceplate-p-7c2ce6c7ec774dda/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "c61aed2995c75256145e5f6cd87dd81b379e908088bc02de06060cdc1349c401",
+      "public_input_digest": "2eea43787801886eb32bcbc0dc6de4bbd48c990d76d744590150a7294afc42cc",
+      "sha256": "6d5de9083c1882cc09a9b75b90b9f591ba3fffda390e812302cbab52a4a0b3a7"
     },
     {
       "skill_id": "skl_iSWpJOlF41aJXPrB1jkJ1Q",
@@ -356659,6 +356974,27 @@
       "sha256": "ba27b85a661792aeea50c20924b9f3d93727720405185294c698352fe13011ae"
     },
     {
+      "skill_id": "skl_mGelBo-gTSItp4URYu7xzQ",
+      "name": "astro-cross-site-post-form-submissions-6ec23abf893b3ee4",
+      "title": "astro cross site post form submissions forbidden after deploy error",
+      "description": "astro cross site post form submissions forbidden after deploy error",
+      "url": "https://vectle.com/skills/skl_mGelBo-gTSItp4URYu7xzQ",
+      "exact_version_url": "https://vectle.com/skills/skl_mGelBo-gTSItp4URYu7xzQ/versions/skv_StLcCRp5H1rhb_zGHRx2WQ",
+      "version": "skv_StLcCRp5H1rhb_zGHRx2WQ",
+      "version_sequence": "1",
+      "updated": "2026-11-08T01:53:04.697291+00:00",
+      "path": "skills/astro-cross-site-post-form-submissions-6ec23abf893b3ee4/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "ac787fe9525e5eba3718f425be4a9c0fb5c807c4d0bcccde77d67b27f0657282",
+      "public_input_digest": "845de49d48675ac987b45c47654a684b47b5c8e07b7373cd1652cbed10fe08a7",
+      "sha256": "baa7a12c8660eb883574ab2b8dda7988bf866505608e736bf032bafab98e6e2c"
+    },
+    {
       "skill_id": "skl_mGkEYVteNcfAaAJGm2svxQ",
       "name": "linkedin-sales-navigator-error-attende-a5eb5e502bf7900e",
       "title": "LinkedIn Sales Navigator error attendee job change not shown in meeting prep brief",
@@ -371861,6 +372197,27 @@
       "source_snapshot_digest": "7f65fac20022d229cd5352270df1cfc0fe79c04b4ad2167f9d42afab4ff40ee4",
       "public_input_digest": "fcbd4599e8c3f9bef5473b2bf11ee50f992eedd70a924cfa29760503ccd540b4",
       "sha256": "e3e61da9c7416805c6cc232fd3e74990a527856f2d03da9eef5b32df0fc69784"
+    },
+    {
+      "skill_id": "skl_oZsxFtwAvRpzOTRkkbFXag",
+      "name": "cloudinary-unsigned-upload-preset-not-a98d2de08754dd6f",
+      "title": "cloudinary unsigned upload preset not found error upload fails",
+      "description": "cloudinary unsigned upload preset not found error upload fails",
+      "url": "https://vectle.com/skills/skl_oZsxFtwAvRpzOTRkkbFXag",
+      "exact_version_url": "https://vectle.com/skills/skl_oZsxFtwAvRpzOTRkkbFXag/versions/skv_4P6s1FJddCusKSKcb-_FJg",
+      "version": "skv_4P6s1FJddCusKSKcb-_FJg",
+      "version_sequence": "1",
+      "updated": "2026-11-07T01:53:17.903597+00:00",
+      "path": "skills/cloudinary-unsigned-upload-preset-not-a98d2de08754dd6f/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "1b7defe5c43af8fdd519f8cd295e301e279443ee9c422a0c403abf34b810ca15",
+      "public_input_digest": "3e3f49e646ca875da57f7ff54dee67a64efb86baa69219828628d23a29603dcc",
+      "sha256": "d0a99a83fa378296598bb13d633e54da968be6de2fde82a1692bd823c48fd5da"
     },
     {
       "skill_id": "skl_o_1jnQkrxncbHIRZBUUS3Q",
@@ -390425,6 +390782,27 @@
       "source_snapshot_digest": "d24f3beceb91f160245da4f606f1a17a90db36398deb372996b6eb51f8904d89",
       "public_input_digest": "3fff86afe8fb3119708f2b2f5fad07e951b4d42a5b9274bdbd9c6420aa0ac819",
       "sha256": "b57cb587f460d4612b0431d8563c00d3c4683d9b39749baae0fbc5e6e43fd0c1"
+    },
+    {
+      "skill_id": "skl_rFDOebxOgzxZFxRplRzvcw",
+      "name": "cannot-import-name-mutablemapping-from-9e99b8269fe65315",
+      "title": "cannot import name 'mutablemapping' from 'collections' ImportError fails",
+      "description": "cannot import name 'mutablemapping' from 'collections' ImportError fails",
+      "url": "https://vectle.com/skills/skl_rFDOebxOgzxZFxRplRzvcw",
+      "exact_version_url": "https://vectle.com/skills/skl_rFDOebxOgzxZFxRplRzvcw/versions/skv_-pz2Y26byuLk7-Us1sSVfA",
+      "version": "skv_-pz2Y26byuLk7-Us1sSVfA",
+      "version_sequence": "1",
+      "updated": "2026-11-07T01:53:59.783393+00:00",
+      "path": "skills/cannot-import-name-mutablemapping-from-9e99b8269fe65315/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "662e210047c2a823b449b44754173fbf818a4c9f3ad7d5fc679f77794d7a4a87",
+      "public_input_digest": "dc1a8104cdff30ac09c23c2acafeaff3a0421172bcd4746fd537efcc871d850d",
+      "sha256": "d2f88a042b050e230dce939e76051d91278970bc39c58fbb2d1125f6ff81fc55"
     },
     {
       "skill_id": "skl_rFF-J0GL6kevZ40-G4QP-w",
