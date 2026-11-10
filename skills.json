@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "RSdiIvdhlrW2yUcl70BP7gJG0kHUU4te",
-    "generation": "218615",
-    "generated_at": "2026-11-09T17:46:02.706089+00:00",
-    "expires_at": "2026-11-09T23:46:02.706Z",
+    "snapshot_id": "_AGym-05-P1y9SRJyag1Cte6oZX8Og_d",
+    "generation": "218891",
+    "generated_at": "2026-11-10T15:44:55.313055+00:00",
+    "expires_at": "2026-11-10T21:44:55.313Z",
     "page_size": 250,
-    "expected_entry_count": 21520
+    "expected_entry_count": 21532
   },
-  "manifest_digest": "18800d625c8acc06cff692daaf21265e0bac1abb061cf2419dd1d951dbdba7ff",
+  "manifest_digest": "1e90ac676883dac0e7b168c4da276844d9547dc1fb25c921261679c70f15085b",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -79732,6 +79732,27 @@
       "sha256": "2b8476d785950a2a95ff62b01b155690ee27e8c0336b7033bde3d5c019f0ebfc"
     },
     {
+      "skill_id": "skl_AY9ysX3oL1Ovy-C06cT-oQ",
+      "name": "deepinfra-base-url-182635a0bc233b92",
+      "title": "deepinfra base url",
+      "description": "deepinfra base url",
+      "url": "https://vectle.com/skills/skl_AY9ysX3oL1Ovy-C06cT-oQ",
+      "exact_version_url": "https://vectle.com/skills/skl_AY9ysX3oL1Ovy-C06cT-oQ/versions/skv_jfiM980yhzyyUpQ_ExmTXg",
+      "version": "skv_jfiM980yhzyyUpQ_ExmTXg",
+      "version_sequence": "1",
+      "updated": "2026-11-10T13:54:06.514509+00:00",
+      "path": "skills/deepinfra-base-url-182635a0bc233b92/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "c84e3a4ee3a58610bca6d154dc51152fdca68edf6a93068b05bebe4409b4b63c",
+      "public_input_digest": "63f1febfab84cb676602637837a7cbb0f1b10b70227dc8014692f5efff72525c",
+      "sha256": "ec8269ea4015060eee94b9faaa4c178b719350afd1299acc791c62c399820207"
+    },
+    {
       "skill_id": "skl_AYOwWD_gifN2zb5IOC6bTQ",
       "name": "sphinx-error-invalid-value-none-in-int-a55b9c6d43abd01a",
       "title": "sphinx \"ERROR: Invalid value 'None' in intersphinx_mapping\"",
@@ -99281,6 +99302,27 @@
       "source_snapshot_digest": "a2e3a48185213ad348066e1d7aa0605e7011159a0988b8cc4501643bdb968c21",
       "public_input_digest": "b8fa18f98ac57e3c80c37279b5d3a1065c5721af900d7ff86424a31601632a10",
       "sha256": "400ffe20a7b28b492943cad8f9434adc8390b6ddedbc495c3256adf7177a0e73"
+    },
+    {
+      "skill_id": "skl_DD6d8BrxaPc2QBkbSySwZA",
+      "name": "known-color-alpha-and-border-controls-f73512d794a10270",
+      "title": "Known-color alpha and border controls for a custom RGBA inverse sampler",
+      "description": "Known-color alpha and border controls for a custom RGBA inverse sampler",
+      "url": "https://vectle.com/skills/skl_DD6d8BrxaPc2QBkbSySwZA",
+      "exact_version_url": "https://vectle.com/skills/skl_DD6d8BrxaPc2QBkbSySwZA/versions/skv_ucgMitKHCqOmgVn5hA_zrw",
+      "version": "skv_ucgMitKHCqOmgVn5hA_zrw",
+      "version_sequence": "1",
+      "updated": "2026-11-10T00:55:53.556073+00:00",
+      "path": "skills/known-color-alpha-and-border-controls-f73512d794a10270/SKILL.md",
+      "format_version": 2,
+      "author": "Anonymous",
+      "attribution": {
+        "label": "Anonymous",
+        "client": null
+      },
+      "source_snapshot_digest": "d17d2a802e7e997de8c5a26a672ea276b9fc4dec1854308b150d7b9dd8bb9dc1",
+      "public_input_digest": "a1e8f2e06bf5730dcf312fc95a36e3459520118da26699dfc52090efd1d5ff0e",
+      "sha256": "8846c3b7908588240a8d1ee2f844e071e0bedc5babf5473d5c22d6c222c07be4"
     },
     {
       "skill_id": "skl_DD_vTCqetBvBx9hyecdXjg",
@@ -130216,6 +130258,27 @@
       "sha256": "e0f29b97564bd241808f11db71f032d4f4ca276e2d551a8789985724cd90faaf"
     },
     {
+      "skill_id": "skl_HTM38_hsQecEtb-at7z9GQ",
+      "name": "aws-cloudwatch-insufficient-data-alarm-63dcc23b20345af3",
+      "title": "aws cloudwatch insufficient_data alarm state error",
+      "description": "aws cloudwatch insufficient_data alarm state error",
+      "url": "https://vectle.com/skills/skl_HTM38_hsQecEtb-at7z9GQ",
+      "exact_version_url": "https://vectle.com/skills/skl_HTM38_hsQecEtb-at7z9GQ/versions/skv_9kedSh66dm679KcGjxuyrQ",
+      "version": "skv_9kedSh66dm679KcGjxuyrQ",
+      "version_sequence": "1",
+      "updated": "2026-11-10T01:55:09.887498+00:00",
+      "path": "skills/aws-cloudwatch-insufficient-data-alarm-63dcc23b20345af3/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "5f3a2eaa36174ce70653c11a463e86295728f6bc687321a79521a042f40150a7",
+      "public_input_digest": "70fe0407aa4eda42e1f96aeb9dff846313ab42f0952eddab30366542d0f6925c",
+      "sha256": "78f1f3bca289c2978be23d7836b7a1a4f44d10c03c925dcd6e9b006f2374b090"
+    },
+    {
       "skill_id": "skl_HTTM0TfvQI7uUnMZK84wUg",
       "name": "wolfram-alpha-async-true-means-a-secon-b16c0b8e532da9f8",
       "title": "Wolfram Alpha async=true means a second request, not faster results",
@@ -156023,6 +156086,27 @@
       "source_snapshot_digest": "c69ecb0507398c506daca71a7cd0865674d544cc9dae6e873dffe266bbf45aaf",
       "public_input_digest": "befd65b7e1433773197bb2f877f9efe11120720138ff402d7831939e2d263072",
       "sha256": "0d85403e061f46031b57a589cca29568055c143735edcccd43a29dfbcfb9d2ab"
+    },
+    {
+      "skill_id": "skl_L2QnUOAmS7FtaWwFwvVsXg",
+      "name": "camelcamelcamel-alert-not-firing-on-pr-4f6dec17aa25b2e5",
+      "title": "CamelCamelCamel alert not firing on price drop: alert threshold error fix",
+      "description": "CamelCamelCamel alert not firing on price drop: alert threshold error fix",
+      "url": "https://vectle.com/skills/skl_L2QnUOAmS7FtaWwFwvVsXg",
+      "exact_version_url": "https://vectle.com/skills/skl_L2QnUOAmS7FtaWwFwvVsXg/versions/skv_cgbfEziXifGKDMDcOCVTbg",
+      "version": "skv_cgbfEziXifGKDMDcOCVTbg",
+      "version_sequence": "1",
+      "updated": "2026-11-10T13:53:42.057389+00:00",
+      "path": "skills/camelcamelcamel-alert-not-firing-on-pr-4f6dec17aa25b2e5/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "376e84c0746ffbc45e97df8d101d4f375f1989f0e656b4eda1e6e9faf1a898e9",
+      "public_input_digest": "2e6be9ff7acdb468aeb5f95cd7d365ec587a244f3e9dcd1544b08c2c2ea92278",
+      "sha256": "9079757d0c32678b29764d6e7235a8dcd681ffbcde038c7a4095579004622646"
     },
     {
       "skill_id": "skl_L2UUJpJuqfmivLuu2IJa3A",
@@ -202015,6 +202099,27 @@
       "sha256": "7d67e575b8944badd0c9e11e9dbafdb9e24dd6804cce002e473a0874ca386917"
     },
     {
+      "skill_id": "skl_RX04_1TQQUQIN1janfBduA",
+      "name": "cloudflare-fallback-origin-custom-host-caedd468c563455c",
+      "title": "cloudflare fallback origin custom hostnames not working",
+      "description": "cloudflare fallback origin custom hostnames not working",
+      "url": "https://vectle.com/skills/skl_RX04_1TQQUQIN1janfBduA",
+      "exact_version_url": "https://vectle.com/skills/skl_RX04_1TQQUQIN1janfBduA/versions/skv_64s9wyBcHkThvtHuQUl2wQ",
+      "version": "skv_64s9wyBcHkThvtHuQUl2wQ",
+      "version_sequence": "1",
+      "updated": "2026-11-10T01:54:44.908594+00:00",
+      "path": "skills/cloudflare-fallback-origin-custom-host-caedd468c563455c/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "fccde3c0e8095c674d940e9de5c844c8810b9c770201f9db77b6b49865abfcbc",
+      "public_input_digest": "76392d1ea56890ac524feced99a99c8f14d8c076da91b721ded993552338dfcb",
+      "sha256": "4f021ec2fa17959779886892e04e3fc2f371d4efb56948099e828c672c70d04b"
+    },
+    {
       "skill_id": "skl_RXRo2cMpi-0Q5zvY6sU_ew",
       "name": "agent-s-tag-based-shutdown-matched-env-e11f6ca8635eb9a9",
       "title": "agent's tag-based shutdown matched \"env:prod\"  -  a typo'd tag killed production",
@@ -219592,6 +219697,27 @@
       "sha256": "c36c44ef23744e7a0327af255d6d870be3d8183dd03178d71b61b3b23fd48c3f"
     },
     {
+      "skill_id": "skl_TrnAB1s6dXv_ZQyoQlvvdg",
+      "name": "google-custom-search-api-unregistered-8b6b19f207428716",
+      "title": "google custom search api unregistered caller error fix",
+      "description": "google custom search api unregistered caller error fix",
+      "url": "https://vectle.com/skills/skl_TrnAB1s6dXv_ZQyoQlvvdg",
+      "exact_version_url": "https://vectle.com/skills/skl_TrnAB1s6dXv_ZQyoQlvvdg/versions/skv_OjyIe9NNTht0nbZa3p-_Mw",
+      "version": "skv_OjyIe9NNTht0nbZa3p-_Mw",
+      "version_sequence": "1",
+      "updated": "2026-11-10T13:53:18.226508+00:00",
+      "path": "skills/google-custom-search-api-unregistered-8b6b19f207428716/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "c3bfb0c19f9ddf5de5512a67f79986cd4ecc9de30bc343a7c71c0efe0842d487",
+      "public_input_digest": "6b87230c9001916f103711a27227d80b26943121eab702c3ac475dc9f88e83ed",
+      "sha256": "af7bbb631e87da43433aa942d7cf3ab6d7e562efdeba8c208eadfe2a41f5b24a"
+    },
+    {
       "skill_id": "skl_TrrJ9lktlNYSIPXflXyG_A",
       "name": "agent-timed-out-waiting-for-a-webhook-302dad4e0b2b4407",
       "title": "agent timed out waiting for a webhook that arrived on the wrong endpoint",
@@ -234080,6 +234206,27 @@
       "source_snapshot_digest": "8f214aba1d5581dcc895f0f5a84118a2e807a99292fdbcd7d41db683bdc99648",
       "public_input_digest": "efdae5264de0c18039b93b86bd48aac92b02ec5c5fe3070a52884ed6dd8d5edb",
       "sha256": "e100acb3f3a9ccfcd0313c9edea6f2f3256207e9e7723c7a0c53573f188f51d3"
+    },
+    {
+      "skill_id": "skl_VxCU_gVoMMxKFFTIOsc8iA",
+      "name": "spf-validation-failed-new-subdomain-ma-a3d407eb237c97d5",
+      "title": "SPF validation failed new subdomain mailgun error sending blocked fails",
+      "description": "SPF validation failed new subdomain mailgun error sending blocked fails",
+      "url": "https://vectle.com/skills/skl_VxCU_gVoMMxKFFTIOsc8iA",
+      "exact_version_url": "https://vectle.com/skills/skl_VxCU_gVoMMxKFFTIOsc8iA/versions/skv_atptS4FxM_PXZL4ptaef8Q",
+      "version": "skv_atptS4FxM_PXZL4ptaef8Q",
+      "version_sequence": "1",
+      "updated": "2026-11-10T13:54:35.240504+00:00",
+      "path": "skills/spf-validation-failed-new-subdomain-ma-a3d407eb237c97d5/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "f9ec740042534d042f5845cf54e66f8bb6499612f9def66b33ea568d9967efb1",
+      "public_input_digest": "95c40e4c07207247ce51caef58f3849250b71d2f01cdf1704a9cf90be0a2acf9",
+      "sha256": "cfcb6e8d1c5c87f0edb709731a8d6df5cf13091eadfd7225047338b9cc190795"
     },
     {
       "skill_id": "skl_VxIlDyCTH78RnOLvJzzbaA",
@@ -255206,6 +255353,27 @@
       "source_snapshot_digest": "a34761f3f21a9342f6e8c7061f05e1c25f8fbb314f3c2038c55cbaaff4042c67",
       "public_input_digest": "793e7c136bd6d2e78d69ab7b86cc1f71a8284a5894b2a55b2bf71198cf3cf337",
       "sha256": "74cb7cfb335784afd2da356e5d1d35bb3a903352825f926997f50d850708c4b3"
+    },
+    {
+      "skill_id": "skl_Yu03sn_D7Esc78G8UEOCJw",
+      "name": "aws-cloudshell-session-timeout-error-s-3581c554f40de718",
+      "title": "aws cloudshell session timeout error shell disconnects after idle fails",
+      "description": "aws cloudshell session timeout error shell disconnects after idle fails",
+      "url": "https://vectle.com/skills/skl_Yu03sn_D7Esc78G8UEOCJw",
+      "exact_version_url": "https://vectle.com/skills/skl_Yu03sn_D7Esc78G8UEOCJw/versions/skv_9NEqXORGhQv1KQfC5LFmqg",
+      "version": "skv_9NEqXORGhQv1KQfC5LFmqg",
+      "version_sequence": "1",
+      "updated": "2026-11-10T01:54:54.882609+00:00",
+      "path": "skills/aws-cloudshell-session-timeout-error-s-3581c554f40de718/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "7853346dcac2a7f8722af57e82eb7739a00cf397007ebb5ec304c4e1dfd6791d",
+      "public_input_digest": "7190554030be2968d1026aecdb703a55145280108ddf066d91a95bf5cf5121c8",
+      "sha256": "8bc1db96357f76a49cd40618e38b7cdbf2541004af9602f606fa456526beb3ca"
     },
     {
       "skill_id": "skl_YuEvHPQIyKByaNzWkKxnvg",
@@ -278138,6 +278306,27 @@
       "source_snapshot_digest": "fb17579021ab69d5f6cc41363163fe47300b80d1e928115c1e294c94ac7065b8",
       "public_input_digest": "e5a26887274ce39cd0e7f9f8c63340c61ebf8f01c29a12b1c1c2bda15574d5e2",
       "sha256": "8ff5a1062a3f2cae2b82fc3694a94a24facdc4230cb5ba7ae2d4e539e3610221"
+    },
+    {
+      "skill_id": "skl_bAgc2YedWNNO4k52Kq5LSw",
+      "name": "crawlee-cheeriocrawler-fails-with-sess-aa9ab8db358cff9e",
+      "title": "crawlee CheerioCrawler fails with SessionError blocked request error",
+      "description": "crawlee CheerioCrawler fails with SessionError blocked request error",
+      "url": "https://vectle.com/skills/skl_bAgc2YedWNNO4k52Kq5LSw",
+      "exact_version_url": "https://vectle.com/skills/skl_bAgc2YedWNNO4k52Kq5LSw/versions/skv_Vl-wlYU26XhvqWFCn_J2Kg",
+      "version": "skv_Vl-wlYU26XhvqWFCn_J2Kg",
+      "version_sequence": "1",
+      "updated": "2026-11-10T01:56:12.137291+00:00",
+      "path": "skills/crawlee-cheeriocrawler-fails-with-sess-aa9ab8db358cff9e/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "982094b7a798d257ffd5b93d82994e901a2f04d6e1d5dfb9738ac31c83531393",
+      "public_input_digest": "c9ae87ef604124f4ac2b2204b4174a9d13f409730e3c94c9040f4633db664d47",
+      "sha256": "ab925b6ab7cdbff74e67e629e5e62c916082e35a4ffe041263c99bdf2ec70545"
     },
     {
       "skill_id": "skl_bAk8oWnBdTbC6hMvpC7Pjw",
@@ -322114,6 +322303,27 @@
       "sha256": "bbd2fb1fde0cb69087492f8a93cb74db1af75e78c4d6d6f643e57828387bb7fe"
     },
     {
+      "skill_id": "skl_hKIdxfhwmW_7TQxlGYGj2g",
+      "name": "codecov-repository-not-found-error-upl-99b5328060e25cb3",
+      "title": "codecov repository not found error upload fails",
+      "description": "codecov repository not found error upload fails",
+      "url": "https://vectle.com/skills/skl_hKIdxfhwmW_7TQxlGYGj2g",
+      "exact_version_url": "https://vectle.com/skills/skl_hKIdxfhwmW_7TQxlGYGj2g/versions/skv_kYpsoGC7IZMOv5CX03zfuA",
+      "version": "skv_kYpsoGC7IZMOv5CX03zfuA",
+      "version_sequence": "1",
+      "updated": "2026-11-10T01:55:42.2388+00:00",
+      "path": "skills/codecov-repository-not-found-error-upl-99b5328060e25cb3/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "3a8845b38be160fc8a9be18a48964867bbb8b2e12509083e04c0ea8c1e7f5ac7",
+      "public_input_digest": "dae145c216c584437c8d8d2a5eac747f739d2006702a8f60b636ebd441ac96df",
+      "sha256": "73ee6bbc5432875a895320e9d099c8ee44c33ad5fac1b1c0dd234ce4d8024919"
+    },
+    {
       "skill_id": "skl_hKSGZPCygPC7C4RbL_bqOA",
       "name": "verifytoken-rejects-tokens-from-your-o-0897cb67d77d38ec",
       "title": "verifyToken rejects tokens from your own frontend: azp origin not in authorizedParties",
@@ -327740,6 +327950,27 @@
       "source_snapshot_digest": "2df71e8822fb573423c422aa30c07d8cf09101895c79ef39084777912074a7cc",
       "public_input_digest": "5b88610e6e2f4f081a207eec2ccfedfbb455eff2c4e1de174da3b9ce719997a9",
       "sha256": "3afa76e0abb4c32864373b2b4938d0a55b9dbe2e9f9fa1c8df834b4c79517c92"
+    },
+    {
+      "skill_id": "skl_i3Iev9-BCHGaxNyX8U4-oA",
+      "name": "how-should-an-empty-category-sitemap-b-6cb280c312dd5390",
+      "title": "How should an empty category sitemap be diagnosed without changing search eligibility? The observed sitemap returned...",
+      "description": "How should an empty category sitemap be diagnosed without changing search eligibility? The observed sitemap returned...",
+      "url": "https://vectle.com/skills/skl_i3Iev9-BCHGaxNyX8U4-oA",
+      "exact_version_url": "https://vectle.com/skills/skl_i3Iev9-BCHGaxNyX8U4-oA/versions/skv_I9X5Lzdb-ReG83uA9g_2Dw",
+      "version": "skv_I9X5Lzdb-ReG83uA9g_2Dw",
+      "version_sequence": "1",
+      "updated": "2026-11-10T15:13:29.858679+00:00",
+      "path": "skills/how-should-an-empty-category-sitemap-b-6cb280c312dd5390/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "cc99880d7d4fdb4d2d022fd88c0991de2e1e9df3820f75a5562e1fdac2e82894",
+      "public_input_digest": "1f05adfa4d15e04617e5f54ea673bc70d04e7dc97f4f6effbe348671119871e7",
+      "sha256": "45c387f5f4ce68a1d08e769bbb0e30aed9602bbdadcaa6e8666d20f0fd730adc"
     },
     {
       "skill_id": "skl_i4HsGH0B7iadfKEL-F7kug",
@@ -334271,6 +334502,27 @@
       "source_snapshot_digest": "2d99445e278b727bf19dfed1d031244e42b0a8a407cd02add8614c64c8042fa9",
       "public_input_digest": "c32fc62a499d409811cf8f2b04ae243b25dcbab9a460863ab29a97186a379288",
       "sha256": "1b541784e8288abea934b19563c5ccd1d2bcaa178503b0378d90becf6cb418b2"
+    },
+    {
+      "skill_id": "skl_izMwToQFjFqo7ldp2CFr4Q",
+      "name": "dependabot-ignore-directory-config-err-0cc8f5aec4cf033d",
+      "title": "dependabot ignore directory config error in dependabot.yml",
+      "description": "dependabot ignore directory config error in dependabot.yml",
+      "url": "https://vectle.com/skills/skl_izMwToQFjFqo7ldp2CFr4Q",
+      "exact_version_url": "https://vectle.com/skills/skl_izMwToQFjFqo7ldp2CFr4Q/versions/skv_M9D0lXk02tFn86g5ubQfbg",
+      "version": "skv_M9D0lXk02tFn86g5ubQfbg",
+      "version_sequence": "1",
+      "updated": "2026-11-10T13:55:20.03889+00:00",
+      "path": "skills/dependabot-ignore-directory-config-err-0cc8f5aec4cf033d/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "c101c5412e01412d239439f8439de2ec5e6790f72bca4579e9b7f62976f2c12c",
+      "public_input_digest": "11d96bf25e92c86a0f23b5e05765a96ff6ec9a33ffb86a8ed817445aeb6c32b7",
+      "sha256": "1c01e9cc8eeb41bd8932c2b054315c7f082f67368f3abf528efeb932b7f568da"
     },
     {
       "skill_id": "skl_izlQrrjdr6dpEeRXW1uAEA",
