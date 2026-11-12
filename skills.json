@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "f61GY9SHeyR9abAK63YCpWb-4f0X5Adw",
-    "generation": "219056",
-    "generated_at": "2026-11-11T15:34:19.181704+00:00",
-    "expires_at": "2026-11-11T21:34:19.181Z",
+    "snapshot_id": "ULV0i-knDXzOSe_b0Ohl_rBumvSBISav",
+    "generation": "219188",
+    "generated_at": "2026-11-12T16:10:47.634064+00:00",
+    "expires_at": "2026-11-12T22:10:47.634Z",
     "page_size": 250,
-    "expected_entry_count": 21544
+    "expected_entry_count": 21554
   },
-  "manifest_digest": "777941ccf397df09e8152d374a2b372826a141a23bf25da33dbf7e0412149ef5",
+  "manifest_digest": "c13ca96cf46b242303295136c7ff02eb3e5d885d1e1a5098618c47f556683c04",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -5117,6 +5117,27 @@
       "source_snapshot_digest": "18a00062dbd1cea5d3de3ad58476e488c8cf7f647b45134e75a96d271b0e47ec",
       "public_input_digest": "199b5b079f039a2f6ff2447136a514d24eff204c231b98de4d68e25ee7b1ca34",
       "sha256": "49c1f208f6bc14d0392314ad0a2aec441afce8842efcf4e095e7a24591681037"
+    },
+    {
+      "skill_id": "skl_-nj71BNf5FjB3GG__T4AiQ",
+      "name": "graphql-resource-protected-by-organiza-6dea611dbe82c806",
+      "title": "graphql: resource protected by organization saml enforcement. you must grant your oauth token access to this...",
+      "description": "graphql: resource protected by organization saml enforcement. you must grant your oauth token access to this...",
+      "url": "https://vectle.com/skills/skl_-nj71BNf5FjB3GG__T4AiQ",
+      "exact_version_url": "https://vectle.com/skills/skl_-nj71BNf5FjB3GG__T4AiQ/versions/skv_EQBXjfWCBLAmgTDKhlcErA",
+      "version": "skv_EQBXjfWCBLAmgTDKhlcErA",
+      "version_sequence": "1",
+      "updated": "2026-11-12T13:53:38.723222+00:00",
+      "path": "skills/graphql-resource-protected-by-organiza-6dea611dbe82c806/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "8402858dc20f0e93cb1274083d95bf6fc09bc35ee2aaa4e228d1015b4d66f997",
+      "public_input_digest": "d682dfd9e413b53737482cd5a1ce6eae6d5ea1b0db606a2023ec00b959c0e1cd",
+      "sha256": "3432585fe576d92ca62c605fb3f13d89942e5d1f999f76303b348e426e63d087"
     },
     {
       "skill_id": "skl_-nyudoo6vVLvhKEzA8T_Qg",
@@ -34309,6 +34330,27 @@
       "sha256": "be1eb2b0b71ef342fe8e93c34517ad58c84d3c0c9020b2e11a147841f06656a7"
     },
     {
+      "skill_id": "skl_3tOTnaU1toyPXGnjgtq7MQ",
+      "name": "grants-gov-opportunity-synopsis-page-e-12702f2928eeeabd",
+      "title": "Grants.gov opportunity synopsis page error application package download fails",
+      "description": "Grants.gov opportunity synopsis page error application package download fails",
+      "url": "https://vectle.com/skills/skl_3tOTnaU1toyPXGnjgtq7MQ",
+      "exact_version_url": "https://vectle.com/skills/skl_3tOTnaU1toyPXGnjgtq7MQ/versions/skv_V5Rl-5yCQh_9MxpFpE2UVw",
+      "version": "skv_V5Rl-5yCQh_9MxpFpE2UVw",
+      "version_sequence": "1",
+      "updated": "2026-11-12T13:54:38.49544+00:00",
+      "path": "skills/grants-gov-opportunity-synopsis-page-e-12702f2928eeeabd/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "e4e3828336cf3f28bf3ce341f7adea2350d720fae242f39fc0ae2be667d72b4d",
+      "public_input_digest": "c69ded33a5d50ac80f47bcf3b81734815384c13f137e6b8f93756c42c7dfc377",
+      "sha256": "14dec4919f86fc8b6e237be9bcbb3d28e9a0f52bf9d319a7b0d3c35588f92ac4"
+    },
+    {
       "skill_id": "skl_3tVUrMSR6b4u3niLiVKLFw",
       "name": "tensorboard-scalar-logging-failed-erro-546c580018072666",
       "title": "TensorBoard scalar logging failed error 'ValueError: Duplicate tag name' in run summary",
@@ -35588,6 +35630,27 @@
       "source_snapshot_digest": "6244dcd4ba003126727ff5697c060abd316b648aff4dcc8425b9cc927bd2122e",
       "public_input_digest": "a2a511c56c9c421aeb44050c5c0fb2f9028436ee65cba7ea93ce46df63794d7e",
       "sha256": "8b9cb368b980db0d6e1e70201c8032a9fd7e10e2fc42b4fd3b7a77027f866420"
+    },
+    {
+      "skill_id": "skl_43-jBGoup8JivyvXdJJcPw",
+      "name": "set-output-deprecated-error-github-act-193334accdf5e8fb",
+      "title": "set-output deprecated error GitHub Actions workflow fails",
+      "description": "set-output deprecated error GitHub Actions workflow fails",
+      "url": "https://vectle.com/skills/skl_43-jBGoup8JivyvXdJJcPw",
+      "exact_version_url": "https://vectle.com/skills/skl_43-jBGoup8JivyvXdJJcPw/versions/skv_sN94f8elWMeQcrxmHGIpKA",
+      "version": "skv_sN94f8elWMeQcrxmHGIpKA",
+      "version_sequence": "1",
+      "updated": "2026-11-12T01:56:40.87221+00:00",
+      "path": "skills/set-output-deprecated-error-github-act-193334accdf5e8fb/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "cb60d4bde542e2073f91eb7543550889dbef9a4d0515858b875c04575e96d2a1",
+      "public_input_digest": "412d40c9b0a80ea17ef12227c5f4bfd1a337279b1ac9a4dee7692866988d2f2e",
+      "sha256": "56c9e80c1e339337baa24192d932454e0650bf0e549a69b2b29b96aae868778c"
     },
     {
       "skill_id": "skl_4354Ag0pWTf89SbwI8E1ug",
@@ -95522,6 +95585,27 @@
       "source_snapshot_digest": "6c59d1df133756a747f56ca6ef536dcb05bf7a85bd90cfb4284211d4f056b59a",
       "public_input_digest": "df7c5cc3b9f3033dd0145bd4bdf1b4e038675b583b8d738f24be52c60d663100",
       "sha256": "e03dd02a8975702c7447b830a71b05de34d49628fb1c3466d830808f1144ee93"
+    },
+    {
+      "skill_id": "skl_CiKyhrZrm0g9ctsnRT_cyA",
+      "name": "happy-dom-vs-jsdom-vitest-environment-835140e6cdca2aae",
+      "title": "happy-dom vs jsdom vitest environment error tests fail with window is not defined",
+      "description": "happy-dom vs jsdom vitest environment error tests fail with window is not defined",
+      "url": "https://vectle.com/skills/skl_CiKyhrZrm0g9ctsnRT_cyA",
+      "exact_version_url": "https://vectle.com/skills/skl_CiKyhrZrm0g9ctsnRT_cyA/versions/skv_cRbUfDemvz_ucj76EA7WQg",
+      "version": "skv_cRbUfDemvz_ucj76EA7WQg",
+      "version_sequence": "1",
+      "updated": "2026-11-12T13:54:48.165726+00:00",
+      "path": "skills/happy-dom-vs-jsdom-vitest-environment-835140e6cdca2aae/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "6c65f41d4a5a78d3f9800d0f0b14a28a378eed6a62e788408cc5c35e2dfc8c1f",
+      "public_input_digest": "1c6c5ab3f481fe937cb124641ff4603647c207d2f95c4e052b0b09828fd298e8",
+      "sha256": "ceb5c243d1f74522d47e3f32da67916fee47abe7d317fcbd0cfabe2f9a529f4f"
     },
     {
       "skill_id": "skl_CiLU_pzw43dA1SriqtRekA",
@@ -227509,6 +227593,27 @@
       "sha256": "a3e94bed192d4f44002808bbb07ffbc46467c1102799008e61e83c47e618aa2a"
     },
     {
+      "skill_id": "skl_UwmXCz2hrPc45tjrlG06qA",
+      "name": "could-not-read-workspace-metadata-from-2e334261b2b3d5f4",
+      "title": "could not read workspace metadata from gradle cache",
+      "description": "could not read workspace metadata from gradle cache",
+      "url": "https://vectle.com/skills/skl_UwmXCz2hrPc45tjrlG06qA",
+      "exact_version_url": "https://vectle.com/skills/skl_UwmXCz2hrPc45tjrlG06qA/versions/skv__na1_HigHW0QwTEBEL391Q",
+      "version": "skv__na1_HigHW0QwTEBEL391Q",
+      "version_sequence": "1",
+      "updated": "2026-11-12T13:54:09.372511+00:00",
+      "path": "skills/could-not-read-workspace-metadata-from-2e334261b2b3d5f4/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "e48129e5d9ec63053319ad18a4a684b61fa34389cd29e36bd860ab111700a9c0",
+      "public_input_digest": "996c2529ac8a701581193732971cef81b946286f6364b9bd885696521e8a45e3",
+      "sha256": "89f1b83f94467a30f27d488830f20e867deefb114c1b4f5633b0379ebf639105"
+    },
+    {
       "skill_id": "skl_UwoiUvs-AFmUmaa4FaCq4Q",
       "name": "auth-token-expired-mid-run-agent-faile-da8b49862b907a82",
       "title": "auth token expired mid-run agent failed to assemble the close reporting pack error session expired failure",
@@ -233345,6 +233450,27 @@
       "source_snapshot_digest": "a96842f2bad5c5c5c3cba500f3cf48e3ab746eda6af66593565477af1be620e8",
       "public_input_digest": "b782fd175981c4113497d260cedf8d8f9c284b4cb31dfd29a13ec5fd260882ae",
       "sha256": "aa6303a5f090d360a5f5ed38c29c26730aa247b1234e57e00aaee593be09fe45"
+    },
+    {
+      "skill_id": "skl_VlXCGUfb81r8oJG8wJHkQQ",
+      "name": "gemini-extensions-install-error-extens-af3cdf09e011f503",
+      "title": "gemini extensions install error extension failed to load context missing fails",
+      "description": "gemini extensions install error extension failed to load context missing fails",
+      "url": "https://vectle.com/skills/skl_VlXCGUfb81r8oJG8wJHkQQ",
+      "exact_version_url": "https://vectle.com/skills/skl_VlXCGUfb81r8oJG8wJHkQQ/versions/skv_ahqLiTzvR5HF4_c4wdEb8Q",
+      "version": "skv_ahqLiTzvR5HF4_c4wdEb8Q",
+      "version_sequence": "1",
+      "updated": "2026-11-12T01:55:43.040439+00:00",
+      "path": "skills/gemini-extensions-install-error-extens-af3cdf09e011f503/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "a6ea5ea7f86f23f4c7cc3e186883fbd3f16281574448275fcba48eed9874a15d",
+      "public_input_digest": "b99e278e2719e1e749586c91aea1bb7c739b0ac3d964f16d33942508a3750e43",
+      "sha256": "fbb64e057e78c68acf99d7d00535567e10fff6e459c2fa51a323e729ea6f6a82"
     },
     {
       "skill_id": "skl_Vlg0DnTPOTGDI0svHes_9w",
@@ -276208,6 +276334,27 @@
       "sha256": "2554f2c89e8a325becca14154e3c5a082cdfb245cdfabd91f00a8aed8912ade6"
     },
     {
+      "skill_id": "skl_apOKBpcTVRVPNOjuvV3Cdw",
+      "name": "gdal-ogr2ogr-conversion-fails-with-una-85210e41710ed28f",
+      "title": "GDAL ogr2ogr conversion fails with \"unable to open datasource\" error",
+      "description": "GDAL ogr2ogr conversion fails with \"unable to open datasource\" error",
+      "url": "https://vectle.com/skills/skl_apOKBpcTVRVPNOjuvV3Cdw",
+      "exact_version_url": "https://vectle.com/skills/skl_apOKBpcTVRVPNOjuvV3Cdw/versions/skv_fgQDkSczI6-IR8lfFLBjeQ",
+      "version": "skv_fgQDkSczI6-IR8lfFLBjeQ",
+      "version_sequence": "1",
+      "updated": "2026-11-12T01:56:08.490334+00:00",
+      "path": "skills/gdal-ogr2ogr-conversion-fails-with-una-85210e41710ed28f/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "6c64ab23605ee7e60e3e54d820b05c0e1d8ca2f77273ef5decccb5d90cdc34ff",
+      "public_input_digest": "03d0c743ec5e5cb91ed946bc49be9a0613a6e0a30694139264a4a5e711f3b565",
+      "sha256": "741337c9cb6b03da7bd7fa64b0859d9141fb3b0b16c3c9a113352249d92314fe"
+    },
+    {
       "skill_id": "skl_apWF5ppO9xta0NxjU1INJw",
       "name": "bounding-boxes-shift-by-a-few-pixels-a-47eb0e6f0c5871ff",
       "title": "bounding boxes shift by a few pixels after image rotation in annotation export error",
@@ -311593,6 +311740,27 @@
       "sha256": "ba1dc97036a24e08106606c15c55f1fe4abcf7f4940b4950ecdf634b0d327d6a"
     },
     {
+      "skill_id": "skl_fltZ3SXfb4Lnb5MvJQ5Sgg",
+      "name": "hellosign-test-mode-signature-request-f37e0564b08ba4da",
+      "title": "hellosign test mode signature request not sending emails error how to fix",
+      "description": "hellosign test mode signature request not sending emails error how to fix",
+      "url": "https://vectle.com/skills/skl_fltZ3SXfb4Lnb5MvJQ5Sgg",
+      "exact_version_url": "https://vectle.com/skills/skl_fltZ3SXfb4Lnb5MvJQ5Sgg/versions/skv_Da4tvAmeKokxvTRHYi4yRg",
+      "version": "skv_Da4tvAmeKokxvTRHYi4yRg",
+      "version_sequence": "1",
+      "updated": "2026-11-12T13:55:18.932498+00:00",
+      "path": "skills/hellosign-test-mode-signature-request-f37e0564b08ba4da/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "1c22677507f7bb4ebfee6d56d4d70e3a26dd93372077766cc9a859e35060f41e",
+      "public_input_digest": "f3e02b34da419932137ad51a4d1358f3bd784056fc1521c1d0407044ce3c6e8e",
+      "sha256": "508c039a24f84f8ff58dc619f637eec306773d2002c19a44016a5cd8d371725d"
+    },
+    {
       "skill_id": "skl_fmVEPAT4aHTf1hAL5DSNnw",
       "name": "codebuild-client-error-authorization-f-2f05a82c9d2239b3",
       "title": "CodeBuild CLIENT_ERROR authorization failed for primary source: fix the connection",
@@ -341306,6 +341474,27 @@
       "source_snapshot_digest": "ad20e6ad9d939e904792e723195a3bc8e350b2fe82a9f71bb0d0cc9e50e2c2c4",
       "public_input_digest": "e418d1e154283802be8bd8492babecf3f039a3c7fcd4d512dd9dde01f82a82bb",
       "sha256": "d98fd527e1ff6a9583779d887d133a0ef125c557bc2ce410e2307acdf9f0a386"
+    },
+    {
+      "skill_id": "skl_jw1hBY7WPD59ZvTfpH27DA",
+      "name": "fivetran-sync-fails-with-error-failed-07f786bfc0e4b1e2",
+      "title": "fivetran sync fails with error \"failed to connect to source\"",
+      "description": "fivetran sync fails with error \"failed to connect to source\"",
+      "url": "https://vectle.com/skills/skl_jw1hBY7WPD59ZvTfpH27DA",
+      "exact_version_url": "https://vectle.com/skills/skl_jw1hBY7WPD59ZvTfpH27DA/versions/skv_T03JBcfAKy2E-etm7ZztVw",
+      "version": "skv_T03JBcfAKy2E-etm7ZztVw",
+      "version_sequence": "1",
+      "updated": "2026-11-12T01:55:18.622499+00:00",
+      "path": "skills/fivetran-sync-fails-with-error-failed-07f786bfc0e4b1e2/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "22fae9a95e1909786d99da2da9d7280115ab2f6ddac69c15fa3667530acd9384",
+      "public_input_digest": "b009d4dd7e3aa05750889e3e40a935aa21485c35f39453a76210d16dc434d278",
+      "sha256": "6be7716d97b222eb4b2fa4e45643c8c1b607085aaf1fa43dc10b15468d35b427"
     },
     {
       "skill_id": "skl_jwXOCD1K3eY3LQEps3Zemg",
@@ -412580,6 +412769,27 @@
       "source_snapshot_digest": "3e2b15aebcb9bc54489334fe659925c14a5c0012c88720425d58c810e72acaac",
       "public_input_digest": "734c7b4662011a726eac2309a26d1b22f69fc30c11ef134ca333f47182cac24c",
       "sha256": "88a2aec838f81283026ee2c255d9337544b9a7469a3860fc3d87a03e8fa9d2db"
+    },
+    {
+      "skill_id": "skl_uBBdczpv1iWiAvB04Lr-IA",
+      "name": "eval-dataset-jsonl-parse-error-invalid-75f12772f9c243dc",
+      "title": "eval dataset JSONL parse error invalid line fails run",
+      "description": "eval dataset JSONL parse error invalid line fails run",
+      "url": "https://vectle.com/skills/skl_uBBdczpv1iWiAvB04Lr-IA",
+      "exact_version_url": "https://vectle.com/skills/skl_uBBdczpv1iWiAvB04Lr-IA/versions/skv_yyAe9UOtQRgLgYphM0d2yg",
+      "version": "skv_yyAe9UOtQRgLgYphM0d2yg",
+      "version_sequence": "1",
+      "updated": "2026-11-12T01:54:53.398967+00:00",
+      "path": "skills/eval-dataset-jsonl-parse-error-invalid-75f12772f9c243dc/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "452ceecfdb84533973975938e205a022fdb25c3d424bc7d7ababb0d7143b70c4",
+      "public_input_digest": "b838ee4f2dbdc3f0022e258e6d50f06a89a610faf2e946b6acfcc56736a6da11",
+      "sha256": "362df91f7440b4d96d4157e81d1cfcfb930868180c6e28497ee3007607ec9f89"
     },
     {
       "skill_id": "skl_uBkpLPTI8UG-H_CXbtWWfg",
