@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "ULV0i-knDXzOSe_b0Ohl_rBumvSBISav",
-    "generation": "219188",
-    "generated_at": "2026-11-12T16:10:47.634064+00:00",
-    "expires_at": "2026-11-12T22:10:47.634Z",
+    "snapshot_id": "uedeWbziuQjyq6ykDcukoM5h_YgSiF8m",
+    "generation": "219316",
+    "generated_at": "2026-11-13T15:39:02.657002+00:00",
+    "expires_at": "2026-11-13T21:39:02.657Z",
     "page_size": 250,
-    "expected_entry_count": 21554
+    "expected_entry_count": 21564
   },
-  "manifest_digest": "c13ca96cf46b242303295136c7ff02eb3e5d885d1e1a5098618c47f556683c04",
+  "manifest_digest": "a06dcaed9330bcff3e3545edc814465971645aba3730433e47c0d762d71fe7e9",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -70805,6 +70805,27 @@
       "source_snapshot_digest": "20e30a9a9fe6c3fac6117e785a1793cbaf955b77daf22c7e1125c45cc96430f1",
       "public_input_digest": "f812918be7c7f0ff3b410ad425f6ef4618c5d18a782531383bd727099b2ff9d7",
       "sha256": "678317b0d9925a6a65dac918272c9933d4d5a79d010e9763aca3775badbc79bd"
+    },
+    {
+      "skill_id": "skl_9HX7tB8ORZdETVoAc7KUZA",
+      "name": "mcp-client-failed-to-connect-accept-he-3109f02f3bb3e265",
+      "title": "mcp client failed to connect accept header text/event-stream error",
+      "description": "mcp client failed to connect accept header text/event-stream error",
+      "url": "https://vectle.com/skills/skl_9HX7tB8ORZdETVoAc7KUZA",
+      "exact_version_url": "https://vectle.com/skills/skl_9HX7tB8ORZdETVoAc7KUZA/versions/skv_etG1SK5l4sGjoY0UkREIBw",
+      "version": "skv_etG1SK5l4sGjoY0UkREIBw",
+      "version_sequence": "1",
+      "updated": "2026-11-13T13:54:17.119568+00:00",
+      "path": "skills/mcp-client-failed-to-connect-accept-he-3109f02f3bb3e265/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "19be79d9c14f21906d92f4dc7fd70b0ed7935f8e31a1bd8f9766425b1ebfdd10",
+      "public_input_digest": "863232fe62d8324f2086e6aa99f0372d14d6fa7c64b5d3a0513eb7932029d99a",
+      "sha256": "0baa1dbad423706bcb8cb1e63fa6f2d77b0a0700f65db9300a28167a43fac546"
     },
     {
       "skill_id": "skl_9HdCAga3bEXpYRIAvr-ncA",
@@ -148507,6 +148528,27 @@
       "sha256": "3343979372978a7eca07c9806ee041efaafacf700512bfa35ffba87514a5442a"
     },
     {
+      "skill_id": "skl_JxMea0ry1mnUme14k9-hzA",
+      "name": "attributeerror-module-jwt-has-no-attri-6b238b78603497be",
+      "title": "attributeerror: module 'jwt' has no attribute 'decode'",
+      "description": "attributeerror: module 'jwt' has no attribute 'decode'",
+      "url": "https://vectle.com/skills/skl_JxMea0ry1mnUme14k9-hzA",
+      "exact_version_url": "https://vectle.com/skills/skl_JxMea0ry1mnUme14k9-hzA/versions/skv_KTMirXShvvlm_KIO3G-Q7w",
+      "version": "skv_KTMirXShvvlm_KIO3G-Q7w",
+      "version_sequence": "1",
+      "updated": "2026-11-13T03:19:43.553838+00:00",
+      "path": "skills/attributeerror-module-jwt-has-no-attri-6b238b78603497be/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "3140ac8cbecdda752a435b908afd2709cfb7daf16f144c21b32cedb22ea1b365",
+      "public_input_digest": "e39c75355473bb74cec30bdfc94c6fcc32e401e0ebab30754b0d181a4afbf6ba",
+      "sha256": "1f272a83daf1c9f7eaae1823896afbb21bb1faa08a61ef6b78247cc5f8a702e5"
+    },
+    {
       "skill_id": "skl_JxVaQE37IyH3klQiQgIsyg",
       "name": "compromised-account-created-hidden-for-b3fbfa2ca068c0f1",
       "title": "compromised account created hidden forwarding rule; mail audit alert failed to fire",
@@ -162869,6 +162911,27 @@
       "source_snapshot_digest": "5c3ef19939e5f3bb8b08573bffd15e7c1b3079cdd4b0295bfe18db7af86223e4",
       "public_input_digest": "0b741364de08483ac15f9dc82a6ae3bc517a680d10c3b81d2eed4e0a5a4feb19",
       "sha256": "a836edcbd390a8f9af88872083dabfb85913624d236ec91e70ff16fce3f56a7b"
+    },
+    {
+      "skill_id": "skl_LxrnZcXXhLhisjWAF683WQ",
+      "name": "jest-worker-encountered-child-process-03b95e9e015c5759",
+      "title": "jest worker encountered child process exceptions error test run fails",
+      "description": "jest worker encountered child process exceptions error test run fails",
+      "url": "https://vectle.com/skills/skl_LxrnZcXXhLhisjWAF683WQ",
+      "exact_version_url": "https://vectle.com/skills/skl_LxrnZcXXhLhisjWAF683WQ/versions/skv_hJdAUpzLwqgcWu2rY0qKXg",
+      "version": "skv_hJdAUpzLwqgcWu2rY0qKXg",
+      "version_sequence": "1",
+      "updated": "2026-11-13T03:19:08.741627+00:00",
+      "path": "skills/jest-worker-encountered-child-process-03b95e9e015c5759/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "02930085920a8e1c2f08f7c6e77c2c2ae7723b987f1f5f3ebefac548ed2e3dab",
+      "public_input_digest": "1ed6783557abd0489007739fdeb6af040dddf4fa52905216760fb59992762c09",
+      "sha256": "eede13142c9d4266b7a9d6fda918d04b496f642788e86b590960b04042ce9f8d"
     },
     {
       "skill_id": "skl_Ly0CyhqxHEf80NJrOzcznw",
@@ -207958,6 +208021,27 @@
       "sha256": "2f4d9181c603334277af44b5d84f4eaae43718e53897a15f867f78dc1c12223a"
     },
     {
+      "skill_id": "skl_SHEc7aAFy3vNZz3B49c42Q",
+      "name": "embase-literature-search-run-fails-wit-0c782b7826d33f1b",
+      "title": "Embase literature search run fails with 403 forbidden error: how to fix",
+      "description": "Embase literature search run fails with 403 forbidden error: how to fix",
+      "url": "https://vectle.com/skills/skl_SHEc7aAFy3vNZz3B49c42Q",
+      "exact_version_url": "https://vectle.com/skills/skl_SHEc7aAFy3vNZz3B49c42Q/versions/skv_X07xqrfYTwM90lCsUxVjfA",
+      "version": "skv_X07xqrfYTwM90lCsUxVjfA",
+      "version_sequence": "1",
+      "updated": "2026-11-13T03:21:13.396684+00:00",
+      "path": "skills/embase-literature-search-run-fails-wit-0c782b7826d33f1b/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "5428348d4e8aaeebbb6d731cdb8abbe6a9f70d839357b1f544e1b88f3d9f2189",
+      "public_input_digest": "a1530eed9e437715c469c8517d3f5e3e1dee0a5daf9e933e56cb7a33c763b029",
+      "sha256": "fe4d6acbeca00da197e81ddc0e94296d39681ef7af8e7d96d6eca247de803d04"
+    },
+    {
       "skill_id": "skl_SHNQkhclsk976vsn_h5zqw",
       "name": "codefresh-how-to-use-assume-role-in-do-2582b0881ee23f0d",
       "title": "Codefresh: How to use assume role in docker registry while adding ecr?",
@@ -251153,6 +251237,27 @@
       "source_snapshot_digest": "0caf0f4cdd10a3fc8d1db205240c74f9a7b800c26a4ff6e9b5c660fbe352d304",
       "public_input_digest": "1e22afe512407e193590ccb048d35ab2711256ebb99c16edc1a7a1eaaf541146",
       "sha256": "f04d548d8106eb17661686542d203530a2f9e745486ae840475ed390f0edd130"
+    },
+    {
+      "skill_id": "skl_YD6JkcQlJYLIbqPS_8v1YA",
+      "name": "edamam-recipe-search-returns-empty-res-1ce50a93f576c48b",
+      "title": "Edamam recipe search returns empty results for common ingredient: query error fix",
+      "description": "Edamam recipe search returns empty results for common ingredient: query error fix",
+      "url": "https://vectle.com/skills/skl_YD6JkcQlJYLIbqPS_8v1YA",
+      "exact_version_url": "https://vectle.com/skills/skl_YD6JkcQlJYLIbqPS_8v1YA/versions/skv_IC0WWQoe_A7g7lXQ87AR2g",
+      "version": "skv_IC0WWQoe_A7g7lXQ87AR2g",
+      "version_sequence": "1",
+      "updated": "2026-11-13T13:54:53.884026+00:00",
+      "path": "skills/edamam-recipe-search-returns-empty-res-1ce50a93f576c48b/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "d4b105e7b8c2f1e388d76eccfa4bdb1dbf9a298454b4f9870a4dfca5458c3a02",
+      "public_input_digest": "22afb32385925a57bf86888a86dd87a1ad79fe0877210e6629ed270ab0c6ab36",
+      "sha256": "22fb3e4d4bb752640858614374b0a5ac1ba8d23538825e54bbf7248de4599901"
     },
     {
       "skill_id": "skl_YDBuwRUvlTUSyKuo-XZ2PA",
@@ -298468,6 +298573,27 @@
       "sha256": "fecd62442b6f7333801c3565e47702b19c921e9c2b935191ee5e2b7a10f74cc7"
     },
     {
+      "skill_id": "skl_dx8aGgd6i6aAL-FzOSrXCg",
+      "name": "how-to-vet-mcp-servers-error-no-permis-a88d38cbd88db44d",
+      "title": "how to vet mcp servers error no permission review before install bug",
+      "description": "how to vet mcp servers error no permission review before install bug",
+      "url": "https://vectle.com/skills/skl_dx8aGgd6i6aAL-FzOSrXCg",
+      "exact_version_url": "https://vectle.com/skills/skl_dx8aGgd6i6aAL-FzOSrXCg/versions/skv_G1tVpYV1bDNcfTD6wAkQkA",
+      "version": "skv_G1tVpYV1bDNcfTD6wAkQkA",
+      "version_sequence": "1",
+      "updated": "2026-11-13T13:54:44.035025+00:00",
+      "path": "skills/how-to-vet-mcp-servers-error-no-permis-a88d38cbd88db44d/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "39e64fde7249e49331a6a4545f25b97bd2141887979522037e4441adf99eb15d",
+      "public_input_digest": "8f74f06b3c33811f7d7699f63bb46a3430ed2cfa15e2529e160011b13a406f1d",
+      "sha256": "540e04435353d948608b3e47f15dda92384567f5193ea7b6c1c34915e1e58e2e"
+    },
+    {
       "skill_id": "skl_dx9F8uL8lVDonWDCF0ObOg",
       "name": "neptune-api-error-neptuneexception-can-e25e9e5b082c950a",
       "title": "Neptune API error: 'NeptuneException: Cannot connect to Neptune server' when run logging failed",
@@ -336772,6 +336898,27 @@
       "sha256": "7c17b105543fc518d90d380529e15181c464190fb182a1306e400e3b92fec4ed"
     },
     {
+      "skill_id": "skl_jGBOwp8Dei6jossjJZ9Qog",
+      "name": "cannot-import-name-escape-from-jinja2-b8fc45f997ec48e1",
+      "title": "cannot import name 'escape' from 'jinja2' ImportError fails",
+      "description": "cannot import name 'escape' from 'jinja2' ImportError fails",
+      "url": "https://vectle.com/skills/skl_jGBOwp8Dei6jossjJZ9Qog",
+      "exact_version_url": "https://vectle.com/skills/skl_jGBOwp8Dei6jossjJZ9Qog/versions/skv_AcYTSWbC85ZDJat-0Os79A",
+      "version": "skv_AcYTSWbC85ZDJat-0Os79A",
+      "version_sequence": "1",
+      "updated": "2026-11-13T03:19:17.734041+00:00",
+      "path": "skills/cannot-import-name-escape-from-jinja2-b8fc45f997ec48e1/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "be2960fd11b167236c3b6ba2c8886821cbc6318aef90736a3494f343e414a3dc",
+      "public_input_digest": "ac50f382d00f6a9a3ba12fe943442b2db8b572c79395dcd7a590f2791218d7cc",
+      "sha256": "3eead72c4cf274e5a28ec36399ff6d066c3940e7878c07fef68c6f515cc196f5"
+    },
+    {
       "skill_id": "skl_jGO1YZBl1avnWjH4KuaUgA",
       "name": "error-invalid-value-for-variable-input-de50657c5ea4801e",
       "title": "Error: Invalid value for variable: input failed the variable validation block",
@@ -366023,6 +366170,27 @@
       "source_snapshot_digest": "9ddb2af98a99445a9efb7b67f4306beb32f6d5b7af1378340bfa519bc4500d1f",
       "public_input_digest": "4c0d8818c17cb1ac93b9831fbf062cebecb9397948ab969b5a0e77d120fdcd86",
       "sha256": "3cb51aef165b4fe71bb510eedaafc38d8e9eafceff1fabc47c26fcf84321c4b2"
+    },
+    {
+      "skill_id": "skl_nWXwlS7t9c9mVZpJzLoLGw",
+      "name": "exploit-completed-but-no-session-was-c-de0fc75bd9982a28",
+      "title": "exploit completed, but no session was created metasploit",
+      "description": "exploit completed, but no session was created metasploit",
+      "url": "https://vectle.com/skills/skl_nWXwlS7t9c9mVZpJzLoLGw",
+      "exact_version_url": "https://vectle.com/skills/skl_nWXwlS7t9c9mVZpJzLoLGw/versions/skv_FoxPsOy75EXfFLVcmTKvWg",
+      "version": "skv_FoxPsOy75EXfFLVcmTKvWg",
+      "version_sequence": "1",
+      "updated": "2026-11-13T13:55:12.082094+00:00",
+      "path": "skills/exploit-completed-but-no-session-was-c-de0fc75bd9982a28/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "daaa1c7c1f771eefb1346b0582fbe8bf8b626471beb74c4b767dd594bd176aed",
+      "public_input_digest": "040fe44fa4f45f07d589af3cd6c00ecc63aa06af679953e66aa0b70bce2dbc58",
+      "sha256": "032f79dcd3a9a304fedd755b5e7f1e36bd7ebd0f266bfb9c458a442e3c3b22ca"
     },
     {
       "skill_id": "skl_nWfOspNMXLuUjXe7JZVG_A",
@@ -424384,6 +424552,27 @@
       "sha256": "a094738c1c0d27b7536972eef27211db9c2625fd3ab087700d735bc81270473b"
     },
     {
+      "skill_id": "skl_vzEMdwHeWZlYGj6M7M8dfQ",
+      "name": "error-while-loading-shared-libraries-l-a79f34f98ac0108c",
+      "title": "error while loading shared libraries: libcudart.so.13: cannot open shared object file: no such file or directory",
+      "description": "error while loading shared libraries: libcudart.so.13: cannot open shared object file: no such file or directory",
+      "url": "https://vectle.com/skills/skl_vzEMdwHeWZlYGj6M7M8dfQ",
+      "exact_version_url": "https://vectle.com/skills/skl_vzEMdwHeWZlYGj6M7M8dfQ/versions/skv_19yBftWfxqfF28D0ZPCLfg",
+      "version": "skv_19yBftWfxqfF28D0ZPCLfg",
+      "version_sequence": "1",
+      "updated": "2026-11-13T03:20:10.941132+00:00",
+      "path": "skills/error-while-loading-shared-libraries-l-a79f34f98ac0108c/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "45b963f17fdeff5758a767d4505a509cedc7467d9e55f6117710ce73c2993101",
+      "public_input_digest": "2fc9b58ae929cf2d15775db80b20b74f585c710d4d99998851b92d3eae8cc79e",
+      "sha256": "a6a8fda84c06e7fd76ef085bc11e5cab2c81892cf2dbbbacdd5dcf1196f7e4ce"
+    },
+    {
       "skill_id": "skl_vzUoIJ36RHuJNQOUKUPgwA",
       "name": "redis-exceptions-authenticationerror-a-dbf818c92942093e",
       "title": "redis.exceptions.AuthenticationError: Authentication required",
@@ -424676,6 +424865,27 @@
       "source_snapshot_digest": "a38905e15d29e01510d385989b0b3855e04e3fb9d5d5aeb07b14b0ba5ac7e6c3",
       "public_input_digest": "c0802143ba2c3a914663204d342eb85059426ce819eccdaeb87bcf3600ffd2f7",
       "sha256": "9031b67be05fa0c1973f95db2be3465029b4259aebd7da7a1d7fbb8eab71a2ba"
+    },
+    {
+      "skill_id": "skl_w1XgpgKZKk1wwqjkUge0UQ",
+      "name": "cloudinary-upload-preset-error-mode-is-fd3adbea694a62b4",
+      "title": "cloudinary upload preset error mode is not configured bug",
+      "description": "cloudinary upload preset error mode is not configured bug",
+      "url": "https://vectle.com/skills/skl_w1XgpgKZKk1wwqjkUge0UQ",
+      "exact_version_url": "https://vectle.com/skills/skl_w1XgpgKZKk1wwqjkUge0UQ/versions/skv_8wS0-QYPH_L4hi-XsNGTHA",
+      "version": "skv_8wS0-QYPH_L4hi-XsNGTHA",
+      "version_sequence": "1",
+      "updated": "2026-11-13T13:55:02.760876+00:00",
+      "path": "skills/cloudinary-upload-preset-error-mode-is-fd3adbea694a62b4/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "2b7546bd32cca16684d8744ce2b3036dd622d8c9e7ffe321c47db10404a9accd",
+      "public_input_digest": "06ce9e050000ff53310efa76bfd3fc8ad240cfaadab2f123f8588ab31b287c69",
+      "sha256": "5f318efe88f4dea35c3a105412756aea4768ccfe2317b9b97a82bed31c87875f"
     },
     {
       "skill_id": "skl_w1q-L38BBDU_kytZm1SNRg",
