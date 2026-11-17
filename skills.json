@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "nUSEFTBlw9VFpRIQzavDyoOW0dG3gDMY",
-    "generation": "219754",
-    "generated_at": "2026-11-16T17:21:52.496508+00:00",
-    "expires_at": "2026-11-16T23:21:52.496Z",
+    "snapshot_id": "4jemHteicPCJWNy8d5rc9LxREneGwXEz",
+    "generation": "219884",
+    "generated_at": "2026-11-17T17:02:06.647427+00:00",
+    "expires_at": "2026-11-17T23:02:06.647Z",
     "page_size": 250,
-    "expected_entry_count": 21597
+    "expected_entry_count": 21607
   },
-  "manifest_digest": "bcebb2d2c31a368e5c58a44defcf7ef7dc36454223c66ad1c2f910a69d8311b8",
+  "manifest_digest": "83ec32d6f9ec3ffb0ace233b31161ed67e841b6921fe4469b5c325e6fb089e6d",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -25783,6 +25783,27 @@
       "sha256": "9a68ceb055d66b728338515a487fe6092788a27d4047e18deddfe43483c6520c"
     },
     {
+      "skill_id": "skl_2bo-69lSNYwvLAdkLC-IjA",
+      "name": "abctl-error-couldn-t-find-a-valid-dock-41a7eebb17f63a65",
+      "title": "abctl error \"couldn't find a valid docker environment\" when installing airbyte",
+      "description": "abctl error \"couldn't find a valid docker environment\" when installing airbyte",
+      "url": "https://vectle.com/skills/skl_2bo-69lSNYwvLAdkLC-IjA",
+      "exact_version_url": "https://vectle.com/skills/skl_2bo-69lSNYwvLAdkLC-IjA/versions/skv_RR8LBwgmcaNwoYH-McWHZA",
+      "version": "skv_RR8LBwgmcaNwoYH-McWHZA",
+      "version_sequence": "1",
+      "updated": "2026-11-17T13:52:31.47751+00:00",
+      "path": "skills/abctl-error-couldn-t-find-a-valid-dock-41a7eebb17f63a65/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "035ec124dc10451aaebbac2b3019e20fa836d723fbbbabdb55780d0d2082ec28",
+      "public_input_digest": "c18c34248ba62778963b302784d172ef135f754a85433df285e03ac12be86832",
+      "sha256": "34b4aec4c20d5ea29cc03f63e488eef2abbdf8f61b4fd6bc82ea496813e0460e"
+    },
+    {
       "skill_id": "skl_2brEyJezVspGw2Ei3jqZyA",
       "name": "barracuda-550-5-7-1-your-mail-was-reje-44b9ac6f4bd70376",
       "title": "barracuda \"550 5.7.1\" your mail was rejected by spam filtering on legitimate monitoring alerts",
@@ -27776,6 +27797,27 @@
       "source_snapshot_digest": "1bf1c78c3d20293e338c9a8386004b5707020e4f85bae7f94be5c2814cacd40f",
       "public_input_digest": "405afc047ac698bec1448fee3958115a858671ad31226332ac38103e4dfdd02b",
       "sha256": "c69126e46905d7df412a1547e6eaf4ae4c2bfa90cfc3acff44803f750d80f049"
+    },
+    {
+      "skill_id": "skl_2umoyXRZpDpf5yw2EraMMg",
+      "name": "import-xlrd-failed-install-xlrd-2-0-1-7bbdac96148630fa",
+      "title": "import xlrd` failed. install xlrd >= 2.0.1 for xls excel support",
+      "description": "import xlrd` failed. install xlrd >= 2.0.1 for xls excel support",
+      "url": "https://vectle.com/skills/skl_2umoyXRZpDpf5yw2EraMMg",
+      "exact_version_url": "https://vectle.com/skills/skl_2umoyXRZpDpf5yw2EraMMg/versions/skv_BB8vGrPmd1szO4TSd_-nMg",
+      "version": "skv_BB8vGrPmd1szO4TSd_-nMg",
+      "version_sequence": "1",
+      "updated": "2026-11-17T01:54:01.99224+00:00",
+      "path": "skills/import-xlrd-failed-install-xlrd-2-0-1-7bbdac96148630fa/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "18e494257702ad113a38c65b5461ac2b6d5488993fad7bf23b9eb7123346db58",
+      "public_input_digest": "b4f25b521c53168a2d60980f47912f5d6d50ef49a7ad3125253a5bc9a449e754",
+      "sha256": "101c5639a3030e6d653593d364fefc2f5a7bd8cd31a66a866003a05b8aa2f45a"
     },
     {
       "skill_id": "skl_2uy5l9WFNZRma0y1_7yvig",
@@ -103882,6 +103924,27 @@
       "sha256": "0205a3e4f79057fdf7f222d48c15abe5fed64638ca533ea7813f7919351b121b"
     },
     {
+      "skill_id": "skl_DtFO6jd9riSilh3_BLc8NA",
+      "name": "youtube-chapters-not-working-error-tim-f4a463e88bd62d56",
+      "title": "youtube chapters not working error timestamps ignored in description",
+      "description": "youtube chapters not working error timestamps ignored in description",
+      "url": "https://vectle.com/skills/skl_DtFO6jd9riSilh3_BLc8NA",
+      "exact_version_url": "https://vectle.com/skills/skl_DtFO6jd9riSilh3_BLc8NA/versions/skv_ILIrztOvN_1F3nrlof962A",
+      "version": "skv_ILIrztOvN_1F3nrlof962A",
+      "version_sequence": "1",
+      "updated": "2026-11-17T01:53:41.398032+00:00",
+      "path": "skills/youtube-chapters-not-working-error-tim-f4a463e88bd62d56/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "55b22e02e7231400e8869d22a7b9d00ac03418d275e0b19de1dd95201c9950f3",
+      "public_input_digest": "57208781eaaabf4b86f9d6c5e27179edcf9699bb50d2a62c17479df89021a64a",
+      "sha256": "032ce9a9473f90e695b823887526beeb1906686d1558de5a188d436bb38af021"
+    },
+    {
       "skill_id": "skl_DtIRrE8vGYi45i8D_J3vWg",
       "name": "how-to-fix-microsoft-365-offboarding-e-6aa3e8fa6c20bb72",
       "title": "how to fix Microsoft 365 offboarding error shared mailbox conversion failed for departing user fails error",
@@ -139013,6 +139076,27 @@
       "source_snapshot_digest": "a1c16a4b0d63ef2ad547032bce5df05c35de402bbb8358d7eaf3f2f54d3dda38",
       "public_input_digest": "21aaa2562acd8cfb23e50e4295a61838c87db0ed910836ca1c74f88247d16af7",
       "sha256": "765eac0eed016d6846a0011957501e19b28851b2d2d7be6565dbb6a885715a29"
+    },
+    {
+      "skill_id": "skl_IZx3ZPcLV9BG4SDAtytuEg",
+      "name": "a0deploy-export-error-tenant-config-em-9bb065eb5405907a",
+      "title": "a0deploy export error tenant config empty output fails",
+      "description": "a0deploy export error tenant config empty output fails",
+      "url": "https://vectle.com/skills/skl_IZx3ZPcLV9BG4SDAtytuEg",
+      "exact_version_url": "https://vectle.com/skills/skl_IZx3ZPcLV9BG4SDAtytuEg/versions/skv_KG8ajECPLRlL9VQgXC94oA",
+      "version": "skv_KG8ajECPLRlL9VQgXC94oA",
+      "version_sequence": "1",
+      "updated": "2026-11-17T01:55:52.153997+00:00",
+      "path": "skills/a0deploy-export-error-tenant-config-em-9bb065eb5405907a/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "9ab1fef4546a96f5071b808369021102afcb0568f91c0c9014c0d89cb113191a",
+      "public_input_digest": "051f5eda136f014aafdf60dc9e7d8cb54a316119d42080ffceeb968ff2605f86",
+      "sha256": "0976738d222e5c43f84faf478e938eca537fd86f1d0788862f6b3b2eda27e416"
     },
     {
       "skill_id": "skl_I_FrhAUiT6eURV_351VAqg",
@@ -182065,6 +182149,27 @@
       "sha256": "f270e1bfe815b6537da70fb872bbbf1ace4a971c0fff640d111c497b7637820f"
     },
     {
+      "skill_id": "skl_OdWhFnqa0ecujojAdBOgXQ",
+      "name": "agent-token-spend-tracking-wrong-error-3229e175396d650f",
+      "title": "agent token spend tracking wrong error costs double counted bug",
+      "description": "agent token spend tracking wrong error costs double counted bug",
+      "url": "https://vectle.com/skills/skl_OdWhFnqa0ecujojAdBOgXQ",
+      "exact_version_url": "https://vectle.com/skills/skl_OdWhFnqa0ecujojAdBOgXQ/versions/skv_um3Bqz3wweMJ2ojai9YuSA",
+      "version": "skv_um3Bqz3wweMJ2ojai9YuSA",
+      "version_sequence": "1",
+      "updated": "2026-11-17T01:56:16.375044+00:00",
+      "path": "skills/agent-token-spend-tracking-wrong-error-3229e175396d650f/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "95392e6c682c7b3013e7c8704cb88cd8e92b5f32dad60baa042e34810dcb85ac",
+      "public_input_digest": "5e0b6af0f5e5342d389cc0476e25a46593bc63845f0bcfd73cfa5cd7a9dfa18d",
+      "sha256": "f1284adb4f3b63c09b32363010296c43e35c832cc35a150d5dc0af5ea83ee80c"
+    },
+    {
       "skill_id": "skl_OdbSRIVANg6AmUQ2cnOtPQ",
       "name": "parser-failed-on-reminder-cadence-temp-9eed622b33302d58",
       "title": "parser failed on reminder cadence template file for scheduling renewal reminders error parsing failure",
@@ -185654,6 +185759,27 @@
       "source_snapshot_digest": "a38b5278a21ac0352d39ae8660ddb459fb165bd66000a1a787b6d2b32470fde2",
       "public_input_digest": "884c384e57fe7bddc57ff22718c4bdde978e96dd992ede12246a642dc938cbf8",
       "sha256": "481e077c1f993ed6fac492fcc15b82cb6ff59811efff02a12a56df8547d64803"
+    },
+    {
+      "skill_id": "skl_P7kqU0qPLL9qDIRKzoSJuA",
+      "name": "anthropic-api-error-stream-ended-befor-32664533e2b45879",
+      "title": "anthropic api error stream ended before message_stop fails",
+      "description": "anthropic api error stream ended before message_stop fails",
+      "url": "https://vectle.com/skills/skl_P7kqU0qPLL9qDIRKzoSJuA",
+      "exact_version_url": "https://vectle.com/skills/skl_P7kqU0qPLL9qDIRKzoSJuA/versions/skv_s1JVckduPSiZbu4qajwqVg",
+      "version": "skv_s1JVckduPSiZbu4qajwqVg",
+      "version_sequence": "1",
+      "updated": "2026-11-17T13:52:57.788333+00:00",
+      "path": "skills/anthropic-api-error-stream-ended-befor-32664533e2b45879/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "bd7e1a90ee2e3ebf7de0c08b4a71c0d98916ab4a496dde6d775453b29637f34f",
+      "public_input_digest": "11b060504259bc190f19d98c18ed46cec44a81c95de89daa7df847b5de4af977",
+      "sha256": "49ca81c6c5bf4141c566531eb43e89a4a916dacdd4fd8bf8b00e552bf8d62ca1"
     },
     {
       "skill_id": "skl_P7ycKKQU3Z0c6bMqh767FQ",
@@ -234332,6 +234458,27 @@
       "source_snapshot_digest": "dfa5ba7c4bb5d84a651be4a3d3e50e991c1ae5bc4f986f60162222eb56226bbb",
       "public_input_digest": "3f9557a8db83e9248795169a1dfc2465b75346d48ad92e2f917e29cb1c17f86b",
       "sha256": "7dff1ceb2eb07c99f8651ee84988d19871ef0e3b38acb4e588f7164d63730824"
+    },
+    {
+      "skill_id": "skl_VphcCVexafsEkIsMhrv2qA",
+      "name": "alt-text-missing-error-axe-audit-fails-5f422a2e07fb4015",
+      "title": "alt text missing error axe audit fails image without description",
+      "description": "alt text missing error axe audit fails image without description",
+      "url": "https://vectle.com/skills/skl_VphcCVexafsEkIsMhrv2qA",
+      "exact_version_url": "https://vectle.com/skills/skl_VphcCVexafsEkIsMhrv2qA/versions/skv_vx40loNf9nWRWLCL3ZlH2w",
+      "version": "skv_vx40loNf9nWRWLCL3ZlH2w",
+      "version_sequence": "1",
+      "updated": "2026-11-17T13:52:49.501046+00:00",
+      "path": "skills/alt-text-missing-error-axe-audit-fails-5f422a2e07fb4015/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "24e74b8e5ecdbef02117f28ff02a14eb459a98666241d653187a123ec7bf7d0c",
+      "public_input_digest": "2bf2ea41a1abee678ceb67ae9a54f4c1fdaa46687e0e28ddb29ef6ee8a097c99",
+      "sha256": "0fad568114a5941255600ccc4e988074a952cfc6814b800105d80c2f5bfaf3ef"
     },
     {
       "skill_id": "skl_Vq6nYRcxLo916cbP1E6ZaA",
@@ -286601,6 +286748,27 @@
       "source_snapshot_digest": "8b6b026dd67ece10a0e14c3904e51ddf8347a2a41558e1a33cf454909cccaffb",
       "public_input_digest": "c8461d64959e8325f8972b620798132c8648420fb3b129d8ecd2713b4df252e5",
       "sha256": "81b7dae3411297bc68cc48e6c23287e82ab733c704f8e168cc772daed4617eb1"
+    },
+    {
+      "skill_id": "skl_cCgNLBgp8hNVPDBccObRyw",
+      "name": "aikido-scan-fails-with-error-failed-to-99f4ec0e0e519fe1",
+      "title": "aikido scan fails with error failed to clone repository",
+      "description": "aikido scan fails with error failed to clone repository",
+      "url": "https://vectle.com/skills/skl_cCgNLBgp8hNVPDBccObRyw",
+      "exact_version_url": "https://vectle.com/skills/skl_cCgNLBgp8hNVPDBccObRyw/versions/skv_ZaOVQee_-gDc08R9AlGnSA",
+      "version": "skv_ZaOVQee_-gDc08R9AlGnSA",
+      "version_sequence": "1",
+      "updated": "2026-11-17T13:52:21.895451+00:00",
+      "path": "skills/aikido-scan-fails-with-error-failed-to-99f4ec0e0e519fe1/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "d799821caea751732b260b79409d23cbef0e6d996a10bb41051b3e2e2ccb7a2f",
+      "public_input_digest": "27c6ff2c89d5550b8772440089655c1bad2c1249c88ada3d9cf4608ec23b29ae",
+      "sha256": "cb1b5dc11ca388121f6a2fdc8833df7ab921f451c8c7304ee501b1e0aded5d2a"
     },
     {
       "skill_id": "skl_cCo4ifJWhgJ7fJm_Bb2XuA",
@@ -372913,6 +373081,27 @@
       "sha256": "cf0b362a2704362a7c3c9587f2b38edb618627185dc68f2e1437c876350e6327"
     },
     {
+      "skill_id": "skl_oTdhrh23EXjAAiX4Ifv3Rg",
+      "name": "google-flights-price-changed-error-far-f64905bd7bbc49a7",
+      "title": "google flights price changed error fare no longer available fails checkout",
+      "description": "google flights price changed error fare no longer available fails checkout",
+      "url": "https://vectle.com/skills/skl_oTdhrh23EXjAAiX4Ifv3Rg",
+      "exact_version_url": "https://vectle.com/skills/skl_oTdhrh23EXjAAiX4Ifv3Rg/versions/skv_Svae-w3hQZWKZhrzb0aQOA",
+      "version": "skv_Svae-w3hQZWKZhrzb0aQOA",
+      "version_sequence": "1",
+      "updated": "2026-11-17T01:53:27.922083+00:00",
+      "path": "skills/google-flights-price-changed-error-far-f64905bd7bbc49a7/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "dafd2045d94acfe2666c87276fd4a31145da5ae829c5e33779819ed5c1c10c2c",
+      "public_input_digest": "bd31b07e494c56c1d792492b65c591d52e0f5ab960354a7c80b12ed5ede574f1",
+      "sha256": "5390ee2b82193889d65b509e272597139ff2db1594f76dab0da21f14bb975b48"
+    },
+    {
       "skill_id": "skl_oU3ON_U9PeaFNkfZuOHdXw",
       "name": "clause-extraction-missed-the-indemnifi-34f0290fb0dd7dbf",
       "title": "clause extraction missed the indemnification cap - it was in a scanned exhibit the OCR read as \"indemniflcation\" and...",
@@ -376460,6 +376649,27 @@
       "source_snapshot_digest": "836d47a1b8e55ed43874294823080ee20a4df93b9557f8eff09b6fa0be4b0cff",
       "public_input_digest": "f51a25a147dc9a80ab099b24d29d7dcf94c7db20ac14dd3c369e1332db33cb46",
       "sha256": "e60708acec889eb32473cf1f3bf559d69401144a42433975879e72e98468a6ab"
+    },
+    {
+      "skill_id": "skl_oxTcZfK2hL5XqHkXC6K6qA",
+      "name": "alembic-downgrade-1-error-fails-target-ef5ee6f3d28ccd65",
+      "title": "alembic downgrade -1 error fails target database not up to date bug",
+      "description": "alembic downgrade -1 error fails target database not up to date bug",
+      "url": "https://vectle.com/skills/skl_oxTcZfK2hL5XqHkXC6K6qA",
+      "exact_version_url": "https://vectle.com/skills/skl_oxTcZfK2hL5XqHkXC6K6qA/versions/skv_ndQl-UAr9iDWK9XlAnFn6A",
+      "version": "skv_ndQl-UAr9iDWK9XlAnFn6A",
+      "version_sequence": "1",
+      "updated": "2026-11-17T13:52:40.507063+00:00",
+      "path": "skills/alembic-downgrade-1-error-fails-target-ef5ee6f3d28ccd65/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "263c3bc52c9e8c01cae648e38f0c2dbf3c2dc43a2e0ae3c577dea7b58ebf461d",
+      "public_input_digest": "b144544593988d110b46d58b9a31c0ab1ded985884f2ea677eaddf1414d8922b",
+      "sha256": "f0174ef176998375aab58af1f1896fd014442b854b6181890b99fc0955f4c922"
     },
     {
       "skill_id": "skl_oxb01Mn92YcmvaXbi6ed6g",
