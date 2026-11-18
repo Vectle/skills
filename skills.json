@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "4jemHteicPCJWNy8d5rc9LxREneGwXEz",
-    "generation": "219884",
-    "generated_at": "2026-11-17T17:02:06.647427+00:00",
-    "expires_at": "2026-11-17T23:02:06.647Z",
+    "snapshot_id": "xViPDKy5u6K9lGNSMNWGbMx5jOcxmSJT",
+    "generation": "220016",
+    "generated_at": "2026-11-18T16:41:24.932489+00:00",
+    "expires_at": "2026-11-18T22:41:24.932Z",
     "page_size": 250,
-    "expected_entry_count": 21607
+    "expected_entry_count": 21617
   },
-  "manifest_digest": "83ec32d6f9ec3ffb0ace233b31161ed67e841b6921fe4469b5c325e6fb089e6d",
+  "manifest_digest": "fa03d6c79754a70e22e0f2beed52ad1902f92e1b216ad052674cc7c5329fa2f3",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -10871,6 +10871,27 @@
       "source_snapshot_digest": "0e1faf640d0976845186785e9bd86063a001dfba9dfba8cd896224e6d297a7fa",
       "public_input_digest": "c04197d8f45d5f5dd48ba887df87427d567b763e2af531c935427091b163a75d",
       "sha256": "e47bc6e1fb5f13839a6b4b1b36beadce14456807ab4cfa0cffdc407819044c48"
+    },
+    {
+      "skill_id": "skl_0dwWr7BYrFRInBchxZFGCg",
+      "name": "snakemake-missinginputexception-error-444b50e01239e005",
+      "title": "Snakemake MissingInputException error \"Missing input files for rule\" fix",
+      "description": "Snakemake MissingInputException error \"Missing input files for rule\" fix",
+      "url": "https://vectle.com/skills/skl_0dwWr7BYrFRInBchxZFGCg",
+      "exact_version_url": "https://vectle.com/skills/skl_0dwWr7BYrFRInBchxZFGCg/versions/skv_GjLXj0OcftxSjgK_mEPLmw",
+      "version": "skv_GjLXj0OcftxSjgK_mEPLmw",
+      "version_sequence": "1",
+      "updated": "2026-11-18T13:53:47.859107+00:00",
+      "path": "skills/snakemake-missinginputexception-error-444b50e01239e005/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "3b82c5a038fc7cef59a51a2363210aa4862f8810dc9840ae893a345a5d5a2615",
+      "public_input_digest": "fe241f6effa71f38406e36e57023488ff80d98545e9b3e3e16d258f41e7d09d0",
+      "sha256": "0a6d54c72da44a1e3ce0c7c1550b33c121ea64d3c27ad187354eafe0f90b463b"
     },
     {
       "skill_id": "skl_0eNVeY23LR-wGb9CIJqyFg",
@@ -194161,6 +194182,27 @@
       "sha256": "a5ec75f5970a980252ce13057457229d1947dea3acb364cf31391a30ef1607dd"
     },
     {
+      "skill_id": "skl_QJUIKiH2J9dM4L5a3iH_og",
+      "name": "cable-provider-portal-fails-with-accou-852708252b9ec2ed",
+      "title": "cable provider portal fails with \"account not eligible\" error on downgrade plan",
+      "description": "cable provider portal fails with \"account not eligible\" error on downgrade plan",
+      "url": "https://vectle.com/skills/skl_QJUIKiH2J9dM4L5a3iH_og",
+      "exact_version_url": "https://vectle.com/skills/skl_QJUIKiH2J9dM4L5a3iH_og/versions/skv_IEYRklN6VW0PMiBsxuPC9w",
+      "version": "skv_IEYRklN6VW0PMiBsxuPC9w",
+      "version_sequence": "1",
+      "updated": "2026-11-18T13:53:17.935051+00:00",
+      "path": "skills/cable-provider-portal-fails-with-accou-852708252b9ec2ed/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "0f4e792126bea9c3637be94ff8dfef992c9f3d491433a58600811b8df6389672",
+      "public_input_digest": "a4e68293072eec77cc595b363a8144b65862d103edc4550db784ee3d684578f1",
+      "sha256": "e8e7f5ee72b018bc97e50bd97bf35cff8bd0a3723715ef0a070eaf7985d97935"
+    },
+    {
       "skill_id": "skl_QJemGLi_J_LlHjSzYhBLXw",
       "name": "context-overflow-error-agent-failed-to-7adb4c5ddbea8118",
       "title": "context overflow error agent failed to load synthetic data attachments failure",
@@ -195524,6 +195566,27 @@
       "source_snapshot_digest": "94499a34b8b3e3aa19876d13f5791ef3225f47a63bdb57a180d20b370b378c21",
       "public_input_digest": "5e51a5420402dd230bd54b2a3c3d1ad03bc1693a34e3a66b2defa0bc34f23566",
       "sha256": "49e546c94fbb9118ae83bcf3d3b8ccbc93bbd25a05d60a87ac1482ee7a4144b2"
+    },
+    {
+      "skill_id": "skl_QVz_ABA3UNI27QTOHkgi4w",
+      "name": "bigquery-error-table-must-be-qualified-6ae43fc3b00ba0fe",
+      "title": "bigquery error table must be qualified with a dataset fails",
+      "description": "bigquery error table must be qualified with a dataset fails",
+      "url": "https://vectle.com/skills/skl_QVz_ABA3UNI27QTOHkgi4w",
+      "exact_version_url": "https://vectle.com/skills/skl_QVz_ABA3UNI27QTOHkgi4w/versions/skv_WuQIOGWLoRbulzXq8H0S_A",
+      "version": "skv_WuQIOGWLoRbulzXq8H0S_A",
+      "version_sequence": "1",
+      "updated": "2026-11-18T13:53:06.714405+00:00",
+      "path": "skills/bigquery-error-table-must-be-qualified-6ae43fc3b00ba0fe/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "44ad1c4ec69a15ccf45c699956722cb818766908dcd82fc4599157a30e2a8592",
+      "public_input_digest": "46034e591ac0fab06d1f5c4985ae5a2e51853afc661e96e2f44a014432840c98",
+      "sha256": "65cc982794181456d15289c0077929e71b427757e1091f4826d4e459b807ec56"
     },
     {
       "skill_id": "skl_QW8bAthrI3BmFw3v-SaxgQ",
@@ -235006,6 +235069,27 @@
       "sha256": "8270edb118228e85ff6ecf1c3ad06e3e5a18b26c2c65f15cf03e5fa51a3fb78f"
     },
     {
+      "skill_id": "skl_VvhuKuyz33ddA0xHwrddnA",
+      "name": "no-module-named-lxml-beautifulsoup-err-2e0f69a33080921e",
+      "title": "no module named lxml beautifulsoup error",
+      "description": "no module named lxml beautifulsoup error",
+      "url": "https://vectle.com/skills/skl_VvhuKuyz33ddA0xHwrddnA",
+      "exact_version_url": "https://vectle.com/skills/skl_VvhuKuyz33ddA0xHwrddnA/versions/skv_iL-kL6BBWwG4hNsKp3-hvg",
+      "version": "skv_iL-kL6BBWwG4hNsKp3-hvg",
+      "version_sequence": "1",
+      "updated": "2026-11-18T13:52:41.312217+00:00",
+      "path": "skills/no-module-named-lxml-beautifulsoup-err-2e0f69a33080921e/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "6c812d531c00d6c74d3864b15dd15a855cc72d4713ba960d5fb0c57f6b15e46e",
+      "public_input_digest": "535adb77fa5c03df4c593076170bbce1e4358c3e8586c2ad4f0a5f8ec197d296",
+      "sha256": "7acaf37dec72d5eb0d62d52e113e60a5ab75e442e0c0dff5bfb3da608b4c3c46"
+    },
+    {
       "skill_id": "skl_VvowKp1IBr6QDcaYIqzklw",
       "name": "firebolt-core-crashes-on-alpine-databa-33c47146b0f2ca6d",
       "title": "Firebolt Core crashes on Alpine: \"Database catalog is initialized twice\"",
@@ -256487,6 +256571,27 @@
       "source_snapshot_digest": "c556d944543738b739754dc8ff7ab9e56689c2d72f274b42dbc5a1254a181786",
       "public_input_digest": "cf73199bd7a23ac10eb8495c88b2515900f7cada97b3ad1f28cd26d60b65ac8e",
       "sha256": "264deaed31b8159cf7facc7898eb068f37f9c39fb7def0e2f646f9d225632b42"
+    },
+    {
+      "skill_id": "skl_YwNUdAxE2fQ7XanIu3iqLw",
+      "name": "axiom-404-error-dashboard-dataset-not-359536ad13c0f767",
+      "title": "axiom 404 error dashboard dataset not found fails",
+      "description": "axiom 404 error dashboard dataset not found fails",
+      "url": "https://vectle.com/skills/skl_YwNUdAxE2fQ7XanIu3iqLw",
+      "exact_version_url": "https://vectle.com/skills/skl_YwNUdAxE2fQ7XanIu3iqLw/versions/skv_HFFClnYfvIWoNQ2WxxFSOQ",
+      "version": "skv_HFFClnYfvIWoNQ2WxxFSOQ",
+      "version_sequence": "1",
+      "updated": "2026-11-18T01:54:45.480049+00:00",
+      "path": "skills/axiom-404-error-dashboard-dataset-not-359536ad13c0f767/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "3cfd1bc8efe6c371a73d1c015b60b32e0046f357869a2a80ac96597691372ec4",
+      "public_input_digest": "582eb85cc811ef14e378cf9f8ca097e0901fea8f29c939bb04e071d3f182c597",
+      "sha256": "aaa7eb8667949d69882b4ff1831bc8fb00d79766f96d1b310fcdd70260bf9878"
     },
     {
       "skill_id": "skl_YwQqbAE3aMCmmaTmNfwKEA",
@@ -306910,6 +307015,27 @@
       "sha256": "8e5d13f5e192639b9bafc08bd3eb5b929b1422b049023785a4b13c179dfa44f0"
     },
     {
+      "skill_id": "skl_f2h0saN-8zUIUeH2Qljkdw",
+      "name": "astro-cross-site-post-form-submissions-05d3b8dc4e948c0a",
+      "title": "astro cross site post form submissions forbidden after deploy error",
+      "description": "astro cross site post form submissions forbidden after deploy error",
+      "url": "https://vectle.com/skills/skl_f2h0saN-8zUIUeH2Qljkdw",
+      "exact_version_url": "https://vectle.com/skills/skl_f2h0saN-8zUIUeH2Qljkdw/versions/skv_xQIuFEiy5V7CsvvAoZKoHQ",
+      "version": "skv_xQIuFEiy5V7CsvvAoZKoHQ",
+      "version_sequence": "1",
+      "updated": "2026-11-18T01:53:23.122896+00:00",
+      "path": "skills/astro-cross-site-post-form-submissions-05d3b8dc4e948c0a/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "f42a7227735669c357f9c88b1a4445a18c801217be011bac99790bf781317a3f",
+      "public_input_digest": "6b06c7984fbe34a465a0b904a903d36d7aa723141792fbb4d967c144a43fd385",
+      "sha256": "0e0158cd52435d11b7e47319692e2fc181019f403e8afc6e5b69fc4fc4859f9a"
+    },
+    {
       "skill_id": "skl_f3-7AuL5Vqo7MwcQ4DOxWQ",
       "name": "sonarqube-connected-mode-error-loading-fcbb312770d53294",
       "title": "SonarQube connected mode error: Loading the projects from the server failed",
@@ -333685,6 +333811,27 @@
       "sha256": "cef62c9c3f60696db95933dd583e885fe77a50f42c7377a423cb64c296f6448d"
     },
     {
+      "skill_id": "skl_ieQ8LkPjjkGfCU-3S3sYtA",
+      "name": "error-loading-sso-token-token-for-sso-a7b1d42670bfc1aa",
+      "title": "error loading sso token token for sso does not exist aws cli fails bug",
+      "description": "error loading sso token token for sso does not exist aws cli fails bug",
+      "url": "https://vectle.com/skills/skl_ieQ8LkPjjkGfCU-3S3sYtA",
+      "exact_version_url": "https://vectle.com/skills/skl_ieQ8LkPjjkGfCU-3S3sYtA/versions/skv_ifEv1i8_MAKkJ15dW3MebA",
+      "version": "skv_ifEv1i8_MAKkJ15dW3MebA",
+      "version_sequence": "1",
+      "updated": "2026-11-18T01:54:13.645004+00:00",
+      "path": "skills/error-loading-sso-token-token-for-sso-a7b1d42670bfc1aa/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "e016e19f747dac4900bbee29e18b35f5fb57e3c9f257354e62df0b808a154369",
+      "public_input_digest": "54920fd10d3d6cc9278c92b167705951d40f9c295015380f9df54f5e5baabba6",
+      "sha256": "22696a52c71085d14fd23ee4a3326cd7c99719e91bb1ad4639d1269b0d9eee98"
+    },
+    {
       "skill_id": "skl_iedAsk0NiKhp5LWFqnNkkw",
       "name": "retrieving-settlements-by-bank-referen-815360d8300c1ec6",
       "title": "Retrieving settlements by bank reference fails with IdentifierError: fixed in 3.6.0",
@@ -339292,6 +339439,27 @@
       "sha256": "9efb7aa4560b0c346e49864810445c0c27ecab42c7ab5cbec64fc9383e775bda"
     },
     {
+      "skill_id": "skl_jVLcWNRtXZpJM1PIWgQNCg",
+      "name": "autopilot-error-80070002-the-system-ca-a81120ca92397b79",
+      "title": "autopilot error 80070002 the system cannot find the file specified",
+      "description": "autopilot error 80070002 the system cannot find the file specified",
+      "url": "https://vectle.com/skills/skl_jVLcWNRtXZpJM1PIWgQNCg",
+      "exact_version_url": "https://vectle.com/skills/skl_jVLcWNRtXZpJM1PIWgQNCg/versions/skv_mnqtkgPDtr1iCnxTK2eJag",
+      "version": "skv_mnqtkgPDtr1iCnxTK2eJag",
+      "version_sequence": "1",
+      "updated": "2026-11-18T01:53:48.586019+00:00",
+      "path": "skills/autopilot-error-80070002-the-system-ca-a81120ca92397b79/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "6305897947dd3c327f00f0779a729df575d89f77ba11bd0fb6fb0463fdd180d5",
+      "public_input_digest": "0023c4adc23e4c5c074fd33d3a98ec7729d9179b3ed1d63436de2af71eb07355",
+      "sha256": "a9c85607b514faf4e5b4e3d9b55b463cae03c400b2578567b85840c0ac6b8366"
+    },
+    {
       "skill_id": "skl_jVYVhe1lW7E5dqKAYQ2Dow",
       "name": "annotation-export-failure-keypoints-ar-174b615160d54bb7",
       "title": "annotation export failure \"keypoints array length does not match num_keypoints\"",
@@ -340844,6 +341012,27 @@
       "source_snapshot_digest": "1688877d5a86b2b5a9603f3521a4cf84bac490b652c5be12fabf2a14c7d54ab6",
       "public_input_digest": "965d0814733ae6783d5721f7b5d15047dcb9b3fb980aad5e143f74eb99ce8db6",
       "sha256": "2270772d0686eb378b0a81505c788ac0802da9f9874f309bfb1cf8d50abee8b0"
+    },
+    {
+      "skill_id": "skl_jk9f3gcn8hC-qHTBFuKiUA",
+      "name": "brave-search-api-free-tier-2000-querie-84fa223a6388be0b",
+      "title": "brave search api free tier 2000 queries per month error cap reached fails",
+      "description": "brave search api free tier 2000 queries per month error cap reached fails",
+      "url": "https://vectle.com/skills/skl_jk9f3gcn8hC-qHTBFuKiUA",
+      "exact_version_url": "https://vectle.com/skills/skl_jk9f3gcn8hC-qHTBFuKiUA/versions/skv_SSaYicJq8x1NQo2N3kPKmw",
+      "version": "skv_SSaYicJq8x1NQo2N3kPKmw",
+      "version_sequence": "1",
+      "updated": "2026-11-18T13:54:48.091225+00:00",
+      "path": "skills/brave-search-api-free-tier-2000-querie-84fa223a6388be0b/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "03f63d88568eeb393393eaaeb8fbdd43f3e613c487469a9f3e64e65eb2794917",
+      "public_input_digest": "f366870e88d191bd7e7a774738f42ce7f5c6ca693652ba44ec4316e5f0011ab0",
+      "sha256": "7d633a911a3c86948e1206e9b93369f4acedb75fbd9291c31591cc46b1158aba"
     },
     {
       "skill_id": "skl_jkAj18qyIKTzrqB85l_10Q",
@@ -365204,6 +365393,27 @@
       "source_snapshot_digest": "37d965bc98837a0dd41bf3d1c8b9842ca054ebef8301a67b917e043879ad7bd2",
       "public_input_digest": "69d62d214e77f0b448713a6cbe358208f5dc51759eda70c5954e43c453662e5f",
       "sha256": "6244acd62280a006e114600584e46bd62f0bae2b9b4f66a2186bd93c482f28cd"
+    },
+    {
+      "skill_id": "skl_nGhsnYNCLfseQDho9Pza4A",
+      "name": "az-the-term-az-is-not-recognized-as-th-28e3ac7c29cd769a",
+      "title": "az : the term 'az' is not recognized as the name of a cmdlet error powershell fails",
+      "description": "az : the term 'az' is not recognized as the name of a cmdlet error powershell fails",
+      "url": "https://vectle.com/skills/skl_nGhsnYNCLfseQDho9Pza4A",
+      "exact_version_url": "https://vectle.com/skills/skl_nGhsnYNCLfseQDho9Pza4A/versions/skv_giaJpugKYmqpY56kW4IxkA",
+      "version": "skv_giaJpugKYmqpY56kW4IxkA",
+      "version_sequence": "1",
+      "updated": "2026-11-18T01:54:54.550039+00:00",
+      "path": "skills/az-the-term-az-is-not-recognized-as-th-28e3ac7c29cd769a/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "b1f7a653a1f161af2fe25c51522547f288c7e3535585067964a0043501fa9685",
+      "public_input_digest": "895b6a6ec7ce7a8408eb915308a1a85595da7f6f93c4f5b01f0e0d47b318ab19",
+      "sha256": "5fe46455d7283d2960ebb563fbbffd79780aa540fafca0beb70919bebd74d3f1"
     },
     {
       "skill_id": "skl_nGmgwawmPHZbVAse32B2lQ",
