@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "_7xasDWSKY79ubT3sMIbG9XDYp5Fzt6-",
-    "generation": "220892",
-    "generated_at": "2026-11-19T16:45:12.138775+00:00",
-    "expires_at": "2026-11-19T22:45:12.138Z",
+    "snapshot_id": "m377xpE6NahtLpXu-Ygk04cVWyy0MLs5",
+    "generation": "221025",
+    "generated_at": "2026-11-20T16:19:56.758648+00:00",
+    "expires_at": "2026-11-20T22:19:56.758Z",
     "page_size": 250,
-    "expected_entry_count": 21674
+    "expected_entry_count": 21684
   },
-  "manifest_digest": "074fad45bdf9c99042f9d8fc8493ea537d2fdafc165691de130eb25ecafefc6f",
+  "manifest_digest": "904d053f6cae6c1c7ba1cfc847151b08df2db07b8ef187fe611bb0b1637247fa",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -88174,6 +88174,27 @@
       "sha256": "36a41595d662724b9559d3d397a598e71d35f1bc1b0315d3b807a4c7d261aa2d"
     },
     {
+      "skill_id": "skl_BetLFxz8ZH0yte1Np-wTeg",
+      "name": "deepinfra-api-error-404-wrong-base-url-9e4c51f060ab1433",
+      "title": "deepinfra api error 404 wrong base url endpoint fails",
+      "description": "deepinfra api error 404 wrong base url endpoint fails",
+      "url": "https://vectle.com/skills/skl_BetLFxz8ZH0yte1Np-wTeg",
+      "exact_version_url": "https://vectle.com/skills/skl_BetLFxz8ZH0yte1Np-wTeg/versions/skv_cxLIquPI4VIxTBHt1_KX7w",
+      "version": "skv_cxLIquPI4VIxTBHt1_KX7w",
+      "version_sequence": "1",
+      "updated": "2026-11-20T01:53:22.839157+00:00",
+      "path": "skills/deepinfra-api-error-404-wrong-base-url-9e4c51f060ab1433/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "22329727ec601e58660a04b01262acdc21d9ccecc2454bae97a6e5e896bfa206",
+      "public_input_digest": "d093e743c832f13343fb69bafd741d6339dc0ccc786dfe73be7dbcc44ed58aed",
+      "sha256": "d8130c08d0fb05e03512f9355d1d937677380853ab4c7d5afdfc6f1a0fe70382"
+    },
+    {
       "skill_id": "skl_BfDTxzKbnZ_l8NI5piOe8A",
       "name": "support-agent-oauth-expired-mid-run-re-1bcedf6cf0c73e04",
       "title": "support agent oauth expired mid-run: refresh failed at 2am",
@@ -92624,6 +92645,27 @@
       "source_snapshot_digest": "815c61eb33c9de215dddafbe23faa3d3438b2d6b7967f01693da5432535c3c3a",
       "public_input_digest": "e142bc02a2f793284d27f018a59ebd7041ec20ca552a6c9c4c0e91366020d535",
       "sha256": "2125e25a864abe18a9ef9b04584f8ccf60dcd2c548dd1f286f722953f1fdd8b6"
+    },
+    {
+      "skill_id": "skl_CGjWcVmxU39QIX2EfGwhGA",
+      "name": "code-deployment-not-found-error-vercel-73069b008eb17158",
+      "title": "code deployment_not_found error vercel deploy fails",
+      "description": "code deployment_not_found error vercel deploy fails",
+      "url": "https://vectle.com/skills/skl_CGjWcVmxU39QIX2EfGwhGA",
+      "exact_version_url": "https://vectle.com/skills/skl_CGjWcVmxU39QIX2EfGwhGA/versions/skv_Q8XVdPRPiI7PQFx93PEKYw",
+      "version": "skv_Q8XVdPRPiI7PQFx93PEKYw",
+      "version_sequence": "1",
+      "updated": "2026-11-20T13:52:37.805911+00:00",
+      "path": "skills/code-deployment-not-found-error-vercel-73069b008eb17158/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "f0f5d4f56b09c97c01372a7fdadf0e6634ca77b5bd44979e2eb5a9644a17fb11",
+      "public_input_digest": "ea4af9d167f3f431efd32be7e60368242ea58831c9f5b42db636c8f6a47e419c",
+      "sha256": "ea96efa596a0a77f628c4f0e03c1dddd596fb70ad581a60cb995e2efaca25991"
     },
     {
       "skill_id": "skl_CH47JCNSJua0-19FI-glbg",
@@ -102746,6 +102788,27 @@
       "source_snapshot_digest": "76f7f46e54dd741cbd56121194d7082555c8dca424f93cd5410e3bd06cc3500f",
       "public_input_digest": "ed07f4310a239f41a7f8a2e3592ab8ff0bf3088fd31478855bf2f156788eebfb",
       "sha256": "e03d799dc1732c5b155e21be2bb3a4ce0b7e1bbf10a3a4dee0f57eaef8e7e476"
+    },
+    {
+      "skill_id": "skl_DezXxeAz5MI28-tkIsvc7g",
+      "name": "dnf-disable-gpg-check-c0df0c9b3cb415de",
+      "title": "dnf disable gpg check",
+      "description": "dnf disable gpg check",
+      "url": "https://vectle.com/skills/skl_DezXxeAz5MI28-tkIsvc7g",
+      "exact_version_url": "https://vectle.com/skills/skl_DezXxeAz5MI28-tkIsvc7g/versions/skv_cK_bqrGIiDYO4ckBmZ4iDg",
+      "version": "skv_cK_bqrGIiDYO4ckBmZ4iDg",
+      "version_sequence": "1",
+      "updated": "2026-11-20T13:52:46.713385+00:00",
+      "path": "skills/dnf-disable-gpg-check-c0df0c9b3cb415de/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "27a621c47e35364643aa392f43368845ea081b7b1ad5a1fd1049cee81c691378",
+      "public_input_digest": "e6529977abf2b41b3512e0bfcd99c05782a78f6b86930388956069890278f8c3",
+      "sha256": "37400dac1e316487e0af52713ac47a6d853f3cd1b462e567427fc9512ca731c8"
     },
     {
       "skill_id": "skl_DfE2coLx1Qaa6LTNcBj0Og",
@@ -146617,6 +146680,27 @@
       "sha256": "72443b9f2ecb32a6f41842351915e04dce2c47b9dfee234cedd428080b0b5a8e"
     },
     {
+      "skill_id": "skl_JZfok7Z83SAmobw89z_nVQ",
+      "name": "error-during-connect-open-pipe-docker-f0eabf302832dcc0",
+      "title": "error during connect open //./pipe/docker_engine no such file or directory fails",
+      "description": "error during connect open //./pipe/docker_engine no such file or directory fails",
+      "url": "https://vectle.com/skills/skl_JZfok7Z83SAmobw89z_nVQ",
+      "exact_version_url": "https://vectle.com/skills/skl_JZfok7Z83SAmobw89z_nVQ/versions/skv_0dq2mYJkGG15RfCc-9-_nQ",
+      "version": "skv_0dq2mYJkGG15RfCc-9-_nQ",
+      "version_sequence": "1",
+      "updated": "2026-11-20T13:52:54.067082+00:00",
+      "path": "skills/error-during-connect-open-pipe-docker-f0eabf302832dcc0/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "1ca1b28bbab61e4ea537267988c82800bf31bb9e492ac6f38e11fc1ba42d57ec",
+      "public_input_digest": "2f363e8afc8d0a4e7db5e871e0338b626fb1eedbb75c6bae0abdc2d072e7cd03",
+      "sha256": "f3e4eeb609733bc083a7d354d1bf3bdbc1b52c16da81752deb62da540bb135d9"
+    },
+    {
       "skill_id": "skl_JZyflh7gaodIZy_qfpZ_Jw",
       "name": "agent-s-diff-parser-failed-on-binary-f-208651e7c9f66279",
       "title": "agent's diff parser failed on binary file renames in docs sync",
@@ -168266,6 +168350,27 @@
       "source_snapshot_digest": "0e4e73d11474f35285a37b4c3bc08ea79f56028f81290b064c3134eca1f1d0ac",
       "public_input_digest": "6cf3e542823d0117c35cb5b6b76dac5f63124a73ef89535807a68f89637baad8",
       "sha256": "9eac35595237e1e48f2c93e0e7e9040a0332e605c26dc807f89f5664d6432da3"
+    },
+    {
+      "skill_id": "skl_M_9nz2aRSoWlXVvuhcQ3_A",
+      "name": "google-custom-search-weighting-results-f557969367bcfb0c",
+      "title": "google custom search weighting results not applied error sites ranking wrong",
+      "description": "google custom search weighting results not applied error sites ranking wrong",
+      "url": "https://vectle.com/skills/skl_M_9nz2aRSoWlXVvuhcQ3_A",
+      "exact_version_url": "https://vectle.com/skills/skl_M_9nz2aRSoWlXVvuhcQ3_A/versions/skv_9BTrU_aNllloSsFV-xbRow",
+      "version": "skv_9BTrU_aNllloSsFV-xbRow",
+      "version_sequence": "1",
+      "updated": "2026-11-20T01:52:48.207632+00:00",
+      "path": "skills/google-custom-search-weighting-results-f557969367bcfb0c/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "4493a73bdc8a4a30cad16e23c78c11229f3f4cd8d63a33f9b2f031810c11031e",
+      "public_input_digest": "5be520a11fbc5036d91c0ca541cf1d2973a50ae771b4baec714acf1e8d3ac619",
+      "sha256": "79a65fbe4052c2d59cbd581028dd13020649ebf79b44eb023d67af9196bb7eca"
     },
     {
       "skill_id": "skl_M_sw3cQ8lC8hwBDNKigyHw",
@@ -204176,6 +204281,27 @@
       "source_snapshot_digest": "8c234a86435b2bf82245c4542fea518a6a84aa1505a26bb609a5730383895448",
       "public_input_digest": "03a619dcdf6de10db1db16bcf451ea55164f631d3d163e50b41c42ac58368907",
       "sha256": "53415ec41fdfb923c3ae706978ce7cbcd28edc0c9c2bf1768c13c50ad256220a"
+    },
+    {
+      "skill_id": "skl_RbEuCS0wFSGCrg4KumfhoA",
+      "name": "crawlee-browser-crawler-fails-with-pag-06e7a81f94b40889",
+      "title": "crawlee browser crawler fails with page timeout error after 60 seconds",
+      "description": "crawlee browser crawler fails with page timeout error after 60 seconds",
+      "url": "https://vectle.com/skills/skl_RbEuCS0wFSGCrg4KumfhoA",
+      "exact_version_url": "https://vectle.com/skills/skl_RbEuCS0wFSGCrg4KumfhoA/versions/skv_uV08BV29hAw9GMoozQk_LA",
+      "version": "skv_uV08BV29hAw9GMoozQk_LA",
+      "version_sequence": "1",
+      "updated": "2026-11-20T01:52:23.635287+00:00",
+      "path": "skills/crawlee-browser-crawler-fails-with-pag-06e7a81f94b40889/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "128ca1ef589699d3ff03d31bae6a74d598dda3134d4d11bea35f8d3d2eb6a354",
+      "public_input_digest": "6e05b9ce3d73f7f9c89adea8b380007279ef35b31a621935606490bfd2f1a6bb",
+      "sha256": "8e5d0353211b6848f385e5a9d79449ed1ebf3962442286478f6b619ebbaacfa9"
     },
     {
       "skill_id": "skl_RbTTZ7jmtg1pm9a_OhyUmw",
@@ -299098,6 +299224,27 @@
       "sha256": "1f4b59d884841689493ac2ab99e08cf4b01aafec06ce5dccac979573fd8f8bfd"
     },
     {
+      "skill_id": "skl_dlCt_XGvkxSsgX2RnYOvOA",
+      "name": "no-website-spf-record-outbound-email-m-fbf681bf46da948e",
+      "title": "no website spf record outbound email mailgun error deliverability fails",
+      "description": "no website spf record outbound email mailgun error deliverability fails",
+      "url": "https://vectle.com/skills/skl_dlCt_XGvkxSsgX2RnYOvOA",
+      "exact_version_url": "https://vectle.com/skills/skl_dlCt_XGvkxSsgX2RnYOvOA/versions/skv_O9XpNZSf3eK4bL4gzIa8Kg",
+      "version": "skv_O9XpNZSf3eK4bL4gzIa8Kg",
+      "version_sequence": "1",
+      "updated": "2026-11-20T13:52:02.44387+00:00",
+      "path": "skills/no-website-spf-record-outbound-email-m-fbf681bf46da948e/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "329d0ab585e72edd9504db51c99f561d023367ec90cee8aa2aef592327f666ce",
+      "public_input_digest": "150bdd5b5c1ae934f770b46db4a1e89209064454895c44abc72e9e471817e340",
+      "sha256": "b291f11c14cac5366d50d213d58ffc456d3a519ee3c47940b719943df4b97e2d"
+    },
+    {
       "skill_id": "skl_dlIuCBGyheKn9cl2c4sWtw",
       "name": "llamaparse-output-tables-as-html-has-n-4db29beb489c8d13",
       "title": "LlamaParse output_tables_as_HTML has no effect on items[].md",
@@ -315077,6 +315224,27 @@
       "source_snapshot_digest": "d9a861b5075d8fd96ecd1c1ea78637900ab2f2e7dfe066542a31b6a60e6602f0",
       "public_input_digest": "283a93d4d4fcb4b9ad8bcff3681ba8c5446bde2beed25f49a56d35c69ac15e2d",
       "sha256": "86157b3781f565fb4f07c7f380a8571af1743166e31a4144ed5862868c5156c1"
+    },
+    {
+      "skill_id": "skl_g0LTTNT9iys5mBqrz0Lq5w",
+      "name": "codecov-repository-not-found-error-pri-c55a9f5305c59406",
+      "title": "codecov repository not found error private repo token missing fails",
+      "description": "codecov repository not found error private repo token missing fails",
+      "url": "https://vectle.com/skills/skl_g0LTTNT9iys5mBqrz0Lq5w",
+      "exact_version_url": "https://vectle.com/skills/skl_g0LTTNT9iys5mBqrz0Lq5w/versions/skv_SY9ex4nlB8qiuFhhOfvtdQ",
+      "version": "skv_SY9ex4nlB8qiuFhhOfvtdQ",
+      "version_sequence": "1",
+      "updated": "2026-11-20T01:51:57.838857+00:00",
+      "path": "skills/codecov-repository-not-found-error-pri-c55a9f5305c59406/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "f4baeeca2cf93af861d771c2e87df9993ea2cd7b193163e59e505dd41f0b3451",
+      "public_input_digest": "80b235c2c1391b8de43374d89a30d36c6ef7dbd738ea73073d78872ef0e3c695",
+      "sha256": "eccb15f22a8a16ea49bcc348a5192cd2f02e3c1ccfc3cdf2da61576e8816323d"
     },
     {
       "skill_id": "skl_g0P5hjVJgJUGcRns9T2P1w",
@@ -426526,6 +426694,27 @@
       "sha256": "8730ea9bb79c9c33c925a5a8c894e80382e23f3386a9786b8a8702452bf2797c"
     },
     {
+      "skill_id": "skl_vx8J95R0nGeidjnzO5bORw",
+      "name": "dependabot-exclude-paths-syntax-error-de4ec88aded907e6",
+      "title": "dependabot exclude-paths syntax error failed validation",
+      "description": "dependabot exclude-paths syntax error failed validation",
+      "url": "https://vectle.com/skills/skl_vx8J95R0nGeidjnzO5bORw",
+      "exact_version_url": "https://vectle.com/skills/skl_vx8J95R0nGeidjnzO5bORw/versions/skv_59HTKxQBsUpX9hacAFnJNg",
+      "version": "skv_59HTKxQBsUpX9hacAFnJNg",
+      "version_sequence": "1",
+      "updated": "2026-11-20T13:52:28.224909+00:00",
+      "path": "skills/dependabot-exclude-paths-syntax-error-de4ec88aded907e6/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "e50380e78063ec49bc570e4a9bf6558bba1540f5aa48ea027baf982a64d24ddd",
+      "public_input_digest": "3cdd2f31a66a51d83bed2deeaaf02fa33cdc2d0f3ef43b8976766239b576ac1f",
+      "sha256": "b14242d2d4d8392941e33660f74ff0d154aa313040fa0e85988a5bbe6b571440"
+    },
+    {
       "skill_id": "skl_vxgrozG7hGwAXM0RXlb2jg",
       "name": "how-to-fix-one-on-one-summary-error-ac-314357e38fa5c88d",
       "title": "how to fix one on one summary error action owner swapped between manager and report fails error",
@@ -451808,6 +451997,27 @@
       "source_snapshot_digest": "f57b6b85e1c03d050bc64ceb22b56366c0eb40eefd23a3a456e46653ed7d81eb",
       "public_input_digest": "58b3c2b531c14c82703b05d556658ca7d375c462f278d16ee6c20198e22e57e6",
       "sha256": "f5865d09475e293fb4db34538c34fd69dd3b1891c55811f7da661ca1d42eb151"
+    },
+    {
+      "skill_id": "skl_zWgc4kBBpxLtPZiCEJNOWA",
+      "name": "price-tracker-scraper-blocked-with-403-8af629dc0c5fa575",
+      "title": "price tracker scraper blocked with \"403 Forbidden\" error on retailer site",
+      "description": "price tracker scraper blocked with \"403 Forbidden\" error on retailer site",
+      "url": "https://vectle.com/skills/skl_zWgc4kBBpxLtPZiCEJNOWA",
+      "exact_version_url": "https://vectle.com/skills/skl_zWgc4kBBpxLtPZiCEJNOWA/versions/skv_11KLeSdSm2jXQYfs5dGqgw",
+      "version": "skv_11KLeSdSm2jXQYfs5dGqgw",
+      "version_sequence": "1",
+      "updated": "2026-11-20T01:52:56.105356+00:00",
+      "path": "skills/price-tracker-scraper-blocked-with-403-8af629dc0c5fa575/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "ebfaaecbf472f610c1c66443695475d8e524b5fc7911fd7aa4c3644299191ea7",
+      "public_input_digest": "e7f8bda5793b8ac4802920f56a1e84da2c29b5cd51868a9d0c8e17de0960963f",
+      "sha256": "a86156aead49f57985bac1ea42befff3c3aae449498d0b1b42d6170c26f08dfb"
     },
     {
       "skill_id": "skl_zWt7RGlPTdd7DCshzSXJ4Q",
