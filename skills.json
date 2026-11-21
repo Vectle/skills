@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "m377xpE6NahtLpXu-Ygk04cVWyy0MLs5",
-    "generation": "221025",
-    "generated_at": "2026-11-20T16:19:56.758648+00:00",
-    "expires_at": "2026-11-20T22:19:56.758Z",
+    "snapshot_id": "OGdoDSTKjCzSI7i6lUHtTQj2aqkRUuWe",
+    "generation": "221455",
+    "generated_at": "2026-11-21T15:38:46.42525+00:00",
+    "expires_at": "2026-11-21T21:38:46.425Z",
     "page_size": 250,
-    "expected_entry_count": 21684
+    "expected_entry_count": 21719
   },
-  "manifest_digest": "904d053f6cae6c1c7ba1cfc847151b08df2db07b8ef187fe611bb0b1637247fa",
+  "manifest_digest": "bd1eba3b2aa7d1e6b5c75d615b553d9cc8fd9bfb57289dfe6840d099e980b6c7",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -13960,6 +13960,27 @@
       "sha256": "a746f24a622c7cc215cb375fbe9e1e9929919df5fd70a329496ea7fe033aed68"
     },
     {
+      "skill_id": "skl_11_PHdR0XoQYZZ_ot9D6zw",
+      "name": "how-to-book-phantom-ranch-at-the-grand-2b7b165f6498bd10",
+      "title": "how to book Phantom Ranch at the Grand Canyon",
+      "description": "how to book Phantom Ranch at the Grand Canyon",
+      "url": "https://vectle.com/skills/skl_11_PHdR0XoQYZZ_ot9D6zw",
+      "exact_version_url": "https://vectle.com/skills/skl_11_PHdR0XoQYZZ_ot9D6zw/versions/skv_96t6Sn4KUKcwK9GCG_UFqA",
+      "version": "skv_96t6Sn4KUKcwK9GCG_UFqA",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:31:59.140858+00:00",
+      "path": "skills/how-to-book-phantom-ranch-at-the-grand-2b7b165f6498bd10/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "39a120b151615bb5f10ad3a48a69c1a0bec010ae8368c5a1c924893b27a43450",
+      "public_input_digest": "803fc743048e293cac9f720157845724ba316a7f3f25f29fa8fd9f53a7ed7c2b",
+      "sha256": "4593f41eb8a33ad98a353c5645c509aa832d5486bf7de05af7e3995b941cf61c"
+    },
+    {
       "skill_id": "skl_11jRPEF0q0GPrL8NTzG_YQ",
       "name": "importerror-cannot-import-name-get-cur-7e32225f7363fac1",
       "title": "ImportError: cannot import name 'get_current_traceback' from 'werkzeug.debug.tbtools'",
@@ -16646,6 +16667,27 @@
       "source_snapshot_digest": "475f4e6b9309d5b1565526660c2e47162cf8a8c27efb41e65f0a5a724873a9c2",
       "public_input_digest": "f581e3ffbcaeba35cd21dc5ae5c08f6553e371f98afc7258edb24896c311d510",
       "sha256": "db1a88191b0b3087cd77d860b4ad14c8870f2053c20f0358bdef956133faf813"
+    },
+    {
+      "skill_id": "skl_1Qgu7C8IN3hR3Nxx2DK_2Q",
+      "name": "aadsts700016-error-application-not-fou-88349752ffb4cb87",
+      "title": "aadsts700016 error application not found in tenant directory authentication fails",
+      "description": "aadsts700016 error application not found in tenant directory authentication fails",
+      "url": "https://vectle.com/skills/skl_1Qgu7C8IN3hR3Nxx2DK_2Q",
+      "exact_version_url": "https://vectle.com/skills/skl_1Qgu7C8IN3hR3Nxx2DK_2Q/versions/skv_oug2htGrfXXpQIScd2mJvA",
+      "version": "skv_oug2htGrfXXpQIScd2mJvA",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:52:40.340223+00:00",
+      "path": "skills/aadsts700016-error-application-not-fou-88349752ffb4cb87/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "0bfe505914d1d9b899f057875ea3fec1ac10d40c5a4272dd4a1f960c11090388",
+      "public_input_digest": "fee05bfeb3f2fbe7b2487cc7f78a302693afde27e318eef8f12242e080d9e961",
+      "sha256": "414c69d0a381664d4a2363bfe35f0a52616d9a07c94589ffb7d3ce9cc1f6f331"
     },
     {
       "skill_id": "skl_1Qp42ufhNvEiqdXjtSvyXQ",
@@ -23534,6 +23576,27 @@
       "source_snapshot_digest": "2d71c85bf544bf49c2aa4adbdab9e7e12f24c1fc2d48c9f4192bb652adbbd3b8",
       "public_input_digest": "867cee93ff2bfbbe52de9f414f1c45d4f3f67911da5e200be2fb6b6cb3f9c423",
       "sha256": "d74c6d62d9356ff2c1cff68fdda80fc8350c2d70f4a7ccfa797c20295667a896"
+    },
+    {
+      "skill_id": "skl_2GHUkUUlZMVK0PO4JSP63Q",
+      "name": "how-to-get-a-reservation-at-cote-korea-ee61013a27eb5153",
+      "title": "how to get a reservation at Cote Korean Steakhouse New York",
+      "description": "how to get a reservation at Cote Korean Steakhouse New York",
+      "url": "https://vectle.com/skills/skl_2GHUkUUlZMVK0PO4JSP63Q",
+      "exact_version_url": "https://vectle.com/skills/skl_2GHUkUUlZMVK0PO4JSP63Q/versions/skv_hV1jZZpImzSSknAEUluzZQ",
+      "version": "skv_hV1jZZpImzSSknAEUluzZQ",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:32:50.295996+00:00",
+      "path": "skills/how-to-get-a-reservation-at-cote-korea-ee61013a27eb5153/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "420eaa88cfba4a7b9c9d11f237c9bc2eebf87713eb224ec599900733185e4c67",
+      "public_input_digest": "3644073a65ab4cde980f2c204867665011131d28ae596327f7ad5fb291d15c82",
+      "sha256": "5c2b58d9ee6cec7b745e24ac8788839d9a8c64e54f2ca73b12c0d37075c6c30f"
     },
     {
       "skill_id": "skl_2GV59P3K8K5cXYdDFUN4xg",
@@ -42730,6 +42793,27 @@
       "sha256": "f3f8d08c657a1cf9245553c66640e574c3abefd3eed030d33038d7523277ebdc"
     },
     {
+      "skill_id": "skl_52XJHqunMNMjPcOGjTvCRQ",
+      "name": "how-to-book-per-se-new-york-c63447d5e20e92f4",
+      "title": "how to book Per Se New York",
+      "description": "how to book Per Se New York",
+      "url": "https://vectle.com/skills/skl_52XJHqunMNMjPcOGjTvCRQ",
+      "exact_version_url": "https://vectle.com/skills/skl_52XJHqunMNMjPcOGjTvCRQ/versions/skv_YMyfCLlGBSw2eFgWMhiIqw",
+      "version": "skv_YMyfCLlGBSw2eFgWMhiIqw",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:33:42.825355+00:00",
+      "path": "skills/how-to-book-per-se-new-york-c63447d5e20e92f4/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "188397d53d272ca4d29854b29725d954b7ba58cc15996d04a5dcf2f21eaff68d",
+      "public_input_digest": "5ee81ac213b87b971e0bec36f8bdb43ef668a2befdb70a52aa6c9117733a52c4",
+      "sha256": "a90cf6d025c4443dddb066ec73c51fa07b347835df4499b90fbb1edf5b6c62d7"
+    },
+    {
       "skill_id": "skl_52_jRIxnOB7NKLM7iWLr1Q",
       "name": "how-to-set-up-dmarc-spf-and-dkim-corre-505739803276c334",
       "title": "how to set up DMARC, SPF, and DKIM correctly",
@@ -61838,6 +61922,27 @@
       "source_snapshot_digest": "5c23117acecb877a59e762a57245d1e07af805f560999688eb29da1da8a02d82",
       "public_input_digest": "74d33ab6ece3608960b6de5271ad0d0b0e29e8d43cc4a2574b80d5a9147da6d6",
       "sha256": "74a280fadcaf6524ff6ead889e8eb271c020101c6a33c473ba88c2079c458f78"
+    },
+    {
+      "skill_id": "skl_7mmVwSdFWbOhDXob2cZVVQ",
+      "name": "fivetran-connector-stuck-in-scheduled-589c3f2c8cd7ab25",
+      "title": "fivetran connector stuck in scheduled state, sync never starts error",
+      "description": "fivetran connector stuck in scheduled state, sync never starts error",
+      "url": "https://vectle.com/skills/skl_7mmVwSdFWbOhDXob2cZVVQ",
+      "exact_version_url": "https://vectle.com/skills/skl_7mmVwSdFWbOhDXob2cZVVQ/versions/skv_K6gBHHBSvO7nvjLEUbtj5w",
+      "version": "skv_K6gBHHBSvO7nvjLEUbtj5w",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:53:13.048044+00:00",
+      "path": "skills/fivetran-connector-stuck-in-scheduled-589c3f2c8cd7ab25/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "c92d026468cdeb73a15121740ffeda7996b72f9fada5b4ad5c16ab5ca5064ec4",
+      "public_input_digest": "bc35340c66db716a773b64d9640dfd206ced34380deab8ff8a57904c3afe3b79",
+      "sha256": "ada35c0d0dc52ec02a0197f004aa33114bd404ca8a806a0e5c602035e575ba7d"
     },
     {
       "skill_id": "skl_7mshqbifTy3pJHFOKZSyLw",
@@ -92752,6 +92857,27 @@
       "sha256": "e88e4e6f5b37a8478738864024b140dc8a854a26c96bfa1464aca0288d754715"
     },
     {
+      "skill_id": "skl_CHkZddWKBPMULAJ25JpRFA",
+      "name": "configuration-information-could-not-be-a06bd743631906fa",
+      "title": "configuration information could not be read from the domain controller group policy processing failed",
+      "description": "configuration information could not be read from the domain controller group policy processing failed",
+      "url": "https://vectle.com/skills/skl_CHkZddWKBPMULAJ25JpRFA",
+      "exact_version_url": "https://vectle.com/skills/skl_CHkZddWKBPMULAJ25JpRFA/versions/skv_eN8wiYyBo99KdbKEt8BDGw",
+      "version": "skv_eN8wiYyBo99KdbKEt8BDGw",
+      "version_sequence": "1",
+      "updated": "2026-11-21T01:53:24.859566+00:00",
+      "path": "skills/configuration-information-could-not-be-a06bd743631906fa/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "b92e6d1e0e75fa58acbe754f0e7bb3af15d32cb65b4377dba2829bedee82700d",
+      "public_input_digest": "da843c15900aed82666bd242f9d2d462106bbc211723348360020763520fecad",
+      "sha256": "7691a50f828b5d690d4d59eeef5b313b06864501a02981eb0d961565752f7f0d"
+    },
+    {
       "skill_id": "skl_CHwbZUbF9dcEFxXtD7VwFg",
       "name": "neptune-auth-token-expired-error-faile-00f675284400c798",
       "title": "Neptune auth token expired error failed to create new experiment run",
@@ -104113,6 +104239,27 @@
       "sha256": "3a0087afc397f3e38b16123867fbe1c5ba72613f3a767e57b4d8f0f0dc778f11"
     },
     {
+      "skill_id": "skl_DrANlo5jeDSRUTSLNGUGEA",
+      "name": "how-to-cancel-a-turo-trip-and-get-a-re-29252fc505529fa9",
+      "title": "how to cancel a Turo trip and get a refund",
+      "description": "how to cancel a Turo trip and get a refund",
+      "url": "https://vectle.com/skills/skl_DrANlo5jeDSRUTSLNGUGEA",
+      "exact_version_url": "https://vectle.com/skills/skl_DrANlo5jeDSRUTSLNGUGEA/versions/skv_krfC_gEkbzkSkFM_4lEB2w",
+      "version": "skv_krfC_gEkbzkSkFM_4lEB2w",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:32:23.331874+00:00",
+      "path": "skills/how-to-cancel-a-turo-trip-and-get-a-re-29252fc505529fa9/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "52c3dff50abd676537b30e06bbddd74f74e6358c5bf996a3abf5142d86edeec7",
+      "public_input_digest": "27f96ece8eedeb376b25f78e7b2d4e4ac9d0a17b1a6926f53774a62db9997a80",
+      "sha256": "a3c3b62aefbbf9b8efad01ad1ef8b5d885ed2788bb0de4e1107905a47d835717"
+    },
+    {
       "skill_id": "skl_DrDW_RiTbtPfqFfQ1LG52Q",
       "name": "api-rate-limit-hit-mid-workflow-when-a-3bdcdb0b9ff1a826",
       "title": "API rate limit hit mid-workflow when agent tried to coordinate an onsite interview loop with rooms and travel error...",
@@ -107114,6 +107261,27 @@
       "source_snapshot_digest": "58c79d52172368306de57b60ac8a0bfe11e243c3955c58ee9a4a063cbb3846a9",
       "public_input_digest": "20bb02c9d97a4cb67d7068d621e98c6dbc6d9d4b30099d5f11be3ed63e95c58b",
       "sha256": "1596cd6843bbd32b4b6d4bf1854285441d2c607201ce5c4f233418d24d695004"
+    },
+    {
+      "skill_id": "skl_EDCNjTrNIkGHnVP7JjIx_g",
+      "name": "how-to-get-a-table-at-4-charles-prime-c801eb0d2829a2c7",
+      "title": "how to get a table at 4 Charles Prime Rib New York",
+      "description": "how to get a table at 4 Charles Prime Rib New York",
+      "url": "https://vectle.com/skills/skl_EDCNjTrNIkGHnVP7JjIx_g",
+      "exact_version_url": "https://vectle.com/skills/skl_EDCNjTrNIkGHnVP7JjIx_g/versions/skv_DAEFRC6_j5IyWaDetpVBIA",
+      "version": "skv_DAEFRC6_j5IyWaDetpVBIA",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:34:03.089028+00:00",
+      "path": "skills/how-to-get-a-table-at-4-charles-prime-c801eb0d2829a2c7/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "b15c17e45bf0fbbbf9cea93cfff5ff204e7f34b0ee1da9a29543cc7500314bc1",
+      "public_input_digest": "637147595abfbce1ddb6b81b1d1ea25e64bc3eb530ff4f7cb938df5426459717",
+      "sha256": "e347a6c482cdccbe4c3c1d97db78f3cedac3839ceed146e25e348365f6b07847"
     },
     {
       "skill_id": "skl_EDF9qdll0Zep2bOcwWnyQg",
@@ -116228,6 +116396,27 @@
       "source_snapshot_digest": "393c62a7672e5ffbe270c60904beedf97bcf65aa5b1f10d62a7913418015945d",
       "public_input_digest": "eeb9026df8eb4f5cced86885bd551f404ac84f039d05ed087029c97be2e9f09a",
       "sha256": "ef50edd8e75fd8589a5250c64021df1cd159638f8b519f9f818903196d34d653"
+    },
+    {
+      "skill_id": "skl_FNbOFnvImvxcKs-whms4_w",
+      "name": "how-to-cancel-netflix-and-keep-watchin-7745b071ff07907f",
+      "title": "how to cancel Netflix and keep watching until the billing date",
+      "description": "how to cancel Netflix and keep watching until the billing date",
+      "url": "https://vectle.com/skills/skl_FNbOFnvImvxcKs-whms4_w",
+      "exact_version_url": "https://vectle.com/skills/skl_FNbOFnvImvxcKs-whms4_w/versions/skv_FUnc5S581dMrbbbdF36gjw",
+      "version": "skv_FUnc5S581dMrbbbdF36gjw",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:33:36.289023+00:00",
+      "path": "skills/how-to-cancel-netflix-and-keep-watchin-7745b071ff07907f/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "3b270f8c69f135859fe296fe53850500aa9c77a2e11501d66ee83e4d12ecd97b",
+      "public_input_digest": "cedab92b7ac32871f5c4ce5b98d15338542ff2f8ea7ebfade9cdead6e29890cc",
+      "sha256": "e69cf0e50c32bd818327d02ae497c072c9e363db31c9953d71e66a7fad9200d6"
     },
     {
       "skill_id": "skl_FNd6s8RFgfluulzjXndnYg",
@@ -132272,6 +132461,27 @@
       "source_snapshot_digest": "c48e4f218e2d4667ae2e1b9ac3a38d4cf1e36c73a56b6eff9f3e40faaff972aa",
       "public_input_digest": "5c6f24d271276f47f321e6a78ecce4991a097a5a1996b14fc2f29c77ed828471",
       "sha256": "7acba1c11c04376fa3b58c64da4ef19bce970e22c80c8f54aa3dece437f76f76"
+    },
+    {
+      "skill_id": "skl_HdMI7qHSy6OTZWNYb4WwxA",
+      "name": "how-to-get-a-muir-woods-parking-reserv-306d451649652eab",
+      "title": "how to get a Muir Woods parking reservation",
+      "description": "how to get a Muir Woods parking reservation",
+      "url": "https://vectle.com/skills/skl_HdMI7qHSy6OTZWNYb4WwxA",
+      "exact_version_url": "https://vectle.com/skills/skl_HdMI7qHSy6OTZWNYb4WwxA/versions/skv_LZWWSQt1YuVjZTKTNfqBzw",
+      "version": "skv_LZWWSQt1YuVjZTKTNfqBzw",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:26:54.290914+00:00",
+      "path": "skills/how-to-get-a-muir-woods-parking-reserv-306d451649652eab/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "e221b5e3ccd87f1e8b4fdf38f11dbd22fd2abe7cd90daac750ff7777b38ae675",
+      "public_input_digest": "7283984bb6d63b6cbf67691304aacd2c632634e82caada8a72a0f8034cd1c996",
+      "sha256": "db42823e99eb8ac9defb37f17ff499a39d67cbb079ba1703fed10b2832f8575e"
     },
     {
       "skill_id": "skl_Hde_6nXNX-msfQttvxLwSg",
@@ -177067,6 +177277,27 @@
       "sha256": "aaacf06d0c120d718e8b362735b68b3bf542902e3cb734c3c7cc9ee2973eb25b"
     },
     {
+      "skill_id": "skl_No5ymNId_ekK7N6Vht6Jbg",
+      "name": "dropbox-api-refresh-token-error-grant-44c1762ef58a695e",
+      "title": "dropbox api refresh token error grant expired fails",
+      "description": "dropbox api refresh token error grant expired fails",
+      "url": "https://vectle.com/skills/skl_No5ymNId_ekK7N6Vht6Jbg",
+      "exact_version_url": "https://vectle.com/skills/skl_No5ymNId_ekK7N6Vht6Jbg/versions/skv_6Dx7mkK-F1Aote0Qr00yog",
+      "version": "skv_6Dx7mkK-F1Aote0Qr00yog",
+      "version_sequence": "1",
+      "updated": "2026-11-21T01:53:50.522283+00:00",
+      "path": "skills/dropbox-api-refresh-token-error-grant-44c1762ef58a695e/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "1d46576eb20773c5741e5e3696469ac11f98ecbe32a8ab0c40b2aa511a152d4f",
+      "public_input_digest": "be38a8e3e8b0fe8787dc682b278c918a7cfbdaec3fcc395896a3b6d5c6f5348d",
+      "sha256": "0fa0059f9544e4416ec6ca2b63ab1434c4b8082d27c7cbb08b74f10ddd989c18"
+    },
+    {
       "skill_id": "skl_NoIVKn5I8aPAuQ6hSeIYGg",
       "name": "resend-webhook-setup-create-via-api-ke-c4e4cf72e6cca117",
       "title": "Resend webhook setup: create via API, keep the signing secret",
@@ -178787,6 +179018,27 @@
       "source_snapshot_digest": "6b0a1904b940a8515a947d9f58ed84ab5fccab01ba1f952d3d3863880d755622",
       "public_input_digest": "93cecf79ece74f310cefd56121fded675354dd31d0ed16e065c13334f2555511",
       "sha256": "e63944cecd45b87a60b872afb6eae2d892da5c662489f3c8cb2646ed26080114"
+    },
+    {
+      "skill_id": "skl_O2ygCcnAWp4jMovBN3TYCQ",
+      "name": "how-to-book-a-table-at-tatiana-new-yor-34a66e903a9f5a96",
+      "title": "how to book a table at Tatiana New York",
+      "description": "how to book a table at Tatiana New York",
+      "url": "https://vectle.com/skills/skl_O2ygCcnAWp4jMovBN3TYCQ",
+      "exact_version_url": "https://vectle.com/skills/skl_O2ygCcnAWp4jMovBN3TYCQ/versions/skv_q6TeXhY9lDjVreTaWxaFyA",
+      "version": "skv_q6TeXhY9lDjVreTaWxaFyA",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:31:40.082506+00:00",
+      "path": "skills/how-to-book-a-table-at-tatiana-new-yor-34a66e903a9f5a96/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "a821eb49221c2901abfe05a400c4ba0d97436f3abab3b1eb8c8f5d246db2d24f",
+      "public_input_digest": "9b8c9022904ff2daf1fb324241b40136288ea974214093bbad74d6177e9ed0a1",
+      "sha256": "1815bacb065b7aa26eab376e8dbaea0a468ccc1d0683ee2c20f4c05e4705d4c0"
     },
     {
       "skill_id": "skl_O3Nf3Rkx5F67MY4UbofcvA",
@@ -208147,6 +208399,27 @@
       "sha256": "00de51e85f3ff8420b1c495580f961c609dca050f9a94a06e64018e36da1c734"
     },
     {
+      "skill_id": "skl_S6ratdQakPd-011gFooAdg",
+      "name": "how-to-get-a-reservation-at-le-bernard-9b03a420dcae6f2f",
+      "title": "how to get a reservation at Le Bernardin New York",
+      "description": "how to get a reservation at Le Bernardin New York",
+      "url": "https://vectle.com/skills/skl_S6ratdQakPd-011gFooAdg",
+      "exact_version_url": "https://vectle.com/skills/skl_S6ratdQakPd-011gFooAdg/versions/skv_ZVXj0zwwNMu6IN-pykuRWQ",
+      "version": "skv_ZVXj0zwwNMu6IN-pykuRWQ",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:25:55.206617+00:00",
+      "path": "skills/how-to-get-a-reservation-at-le-bernard-9b03a420dcae6f2f/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "79a15770a952fd3822c78b096a7eeb91d1051ad6abb5490e3ebd54262b548dc9",
+      "public_input_digest": "0d4ff2a38838e298e647de01f7a77b470bcadde7baa6789ab772e2efe8f3d911",
+      "sha256": "4a6fc6b196f5ffb6f8dc6937470ac053d0c7a3b22c6363a3ef90c50fb004cad5"
+    },
+    {
       "skill_id": "skl_S73qcjM3yQldEhW6dUCDwQ",
       "name": "sap-concur-amount-exceeds-limit-except-7366a485cc310a66",
       "title": "SAP Concur: amount exceeds limit\" exception error",
@@ -221209,6 +221482,27 @@
       "sha256": "ad351f3f2a9dda62ba8636156789a7789673381af73e8458f86120771a2168cc"
     },
     {
+      "skill_id": "skl_Tqlkj31s8B1zgXv6V_Q4kQ",
+      "name": "data-room-document-download-batch-fail-3d827868c9880fb8",
+      "title": "data room document download batch fails with empty results error: how to fix",
+      "description": "data room document download batch fails with empty results error: how to fix",
+      "url": "https://vectle.com/skills/skl_Tqlkj31s8B1zgXv6V_Q4kQ",
+      "exact_version_url": "https://vectle.com/skills/skl_Tqlkj31s8B1zgXv6V_Q4kQ/versions/skv_olliBL5R8I7N3XiNynHsdg",
+      "version": "skv_olliBL5R8I7N3XiNynHsdg",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:51:53.644015+00:00",
+      "path": "skills/data-room-document-download-batch-fail-3d827868c9880fb8/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "8adf96d55b7a836c16b1a1cafbcc13800b5a63eaa1b72a8ebdb3c54362044b34",
+      "public_input_digest": "fec2bf9a7b001eab22ca48b98279e465438f9b73c89d6a0b4882d54cf901d1c3",
+      "sha256": "98300200c13476bd34243f89fbd9d4a50011b9c7a2e365ff358d43e133c03f1e"
+    },
+    {
       "skill_id": "skl_Tqsz1ekude3zpSO3FoIIQQ",
       "name": "lattice-new-hire-goal-setup-error-temp-c67b4dcb6d7735cd",
       "title": "Lattice new hire goal setup error template not applied in first week",
@@ -222446,6 +222740,27 @@
       "source_snapshot_digest": "6a0a7e1dd48e267a70183d741d3dca21c82a88848f3da23f68983899279506df",
       "public_input_digest": "40e6853cef38954d49973133816689ee9366e23305820570a46f94cbbbbd96c1",
       "sha256": "6553fda4d3cf2a359e02254bfb1b77486948aa0f4b3b0aa3196abeef546b3914"
+    },
+    {
+      "skill_id": "skl_U1BSX-U0yyRmuDbKwnKvVw",
+      "name": "doctl-login-error-token-expired-fails-05dc22189c7acfd5",
+      "title": "doctl login error token expired fails",
+      "description": "doctl login error token expired fails",
+      "url": "https://vectle.com/skills/skl_U1BSX-U0yyRmuDbKwnKvVw",
+      "exact_version_url": "https://vectle.com/skills/skl_U1BSX-U0yyRmuDbKwnKvVw/versions/skv_hhBzB0uvY3J-_FYry3hqJA",
+      "version": "skv_hhBzB0uvY3J-_FYry3hqJA",
+      "version_sequence": "1",
+      "updated": "2026-11-21T01:52:33.92403+00:00",
+      "path": "skills/doctl-login-error-token-expired-fails-05dc22189c7acfd5/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "a89a837dceb9aab1b67843b6599e0366a9c2e21e743dc309929cf015037e0446",
+      "public_input_digest": "71d905b6cc3cbfa64507b9ee5e0917a61f7fbb9074a5ced0253b824c44ee14ce",
+      "sha256": "71ab9becbdd5657916b22c3773f24338119bf671cb98d5e647e74f670e9c371b"
     },
     {
       "skill_id": "skl_U1T2NUwr-VNTWUk84ZyWiw",
@@ -227234,6 +227549,27 @@
       "source_snapshot_digest": "5f53c3e2dadb1707970acf62b8ddfa0171cf19fbddafd0f60b183c08c19e1447",
       "public_input_digest": "532b20b6dbb5db0511b201bd6294ea45d3011e5287fa698434ab74c1d0f9b8ee",
       "sha256": "afd90513c26f34a3cececc4ace0365415cc3ba8bd78287b72a9f6a602edbfff1"
+    },
+    {
+      "skill_id": "skl_UhHEseghGmyEmv2vZ6Q0NQ",
+      "name": "how-to-cancel-a-hulu-subscription-6221820665d1dfa3",
+      "title": "how to cancel a Hulu subscription",
+      "description": "how to cancel a Hulu subscription",
+      "url": "https://vectle.com/skills/skl_UhHEseghGmyEmv2vZ6Q0NQ",
+      "exact_version_url": "https://vectle.com/skills/skl_UhHEseghGmyEmv2vZ6Q0NQ/versions/skv_2dMvOq6cHUpA4vrzbJfq8g",
+      "version": "skv_2dMvOq6cHUpA4vrzbJfq8g",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:34:55.07428+00:00",
+      "path": "skills/how-to-cancel-a-hulu-subscription-6221820665d1dfa3/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "9004fa1e12b4a4643f228c4ea6035f8aec01d6d10490adce87f236b41a691224",
+      "public_input_digest": "be9ab6f8c3c044d3930ae64006cc336f5fd8f1d75441225adf011ac76a56e688",
+      "sha256": "ed9c52cda144e1ffb7a31442d2065ecdf457a7322ef4e69aa3222775606283d2"
     },
     {
       "skill_id": "skl_UhLpIuc1vz_KS9cNuafS7g",
@@ -232841,6 +233177,27 @@
       "source_snapshot_digest": "86a498a8b9b488f20fb1256111040b9c876e99d2bcd9413ba0d0715c02683bc8",
       "public_input_digest": "74d6070d351358516cddb298d96b838b9ac93f74f44875145c6a81d9537400c3",
       "sha256": "1df54be37f5fbb6e1e6a86b5a5fa527e7795f6966c34b9475e0ac3ad1482f768"
+    },
+    {
+      "skill_id": "skl_VUveAbWXZc3MWX8CeqmHMg",
+      "name": "how-to-book-the-ahwahnee-in-yosemite-249511e5d2fce119",
+      "title": "how to book The Ahwahnee in Yosemite",
+      "description": "how to book The Ahwahnee in Yosemite",
+      "url": "https://vectle.com/skills/skl_VUveAbWXZc3MWX8CeqmHMg",
+      "exact_version_url": "https://vectle.com/skills/skl_VUveAbWXZc3MWX8CeqmHMg/versions/skv_Br9ceerr-8LvHoUYkhvOtg",
+      "version": "skv_Br9ceerr-8LvHoUYkhvOtg",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:33:48.01831+00:00",
+      "path": "skills/how-to-book-the-ahwahnee-in-yosemite-249511e5d2fce119/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "ad0c39d522fad66e6cefb82e614d2ee7e50cdffff329ba5eb1e3f59378943962",
+      "public_input_digest": "34a7475685fbd36f0b572706b0736e623806a36ba6114e5c8f2d273966af1a9a",
+      "sha256": "453fcce6327eb12c3a5c78819f7b17e550057c8404c15fc525948d3bed60ef75"
     },
     {
       "skill_id": "skl_VVfgrxxdmeo9olqnWWfCTw",
@@ -256613,6 +256970,27 @@
       "source_snapshot_digest": "1b37d8fee2c984735e477998f793617252a1b9e958dc2f0323e69bff3e853742",
       "public_input_digest": "f5baf3521d9d1fa18936aa501e304eb939705391abb8dde26fb9bbceee5b3dde",
       "sha256": "8432737b41d48fbccf4f5460fcfb709f4a916eac66a2c655107f21f3b38c4589"
+    },
+    {
+      "skill_id": "skl_YoyGxjYDJxZ_4qRy2wHRpA",
+      "name": "lm-eval-harness-task-download-fails-40-d8e3fed038f37b25",
+      "title": "lm-eval harness task download fails 404 error benchmark missing",
+      "description": "lm-eval harness task download fails 404 error benchmark missing",
+      "url": "https://vectle.com/skills/skl_YoyGxjYDJxZ_4qRy2wHRpA",
+      "exact_version_url": "https://vectle.com/skills/skl_YoyGxjYDJxZ_4qRy2wHRpA/versions/skv_Jt-d8w2SpffhUfjmjaU6zw",
+      "version": "skv_Jt-d8w2SpffhUfjmjaU6zw",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:53:04.215679+00:00",
+      "path": "skills/lm-eval-harness-task-download-fails-40-d8e3fed038f37b25/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "c6712a56f4b3d742aa46104276ccb51767fa4ad66f5850369229ddcb3af72768",
+      "public_input_digest": "bc764d8188722dd611a670b1faf1785c410a7614581815f750278eec88c4917c",
+      "sha256": "7710aeab0482cc0081c5eee899f6405af0ae8ee8de7588e3715ae8c44e9a36b3"
     },
     {
       "skill_id": "skl_YpCn8FOPteH8ppuC-gcUmQ",
@@ -289438,6 +289816,27 @@
       "sha256": "5fcbaf2932c69797d07fe555b51a68746792f412b9272297b518c1f69dfdead4"
     },
     {
+      "skill_id": "skl_cSXYcLOz0Ed9ctVIVz_52g",
+      "name": "how-to-book-a-yellowstone-lodge-room-87f878fed7331d1c",
+      "title": "how to book a Yellowstone lodge room",
+      "description": "how to book a Yellowstone lodge room",
+      "url": "https://vectle.com/skills/skl_cSXYcLOz0Ed9ctVIVz_52g",
+      "exact_version_url": "https://vectle.com/skills/skl_cSXYcLOz0Ed9ctVIVz_52g/versions/skv_n6UjPkb-LHzuL7bKhy-BNA",
+      "version": "skv_n6UjPkb-LHzuL7bKhy-BNA",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:32:55.511155+00:00",
+      "path": "skills/how-to-book-a-yellowstone-lodge-room-87f878fed7331d1c/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "e50ae23ad38b8e38e4c3ae76bb620ea8fa259d3585e93ea1969e8f4f052e59b3",
+      "public_input_digest": "f2f9e3408526f0e4307116682c79a9828a5316a17df58f2342601bac81c4db40",
+      "sha256": "245e6f1632e911d56c96858f5cb521b6ace4d670b62765f95224255a1f9198f3"
+    },
+    {
       "skill_id": "skl_cScL3MhZ7RnbStUPbB69AQ",
       "name": "pinecone-diagnosis-resources-exist-but-9e891e180cff81b8",
       "title": "Pinecone diagnosis: resources exist but the key cannot see them",
@@ -311845,6 +312244,27 @@
       "sha256": "27bb4591cd2b69e7a398ca6627840dd05a300d9a9f780a0d2ca9e9e45f01dade"
     },
     {
+      "skill_id": "skl_fZnfms8t-VXAEXJQ-Iskvw",
+      "name": "how-to-get-a-rocky-mountain-national-p-bc752946ff14f293",
+      "title": "how to get a Rocky Mountain National Park timed entry permit",
+      "description": "how to get a Rocky Mountain National Park timed entry permit",
+      "url": "https://vectle.com/skills/skl_fZnfms8t-VXAEXJQ-Iskvw",
+      "exact_version_url": "https://vectle.com/skills/skl_fZnfms8t-VXAEXJQ-Iskvw/versions/skv_BF0flKbcF4X7d09SNeY_Mw",
+      "version": "skv_BF0flKbcF4X7d09SNeY_Mw",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:25:58.667667+00:00",
+      "path": "skills/how-to-get-a-rocky-mountain-national-p-bc752946ff14f293/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "3bc8eaa4f6d9796c0531a08110791cef27463835a62fdcd325c4dfb799226328",
+      "public_input_digest": "c5fb06fa5f7f24bef90b2fd267ba29d2ef3b9b5f52949a197b129cc3058b20f0",
+      "sha256": "de6a3e4536b98a58261d98b6b062354e924098038b7b3f170138a62fff41da49"
+    },
+    {
       "skill_id": "skl_f_IwSaSbdxlfl_1RWHH8xg",
       "name": "how-to-initialize-a-netsuite-vendor-bi-681aea584646f456",
       "title": "how to initialize a NetSuite vendor bill from a purchase order",
@@ -318250,6 +318670,27 @@
       "sha256": "57482079030b60c190aee46099976cca49b249d3d800d968102ee085fe584481"
     },
     {
+      "skill_id": "skl_gT3o0GjKsJ-yRHEPD1xUvA",
+      "name": "how-to-cancel-an-enterprise-rental-car-9d10b50dc5c37193",
+      "title": "how to cancel an Enterprise rental car booking",
+      "description": "how to cancel an Enterprise rental car booking",
+      "url": "https://vectle.com/skills/skl_gT3o0GjKsJ-yRHEPD1xUvA",
+      "exact_version_url": "https://vectle.com/skills/skl_gT3o0GjKsJ-yRHEPD1xUvA/versions/skv_9mE7gB9XvmU9P74hY0RjGQ",
+      "version": "skv_9mE7gB9XvmU9P74hY0RjGQ",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:26:27.151306+00:00",
+      "path": "skills/how-to-cancel-an-enterprise-rental-car-9d10b50dc5c37193/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "3bbb8a09acf5f801ba229a81314dfb0724cd961fd9811e5a4f6fa7cd7891c3a7",
+      "public_input_digest": "ec32508e7579f7f048a313912afe0faea80380d13fc0f44511aa9f8f8b20818c",
+      "sha256": "5369e485e576fb07b264076b6ba1ecde2860b4e212997cdcae15377910ac8e91"
+    },
+    {
       "skill_id": "skl_gTCoSi0yPPTfny7dvrbkVw",
       "name": "meeting-prep-error-recent-support-esca-6238f4b0e3c07096",
       "title": "meeting prep error recent support escalation omitted from account risk section",
@@ -321440,6 +321881,27 @@
       "source_snapshot_digest": "bee5a11c76d7f804b568e253336f6fceaee466ef81f76290332c6f3f4d2853e7",
       "public_input_digest": "9b16fcd5ca934b88cf337490dd6ead0df141523ec719bc98d53386b52e684a82",
       "sha256": "fec50957696fe8dd4515f1b2fa017c2926182b09726a87951c590e4fae832992"
+    },
+    {
+      "skill_id": "skl_gweD9ukNwASSHbrEwi5M3A",
+      "name": "how-to-cancel-an-avis-rental-car-reser-a76f15ebe1885e4d",
+      "title": "how to cancel an Avis rental car reservation",
+      "description": "how to cancel an Avis rental car reservation",
+      "url": "https://vectle.com/skills/skl_gweD9ukNwASSHbrEwi5M3A",
+      "exact_version_url": "https://vectle.com/skills/skl_gweD9ukNwASSHbrEwi5M3A/versions/skv_WGTqCIUPVQbeAsJ0D1JpqQ",
+      "version": "skv_WGTqCIUPVQbeAsJ0D1JpqQ",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:31:26.996055+00:00",
+      "path": "skills/how-to-cancel-an-avis-rental-car-reser-a76f15ebe1885e4d/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "91c8d015909e607a6b15ead31e80a9d2b6cb3aad5097f73d1d9323d967d969d5",
+      "public_input_digest": "dd7424a2e149594190002a1a373edb172323f862627f4462a24a43ea479c49d4",
+      "sha256": "170b1a37c94b638944b0d290b64c01ec5dc40cce66f290bff9bd1efbae84ce59"
     },
     {
       "skill_id": "skl_gwl5T01l_GKCGnAdMxCTeA",
@@ -360313,6 +360775,27 @@
       "sha256": "74d1cfd6a66f469d4b36a94804afd28c9cf959d1e7a722bf0599a8c9a884abf4"
     },
     {
+      "skill_id": "skl_mIPTGns-dgTLP_ky-bdETg",
+      "name": "error-code-0x801c03f2-windows-workplac-93909f59b90cba64",
+      "title": "error code 0x801c03f2 windows workplace join failed bug",
+      "description": "error code 0x801c03f2 windows workplace join failed bug",
+      "url": "https://vectle.com/skills/skl_mIPTGns-dgTLP_ky-bdETg",
+      "exact_version_url": "https://vectle.com/skills/skl_mIPTGns-dgTLP_ky-bdETg/versions/skv_aXY1EbvXmkCdcVCi3hJjZQ",
+      "version": "skv_aXY1EbvXmkCdcVCi3hJjZQ",
+      "version_sequence": "1",
+      "updated": "2026-11-21T01:54:16.06203+00:00",
+      "path": "skills/error-code-0x801c03f2-windows-workplac-93909f59b90cba64/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "65ea81613d1cb21a1da5ada8c5e9c4b3c18b7bdaead7daf2dfbfda848e73d106",
+      "public_input_digest": "291a6a0e3dcd992ee4a378430e9ce9b5b6afc0270ce367d64d2f88cec4b8657e",
+      "sha256": "e1cd99d7eded1d88b22bd1adfe049da89b934faf0a497ca4960cb726927aee06"
+    },
+    {
       "skill_id": "skl_mIwTzmZimtnLB7kxAKcBuQ",
       "name": "gitlab-ci-pipeline-stuck-in-pending-ru-30f4c82a25794bb5",
       "title": "GitLab CI pipeline stuck in pending: runner debugging",
@@ -377302,6 +377785,27 @@
       "sha256": "d685b2561bf41e951b27db863940d3493120aca42f2da963d98ad29f439186e3"
     },
     {
+      "skill_id": "skl_oqREA65CuTQDqD7w6PAQvg",
+      "name": "how-to-modify-an-opentable-reservation-e302c6d2b4b6867d",
+      "title": "how to modify an OpenTable reservation",
+      "description": "how to modify an OpenTable reservation",
+      "url": "https://vectle.com/skills/skl_oqREA65CuTQDqD7w6PAQvg",
+      "exact_version_url": "https://vectle.com/skills/skl_oqREA65CuTQDqD7w6PAQvg/versions/skv_UC8b9L5sR03DnVrJRs7VBg",
+      "version": "skv_UC8b9L5sR03DnVrJRs7VBg",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:32:19.393066+00:00",
+      "path": "skills/how-to-modify-an-opentable-reservation-e302c6d2b4b6867d/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "d310a4ea9ca9b09ed376c014e6f43025e5549476390901bca6c0c453da97920c",
+      "public_input_digest": "c8fc7aaf05cc0636cf247486f658895febfc691995d29911e3bda7cf17bcaa93",
+      "sha256": "149dab3e7f8539d398f00f89c6382d991adb996584556b54d57fd6b8ec9ebb02"
+    },
+    {
       "skill_id": "skl_oqSF05ziIDAiIK4co7qN8w",
       "name": "agent-scheduled-migration-ran-twice-do-ec84a1662d1637fa",
       "title": "agent scheduled migration ran twice: double-applied",
@@ -383642,6 +384146,27 @@
       "source_snapshot_digest": "4190b3f8510eafe385d57183954229603641a09f55ffc8cba3089f05d5ad42fb",
       "public_input_digest": "bccfdd0f9fbd0c7236050a7ddd398671942e42977c724fe2af5e34fe1490974c",
       "sha256": "7d7caee47c90772da221dcb02e4660657ae12702023654ad8cebad4322fe0ccb"
+    },
+    {
+      "skill_id": "skl_pojcllPWkhaP97vRJPsy1g",
+      "name": "how-to-cancel-a-hertz-rental-car-reser-163901d69cd50b1e",
+      "title": "how to cancel a Hertz rental car reservation",
+      "description": "how to cancel a Hertz rental car reservation",
+      "url": "https://vectle.com/skills/skl_pojcllPWkhaP97vRJPsy1g",
+      "exact_version_url": "https://vectle.com/skills/skl_pojcllPWkhaP97vRJPsy1g/versions/skv_yQJj7Yn20MeuecHG9laXkg",
+      "version": "skv_yQJj7Yn20MeuecHG9laXkg",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:25:09.555026+00:00",
+      "path": "skills/how-to-cancel-a-hertz-rental-car-reser-163901d69cd50b1e/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "f1df312ccfb363ee058dd51da7ef8fe9c167dd869a4a7dbb4484aa01ceb004ec",
+      "public_input_digest": "cb506161130942286779999624f8bb06d8052565d22a774631c6802c75ed7ac5",
+      "sha256": "b0d23bbc1b1ac5993ecfe871fe6fce10b1b15c4dc6ce86ff6be604f45880b6c3"
     },
     {
       "skill_id": "skl_powiF5hJZHn1j6mE4C9n7g",
@@ -391538,6 +392063,27 @@
       "source_snapshot_digest": "b467446f1d00fee8709a4e2510031bee7f11ff007e2225b07df8d0a90b45c53f",
       "public_input_digest": "24adecfc1d964f74eee3619cc883c2ceed1f0be40d0bb65635e2ee4be3e5ba96",
       "sha256": "72558d651c3ac5e5a34890e8e9a7589a4917f94069f7fca9fef4a8dee08a0878"
+    },
+    {
+      "skill_id": "skl_qszWdGzfScXV7AYDw1ug9Q",
+      "name": "how-to-get-same-day-reservations-on-op-80b69312fdbf7a86",
+      "title": "how to get same-day reservations on OpenTable",
+      "description": "how to get same-day reservations on OpenTable",
+      "url": "https://vectle.com/skills/skl_qszWdGzfScXV7AYDw1ug9Q",
+      "exact_version_url": "https://vectle.com/skills/skl_qszWdGzfScXV7AYDw1ug9Q/versions/skv_8ChRrZZnYLl_izbHxwnqCQ",
+      "version": "skv_8ChRrZZnYLl_izbHxwnqCQ",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:33:16.474584+00:00",
+      "path": "skills/how-to-get-same-day-reservations-on-op-80b69312fdbf7a86/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "6dc18812ad01230d738ecb65811215cae6b0aa6bd58b2a62f8c5b88c30d9721d",
+      "public_input_digest": "cb3064f065ad71a4ca437a1f39ec37de8ccec3fa3840a0f49df81a594259632d",
+      "sha256": "b7f0805a72008c0ea0aaed5a938d49da86e9d87b54080df305e878794352ded9"
     },
     {
       "skill_id": "skl_qtOzm0Vx3Xm5FQi0rbdQFw",
@@ -405946,6 +406492,27 @@
       "sha256": "e3b1e343f2dd46b7cbc383f1485a14beefecff3586c6be2a23254b15b1876912"
     },
     {
+      "skill_id": "skl_so-8RcsdJ8mQ-0ytStYI1g",
+      "name": "gemini-cli-error-failed-to-install-ext-85ea6d28bf6790a2",
+      "title": "gemini cli error failed to install extension github release asset not found fails",
+      "description": "gemini cli error failed to install extension github release asset not found fails",
+      "url": "https://vectle.com/skills/skl_so-8RcsdJ8mQ-0ytStYI1g",
+      "exact_version_url": "https://vectle.com/skills/skl_so-8RcsdJ8mQ-0ytStYI1g/versions/skv_33BusTzY0S0OQdgu0P6iWw",
+      "version": "skv_33BusTzY0S0OQdgu0P6iWw",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:53:38.752593+00:00",
+      "path": "skills/gemini-cli-error-failed-to-install-ext-85ea6d28bf6790a2/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "1ab2de9655b2eeee2f62e053926b4e4187e5a2fb2db4afac7a6f0fe19adc7149",
+      "public_input_digest": "844e0f56465a345b2a63eb307051876c2f8a9e228984209b36afffe94362a536",
+      "sha256": "c0507e13e84c8d70cb8d0b420bd8d606528bd3a923fea2458a2893250404b7f1"
+    },
+    {
       "skill_id": "skl_so9y5ltsfwBNcn3wX1iWGw",
       "name": "fix-streamlit-state-wiped-or-duplicate-62450b3b7550570a",
       "title": "Fix Streamlit state wiped or duplicated: session_state vs reruns, cache_data vs cache_resource, widget-key collisions",
@@ -418546,6 +419113,27 @@
       "sha256": "4d2403b0f0e35e0372530ab002294759718b42cada92c09abac5b4b132734789"
     },
     {
+      "skill_id": "skl_ufb2LHy0rXu64uZ4NXJAcg",
+      "name": "how-to-earn-and-use-opentable-dining-p-f4abf6c58d83c9c7",
+      "title": "how to earn and use OpenTable dining points",
+      "description": "how to earn and use OpenTable dining points",
+      "url": "https://vectle.com/skills/skl_ufb2LHy0rXu64uZ4NXJAcg",
+      "exact_version_url": "https://vectle.com/skills/skl_ufb2LHy0rXu64uZ4NXJAcg/versions/skv__CnNsrnh2BnzV_JbKOcPFQ",
+      "version": "skv__CnNsrnh2BnzV_JbKOcPFQ",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:28:32.018079+00:00",
+      "path": "skills/how-to-earn-and-use-opentable-dining-p-f4abf6c58d83c9c7/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "3172daf5f28af8592c0d0f62117930cc96e3088bb2852b9e57f0413e4cf09bd3",
+      "public_input_digest": "ae91ffe3af837985007c29049278b493ba7059a97b7988bd4bd9ee82b1c3c2fa",
+      "sha256": "e148cba64bc6b06c75f4c55db38b53c5e6ef4d4ad908d58ce455eaa430fdcd81"
+    },
+    {
       "skill_id": "skl_ug11SQcOZCB2kAZNZzqEZA",
       "name": "model-checkpoint-save-failed-with-oser-a23b51f0e9c5f4fe",
       "title": "model checkpoint save failed with OSError error 'No space left on device' during training run",
@@ -419678,6 +420266,27 @@
       "source_snapshot_digest": "ea092aaec68927f052f2d84a52c2d2079069cb7fd09df3b7c7ddcf876dacc15f",
       "public_input_digest": "06db756dc4404e650523d7e9947d5a872b8a35d8673a16284794b6e848d58b6a",
       "sha256": "74c2ec50a3a5494fed627ac330707a80416a70daf669143152e203aa6f40602d"
+    },
+    {
+      "skill_id": "skl_usumjO3_6QxZDR-i-VT38g",
+      "name": "how-to-cancel-an-opentable-reservation-5e891151b63720ac",
+      "title": "how to cancel an OpenTable reservation",
+      "description": "how to cancel an OpenTable reservation",
+      "url": "https://vectle.com/skills/skl_usumjO3_6QxZDR-i-VT38g",
+      "exact_version_url": "https://vectle.com/skills/skl_usumjO3_6QxZDR-i-VT38g/versions/skv_YtzvbLlw1wX7MrbimkXyOw",
+      "version": "skv_YtzvbLlw1wX7MrbimkXyOw",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:26:03.957248+00:00",
+      "path": "skills/how-to-cancel-an-opentable-reservation-5e891151b63720ac/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "25184ee54d6de1b3e89e6c63120b6ab83f8cdd82fcd51ba4ad035fe74eb6dae9",
+      "public_input_digest": "f01114f1dc0c9e8c5beea65e391f6d155d751a9b590a7a1016b76d0e0d44c78c",
+      "sha256": "bc24b2d1ae7e335f8087f0e4c2c2852ce0c24536446f1bae50115f771e550f49"
     },
     {
       "skill_id": "skl_utCPG6fbO9oyjNM7vMnpDQ",
@@ -422809,6 +423418,27 @@
       "sha256": "0f3016928678b1b9f3844697caf088e9b0b6f1036ada78057a06711e2e2d23bd"
     },
     {
+      "skill_id": "skl_vOnqWFWpJrSVjC_i34tHCQ",
+      "name": "how-to-cancel-spotify-premium-db2bd10884b4575e",
+      "title": "how to cancel Spotify Premium",
+      "description": "how to cancel Spotify Premium",
+      "url": "https://vectle.com/skills/skl_vOnqWFWpJrSVjC_i34tHCQ",
+      "exact_version_url": "https://vectle.com/skills/skl_vOnqWFWpJrSVjC_i34tHCQ/versions/skv_eesJxSN96GcHy34DUbiZcw",
+      "version": "skv_eesJxSN96GcHy34DUbiZcw",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:33:57.917041+00:00",
+      "path": "skills/how-to-cancel-spotify-premium-db2bd10884b4575e/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "2b980b151a98ab09e16889e2657a6fd97214a2c459378ef3c89c6af5d324f363",
+      "public_input_digest": "4948a05914fa38a16a2f030d77f5158f3640ac7485e0843ebeec9360ed9d5190",
+      "sha256": "c697f6561d795fe674a46f4d5c78e0c13727b5671808085324cc23fd41f5ba98"
+    },
+    {
       "skill_id": "skl_vP7njRmu7lZ3wpjCxhVIcw",
       "name": "possible-glibc-issue-on-x86-64-linux-s-d3816585be594bcd",
       "title": "Possible glibc issue on x86_64 linux systems",
@@ -424636,6 +425266,27 @@
       "sha256": "0be2e177bcbf227266d7a46c27c5c4fbf35896e796a23fc8987168c1edbfdea8"
     },
     {
+      "skill_id": "skl_vd_RMqoNygQixvSY3ODPqQ",
+      "name": "how-to-get-a-table-at-via-carota-new-y-6299e94b50262bb3",
+      "title": "how to get a table at Via Carota New York",
+      "description": "how to get a table at Via Carota New York",
+      "url": "https://vectle.com/skills/skl_vd_RMqoNygQixvSY3ODPqQ",
+      "exact_version_url": "https://vectle.com/skills/skl_vd_RMqoNygQixvSY3ODPqQ/versions/skv_rJEKj9reXYA0J5oIHpixjQ",
+      "version": "skv_rJEKj9reXYA0J5oIHpixjQ",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:26:33.259028+00:00",
+      "path": "skills/how-to-get-a-table-at-via-carota-new-y-6299e94b50262bb3/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "64690d0519caa65b1344dafcd8b793fd7faf04461d55de5042baf3c0307d4f06",
+      "public_input_digest": "693bb112539781dbb3eecc3ff53c9aeeaf02e85e3c14e64a4b3f93de940a4834",
+      "sha256": "1b1760185ea3fdc812a630fe31195d1ebdc47b22720b81fef50747aaab80a23e"
+    },
+    {
       "skill_id": "skl_vdihwAege-3ToSJ38JipDQ",
       "name": "r2-presigned-uploads-need-explicit-cor-0c55a7bd876cf56d",
       "title": "R2 presigned uploads need explicit CORS headers, not a wildcard",
@@ -426377,6 +427028,27 @@
       "source_snapshot_digest": "195bd5622189571544c1be7492b91b7759cc197c03778b3924787574feaba43e",
       "public_input_digest": "02ca30d13525cf159106f5def0458debf67d4b94053a986b642bf8d8b2f5cc87",
       "sha256": "d52332b20e767fb5d76d0123ecd7409015c79823b14df2ada95d3bad93658cf8"
+    },
+    {
+      "skill_id": "skl_vuV4ZShGPmpjXH2YChH1qg",
+      "name": "how-to-snag-a-cancelled-campsite-on-re-02242e5fe91dcccf",
+      "title": "how to snag a cancelled campsite on Recreation.gov",
+      "description": "how to snag a cancelled campsite on Recreation.gov",
+      "url": "https://vectle.com/skills/skl_vuV4ZShGPmpjXH2YChH1qg",
+      "exact_version_url": "https://vectle.com/skills/skl_vuV4ZShGPmpjXH2YChH1qg/versions/skv_ZXttY_3aegAO4cS8nS-G9Q",
+      "version": "skv_ZXttY_3aegAO4cS8nS-G9Q",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:34:24.499831+00:00",
+      "path": "skills/how-to-snag-a-cancelled-campsite-on-re-02242e5fe91dcccf/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "53dfafca4aef8a35ca1cf008cc7ebc38d571455ea52c93ac0720ba457423a732",
+      "public_input_digest": "4b1ff2680056cd84610bb7f1d3d8bb7d59c682827e40ec03b02455b60de230f5",
+      "sha256": "5ce392b8ae59995b723dae61adfd436dbd5f6cab76dfe5bd28103442d917b8a6"
     },
     {
       "skill_id": "skl_vut-xEr8RygHi_n6Eyhu2g",
@@ -444733,6 +445405,27 @@
       "sha256": "d4b1451f7d70e21a344f450bb83bdf27e5737c942a482dede6f8e29cce56edc2"
     },
     {
+      "skill_id": "skl_y_tPDb7Ytl9XQ9ITO_D_JA",
+      "name": "docusign-hmac-signature-mismatch-webho-a55911823ac9bec1",
+      "title": "docusign hmac signature mismatch webhook verification fails",
+      "description": "docusign hmac signature mismatch webhook verification fails",
+      "url": "https://vectle.com/skills/skl_y_tPDb7Ytl9XQ9ITO_D_JA",
+      "exact_version_url": "https://vectle.com/skills/skl_y_tPDb7Ytl9XQ9ITO_D_JA/versions/skv_xVmtPfDawxNChcgyJbDt9g",
+      "version": "skv_xVmtPfDawxNChcgyJbDt9g",
+      "version_sequence": "1",
+      "updated": "2026-11-21T01:52:58.732081+00:00",
+      "path": "skills/docusign-hmac-signature-mismatch-webho-a55911823ac9bec1/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "d988af8eb5590b5302300243f95c94a81d80bf201eee6fe38f89ca551a5b6ad5",
+      "public_input_digest": "72f0afad412d9e0b2acb6f6f9d6ce77284efacdc134ed38ae94de9d0b8052f11",
+      "sha256": "673a44d58cd1228865c9be2e6067c03ad6c4517dbe1ee2660d17c437ea33ca7b"
+    },
+    {
       "skill_id": "skl_ya8GR0uW9BetsA6wczAh6A",
       "name": "stigg-credits-and-tiered-pricing-the-c-07463fa3e7c80bb6",
       "title": "Stigg credits and tiered pricing: the common mistakes (volume vs graduated tiers)",
@@ -447883,6 +448576,27 @@
       "sha256": "19014aa10b8a8bc92958fad49b74da5a2d7f6db4ee338d5ef765467e81297c55"
     },
     {
+      "skill_id": "skl_yyn9FqbbKu-ZrnYidxl2gw",
+      "name": "how-do-sevenrooms-priority-alerts-work-000b8297e52d3691",
+      "title": "how do SevenRooms priority alerts work",
+      "description": "how do SevenRooms priority alerts work",
+      "url": "https://vectle.com/skills/skl_yyn9FqbbKu-ZrnYidxl2gw",
+      "exact_version_url": "https://vectle.com/skills/skl_yyn9FqbbKu-ZrnYidxl2gw/versions/skv_AwoCup4aeV5-BBE_nivmGw",
+      "version": "skv_AwoCup4aeV5-BBE_nivmGw",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:34:28.890044+00:00",
+      "path": "skills/how-do-sevenrooms-priority-alerts-work-000b8297e52d3691/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "c02206c036705e73d0b0cfad7fad86f890926651fcd686a55a5134a710b09836",
+      "public_input_digest": "a7d3821bcba56f5de40eaea1052cf73dac8319014c6710e8805df44b10ae8bf1",
+      "sha256": "4cd4e60c6c05df61305dae3737763334af540a8af795670da3a1a6ac249b065a"
+    },
+    {
       "skill_id": "skl_yywDNwbh-8Lc-UML52efew",
       "name": "how-to-fix-coupa-supplier-onboarding-e-09b3746242e7adb9",
       "title": "how to fix Coupa supplier onboarding error tax ID validation failed for new vendor fails error",
@@ -450989,6 +451703,27 @@
       "source_snapshot_digest": "04a4473d946b45472e1e015797764374644fee111784411a6c1c7009c1fb00ba",
       "public_input_digest": "69a31e90790eceb658452b7a5b5da8b973ed809400b5b0f818fdae9d5293836e",
       "sha256": "671501cfd934af4c40a271bb52a471ae13ac90a15f070a8c6cce2fe6e84473f5"
+    },
+    {
+      "skill_id": "skl_zP_rXEHUYRVsG1uv0Iq1uA",
+      "name": "how-do-opentable-experiences-work-3996b0e55947c5cd",
+      "title": "how do OpenTable Experiences work",
+      "description": "how do OpenTable Experiences work",
+      "url": "https://vectle.com/skills/skl_zP_rXEHUYRVsG1uv0Iq1uA",
+      "exact_version_url": "https://vectle.com/skills/skl_zP_rXEHUYRVsG1uv0Iq1uA/versions/skv_izvTFDjNwY4GBIi0rlqyMA",
+      "version": "skv_izvTFDjNwY4GBIi0rlqyMA",
+      "version_sequence": "1",
+      "updated": "2026-11-21T13:33:52.787969+00:00",
+      "path": "skills/how-do-opentable-experiences-work-3996b0e55947c5cd/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "d0883008c3fc69084eb36f6dcc2b721a358f462832c169a0e72b18b691caf2ba",
+      "public_input_digest": "e1e035bdfc78057ca30e804ce64a384fda5fb9b26f4b9cd2e48e816ee234027d",
+      "sha256": "7fc97ad6b0cf8e88e7f3f8b0f7de1d8a8f935a1819c396565444a5619eb9860b"
     },
     {
       "skill_id": "skl_zPzV3RdMikDGXLbPHfhC7A",
