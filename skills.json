@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "OGdoDSTKjCzSI7i6lUHtTQj2aqkRUuWe",
-    "generation": "221455",
-    "generated_at": "2026-11-21T15:38:46.42525+00:00",
-    "expires_at": "2026-11-21T21:38:46.425Z",
+    "snapshot_id": "Fi09gU_bR4EhbrkDBFaWzKxz3DarXTfv",
+    "generation": "221601",
+    "generated_at": "2026-11-22T15:37:05.994085+00:00",
+    "expires_at": "2026-11-22T21:37:05.994Z",
     "page_size": 250,
-    "expected_entry_count": 21719
+    "expected_entry_count": 21730
   },
-  "manifest_digest": "bd1eba3b2aa7d1e6b5c75d615b553d9cc8fd9bfb57289dfe6840d099e980b6c7",
+  "manifest_digest": "e58dea78d84bdb9fd92b3342248b6ab7316c4dba8644e2417f12292554137c10",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -109888,6 +109888,27 @@
       "sha256": "f216d9a9071c824a5f15c95b498f45aa028de501380cc6f0078e09850de7a5be"
     },
     {
+      "skill_id": "skl_EXY1pbIoIIKhpZ_DpK6t3w",
+      "name": "error-validating-token-missing-require-c8c4e553eda25f47",
+      "title": "error validating token -  missing required scope 'read:org' github fix",
+      "description": "error validating token -  missing required scope 'read:org' github fix",
+      "url": "https://vectle.com/skills/skl_EXY1pbIoIIKhpZ_DpK6t3w",
+      "exact_version_url": "https://vectle.com/skills/skl_EXY1pbIoIIKhpZ_DpK6t3w/versions/skv_SJ63ldkfL4_IdBdElLvR_g",
+      "version": "skv_SJ63ldkfL4_IdBdElLvR_g",
+      "version_sequence": "1",
+      "updated": "2026-11-22T01:56:18.778477+00:00",
+      "path": "skills/error-validating-token-missing-require-c8c4e553eda25f47/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "1ee3cc96d978012b9ecc57d213f655dba4dfa0c742e6aa7a7f91b304b347213d",
+      "public_input_digest": "d1a87612581bcb04a62e70eca9c0192a81def121809a1527c2630327b8634b08",
+      "sha256": "5354b64edb9ad08e6f594b732bb25b82362b52747fe184881b02688986236dee"
+    },
+    {
       "skill_id": "skl_EX_fz7jybraR3IQ1oPRLsg",
       "name": "gitlab-ci-you-cant-pass-artifacts-betw-eca526bccc7b8a9f",
       "title": "GitLab CI: you cant pass artifacts between unrelated pipelines, restructure instead",
@@ -112406,6 +112427,27 @@
       "source_snapshot_digest": "251f6a1576ea6d963ba4b895695b09a380fd392b69ec35e37fcf6f3da994e41b",
       "public_input_digest": "0bbba61a791fde30370086eb989cff1a287edf2ed8f0759e6a3361c66093b848",
       "sha256": "a7e69ecb9dfcb815dbdf27216292cdb81cd0d95e2bcee8a189ed6dd7799d5fac"
+    },
+    {
+      "skill_id": "skl_EqkXyQV7c0WqIciknE0Wrw",
+      "name": "how-to-cancel-a-disney-subscription-ab56b59ebc62c18e",
+      "title": "how to cancel a Disney+ subscription",
+      "description": "how to cancel a Disney+ subscription",
+      "url": "https://vectle.com/skills/skl_EqkXyQV7c0WqIciknE0Wrw",
+      "exact_version_url": "https://vectle.com/skills/skl_EqkXyQV7c0WqIciknE0Wrw/versions/skv_sltZgHuK-FFqqLpm9t6e_g",
+      "version": "skv_sltZgHuK-FFqqLpm9t6e_g",
+      "version_sequence": "1",
+      "updated": "2026-11-22T13:26:11.655789+00:00",
+      "path": "skills/how-to-cancel-a-disney-subscription-ab56b59ebc62c18e/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "db597a8b6d27cdd83e4eaa23f5a360e3432c14cd94ea0c8a206375eeea1b077f",
+      "public_input_digest": "17049cce9ced24733fa085606e121452ac198a9cd54ce2d4788ada84c7bac5ce",
+      "sha256": "eb7363e6c9ca8ad6f5aeb2a0e1426c83c2fc2743e0904a95ba9f4de285011758"
     },
     {
       "skill_id": "skl_ErFGCMyiPJtCVviOk--rHQ",
@@ -129038,6 +129080,27 @@
       "source_snapshot_digest": "2aa914dd4d1396f0a8162cec5f22a82e9e31e10ca7b087d4506e7cacb59bf792",
       "public_input_digest": "24d077cecba22d847a885b8c61c69b9e06edb8b4c4e91eeefe01eeb5c89978f8",
       "sha256": "fb344b0974c9d76af307931d9b0604b503275b3631b7f96cc1a589d62f645314"
+    },
+    {
+      "skill_id": "skl_H9YlcR-QcnE2dqt2tE9rRQ",
+      "name": "nih-era-commons-login-error-grant-appl-2f0a57947f7818c0",
+      "title": "NIH eRA Commons login error grant application status check fails",
+      "description": "NIH eRA Commons login error grant application status check fails",
+      "url": "https://vectle.com/skills/skl_H9YlcR-QcnE2dqt2tE9rRQ",
+      "exact_version_url": "https://vectle.com/skills/skl_H9YlcR-QcnE2dqt2tE9rRQ/versions/skv_4ll94RqhmlpjL2xWiKpCRA",
+      "version": "skv_4ll94RqhmlpjL2xWiKpCRA",
+      "version_sequence": "1",
+      "updated": "2026-11-22T01:57:03.085049+00:00",
+      "path": "skills/nih-era-commons-login-error-grant-appl-2f0a57947f7818c0/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "7d18426aa3ff8defadd4cd9224218cc68f2a7efd27b519a10373a0354ccc26ae",
+      "public_input_digest": "fd2e592298588d6473d58d9f390e8115a5e4e02c12595ee6b2339df7a5a5a35e",
+      "sha256": "d630e087abbf7f5b6ff436e894bc14aabf272c60e75b486be25dc5822ee8bd16"
     },
     {
       "skill_id": "skl_H9cidmWWWw4bVVnsiU9n4w",
@@ -180238,6 +180301,27 @@
       "sha256": "fd0e605521b24d5537370b14e7a86b603505c70c68961012514f588e1a70357f"
     },
     {
+      "skill_id": "skl_OD_7Z6W3cnA9ix7TzDDtVw",
+      "name": "dropbox-sign-test-mode-embedded-reques-ca958acf9defc041",
+      "title": "dropbox sign test mode embedded request stuck loading error fails",
+      "description": "dropbox sign test mode embedded request stuck loading error fails",
+      "url": "https://vectle.com/skills/skl_OD_7Z6W3cnA9ix7TzDDtVw",
+      "exact_version_url": "https://vectle.com/skills/skl_OD_7Z6W3cnA9ix7TzDDtVw/versions/skv_e0bnzbucMv1Mrn0cQpm1nA",
+      "version": "skv_e0bnzbucMv1Mrn0cQpm1nA",
+      "version_sequence": "1",
+      "updated": "2026-11-22T13:52:57.250035+00:00",
+      "path": "skills/dropbox-sign-test-mode-embedded-reques-ca958acf9defc041/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "215ccedb9d310ae6a756245189c5f71bf42a881a992414dcf2143dd9eb5e5f80",
+      "public_input_digest": "fd3ff228fbab3afc228feee6d65049ed3eb94b9fb226358b5c25502e97dbdf3b",
+      "sha256": "1ab846b0e5d16b4f3b6a708a932adb3fbfc35b1fd8d5bb465b6bc6eee56f8bf0"
+    },
+    {
       "skill_id": "skl_ODo9XZ7VOL8enRQkEefARA",
       "name": "feast-feature-server-error-500-failed-b04b98472c56d52c",
       "title": "feast feature server error 500 failed to retrieve online features",
@@ -226501,6 +226585,27 @@
       "sha256": "0610d5a9942ac30286dc07a7bf5f2fb30d514ef0543a4e1eac48dbce769f1d0f"
     },
     {
+      "skill_id": "skl_UX_kuTbFbJoc3tpYhWIG1Q",
+      "name": "github-actions-step-output-not-passed-be3de98bd99fd733",
+      "title": "github actions step output not passed error next job empty bug",
+      "description": "github actions step output not passed error next job empty bug",
+      "url": "https://vectle.com/skills/skl_UX_kuTbFbJoc3tpYhWIG1Q",
+      "exact_version_url": "https://vectle.com/skills/skl_UX_kuTbFbJoc3tpYhWIG1Q/versions/skv_BLGI-e6o8aWgJuSJDfflew",
+      "version": "skv_BLGI-e6o8aWgJuSJDfflew",
+      "version_sequence": "1",
+      "updated": "2026-11-22T01:55:51.599048+00:00",
+      "path": "skills/github-actions-step-output-not-passed-be3de98bd99fd733/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "8089ecacfe1deff72ee31e4c174a73783daab7e20cb21949897a3e611d67826b",
+      "public_input_digest": "36dd01920795d0ab4c0c333d91c52f658f81ea367e6eafdebcbdc82d193a73d8",
+      "sha256": "3a87d9bac597bb2d4ca195b4c28d9de1a7d2626ad671775d09453ef30778ddbd"
+    },
+    {
       "skill_id": "skl_UXfu_P4QyYkrOMBlrsJ3KA",
       "name": "jamf-connect-provisioning-login-failed-b4156730400d612e",
       "title": "Jamf Connect provisioning login failed \"failed to create local account, user short name already exists on Mac\"",
@@ -243089,6 +243194,27 @@
       "source_snapshot_digest": "4a6caba685e0565e168d0c7c8b3859fa792337b04cb12ccb033c169c8daf1bb4",
       "public_input_digest": "c48d9edc33716f6c9ac2469aa5e8dd7bca6ba0b7dcde75e16e96501601a8bf10",
       "sha256": "6e18f60872fcfcd58619fba3f1939c56ed89601351e1c06e28daf5ecd1762ca0"
+    },
+    {
+      "skill_id": "skl_WtJKxhDWRg6nplmUrtlvzg",
+      "name": "superhuman-triage-error-split-inbox-lo-130ce9a51f8503b9",
+      "title": "superhuman triage error split inbox loses emails not working",
+      "description": "superhuman triage error split inbox loses emails not working",
+      "url": "https://vectle.com/skills/skl_WtJKxhDWRg6nplmUrtlvzg",
+      "exact_version_url": "https://vectle.com/skills/skl_WtJKxhDWRg6nplmUrtlvzg/versions/skv_UGWIPWRkGSFYyTQPT2p3xw",
+      "version": "skv_UGWIPWRkGSFYyTQPT2p3xw",
+      "version_sequence": "1",
+      "updated": "2026-11-22T13:53:51.925072+00:00",
+      "path": "skills/superhuman-triage-error-split-inbox-lo-130ce9a51f8503b9/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "3e74efb0463142f63833ebd1cab00c4df7fd93b3091f4d564888f31a759431e2",
+      "public_input_digest": "b15fa2b8777dec8737bcc2ba4f63694e928d114da41c6933198fd250cca214a2",
+      "sha256": "387bdd98475f809c750c026eb89219f92d4d6042d0217ceb678e1fd74444df1c"
     },
     {
       "skill_id": "skl_WtPpHg3AziosHStz9mCUdg",
@@ -345760,6 +345886,27 @@
       "sha256": "a3ca3490acf2f24adc9fb9cd70415642fb5eac8b09aa49b5433b9bef64574538"
     },
     {
+      "skill_id": "skl_kBo93eeKZTTZOV-V__k4zw",
+      "name": "failed-to-execute-fetch-on-window-ille-023d4b7dd7f5d2c2",
+      "title": "failed to execute 'fetch' on 'window': illegal invocation how to fix",
+      "description": "failed to execute 'fetch' on 'window': illegal invocation how to fix",
+      "url": "https://vectle.com/skills/skl_kBo93eeKZTTZOV-V__k4zw",
+      "exact_version_url": "https://vectle.com/skills/skl_kBo93eeKZTTZOV-V__k4zw/versions/skv_g5R136Or8Yify0VI-VNGjw",
+      "version": "skv_g5R136Or8Yify0VI-VNGjw",
+      "version_sequence": "1",
+      "updated": "2026-11-22T13:53:24.767028+00:00",
+      "path": "skills/failed-to-execute-fetch-on-window-ille-023d4b7dd7f5d2c2/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "f3f51b4e3cc89211dc2010f1aa294ec39359234f3ae0366ff5dc2fc249f27af1",
+      "public_input_digest": "c5345899b6f24e4df01e32fc94c0c6c3476c83f798a3b3e45c810da2a8499a8c",
+      "sha256": "b970ee10213f90de27b8d5b03ad240e24c1f24501cf071bb876c50bb9a51d8f6"
+    },
+    {
       "skill_id": "skl_kC1Ymutao95tTkJ-Ugy9yQ",
       "name": "the-triage-agent-hallucinated-a-dkim-p-34972dfa7b45d37c",
       "title": "the triage agent hallucinated a dkim pass verdict on an unsigned message; the verification step failed",
@@ -359431,6 +359578,27 @@
       "sha256": "4219bed8b9a60bd21f6bee387e041d90f861e635608b94cbcc8b7486c0764515"
     },
     {
+      "skill_id": "skl_m4TtqN5tjpH5qSRLrs5rPg",
+      "name": "ipython-display-module-not-found-error-737879ea8ae6d0ea",
+      "title": "ipython display module not found error jupyter notebook fails",
+      "description": "ipython display module not found error jupyter notebook fails",
+      "url": "https://vectle.com/skills/skl_m4TtqN5tjpH5qSRLrs5rPg",
+      "exact_version_url": "https://vectle.com/skills/skl_m4TtqN5tjpH5qSRLrs5rPg/versions/skv_jkZyqS-BzmW8hq1p8b5aBQ",
+      "version": "skv_jkZyqS-BzmW8hq1p8b5aBQ",
+      "version_sequence": "1",
+      "updated": "2026-11-22T13:54:17.1491+00:00",
+      "path": "skills/ipython-display-module-not-found-error-737879ea8ae6d0ea/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "c1eac7247e649f9cf6e3f2e9bce61eb5a1876b0e2ae29914d8206f3940b1e3f5",
+      "public_input_digest": "5b9587829ebfe2fa355ee68225c4d2941c3ef5ad1911a82a66fed5794e5fbb70",
+      "sha256": "c8663452315c6a879ac73b12c8b9fc8f0b28eafaf654d68e0ae7e50c59894b01"
+    },
+    {
       "skill_id": "skl_m4iem9QxOw3AC_--fBqSug",
       "name": "dbt-microbatch-batch-window-error-61deda0bf9462744",
       "title": "dbt microbatch: batch window error",
@@ -367031,6 +367199,27 @@
       "source_snapshot_digest": "37d965bc98837a0dd41bf3d1c8b9842ca054ebef8301a67b917e043879ad7bd2",
       "public_input_digest": "69d62d214e77f0b448713a6cbe358208f5dc51759eda70c5954e43c453662e5f",
       "sha256": "6244acd62280a006e114600584e46bd62f0bae2b9b4f66a2186bd93c482f28cd"
+    },
+    {
+      "skill_id": "skl_nGU-IXGMyuroHLGZZOeqpQ",
+      "name": "could-not-read-workspace-metadata-from-7854843375c1fcaa",
+      "title": "could not read workspace metadata from gradle cache\" error build fails how to fix",
+      "description": "could not read workspace metadata from gradle cache\" error build fails how to fix",
+      "url": "https://vectle.com/skills/skl_nGU-IXGMyuroHLGZZOeqpQ",
+      "exact_version_url": "https://vectle.com/skills/skl_nGU-IXGMyuroHLGZZOeqpQ/versions/skv_pCAEP2DI-dMl1cnUYiRpNA",
+      "version": "skv_pCAEP2DI-dMl1cnUYiRpNA",
+      "version_sequence": "1",
+      "updated": "2026-11-22T01:56:36.887387+00:00",
+      "path": "skills/could-not-read-workspace-metadata-from-7854843375c1fcaa/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "2624d7f6aea3f7ed558d0257afbc4a21e10b708c2c8e492d749e966527ca7cc2",
+      "public_input_digest": "36e03f95f44de342629908bd58578e15d2f233a5d7a2d51088077f88ec1d89c2",
+      "sha256": "a8e394871d1bd8cba8beb899259033b93800c9db0173f277edd84e2c5a4eb9ad"
     },
     {
       "skill_id": "skl_nGhsnYNCLfseQDho9Pza4A",
@@ -378982,6 +379171,27 @@
       "sha256": "ef108279a8df4ef6142c41c28b0175405eb4652b1027b321a60053cf3edf944e"
     },
     {
+      "skill_id": "skl_p-vQfXXyYu6Vb_KZP6XIYQ",
+      "name": "postgis-geometry-invalid-error-st-isva-caf14eeeeda4bf2e",
+      "title": "PostGIS geometry invalid error ST_IsValid false query fails",
+      "description": "PostGIS geometry invalid error ST_IsValid false query fails",
+      "url": "https://vectle.com/skills/skl_p-vQfXXyYu6Vb_KZP6XIYQ",
+      "exact_version_url": "https://vectle.com/skills/skl_p-vQfXXyYu6Vb_KZP6XIYQ/versions/skv_QNR1dqzqQR4c4k_PSW0ecQ",
+      "version": "skv_QNR1dqzqQR4c4k_PSW0ecQ",
+      "version_sequence": "1",
+      "updated": "2026-11-22T01:54:13.603044+00:00",
+      "path": "skills/postgis-geometry-invalid-error-st-isva-caf14eeeeda4bf2e/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "2c007eee10fa58b04717c84e661e5673c2972daab9a7d0e08f602c172916c1ec",
+      "public_input_digest": "90e882b10c8b1c3522710e9156f46791e3f04efd2ef2340e78856677222da70d",
+      "sha256": "7ac0c1adc1d7f5a53822840ea58209264bb83a6536e6ea673575c3619c3e77b6"
+    },
+    {
       "skill_id": "skl_p00tBZg47iZ-7ZTIDrqyjQ",
       "name": "pinecone-python-async-client-asyncio-w-db13a56ac2c0c68c",
       "title": "Pinecone Python async client: asyncio without blocking the loop",
@@ -380891,6 +381101,27 @@
       "source_snapshot_digest": "2b61a4404c68150979ed6d1c2c9b0a03182ad58ca1019a1e031f05f00cc4689c",
       "public_input_digest": "8bc40df3c7099a913dbfd1dd32f5749abaf0e6930f761f0d505f4b01ca8bdb4b",
       "sha256": "c3ab45d3970138339b084ea0753f2522b7c03891845660f190f4dcdd7ceee9e8"
+    },
+    {
+      "skill_id": "skl_pHDnPWcYZAj8e3WBR12sIQ",
+      "name": "vitest-happy-dom-environment-fails-err-3017b5ba1091b3ed",
+      "title": "vitest happy-dom environment fails error ReferenceError: document is not defined",
+      "description": "vitest happy-dom environment fails error ReferenceError: document is not defined",
+      "url": "https://vectle.com/skills/skl_pHDnPWcYZAj8e3WBR12sIQ",
+      "exact_version_url": "https://vectle.com/skills/skl_pHDnPWcYZAj8e3WBR12sIQ/versions/skv_cjPdcrED6Ze54M3MdBXdbw",
+      "version": "skv_cjPdcrED6Ze54M3MdBXdbw",
+      "version_sequence": "1",
+      "updated": "2026-11-22T13:52:47.62821+00:00",
+      "path": "skills/vitest-happy-dom-environment-fails-err-3017b5ba1091b3ed/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "8747e1dff619788a66f2b59c2342601b34501d3b1f49efdcf4745d599227e960",
+      "public_input_digest": "69e49c66771924193aeb933f2ba17777bf3ce601121865f7407e8da78e579c39",
+      "sha256": "47ae5725b143e01830dd0223299a17fd93180d923e813e76078994d7d2be390a"
     },
     {
       "skill_id": "skl_pHJpuomLQsrllAwia6iGXg",
