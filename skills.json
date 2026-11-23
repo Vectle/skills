@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "Fi09gU_bR4EhbrkDBFaWzKxz3DarXTfv",
-    "generation": "221601",
-    "generated_at": "2026-11-22T15:37:05.994085+00:00",
-    "expires_at": "2026-11-22T21:37:05.994Z",
+    "snapshot_id": "M64AZ7l9Q5We5u85MNMm77zDplKijbLD",
+    "generation": "222021",
+    "generated_at": "2026-11-23T19:26:48.618842+00:00",
+    "expires_at": "2026-11-24T01:26:48.618Z",
     "page_size": 250,
-    "expected_entry_count": 21730
+    "expected_entry_count": 21764
   },
-  "manifest_digest": "e58dea78d84bdb9fd92b3342248b6ab7316c4dba8644e2417f12292554137c10",
+  "manifest_digest": "fb1f23be455c5847d9eb71b09db59d80a30c02112b09b8fb2c4f4bb2b94a5838",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -9655,6 +9655,27 @@
       "sha256": "3d8730e68e0b07ddcc178f82ca99dab6398f77967ca341fa0a1c04fdf961d794"
     },
     {
+      "skill_id": "skl_0UqSOzFUUQK1QJuTZVqwIg",
+      "name": "how-to-cancel-linkedin-premium-8d1ca72e3c43cddf",
+      "title": "how to cancel LinkedIn Premium",
+      "description": "how to cancel LinkedIn Premium",
+      "url": "https://vectle.com/skills/skl_0UqSOzFUUQK1QJuTZVqwIg",
+      "exact_version_url": "https://vectle.com/skills/skl_0UqSOzFUUQK1QJuTZVqwIg/versions/skv_-13xiMDigIV7JtAhqjmrXw",
+      "version": "skv_-13xiMDigIV7JtAhqjmrXw",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:28:11.843067+00:00",
+      "path": "skills/how-to-cancel-linkedin-premium-8d1ca72e3c43cddf/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "7ef5f2474ea55c8190ee8417def31281a55489105fe77adc278775a73576cea7",
+      "public_input_digest": "25dbd21071edbaff640cd37ab22bc46d2f2fbc235dd64df5500ec6692de75ef9",
+      "sha256": "469bc8b0b83b4a1c0ea6343a583f076744be57ed9cc57db7a0e6eda0312b13f8"
+    },
+    {
       "skill_id": "skl_0V0pgN_gTTa3UlTNL4Y-cA",
       "name": "razorpay-modal-close-never-detected-th-52b32d7151ea4ebb",
       "title": "Razorpay modal close never detected: the checkout is a sandboxed iframe",
@@ -16165,6 +16186,27 @@
       "sha256": "d70fc10b3539d03df4e3b277fcb6fd0e2b1f36db56b8edffb8d3d0992ad24be7"
     },
     {
+      "skill_id": "skl_1MerXca9lHjXz5bkBui6_A",
+      "name": "how-to-cancel-a-max-subscription-a1d9d2757c51f472",
+      "title": "how to cancel a Max subscription",
+      "description": "how to cancel a Max subscription",
+      "url": "https://vectle.com/skills/skl_1MerXca9lHjXz5bkBui6_A",
+      "exact_version_url": "https://vectle.com/skills/skl_1MerXca9lHjXz5bkBui6_A/versions/skv_eKlJO7WS0ucAxKu3frbbJA",
+      "version": "skv_eKlJO7WS0ucAxKu3frbbJA",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:23:52.15204+00:00",
+      "path": "skills/how-to-cancel-a-max-subscription-a1d9d2757c51f472/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "8c3a4b4bc79d03cd358cb4f24b58513787aae062b5e08e9bb7e1af15d210d984",
+      "public_input_digest": "f1b8baaf4cc24eb7ca09c3209b3963b1f4bcb4aa2cbad07d6a2143e0413543ca",
+      "sha256": "3d0dbfcf037899a07583bcfe76427ffb7f9baf44a00e1c27c581ba1bf2aef131"
+    },
+    {
       "skill_id": "skl_1MlECywXXZiKiZEGi3Lrag",
       "name": "infisical-cloudflare-app-connection-mi-10a1fdd891e4fbdc",
       "title": "Infisical Cloudflare app connection missed zones past the first 20",
@@ -20363,6 +20405,27 @@
       "source_snapshot_digest": "ad5d0430fc99afa1b52b0983e1590f0738cf26f5f7ca05052ed2787eebd9e541",
       "public_input_digest": "766bbc4629a1b13817c9192fee1572b8053e7572d9f1610dd5a43d084b010d6d",
       "sha256": "60557e028daa0d7ff47d807229fba1c2192da436b95410d180973e7ebdcb1857"
+    },
+    {
+      "skill_id": "skl_1sjKaX1LAyGVRQ3Yz2wGnQ",
+      "name": "modulenotfounderror-no-module-named-jw-579a2ece37937a2c",
+      "title": "modulenotfounderror: no module named 'jwt' error pyjwt not installed fails",
+      "description": "modulenotfounderror: no module named 'jwt' error pyjwt not installed fails",
+      "url": "https://vectle.com/skills/skl_1sjKaX1LAyGVRQ3Yz2wGnQ",
+      "exact_version_url": "https://vectle.com/skills/skl_1sjKaX1LAyGVRQ3Yz2wGnQ/versions/skv_K8Wz_7D-xeqpOX31VT2jyA",
+      "version": "skv_K8Wz_7D-xeqpOX31VT2jyA",
+      "version_sequence": "1",
+      "updated": "2026-11-23T01:53:51.67103+00:00",
+      "path": "skills/modulenotfounderror-no-module-named-jw-579a2ece37937a2c/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "badab7af711c91698ada2edfa8b5928fa0661abdb84176a96db65be96bbb9f2c",
+      "public_input_digest": "dbe072ab163b17f50e70d63ec93cbba17dde248e475bd2df80e03eae5dd38a2e",
+      "sha256": "f90b7b3f60860eb9fd5cdae551bf74f71d2b0efc150c3f5a8cc832341f0995ae"
     },
     {
       "skill_id": "skl_1soJ4DrzOu-u-b4kpKEpww",
@@ -30464,6 +30527,27 @@
       "source_snapshot_digest": "dcf1812140e1dbe2b6842f5bb8a3bb260953a72595a3f5e7f788a5b738fd5ba7",
       "public_input_digest": "eafeaec4f7ca5567dc6c21e460805a90a6de51c4cfb10d68b30f7d7f0cd1b866",
       "sha256": "f037264cc385d808920883facac89dd35a474f77e99ddce9883aece682523b8e"
+    },
+    {
+      "skill_id": "skl_3HBDhZkaE8he-lS7s9zMHQ",
+      "name": "when-do-texas-state-park-campsites-ope-da40a0e23fe05019",
+      "title": "when do Texas state park campsites open for booking",
+      "description": "when do Texas state park campsites open for booking",
+      "url": "https://vectle.com/skills/skl_3HBDhZkaE8he-lS7s9zMHQ",
+      "exact_version_url": "https://vectle.com/skills/skl_3HBDhZkaE8he-lS7s9zMHQ/versions/skv_leP_NtJIq-TudlpXhWfL3g",
+      "version": "skv_leP_NtJIq-TudlpXhWfL3g",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:28:22.595503+00:00",
+      "path": "skills/when-do-texas-state-park-campsites-ope-da40a0e23fe05019/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "c67d492e6e7809ecefa5ae65c91489d196304708c4deb1743aae3ebc87ad5768",
+      "public_input_digest": "f0b909684308647af14a3f2087641cb3798d9c4e93cf6f48bbf9a78d0ced3f44",
+      "sha256": "193ddcce1c2311a72059bc0d94d9369ae4f3e97de49fecc6a8646937cdd188df"
     },
     {
       "skill_id": "skl_3HECwlV8X-grKQ0dXeEY1w",
@@ -46907,6 +46991,27 @@
       "source_snapshot_digest": "32d118874582226f82d82fd660b25a5b688c5e1de6e9aa03c8ade07b589e3f90",
       "public_input_digest": "8d9099899a8ec548fccfc197ac1d0e0436875668d330c9094da2c66462480fe9",
       "sha256": "69ca426526e95deaba9fae5cedf8db2896dbb3538fbe55a660c9d9301586f47a"
+    },
+    {
+      "skill_id": "skl_5Zmce2eMxCXkyGlNA4wDzg",
+      "name": "jest-error-worker-process-has-quit-une-a1ea9190c2b6093a",
+      "title": "jest error worker process has quit unexpectedly fails bug",
+      "description": "jest error worker process has quit unexpectedly fails bug",
+      "url": "https://vectle.com/skills/skl_5Zmce2eMxCXkyGlNA4wDzg",
+      "exact_version_url": "https://vectle.com/skills/skl_5Zmce2eMxCXkyGlNA4wDzg/versions/skv_Qg8jbmOlaFf8Z4hZ3pdcTA",
+      "version": "skv_Qg8jbmOlaFf8Z4hZ3pdcTA",
+      "version_sequence": "1",
+      "updated": "2026-11-23T01:53:30.510814+00:00",
+      "path": "skills/jest-error-worker-process-has-quit-une-a1ea9190c2b6093a/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "9186c70852898c4170985b0e9e6586b80f9a5b3c51134a0b53ba36ed0ad4cc43",
+      "public_input_digest": "d32f760892191a562df54042165e321ce9e4141b0414cb08955753ce1b9cfda0",
+      "sha256": "f9ba860eca1c79f5fbf40c78f4f5baf714d395d6bb7868862f91fdb53c596e09"
     },
     {
       "skill_id": "skl_5Zx-_B-BTqBUL_E6eBWAXQ",
@@ -66922,6 +67027,27 @@
       "sha256": "c92dde66fd5872d540ba5df9bcb589c98444d238e00fd7efac020c7425e49f6b"
     },
     {
+      "skill_id": "skl_8aJCmiptRKyekwr57vzF6g",
+      "name": "cursor-mcp-spawn-npx-enoent-error-serv-b9a49131492abd8f",
+      "title": "cursor mcp spawn npx enoent error server failed to start",
+      "description": "cursor mcp spawn npx enoent error server failed to start",
+      "url": "https://vectle.com/skills/skl_8aJCmiptRKyekwr57vzF6g",
+      "exact_version_url": "https://vectle.com/skills/skl_8aJCmiptRKyekwr57vzF6g/versions/skv_G0zjFI6Ja4hs8oEJ1OYGpg",
+      "version": "skv_G0zjFI6Ja4hs8oEJ1OYGpg",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:53:59.752048+00:00",
+      "path": "skills/cursor-mcp-spawn-npx-enoent-error-serv-b9a49131492abd8f/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "9cff0ecf0dd877a832a71b90b6a18fd1980dffcbead327faa39318424b90e7ca",
+      "public_input_digest": "48806d89ffb52104fad712e0ad9a2ee66c5447a141d2584513abf4b669714589",
+      "sha256": "57627191e1b906098db1dfdef46342de37b168fc98a369073c2b28afbfadbd4f"
+    },
+    {
       "skill_id": "skl_8aQz85qK9DXgHKobOUW_Cg",
       "name": "lattice-announcement-error-policy-post-b8543b1947e181de",
       "title": "Lattice announcement error policy post scheduled but never published",
@@ -81202,6 +81328,27 @@
       "sha256": "352abe13b9b58f7f4116dd01cf1fe002d09e90ef9edb24cefb0d6ed7a142807c"
     },
     {
+      "skill_id": "skl_AdJvOWReMcGOkSy_RWsEAA",
+      "name": "when-do-california-state-park-campsite-45531c1122091f2b",
+      "title": "when do California state park campsites open for booking",
+      "description": "when do California state park campsites open for booking",
+      "url": "https://vectle.com/skills/skl_AdJvOWReMcGOkSy_RWsEAA",
+      "exact_version_url": "https://vectle.com/skills/skl_AdJvOWReMcGOkSy_RWsEAA/versions/skv_-OmKRNOxXb-rZYkqHJEwwg",
+      "version": "skv_-OmKRNOxXb-rZYkqHJEwwg",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:23:26.759036+00:00",
+      "path": "skills/when-do-california-state-park-campsite-45531c1122091f2b/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "8faa5e99f534f3f0706c1dfe0da07cecfbd5a034658bce467adb27ff6412aa82",
+      "public_input_digest": "2130de844e235a3dbd011e669ef40be7e35d808401f19f97fdc0c06a341b8d0f",
+      "sha256": "6aae074f6ec62f90fa37c1087d6a0bffd54f77455ff6eb7e8ea32477f10f5c5b"
+    },
+    {
       "skill_id": "skl_AdsPepVdOoXI-Le2T6dRjQ",
       "name": "browsercat-testing-your-host-needs-exp-9ae59d265294167a",
       "title": "BrowserCat: testing YOUR_HOST needs exposeNetwork set to [loopback]",
@@ -82817,6 +82964,27 @@
       "source_snapshot_digest": "e16d91c75c233ed09a0be4a9738741faf9ebb0c66d6a9540795354c94ff43adb",
       "public_input_digest": "1c9dcf3fdc93fffa02f8220e992e48f023d211b653594d0b32b80de67e1820a5",
       "sha256": "42a32359f3022ad487263e7f0527be531166c0531bcd7c1af7b9049a9dbdadbf"
+    },
+    {
+      "skill_id": "skl_ArCcXFK5FhMN4NMujKNBVQ",
+      "name": "cannot-import-name-escape-from-jinja2-f2ba390539abb6cc",
+      "title": "cannot import name 'escape' from 'jinja2'\" error flask app fails how to fix",
+      "description": "cannot import name 'escape' from 'jinja2'\" error flask app fails how to fix",
+      "url": "https://vectle.com/skills/skl_ArCcXFK5FhMN4NMujKNBVQ",
+      "exact_version_url": "https://vectle.com/skills/skl_ArCcXFK5FhMN4NMujKNBVQ/versions/skv_1AVMp9IFVtwtgv95WkJ2mg",
+      "version": "skv_1AVMp9IFVtwtgv95WkJ2mg",
+      "version_sequence": "1",
+      "updated": "2026-11-23T01:53:40.948879+00:00",
+      "path": "skills/cannot-import-name-escape-from-jinja2-f2ba390539abb6cc/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "b819444d1504733f6e1b3fcd6453e74ebd70a0f5080fef2e588eace9affafcf9",
+      "public_input_digest": "588a734f46cfd975718d6d81b100d02bcd160fbfc860298c161e21d277605102",
+      "sha256": "c8cf3c6349a7916e38622d9917ab2b23bcfff237c62ab1aab66e6f95d43f9464"
     },
     {
       "skill_id": "skl_ArERc_p-kUPdygcC_ukGsQ",
@@ -86555,6 +86723,27 @@
       "source_snapshot_digest": "42d3718cb8ced9e5c430367b948ca17224512e82e1d297745bac6f6a78ec988d",
       "public_input_digest": "ea4d3332ba7f9930626413367e7aa2d2e1d0b329d9316989c716afe7b6a522cd",
       "sha256": "6e30919fdcc9614a695182f74cad2a9153f9838e52596caff9bdd8636deaa9fc"
+    },
+    {
+      "skill_id": "skl_BP-72jtXWGkh5Ufx7FmHwQ",
+      "name": "how-to-get-a-reservation-at-n-naka-los-17804875e545f7be",
+      "title": "how to get a reservation at n/naka Los Angeles",
+      "description": "how to get a reservation at n/naka Los Angeles",
+      "url": "https://vectle.com/skills/skl_BP-72jtXWGkh5Ufx7FmHwQ",
+      "exact_version_url": "https://vectle.com/skills/skl_BP-72jtXWGkh5Ufx7FmHwQ/versions/skv_rLjMAFGyhzbhdvwy2V8JlA",
+      "version": "skv_rLjMAFGyhzbhdvwy2V8JlA",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:27:25.02075+00:00",
+      "path": "skills/how-to-get-a-reservation-at-n-naka-los-17804875e545f7be/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "8e5ef0bf0dcbcc488ddb7cdb6e4ab80a47d3de78a235c46c49abdf71dd69341e",
+      "public_input_digest": "b9148607078c155887ce69693e453c4188396aed4de4c3203d97c255aeffc94f",
+      "sha256": "a5b50c785b23baa7f8eaa33aa2da8000b54d04329c0da0039d4133ba033ea54c"
     },
     {
       "skill_id": "skl_BP47E8lNuMlMPrHxVnkz0Q",
@@ -91513,6 +91702,27 @@
       "sha256": "b3f9e8f6c70e42bd6b792a863c6b78ed6786fac305a562bb8237a7f70d7427eb"
     },
     {
+      "skill_id": "skl_C5iSXvG0elPuTNclVLBx-Q",
+      "name": "how-to-book-a-campsite-at-pfeiffer-big-2aff7ebba09ba99a",
+      "title": "how to book a campsite at Pfeiffer Big Sur State Park",
+      "description": "how to book a campsite at Pfeiffer Big Sur State Park",
+      "url": "https://vectle.com/skills/skl_C5iSXvG0elPuTNclVLBx-Q",
+      "exact_version_url": "https://vectle.com/skills/skl_C5iSXvG0elPuTNclVLBx-Q/versions/skv_YhrFRnKLEcFd2d25CpB3iQ",
+      "version": "skv_YhrFRnKLEcFd2d25CpB3iQ",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:24:23.479146+00:00",
+      "path": "skills/how-to-book-a-campsite-at-pfeiffer-big-2aff7ebba09ba99a/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "93ee43e4b11d164834ac189d1992a668e7c23eef362f31b13357865bb22711f0",
+      "public_input_digest": "111d30f774d38ac727198a0813f36f850c29e06352402ac6c725b3b0cf62a344",
+      "sha256": "9510d04d1aa9ae075eed17f575fb22b5ceb71f7a9890aebb4f92ef2fee1203e2"
+    },
+    {
       "skill_id": "skl_C5l6c-1Qu6vDRCgz2kvyNw",
       "name": "kubernetes-rbac-review-failed-clusterr-a43805c57d9a79f5",
       "title": "Kubernetes RBAC review failed: clusterrolebinding audit error permission denied fix",
@@ -93361,6 +93571,27 @@
       "sha256": "097d041e11fb567b85ab8809f36fc62efcad2682a1688b76066d3f34c426097d"
     },
     {
+      "skill_id": "skl_CMI1o40GXaoSpLtGGcEWRg",
+      "name": "how-to-cancel-a-microsoft-365-subscrip-931ff2e20624fa91",
+      "title": "how to cancel a Microsoft 365 subscription",
+      "description": "how to cancel a Microsoft 365 subscription",
+      "url": "https://vectle.com/skills/skl_CMI1o40GXaoSpLtGGcEWRg",
+      "exact_version_url": "https://vectle.com/skills/skl_CMI1o40GXaoSpLtGGcEWRg/versions/skv_phkTH0cDWkwdqVPMykWEnw",
+      "version": "skv_phkTH0cDWkwdqVPMykWEnw",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:27:20.078209+00:00",
+      "path": "skills/how-to-cancel-a-microsoft-365-subscrip-931ff2e20624fa91/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "ebe4e45ac06070b542eb39aacf172020234edb1c459405a43e942349203a1456",
+      "public_input_digest": "3c88bb63639878cf4fdf4bc38b3a39492765deeaef58f8c2b519afd91f708fd1",
+      "sha256": "8b6db98c0fb01db2674f1d3e2ce6ccf0a0a2cf9f659612c1373222ff2685a45f"
+    },
+    {
       "skill_id": "skl_CMSFc4Et5OHknpPLyDn4kw",
       "name": "nuclei-update-templates-fails-with-fai-47ef0427ed57e81c",
       "title": "nuclei \"-update-templates\" fails with \"failed to download template archive\"",
@@ -94600,6 +94831,27 @@
       "sha256": "5ab1475417db98de77db3a915112a07c9e29f52ea41f52ef08eac5c0e20cd1fb"
     },
     {
+      "skill_id": "skl_CYBnsDj5jtZhvWuSQiPcww",
+      "name": "how-to-book-a-campsite-at-assateague-s-ded235ec2545ae7c",
+      "title": "how to book a campsite at Assateague State Park",
+      "description": "how to book a campsite at Assateague State Park",
+      "url": "https://vectle.com/skills/skl_CYBnsDj5jtZhvWuSQiPcww",
+      "exact_version_url": "https://vectle.com/skills/skl_CYBnsDj5jtZhvWuSQiPcww/versions/skv_GNGG6xAF7KOe4ribwTRejQ",
+      "version": "skv_GNGG6xAF7KOe4ribwTRejQ",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:26:34.009696+00:00",
+      "path": "skills/how-to-book-a-campsite-at-assateague-s-ded235ec2545ae7c/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "c798a640f212b11a39e397bce3dd592e298b8e5adb365cc7024b7a4c5716f7a2",
+      "public_input_digest": "8156a663b44bbbe541cd847c46cfd4680c15682ca243d5cdb76057f7db7b4345",
+      "sha256": "9cd7a3587eb6ac7d92b32d3e6099030121645687902d19509ac4db5838776821"
+    },
+    {
       "skill_id": "skl_CYyDCx70X5aPGuNjSPCFSA",
       "name": "how-to-fix-knowledge-base-gap-error-re-9b74af2de662bea2",
       "title": "how to fix knowledge base gap error repeated ticket question has no article at all fails error",
@@ -94703,6 +94955,27 @@
       "source_snapshot_digest": "bdc52da466c7bf9f99c6ffb1328015fe3d1c0056e4d31bbde539b93f93e7f01c",
       "public_input_digest": "dc0b9fc6fcac08ca49a327fb8d49664a917da0358353329e4a6707b9741795fa",
       "sha256": "c00e58c941523ebf0b5578025eb95844a5070a169514794f3816212971afa59e"
+    },
+    {
+      "skill_id": "skl_CZiwtNcdH83K6_LduFkQkw",
+      "name": "how-to-cancel-a-tock-reservation-and-g-219a3a0eb76a2253",
+      "title": "how to cancel a Tock reservation and get a refund",
+      "description": "how to cancel a Tock reservation and get a refund",
+      "url": "https://vectle.com/skills/skl_CZiwtNcdH83K6_LduFkQkw",
+      "exact_version_url": "https://vectle.com/skills/skl_CZiwtNcdH83K6_LduFkQkw/versions/skv_F4oPf_8w5CPPcLqW9TB52A",
+      "version": "skv_F4oPf_8w5CPPcLqW9TB52A",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:28:28.914033+00:00",
+      "path": "skills/how-to-cancel-a-tock-reservation-and-g-219a3a0eb76a2253/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "b32b0dc58a3f5a419ec415baeb19b18e4356e50fb7c587aa8a48d82fd089d282",
+      "public_input_digest": "56faf8a313208266ecc09392a2f19e37c942f0cb5c82e10d3cfc999f6503b028",
+      "sha256": "228885e32db5b44fdf90f5280f08766c063b5dff6bc2903ed61deb0971a37001"
     },
     {
       "skill_id": "skl_CZjxQXtRBWThc1GjbA_nSQ",
@@ -135403,6 +135676,27 @@
       "sha256": "b01e7ab0cb526293003400b3d46ec8fa51540b4763afb0b5f81692531253a4cd"
     },
     {
+      "skill_id": "skl_I09n5uov7poInvUD2IuK8g",
+      "name": "how-to-get-sevenrooms-priority-access-b20cf21dcadf52bd",
+      "title": "how to get SevenRooms priority access",
+      "description": "how to get SevenRooms priority access",
+      "url": "https://vectle.com/skills/skl_I09n5uov7poInvUD2IuK8g",
+      "exact_version_url": "https://vectle.com/skills/skl_I09n5uov7poInvUD2IuK8g/versions/skv_Q_rzN_JtpMnPTG9VvP4alw",
+      "version": "skv_Q_rzN_JtpMnPTG9VvP4alw",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:26:53.826252+00:00",
+      "path": "skills/how-to-get-sevenrooms-priority-access-b20cf21dcadf52bd/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "90a4828630444762ba201f9cb810221e5cac4e760d6c8521b84ec369dabc5db6",
+      "public_input_digest": "1adb306da67816fb27830dd4fdc0fd461332bf5f17fbf504aa273d7812ca68e4",
+      "sha256": "ae010788576601bfb0e289936d1f2e1ad8cc24ce1f59b3c30cf23477f5ae1afb"
+    },
+    {
       "skill_id": "skl_I0BCVollhj2fC4PfFtUjXg",
       "name": "anomaly-detector-fires-on-every-schedu-789ed4636f149991",
       "title": "anomaly detector fires on every scheduled batch job window and misses real incidents failure",
@@ -139960,6 +140254,27 @@
       "sha256": "883e29a42b7194768ee570b9941d617751e0572cb73435fe03e6b361a29bbcb8"
     },
     {
+      "skill_id": "skl_I_qEjbYvz-RI2VJXQszGZw",
+      "name": "error-while-loading-shared-libraries-l-141cb9c02e6d310a",
+      "title": "error while loading shared libraries: libcudart.so.12: cannot open shared object file: no such file or directory",
+      "description": "error while loading shared libraries: libcudart.so.12: cannot open shared object file: no such file or directory",
+      "url": "https://vectle.com/skills/skl_I_qEjbYvz-RI2VJXQszGZw",
+      "exact_version_url": "https://vectle.com/skills/skl_I_qEjbYvz-RI2VJXQszGZw/versions/skv_QrxcMnL_18XOTUhqBtjwLw",
+      "version": "skv_QrxcMnL_18XOTUhqBtjwLw",
+      "version_sequence": "1",
+      "updated": "2026-11-23T01:54:01.461564+00:00",
+      "path": "skills/error-while-loading-shared-libraries-l-141cb9c02e6d310a/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "43d31a7032b96099d9309c30cd0b168994a181d4bdccdd8ddc7210acccf37601",
+      "public_input_digest": "9d38e1d1d3528e5c67042415761525eb712e17a2d7998bbc1391b12b55d21ccf",
+      "sha256": "c7ebadab47ef3cacc67985bba22b6e7e95a1cf243c70d151067d86f7e15d7b1d"
+    },
+    {
       "skill_id": "skl_Ia2V2rCW7G53fYBqFz4_qQ",
       "name": "label-studio-import-failed-with-error-1bd2502429c0233d",
       "title": "Label Studio import failed with error \"Tasks failed to load: malformed JSON\"",
@@ -142436,6 +142751,27 @@
       "source_snapshot_digest": "08a8189e0007737fa6c637f2ef610af2496e8658b132a7542d35516d95988202",
       "public_input_digest": "59b0f6a26316654f32d926415a00e8e76db3cf8355eed29e9f3a1fb71bb8b7b8",
       "sha256": "5601ab806a3d0d540d5388105a2dd549aaab21263397aa47a88e1834f65115ca"
+    },
+    {
+      "skill_id": "skl_IuQbalEdTcPoJwM18QfWnA",
+      "name": "how-to-get-a-table-through-sevenrooms-1549c662d1f0933a",
+      "title": "how to get a table through SevenRooms",
+      "description": "how to get a table through SevenRooms",
+      "url": "https://vectle.com/skills/skl_IuQbalEdTcPoJwM18QfWnA",
+      "exact_version_url": "https://vectle.com/skills/skl_IuQbalEdTcPoJwM18QfWnA/versions/skv_ASc8ederOYF8Qiq0aO2HdA",
+      "version": "skv_ASc8ederOYF8Qiq0aO2HdA",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:24:44.278541+00:00",
+      "path": "skills/how-to-get-a-table-through-sevenrooms-1549c662d1f0933a/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "7fba8d46db1275a78fd726567d26f5c3f6f730b267d4c68f6e92ccbeeee35899",
+      "public_input_digest": "1e2289749f56343cf9e7b45cb16f91ebed11f017972cb6acc4575050414ccad8",
+      "sha256": "019a75b96d34f82c537e3822598f9197adcfde21f33867d586d0beb1d424d16f"
     },
     {
       "skill_id": "skl_IukgyaZ2bS93ZYSEtC4F8g",
@@ -150479,6 +150815,27 @@
       "source_snapshot_digest": "8bf7541cf188292229d0fe41fda6d2bb0d7034a781792954e1bf8c06c4dd05b1",
       "public_input_digest": "cf810320045d520dfa5751f921e21e0b94be6289d76ed647e4e03b2dcc567484",
       "sha256": "3319e9069c8c0ffdda23c73011e2f232b3cb6f35d5f0c52c5eb2595554b61aa1"
+    },
+    {
+      "skill_id": "skl_K2jCUcvJ7WMtVcvIadX-rw",
+      "name": "mcp-server-requests-excessive-permissi-aa0c4cb3bf0152c0",
+      "title": "MCP server requests excessive permissions error vetting missed scope fails",
+      "description": "MCP server requests excessive permissions error vetting missed scope fails",
+      "url": "https://vectle.com/skills/skl_K2jCUcvJ7WMtVcvIadX-rw",
+      "exact_version_url": "https://vectle.com/skills/skl_K2jCUcvJ7WMtVcvIadX-rw/versions/skv_9bPtz0wLvo0qn_Vf3Sz_Og",
+      "version": "skv_9bPtz0wLvo0qn_Vf3Sz_Og",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:54:26.64014+00:00",
+      "path": "skills/mcp-server-requests-excessive-permissi-aa0c4cb3bf0152c0/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "ac05a230ebc6a6cba9a1dc47a05931a87cb53f539bf7d93c99ea6b1d2c3b7e18",
+      "public_input_digest": "0302181c526e84fd31c64e978ebd2eae231c905183b8a7662725ae8e70380936",
+      "sha256": "28111fd9d5f4c33554eb084ecca3e6f084639651ac565214ebeea0d770dbfcea"
     },
     {
       "skill_id": "skl_K2pFI9L8iPMWk1LP-VlMhg",
@@ -168140,6 +168497,27 @@
       "source_snapshot_digest": "3139f97401bb16ef0231e0fb361b230d2495625c15bf2ad052ada5695811b4c4",
       "public_input_digest": "ab9dca205c87d79036328d0dae6d99cdd9442e495967a21a9073aca7006ff87e",
       "sha256": "b3b28dc4c5c1f7903b8150072d18702c0b62dd3cbeb1b3fbdf83fd9ba9c651d0"
+    },
+    {
+      "skill_id": "skl_MWegdAhI3xSxHJzThydl2Q",
+      "name": "meal-planner-nutrition-totals-wrong-re-f8eb0fd50282b034",
+      "title": "meal planner nutrition totals wrong: recipe ingredient parse error fix",
+      "description": "meal planner nutrition totals wrong: recipe ingredient parse error fix",
+      "url": "https://vectle.com/skills/skl_MWegdAhI3xSxHJzThydl2Q",
+      "exact_version_url": "https://vectle.com/skills/skl_MWegdAhI3xSxHJzThydl2Q/versions/skv_4KJzLV-tHB4OZ6Xzn0yUuQ",
+      "version": "skv_4KJzLV-tHB4OZ6Xzn0yUuQ",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:54:34.782035+00:00",
+      "path": "skills/meal-planner-nutrition-totals-wrong-re-f8eb0fd50282b034/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "d76f82990650d45b1955be4729825f7ef1b5689881a3709a8333d537f3784f82",
+      "public_input_digest": "03d3e6e7d4ae928ac0ced5fe7d45a3978e5068169c63323cfbc11bdbf1f6b140",
+      "sha256": "e0d9056af8e99bda744c494e616764fa800d601a6fd902af538f254cb4f6f5e4"
     },
     {
       "skill_id": "skl_MWhmnsCk7yhRTqJ1mnKVNA",
@@ -208399,6 +208777,27 @@
       "sha256": "eb10c620ef6f4e53333a6b9e8c65074c22c1332942d722e307dffb11a86be45e"
     },
     {
+      "skill_id": "skl_S5hAzbLLUeKkCjAVSJQkLQ",
+      "name": "how-to-cancel-audible-membership-and-k-560f502941d5eecd",
+      "title": "how to cancel Audible membership and keep your credits",
+      "description": "how to cancel Audible membership and keep your credits",
+      "url": "https://vectle.com/skills/skl_S5hAzbLLUeKkCjAVSJQkLQ",
+      "exact_version_url": "https://vectle.com/skills/skl_S5hAzbLLUeKkCjAVSJQkLQ/versions/skv_yaD6u9oeUCtk5H8K9SjVWA",
+      "version": "skv_yaD6u9oeUCtk5H8K9SjVWA",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:25:05.324028+00:00",
+      "path": "skills/how-to-cancel-audible-membership-and-k-560f502941d5eecd/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "ede1f51dceecf39fe34177cdc1af7bef412c124be422110af4572e5c57e5138f",
+      "public_input_digest": "6d671b5aef1745d267238ebb0ddb6c5baed901e8a1521a8a5af67153a9fc1f42",
+      "sha256": "8a54208212d12adfe0ca5c696387a1f5492fd8b833e8d4a3793aa5af124e9456"
+    },
+    {
       "skill_id": "skl_S5mpOa1de0sivWWspTpKBw",
       "name": "deferred-file-content-leaks-secrets-in-c1f3114c611674ab",
       "title": "Deferred file content leaks secrets into puppet agent output",
@@ -242314,6 +242713,27 @@
       "sha256": "d6b9c37317e416f6a93b64557d477b5732287b7d00d3b563d410fdee33003e4f"
     },
     {
+      "skill_id": "skl_WlPnsk7QY2uIiuO-JZt4Qg",
+      "name": "how-to-cancel-adobe-creative-cloud-wit-45c4b790529cb489",
+      "title": "how to cancel Adobe Creative Cloud without the early termination fee",
+      "description": "how to cancel Adobe Creative Cloud without the early termination fee",
+      "url": "https://vectle.com/skills/skl_WlPnsk7QY2uIiuO-JZt4Qg",
+      "exact_version_url": "https://vectle.com/skills/skl_WlPnsk7QY2uIiuO-JZt4Qg/versions/skv_yHLyuEUii1-HCsTV4SJ0QA",
+      "version": "skv_yHLyuEUii1-HCsTV4SJ0QA",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:25:52.226763+00:00",
+      "path": "skills/how-to-cancel-adobe-creative-cloud-wit-45c4b790529cb489/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "cbc4f103a9dfdc1cab63770863a036e1a5eb585e1a85d9c5a6e4333055fcbcc3",
+      "public_input_digest": "6e1061bb5790563270e04a0485d451187d4d0c25e668e58d68f7bb1970be4940",
+      "sha256": "1a5252c7a55548fbfb5bed68671e1a28ee3ba7271828833f51e916f6ed434d51"
+    },
+    {
       "skill_id": "skl_Wld9uCsz7f8J4jjDXps83w",
       "name": "expensify-report-can-t-be-submitted-al-3a6378c7908d5512",
       "title": "Expensify: report can't be submitted  -  all approvers inactive",
@@ -245042,6 +245462,27 @@
       "source_snapshot_digest": "55277afae99889674bd4b24905184ce56343b476d6c3e6b0ce908f8f669e9a20",
       "public_input_digest": "9c575dfb8eeff82b9153277d6f441077942d213e03400ef152548318cdfb67aa",
       "sha256": "e7765184692ee0feea8fc6de44bf8f40e7a186131eabba5a56eb8ce098be5df1"
+    },
+    {
+      "skill_id": "skl_X7o4UYMiwWK1tyNf2jMOPg",
+      "name": "how-to-get-a-campsite-at-devil-s-lake-2ccec1f57c7d9032",
+      "title": "how to get a campsite at Devil's Lake State Park Wisconsin",
+      "description": "how to get a campsite at Devil's Lake State Park Wisconsin",
+      "url": "https://vectle.com/skills/skl_X7o4UYMiwWK1tyNf2jMOPg",
+      "exact_version_url": "https://vectle.com/skills/skl_X7o4UYMiwWK1tyNf2jMOPg/versions/skv_6cpX0iN9Rct5xZOJHYWtTQ",
+      "version": "skv_6cpX0iN9Rct5xZOJHYWtTQ",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:27:30.374739+00:00",
+      "path": "skills/how-to-get-a-campsite-at-devil-s-lake-2ccec1f57c7d9032/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "cf997e5577570eddd44cb9723bee0b65d4877576e2008c6552fe349d8ab244f2",
+      "public_input_digest": "ab91622c0287891845f28fa1d64b1f7d307544eaf72b3ef117b7bbe391ffc192",
+      "sha256": "1616b4985ff031465b47efb105fdd0f426260f51ba7d96bf1b98b14da8f252aa"
     },
     {
       "skill_id": "skl_X7vJTuUtdQ_HrOhgwlGYow",
@@ -280513,6 +280954,27 @@
       "sha256": "ab81eaea381a07a917c4bee3efe2aa8e13d55466380f248d0b9583c838a0bd71"
     },
     {
+      "skill_id": "skl_b8orMYMaUTaxCrqfaa_gSQ",
+      "name": "how-to-cancel-youtube-premium-0436d62e1bd72bbe",
+      "title": "how to cancel YouTube Premium",
+      "description": "how to cancel YouTube Premium",
+      "url": "https://vectle.com/skills/skl_b8orMYMaUTaxCrqfaa_gSQ",
+      "exact_version_url": "https://vectle.com/skills/skl_b8orMYMaUTaxCrqfaa_gSQ/versions/skv_uZo1Zs0hTmoVepZhwO82wQ",
+      "version": "skv_uZo1Zs0hTmoVepZhwO82wQ",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:22:43.14097+00:00",
+      "path": "skills/how-to-cancel-youtube-premium-0436d62e1bd72bbe/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "18fb4be24b4ad6cbbc48465ec216ad90f054419f3f0c9395e22a63b65cbe669c",
+      "public_input_digest": "1afd20ed33040a07aaac074a76fefea963f63304ac73f78f3dbc5778009cfaf5",
+      "sha256": "6b33dc34d5a5edfeba2933e0f1b616fa0b3368ff618df238ff48afef9fb579a9"
+    },
+    {
       "skill_id": "skl_b8zvVceRIsr0qcAQRG5kTA",
       "name": "agent-s-redline-summary-said-47-change-f31c033587cccb98",
       "title": "agent's redline summary said \"47 changes\" but 46 were smart-quote replacements from the other side's Word auto-correct",
@@ -297292,6 +297754,27 @@
       "sha256": "179ac12a01c68f334164b603dc5f8175547a7cc35a12f6228bc9f505ddb23c29"
     },
     {
+      "skill_id": "skl_dRSHUgowc29mncuToHArQw",
+      "name": "unsigned-upload-preset-disabled-error-b301d355b23ff9b9",
+      "title": "unsigned upload preset disabled error cloudinary rejects file fails",
+      "description": "unsigned upload preset disabled error cloudinary rejects file fails",
+      "url": "https://vectle.com/skills/skl_dRSHUgowc29mncuToHArQw",
+      "exact_version_url": "https://vectle.com/skills/skl_dRSHUgowc29mncuToHArQw/versions/skv_sO9PO42eBluqNXx96RXGhg",
+      "version": "skv_sO9PO42eBluqNXx96RXGhg",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:55:00.319756+00:00",
+      "path": "skills/unsigned-upload-preset-disabled-error-b301d355b23ff9b9/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "416e9fd50020ebd749bbd8f2927407a1c5da4c8ae91ebbe93de9458f115c7a3a",
+      "public_input_digest": "f72678e0989e502700bbf1730705e82d7489a321885230103fabdd4aabc29940",
+      "sha256": "7db7805c98404fefdbeb39b2f8b0ed968cf0943916795df8ae042b21b7aa193f"
+    },
+    {
       "skill_id": "skl_dRcwO1I-MylhXmT8d_pj-A",
       "name": "culture-amp-conversation-error-one-on-387740b20d39a8b4",
       "title": "Culture Amp conversation error one on one record missing after org change",
@@ -297605,6 +298088,27 @@
       "source_snapshot_digest": "6fd8502e8a75bc7227db274417ada667f3ba54a2d3060079983f833b238d44a6",
       "public_input_digest": "7693b98758afa4eb560843dfadf1270c4ddbd678a63498953b7870e66b6204d1",
       "sha256": "0ee5cdf010d3c6d8886cac2ba8361cdf38b5f5edbf38da709c5e66a91c07dacc"
+    },
+    {
+      "skill_id": "skl_dU-cExe6gSv188Mi8rQ4Bg",
+      "name": "how-to-book-a-table-at-providence-los-d4d3938aa1dbd4f9",
+      "title": "how to book a table at Providence Los Angeles",
+      "description": "how to book a table at Providence Los Angeles",
+      "url": "https://vectle.com/skills/skl_dU-cExe6gSv188Mi8rQ4Bg",
+      "exact_version_url": "https://vectle.com/skills/skl_dU-cExe6gSv188Mi8rQ4Bg/versions/skv_idKzLUYtP_4zQgi1jBU_rw",
+      "version": "skv_idKzLUYtP_4zQgi1jBU_rw",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:28:16.118183+00:00",
+      "path": "skills/how-to-book-a-table-at-providence-los-d4d3938aa1dbd4f9/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "0ca1ab6f47a94a92f18b0f687e2179966f71927f16bd0a108928a312490380e0",
+      "public_input_digest": "e210991f9860a08213dd0a27d14d91086f112fcf13442214d159576a8d706734",
+      "sha256": "5ba9dc4eb578501c667db7c4da227692d5b0cf086ce1aea342fe4242ca7abc60"
     },
     {
       "skill_id": "skl_dU7mvgnyh7O9u-_IR8dtng",
@@ -299033,6 +299537,27 @@
       "source_snapshot_digest": "af22cba6599c93549ed9211505de1bfa796731873102776bf30f3935cff47c27",
       "public_input_digest": "523e8c21773948fa872dec8d2ce8bfcd60d774eeaa5fa554dc7844aca1610633",
       "sha256": "7bec47a41c79ec1e343dd465105096fde18cc0ef442200175ad8d82197f244d4"
+    },
+    {
+      "skill_id": "skl_dfXeREr69c8gW_xnQ6E-DQ",
+      "name": "https-www-linkedin-com-checkpoint-chal-be7ba7d34f553c4f",
+      "title": "https www linkedin com checkpoint challenge verify redirect loop error login fails",
+      "description": "https www linkedin com checkpoint challenge verify redirect loop error login fails",
+      "url": "https://vectle.com/skills/skl_dfXeREr69c8gW_xnQ6E-DQ",
+      "exact_version_url": "https://vectle.com/skills/skl_dfXeREr69c8gW_xnQ6E-DQ/versions/skv_pIjJ7f5Ahz4MkJCvAbCEzA",
+      "version": "skv_pIjJ7f5Ahz4MkJCvAbCEzA",
+      "version_sequence": "1",
+      "updated": "2026-11-23T01:54:11.387398+00:00",
+      "path": "skills/https-www-linkedin-com-checkpoint-chal-be7ba7d34f553c4f/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "45c4336f598610524fb03ac64c21cd6669f9a9e04e86376ad2a493edf8a1a225",
+      "public_input_digest": "a790c6bb567b3be85a1db6d0b2fa2415be7a68a0a3214b45be5d7a9295e9a92f",
+      "sha256": "ab91eae2f67ae9c39794bfd3ba4e038f306d64d523bdd4117acb98c36b82e62f"
     },
     {
       "skill_id": "skl_dgSwoAuWECd1BqSDYVB8tQ",
@@ -311843,6 +312368,27 @@
       "source_snapshot_digest": "a8d5c1ce4d9cc93196568b0bc7f9963772756740aa045b359990ff1de7e58cd3",
       "public_input_digest": "c1fe035777a428f38a522339b27a201d0b105cc4eead6a7d2d2cd9cbd7b8c848",
       "sha256": "6817c4448e85186f4d4d435f4fa09381b7899d066b370a6715c4fb3667d67c64"
+    },
+    {
+      "skill_id": "skl_fV3_vGVMqynL9DfOyfrvNQ",
+      "name": "how-to-join-a-sevenrooms-waitlist-e27d13013a2679c6",
+      "title": "how to join a SevenRooms waitlist",
+      "description": "how to join a SevenRooms waitlist",
+      "url": "https://vectle.com/skills/skl_fV3_vGVMqynL9DfOyfrvNQ",
+      "exact_version_url": "https://vectle.com/skills/skl_fV3_vGVMqynL9DfOyfrvNQ/versions/skv_GVSZ1wfx2YNFkSpWOjAUuw",
+      "version": "skv_GVSZ1wfx2YNFkSpWOjAUuw",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:23:47.923166+00:00",
+      "path": "skills/how-to-join-a-sevenrooms-waitlist-e27d13013a2679c6/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "a02bdcb4c540e093c66e5a763dd7c682996490a469f55c48c0ba1970541ea360",
+      "public_input_digest": "b1df20e9dfffc707230654ebdb55f6f7f6dbd663e3bd606cd5b8d66856a1f277",
+      "sha256": "3db4d2b6c3a1c68663b247b25760a68060f64114801b83747ace185e2c70dada"
     },
     {
       "skill_id": "skl_fV47J-0hiBjjIMmW0hRsiw",
@@ -337946,6 +338492,27 @@
       "source_snapshot_digest": "1c29d93c0612f524a026c1c25d8f1fc680a569646680cc508346800fe6054eca",
       "public_input_digest": "9d2d22b5cdfcf3cc2412dc62e723b0d44b89368542bd32c528cf833b42ada17f",
       "sha256": "595ed1deda41c22b2076a352a3cab2937f92f3a59e1756d54edaec79f0e6d9ae"
+    },
+    {
+      "skill_id": "skl_j2g5MkKPULCs3wF4_OyAQA",
+      "name": "cochrane-library-search-export-fails-w-83890e143164bc05",
+      "title": "Cochrane Library search export fails with empty results error: how to fix",
+      "description": "Cochrane Library search export fails with empty results error: how to fix",
+      "url": "https://vectle.com/skills/skl_j2g5MkKPULCs3wF4_OyAQA",
+      "exact_version_url": "https://vectle.com/skills/skl_j2g5MkKPULCs3wF4_OyAQA/versions/skv_xnHoxK_kMYENrSho36umDw",
+      "version": "skv_xnHoxK_kMYENrSho36umDw",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:53:33.432623+00:00",
+      "path": "skills/cochrane-library-search-export-fails-w-83890e143164bc05/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "dd2f9b05dc37cfa024149c1134b5d5229d69841b753bab2729ef33a06d1f4b35",
+      "public_input_digest": "96f8b2b0e384cf4c37d457328967f618bf15bdf1be615dc9597b2b4e5b07c652",
+      "sha256": "dd639c08ab9d6680d19c9e55dfa5152e8e9b2666de7d8ef8f591386dde5a0106"
     },
     {
       "skill_id": "skl_j32k1KVWXiGvRpknkNONHA",
@@ -367117,6 +367684,27 @@
       "sha256": "4159652707be1dff4fb5bdd28d37b5e4d92046240019a22927e6390f5d892b40"
     },
     {
+      "skill_id": "skl_nF4cg9IKvTyIbNDBkyvVgw",
+      "name": "how-to-book-the-grill-new-york-652d3ab3e46a9d09",
+      "title": "how to book The Grill New York",
+      "description": "how to book The Grill New York",
+      "url": "https://vectle.com/skills/skl_nF4cg9IKvTyIbNDBkyvVgw",
+      "exact_version_url": "https://vectle.com/skills/skl_nF4cg9IKvTyIbNDBkyvVgw/versions/skv_7JEmeJxVFcknhnbzRS9PjA",
+      "version": "skv_7JEmeJxVFcknhnbzRS9PjA",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:26:13.305212+00:00",
+      "path": "skills/how-to-book-the-grill-new-york-652d3ab3e46a9d09/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "b3631728baf77f4358ecb2d365f49a2808d94e0d37aa3ba662fbae845f13d478",
+      "public_input_digest": "8d33575dc47c617645eb9b6bb231e110e300512dd0ff3b33496018abaaef9e05",
+      "sha256": "52368ded454cb7dc850152660286ecd07d7c8251cfa385b1267f6289dbe04ddf"
+    },
+    {
       "skill_id": "skl_nFRfbQj7qqX91ehiUWBRvw",
       "name": "agent-stuck-loop-detected-repeating-th-613a1c6abfee6b7f",
       "title": "agent stuck loop detected repeating the same step while trying to map questionnaire answers to the risk framework...",
@@ -393262,6 +393850,27 @@
       "sha256": "5eb00552823bdaefcc8e4dec1732af2fdb5199b4cd7a6f8c929580d129015eeb"
     },
     {
+      "skill_id": "skl_r0rpxrl_JbZUQf3_IXFV3A",
+      "name": "how-do-tock-reservations-work-7c9bfe63775dd9c6",
+      "title": "how do Tock reservations work",
+      "description": "how do Tock reservations work",
+      "url": "https://vectle.com/skills/skl_r0rpxrl_JbZUQf3_IXFV3A",
+      "exact_version_url": "https://vectle.com/skills/skl_r0rpxrl_JbZUQf3_IXFV3A/versions/skv_kxWArzGlvThd7Eedp1wg1A",
+      "version": "skv_kxWArzGlvThd7Eedp1wg1A",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:27:51.16903+00:00",
+      "path": "skills/how-do-tock-reservations-work-7c9bfe63775dd9c6/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "3729842d1d4e5fba09c30ff5e0f4b7e59801fd78da87c4e4f68fc5d742ff974d",
+      "public_input_digest": "bbc678ddc42fca5a7988144cf12e4e9c4ea9e97ee12e34520859958ae31aab12",
+      "sha256": "9b43d04b52519fd7d983d409dbbc96325a12056a045ff39d894b7ef23bac88af"
+    },
+    {
       "skill_id": "skl_r0xDgABv3soR1gt9kVCv3A",
       "name": "experiment-tags-disappear-after-run-is-882d043c13c29af5",
       "title": "experiment tags disappear after run is resumed from checkpoint failure",
@@ -400948,6 +401557,27 @@
       "sha256": "2c84043e4e0372eb1b3a0676542f8f91b71461bcb8e504a9a49e298e9f9d7813"
     },
     {
+      "skill_id": "skl_s34bOoqP6gArF-dLZqBSzw",
+      "name": "how-to-cancel-a-sevenrooms-reservation-f34eaf43efe82de6",
+      "title": "how to cancel a SevenRooms reservation",
+      "description": "how to cancel a SevenRooms reservation",
+      "url": "https://vectle.com/skills/skl_s34bOoqP6gArF-dLZqBSzw",
+      "exact_version_url": "https://vectle.com/skills/skl_s34bOoqP6gArF-dLZqBSzw/versions/skv_uvDwMcxsSJb6EuIcJo5tiw",
+      "version": "skv_uvDwMcxsSJb6EuIcJo5tiw",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:25:47.356723+00:00",
+      "path": "skills/how-to-cancel-a-sevenrooms-reservation-f34eaf43efe82de6/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "d5eb9222feb7c14f7f948accbdca46c434bb93ded7af29ce324a4ba93de0ade0",
+      "public_input_digest": "c30746d77cd77fad2e114d12a78b3e2b836d4da527ab3c3070ff9d415cc2f89f",
+      "sha256": "e4f5517be1602b34bdf953f4ac466767d9c88315dac2b1cd1bea8c9fdd76b847"
+    },
+    {
       "skill_id": "skl_s37-0-EuDUKK-cCebBhWGw",
       "name": "agent-timed-out-when-agent-tried-to-re-c7254b81435c7dc3",
       "title": "agent timed out when agent tried to refresh a meeting brief after a reschedule error timeout failure",
@@ -405148,6 +405778,27 @@
       "sha256": "3cccab69c58725c97d34bfcf9027d7b1796a7c1a3fc6475b738e5b8dbb5d7b77"
     },
     {
+      "skill_id": "skl_saMdX_wbyEPIIPuW8llqrw",
+      "name": "when-do-florida-state-park-campsites-o-e724d4fb5eea755c",
+      "title": "when do Florida state park campsites open for booking",
+      "description": "when do Florida state park campsites open for booking",
+      "url": "https://vectle.com/skills/skl_saMdX_wbyEPIIPuW8llqrw",
+      "exact_version_url": "https://vectle.com/skills/skl_saMdX_wbyEPIIPuW8llqrw/versions/skv_j3Hc7Tq38ejX77-e8ZD88w",
+      "version": "skv_j3Hc7Tq38ejX77-e8ZD88w",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:25:26.811705+00:00",
+      "path": "skills/when-do-florida-state-park-campsites-o-e724d4fb5eea755c/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "5abcc3cd679969e6636c14858a3c09bf0951a82dac68363e9a17ed4fa2b12484",
+      "public_input_digest": "29eec225094bc128b98550af7855b98aac93a41d91de08e701e327e67279174d",
+      "sha256": "554119d5e7835d46020f631f4a0547498097c45ecc3bb90622717069e32a1854"
+    },
+    {
       "skill_id": "skl_saRA7nABvq2DeEM0gEcgeQ",
       "name": "retrieve-all-entries-in-milvus-vector-08ed251e22dbbcde",
       "title": "Retrieve All Entries in Milvus Vector Database Just for Viewing?",
@@ -409346,6 +409997,27 @@
       "source_snapshot_digest": "dad3e5906ff1fb6ab79f325e1039ea60e19a1ed77147cfd99b95b6b79ae80ed4",
       "public_input_digest": "91d95f8ebc697496faef13660f682730f4ad242f2052837bc7904195dea954cd",
       "sha256": "4eb4ff6297bc34450e4d3e7542441d9a92e24e3e79c8db19a4ab3498888af151"
+    },
+    {
+      "skill_id": "skl_t9901antzk6jNgK8QJAl4A",
+      "name": "how-to-book-a-table-at-minetta-tavern-cec559930ee8fe9b",
+      "title": "how to book a table at Minetta Tavern New York",
+      "description": "how to book a table at Minetta Tavern New York",
+      "url": "https://vectle.com/skills/skl_t9901antzk6jNgK8QJAl4A",
+      "exact_version_url": "https://vectle.com/skills/skl_t9901antzk6jNgK8QJAl4A/versions/skv__xrqtvDJjs5h2v03NK6heQ",
+      "version": "skv__xrqtvDJjs5h2v03NK6heQ",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:23:59.569454+00:00",
+      "path": "skills/how-to-book-a-table-at-minetta-tavern-cec559930ee8fe9b/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "c74eba76f521ecd8b35c6497a0c848e808b506e3ab17adb3b5a5985687e613ad",
+      "public_input_digest": "c7136bf5c8d859f4c1e397d8464ab33082e16d4965069acc38090be8d0cea613",
+      "sha256": "8d6d636095feb3851ed5f5861824169d14b7d38dc97e2430a01eb71bbcd64886"
     },
     {
       "skill_id": "skl_t9QJ0tJkVC5vKTbLzfeNGw",
@@ -421822,6 +422494,27 @@
       "sha256": "56f3019edfe6694859b6274b2ddb29b3670d0dae34a070c95f12c77c21637992"
     },
     {
+      "skill_id": "skl_v4wTEgLitZivnz83E8kRhA",
+      "name": "how-to-cancel-a-canva-pro-subscription-e1b4b81a47895ce2",
+      "title": "how to cancel a Canva Pro subscription",
+      "description": "how to cancel a Canva Pro subscription",
+      "url": "https://vectle.com/skills/skl_v4wTEgLitZivnz83E8kRhA",
+      "exact_version_url": "https://vectle.com/skills/skl_v4wTEgLitZivnz83E8kRhA/versions/skv_urAEscnNzB_FnNYnPjFbgA",
+      "version": "skv_urAEscnNzB_FnNYnPjFbgA",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:28:35.155029+00:00",
+      "path": "skills/how-to-cancel-a-canva-pro-subscription-e1b4b81a47895ce2/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "324318bcf21cb7653b278ba5c717811dbf599b15d2624a591b1087e3a811c244",
+      "public_input_digest": "58bef43e4229c0c516c755f1f9ed0010c98d169979057147b8c5cfef63093d51",
+      "sha256": "a04c81b80765736494b93c33cc3914f4bb97b0ddaad123568ec95dbafd512b01"
+    },
+    {
       "skill_id": "skl_v5SNgiBMqiVKQPdy3R8YUw",
       "name": "typesense-request-too-large-on-bulk-im-fcf4ccb8b677f3fc",
       "title": "typesense 'request too large' on bulk import: how to chunk it",
@@ -431942,6 +432635,27 @@
       "source_snapshot_digest": "6745eb11d7d0bce9c542b83ab781baf43060a6ee85d2fc8d7447f0ddb3cc4706",
       "public_input_digest": "24f3b82f9496cb869f5e170ff93ea87088aa23e1ae93335642f21136d952050c",
       "sha256": "0d3e7a4c61e4c18e66ff4aafadfd9d321ab360a623e0d53ee1450228aa1b3eee"
+    },
+    {
+      "skill_id": "skl_wbAeBYTGCnECJq32ko19bg",
+      "name": "how-to-get-a-reservation-at-l-artusi-n-fc07fb2d8a14b6ef",
+      "title": "how to get a reservation at L'Artusi New York",
+      "description": "how to get a reservation at L'Artusi New York",
+      "url": "https://vectle.com/skills/skl_wbAeBYTGCnECJq32ko19bg",
+      "exact_version_url": "https://vectle.com/skills/skl_wbAeBYTGCnECJq32ko19bg/versions/skv_UvloOcnuSIEjUgPaLZWpBQ",
+      "version": "skv_UvloOcnuSIEjUgPaLZWpBQ",
+      "version_sequence": "1",
+      "updated": "2026-11-23T13:23:05.097032+00:00",
+      "path": "skills/how-to-get-a-reservation-at-l-artusi-n-fc07fb2d8a14b6ef/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "f3e494c61bc4c2ad93eea967f9313182fdbae750a53fa2349f3cfbeae197aab1",
+      "public_input_digest": "465743ada4b9224d37e85b57d122bba692f0b707039aebd7645e4316d532d455",
+      "sha256": "f59170165d7affbe66c34547e2a452fd93e3eb84b2ab45d41f78ca181f11fb86"
     },
     {
       "skill_id": "skl_wbAiDpDGN_VIDKFO9zlCzQ",
