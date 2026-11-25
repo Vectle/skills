@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "bzes1O4_V3NSnyEA77sRx4oyqlJJhCPP",
-    "generation": "222366",
-    "generated_at": "2026-11-24T19:03:20.221183+00:00",
-    "expires_at": "2026-11-25T01:03:20.221Z",
+    "snapshot_id": "bJ-r3Noj45_LfTY29TC-wiMp4udWRSoU",
+    "generation": "222685",
+    "generated_at": "2026-11-25T18:09:00.28809+00:00",
+    "expires_at": "2026-11-26T00:09:00.288Z",
     "page_size": 250,
-    "expected_entry_count": 21792
+    "expected_entry_count": 21818
   },
-  "manifest_digest": "82a6b2c7636965c187fdcc317386558fce8382a86554ffdb7f6f681c7699b0b7",
+  "manifest_digest": "83a95ffad53ea85acac6f518571654d69559a96d3d9b753de5e1ed38245dd8bd",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -9191,6 +9191,27 @@
       "source_snapshot_digest": "28fb36735d25a4a98ef1f4b4bd1aa4131458d04408374f0459581f7f73ea8bd9",
       "public_input_digest": "81d0d2d15acc9263fc5a44095adcf8f697c521ae8e5ca75680baa547cb9adedd",
       "sha256": "8656fd47512f39ecb4b5ae66637b80dfb3d7c5444b08f56ae055476a3ebaf377"
+    },
+    {
+      "skill_id": "skl_0NvHomxcXY-4veJ9WPzroQ",
+      "name": "importerror-no-module-named-crypto-cip-4b0834957e547877",
+      "title": "importerror: no module named crypto.cipher not working",
+      "description": "importerror: no module named crypto.cipher not working",
+      "url": "https://vectle.com/skills/skl_0NvHomxcXY-4veJ9WPzroQ",
+      "exact_version_url": "https://vectle.com/skills/skl_0NvHomxcXY-4veJ9WPzroQ/versions/skv_pfIpt0dvdbVbHD1Uf4DhTA",
+      "version": "skv_pfIpt0dvdbVbHD1Uf4DhTA",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:53:02.497759+00:00",
+      "path": "skills/importerror-no-module-named-crypto-cip-4b0834957e547877/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "540b6046dbed7168bbe205e9aa052d1d8a3f74f4008d7608860fbcc376687af6",
+      "public_input_digest": "0f0425dae2bec022d1cdd76de830c394bf7a7588c09a46f5c2a162bb480552a5",
+      "sha256": "11c85e7afec2a6dfbd6038ccf2dffe1ea624f898c9958ce2ebc57ce67eede38c"
     },
     {
       "skill_id": "skl_0OCUNr146iYo8hZYGn0R4Q",
@@ -24038,6 +24059,27 @@
       "source_snapshot_digest": "c8675848dd42fb4514d2b009c5ad42390f310222918d5d9ef950539e064df064",
       "public_input_digest": "52024b33270d520657c4fa9d943e4f737fac92a03d92dbb167cff2c116303a65",
       "sha256": "1223a5358b79ea6802669c79b87791170815a7f102c3c6c8c90f18112c1f0f6b"
+    },
+    {
+      "skill_id": "skl_2J87WdluYi8sZiLMzR2a7Q",
+      "name": "how-to-buy-tickets-on-ticketmaster-whe-42ce4a6637ca3f68",
+      "title": "how to buy tickets on Ticketmaster when an event sells out",
+      "description": "how to buy tickets on Ticketmaster when an event sells out",
+      "url": "https://vectle.com/skills/skl_2J87WdluYi8sZiLMzR2a7Q",
+      "exact_version_url": "https://vectle.com/skills/skl_2J87WdluYi8sZiLMzR2a7Q/versions/skv_M5OaeVu7fGxuhq41bpiwhQ",
+      "version": "skv_M5OaeVu7fGxuhq41bpiwhQ",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:36:53.178621+00:00",
+      "path": "skills/how-to-buy-tickets-on-ticketmaster-whe-42ce4a6637ca3f68/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "8ea4df55cedb039edf95d83427c46d0da0ee59f7e048bf1e79a722e18177ad9d",
+      "public_input_digest": "12d4208e0a2e5c9f1be8fe7045fe1bdb4d1a9eb2a475b675f7a0c305accc938c",
+      "sha256": "b9b7739cac1ea31f4efee17938c5103e1d69edfd22aa7fcf191b827156770e4b"
     },
     {
       "skill_id": "skl_2J9dHJOXksN9K2T3wE9xWA",
@@ -59866,6 +59908,27 @@
       "sha256": "33b99e85500b4bab78ffac0333a85bb52c90b3b71e1baf5ba2df0a94a0e15bd3"
     },
     {
+      "skill_id": "skl_7TJ4gIG9w6Evodu11zqMpg",
+      "name": "how-to-book-a-tsa-precheck-enrollment-60dbda22d851a59c",
+      "title": "how to book a TSA PreCheck enrollment appointment",
+      "description": "how to book a TSA PreCheck enrollment appointment",
+      "url": "https://vectle.com/skills/skl_7TJ4gIG9w6Evodu11zqMpg",
+      "exact_version_url": "https://vectle.com/skills/skl_7TJ4gIG9w6Evodu11zqMpg/versions/skv_wNnV_1UwV40R7QCapk9yZQ",
+      "version": "skv_wNnV_1UwV40R7QCapk9yZQ",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:35:43.56669+00:00",
+      "path": "skills/how-to-book-a-tsa-precheck-enrollment-60dbda22d851a59c/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "342b36400c41069f5c743a5715f8b38019c4ba19c65e40be2be2451a929488cb",
+      "public_input_digest": "f099b199c8f782aa4a1d4af9a59ee780fbf8c505e89871ccea5a02fd8d9337a4",
+      "sha256": "2b93ed9e02ea7a757958a3aaef62c06f4e8b208e34355b8445e5d9c7f26e724c"
+    },
+    {
       "skill_id": "skl_7TgeM7sg2hrWO5W_qKwzLg",
       "name": "how-to-fix-discourse-webhook-failed-ne-cdb75b368f725cf1",
       "title": "how to fix Discourse webhook failed new topic notifications missing from Slack fails error",
@@ -72529,6 +72592,27 @@
       "sha256": "0474565111e58e5eb6add741f70d29fd8530695eba8d96b139afd2a601b60321"
     },
     {
+      "skill_id": "skl_9QGsFk8kxrumPBFoZQw_SQ",
+      "name": "how-do-i-fix-item-login-required-error-7da785dce4b07199",
+      "title": "how do i fix item_login_required errors in plaid? item error login required fails",
+      "description": "how do i fix item_login_required errors in plaid? item error login required fails",
+      "url": "https://vectle.com/skills/skl_9QGsFk8kxrumPBFoZQw_SQ",
+      "exact_version_url": "https://vectle.com/skills/skl_9QGsFk8kxrumPBFoZQw_SQ/versions/skv_cXTD2aKCgxFL8D9B0IZJQQ",
+      "version": "skv_cXTD2aKCgxFL8D9B0IZJQQ",
+      "version_sequence": "1",
+      "updated": "2026-11-25T01:53:06.95986+00:00",
+      "path": "skills/how-do-i-fix-item-login-required-error-7da785dce4b07199/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "b347cec7b59e66490d487e2fe4aaf977bc49a576d2601c6cd91ec4e114d214d3",
+      "public_input_digest": "b4e56b020d5f756074950bd7c81ca1e3f125a292e660cd754f9033ea501cd0ed",
+      "sha256": "8a768e8ac3dba400383fbad05dfcd6f02decd419d3401daa352026ddedf9c836"
+    },
+    {
       "skill_id": "skl_9Q_h7Vzib2EtsGVVVRUNIw",
       "name": "tidb-error-1105-vectors-have-different-bd99560b5fa1930a",
       "title": "TiDB: ERROR 1105 vectors have different dimensions",
@@ -73745,6 +73829,27 @@
       "source_snapshot_digest": "b8be102054905c8c3b30c380cef712eb04eb3a124a018ec98118f3ef0b6d13d6",
       "public_input_digest": "2a26731bc0dae25545154cbe0055f164b732b4903dc6a9f2fc5723374250635f",
       "sha256": "98f42f4eb85128ba44c1ba3145b0c18f4883cbdbc2042cbd070a36acf3cca1c6"
+    },
+    {
+      "skill_id": "skl_9bNB3s1VIf7tbft15jkCpw",
+      "name": "speaker-diarization-failed-error-no-sp-1da09cb7a2fcce39",
+      "title": "speaker diarization failed error no speaker segments detected in podcast episode",
+      "description": "speaker diarization failed error no speaker segments detected in podcast episode",
+      "url": "https://vectle.com/skills/skl_9bNB3s1VIf7tbft15jkCpw",
+      "exact_version_url": "https://vectle.com/skills/skl_9bNB3s1VIf7tbft15jkCpw/versions/skv_BjrYFG0NGjX_R3alCwNs0g",
+      "version": "skv_BjrYFG0NGjX_R3alCwNs0g",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:52:31.609361+00:00",
+      "path": "skills/speaker-diarization-failed-error-no-sp-1da09cb7a2fcce39/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "dfd00c5ac82b545afe1a55090931a7e17a892a2c2f060f0b7d4e0f46a99432c9",
+      "public_input_digest": "7cbd29846d5d4216ec90f1036939b00b84397888cba4e952adbcd3c3160879e5",
+      "sha256": "927d646475356b8b7e6c9d14476de1d3fa1bfaa976c7a8cbeed52b0c8449bd02"
     },
     {
       "skill_id": "skl_9bNk-yJy6vyihR_RasQBEg",
@@ -94033,6 +94138,27 @@
       "sha256": "fa2480b710200ea8bc1aab66db19107cbdaa28ecc28e1a8a9b952aaed39f7972"
     },
     {
+      "skill_id": "skl_CP37Qd3RQMdbds1lElbI-g",
+      "name": "how-to-cancel-doordash-dashpass-2e2f03017f90284e",
+      "title": "how to cancel DoorDash DashPass",
+      "description": "how to cancel DoorDash DashPass",
+      "url": "https://vectle.com/skills/skl_CP37Qd3RQMdbds1lElbI-g",
+      "exact_version_url": "https://vectle.com/skills/skl_CP37Qd3RQMdbds1lElbI-g/versions/skv_jVphjwPXpnKh3rzLk4rhWw",
+      "version": "skv_jVphjwPXpnKh3rzLk4rhWw",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:36:58.683095+00:00",
+      "path": "skills/how-to-cancel-doordash-dashpass-2e2f03017f90284e/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "9b12c99499d3915694db9ba4059b1aa9c3b84e8afbcf97649419f81611d1c5db",
+      "public_input_digest": "d034fa133b7c3a3cd6b1916afe79f86ab8872f0ae230d34f146857d92b65dd47",
+      "sha256": "6263f23e293c3a198820b7a20495076f6f9e11333bb5a42d642b3f99eab8664b"
+    },
+    {
       "skill_id": "skl_CP5VSHInr2CP_01NTiUZYQ",
       "name": "how-to-fix-offboarding-checklist-stuck-93cf15b072ba44e5",
       "title": "how to fix offboarding checklist stuck error step waiting on signer who already left fails error",
@@ -104806,6 +104932,27 @@
       "sha256": "49cc361282fedc082915650fcd668a21fbe384fb2d68ebd3ab25998dc678920e"
     },
     {
+      "skill_id": "skl_Ds4vryU1m9aJiP7rN6Bvzg",
+      "name": "how-to-book-a-table-at-smyth-chicago-ef6350d3e38c587a",
+      "title": "how to book a table at Smyth Chicago",
+      "description": "how to book a table at Smyth Chicago",
+      "url": "https://vectle.com/skills/skl_Ds4vryU1m9aJiP7rN6Bvzg",
+      "exact_version_url": "https://vectle.com/skills/skl_Ds4vryU1m9aJiP7rN6Bvzg/versions/skv_skCdjLPirfrZNB06UbE7ow",
+      "version": "skv_skCdjLPirfrZNB06UbE7ow",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:37:05.890032+00:00",
+      "path": "skills/how-to-book-a-table-at-smyth-chicago-ef6350d3e38c587a/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "3ee8523537a91b977de78d0102662bb1b2840c382186c5c74151b111dabce3ad",
+      "public_input_digest": "a1daafefbdd8296a6d6d61e54ea16edd2cc2b9b75eebd6c8148fa4b62c507fdb",
+      "sha256": "d99443d637a79be49a3c15315b293ca635f0c1dad2393169232432fa6496e50e"
+    },
+    {
       "skill_id": "skl_Ds8FBQmMw3X7wi9t-X47Gw",
       "name": "how-to-fix-article-version-history-los-cb8d1e662942afc7",
       "title": "how to fix article version history lost after help center migration to new platform fails error",
@@ -110789,6 +110936,27 @@
       "source_snapshot_digest": "d96adef714564d0fef1dd33de6f9d39b90470eb310d806bfcb8c660dc647f02e",
       "public_input_digest": "d5f3f3c1de61fea9015086d2aef32587d44a15bd0ea586a854ae6128e2201e4b",
       "sha256": "50c687c1e9c0d057a17c1570bb14272506122112b39350343d1380c3cc207dbe"
+    },
+    {
+      "skill_id": "skl_Ea5nu43PtuiN4yU7JvM-LA",
+      "name": "how-to-get-a-refund-from-ticketmaster-cc6328ef6258ae7b",
+      "title": "how to get a refund from Ticketmaster",
+      "description": "how to get a refund from Ticketmaster",
+      "url": "https://vectle.com/skills/skl_Ea5nu43PtuiN4yU7JvM-LA",
+      "exact_version_url": "https://vectle.com/skills/skl_Ea5nu43PtuiN4yU7JvM-LA/versions/skv_HtNRfArv-UC_Tl8cs4_WnA",
+      "version": "skv_HtNRfArv-UC_Tl8cs4_WnA",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:36:05.775063+00:00",
+      "path": "skills/how-to-get-a-refund-from-ticketmaster-cc6328ef6258ae7b/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "eff53952be46ed13ad5e679d81a7c11bb0b838f7b8cb94ff6078f5020be2683a",
+      "public_input_digest": "10c0c1a705cdcc49fac03e3ba11095adecfdd8fbfc41908d3e956e03f2614436",
+      "sha256": "cc4d5803b674d21610313db0025f4e80427939ed0c7341becea4bdf17fe6130b"
     },
     {
       "skill_id": "skl_Ea6urNADqaYu8Qor2UybMg",
@@ -138847,6 +139015,27 @@
       "sha256": "384e1ac4cc10df9653b2ecd30da5ca7de49ddd911a36a934e77c796673fc267e"
     },
     {
+      "skill_id": "skl_IOxL7aGgjK8Hu6kqLsYP6w",
+      "name": "how-to-cancel-at-t-wireless-service-9c47f553921e4581",
+      "title": "how to cancel AT&T wireless service",
+      "description": "how to cancel AT&T wireless service",
+      "url": "https://vectle.com/skills/skl_IOxL7aGgjK8Hu6kqLsYP6w",
+      "exact_version_url": "https://vectle.com/skills/skl_IOxL7aGgjK8Hu6kqLsYP6w/versions/skv_M1-WTuoe-Fd0gSFJPzveLg",
+      "version": "skv_M1-WTuoe-Fd0gSFJPzveLg",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:35:38.663751+00:00",
+      "path": "skills/how-to-cancel-at-t-wireless-service-9c47f553921e4581/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "cee5ba49761b73f31c9090cb359b90308fbd58a6c016d896ce1f03b6e8f4cc72",
+      "public_input_digest": "386d0a3164e7f84f36db3dd329fa97e8f434918409552cdf66d825431c9007e5",
+      "sha256": "a4552044b907a90a80d9931d28dc7236f1073f872b1a6d00896b2b356cd512c0"
+    },
+    {
       "skill_id": "skl_IOyCdySptU5RY-1ezvY17g",
       "name": "docs-said-404-returns-a-json-error-the-a4557ddc5ce0dcf8",
       "title": "docs said 404 returns a JSON error  -  the live API returns an HTML page and the agent's error parser crashed",
@@ -160769,6 +160958,27 @@
       "source_snapshot_digest": "7e6fdb7c5d514962379fafdd11f1a1eab51e373bf9dfd2f9546175db17f768de",
       "public_input_digest": "f76ea51bb9e62612c5d7786202062fb8884412b85ddb4fc5a4f7243b74e8842f",
       "sha256": "6dbe86751001c3e5d80f7eb7f5e58c88a53a133bbc13f71538ad383a42888f36"
+    },
+    {
+      "skill_id": "skl_LPWwIsn7RfpNg86bgVttEw",
+      "name": "how-to-book-a-schengen-visa-appointmen-ee22f0cb7a9ad5d8",
+      "title": "how to book a Schengen visa appointment",
+      "description": "how to book a Schengen visa appointment",
+      "url": "https://vectle.com/skills/skl_LPWwIsn7RfpNg86bgVttEw",
+      "exact_version_url": "https://vectle.com/skills/skl_LPWwIsn7RfpNg86bgVttEw/versions/skv_cBz6HnR1CIhJN1sH34o5Hg",
+      "version": "skv_cBz6HnR1CIhJN1sH34o5Hg",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:36:47.065113+00:00",
+      "path": "skills/how-to-book-a-schengen-visa-appointmen-ee22f0cb7a9ad5d8/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "f2704ac3fa9703d0c73260b877e6de12cdd31fd9c9dc04973fd5936b6ede726b",
+      "public_input_digest": "934004235a1377085dff5fb695dd6ae701bad8f572bc297030ee9a695a19f3fc",
+      "sha256": "ea82cac75dac456fc32a474b12668cea72c5cea734643eae60e7e858f4433535"
     },
     {
       "skill_id": "skl_LPuz_4VzmBPDYEvBP7jDfA",
@@ -184963,6 +185173,27 @@
       "sha256": "9476b22bbf1dcd9f1ebda455b40501f7e81bfe2994528739f013c2a0da85e6fd"
     },
     {
+      "skill_id": "skl_Om5wb3O3dymxOwcZcjg39A",
+      "name": "how-to-cancel-xfinity-internet-service-6fc1a88508fe2f97",
+      "title": "how to cancel Xfinity internet service",
+      "description": "how to cancel Xfinity internet service",
+      "url": "https://vectle.com/skills/skl_Om5wb3O3dymxOwcZcjg39A",
+      "exact_version_url": "https://vectle.com/skills/skl_Om5wb3O3dymxOwcZcjg39A/versions/skv_RRl6ZIvRgE_7jnu_rqlBQg",
+      "version": "skv_RRl6ZIvRgE_7jnu_rqlBQg",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:36:41.689238+00:00",
+      "path": "skills/how-to-cancel-xfinity-internet-service-6fc1a88508fe2f97/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "3958a2743fe1a5e3903a8920c0d2cae1074ec60d7ba9a19bd3fc7dd70676bb8d",
+      "public_input_digest": "f882658c242c29c4a2cfa45b5ba342b80388743f5c0e123367aef54767de3077",
+      "sha256": "a8929852c5e8a9e218cd40ef59843234f85bd20799565e9ac836aa5f82e788c9"
+    },
+    {
       "skill_id": "skl_OnA9g4QAujxllw00fRaHcw",
       "name": "onboarding-agent-stuck-when-headless-l-48a0e25ff9c46c71",
       "title": "onboarding agent stuck when headless login failed after session cookie expired",
@@ -193048,6 +193279,27 @@
       "sha256": "cb4469fd60ce32185457d5ba8329a50640a6e7795602c4aa577bb58dd480178e"
     },
     {
+      "skill_id": "skl_PvAVwjO04C5gFvU7-0KzpQ",
+      "name": "how-to-use-ticketmaster-presale-codes-cda3bcc58e379ef3",
+      "title": "how to use Ticketmaster presale codes",
+      "description": "how to use Ticketmaster presale codes",
+      "url": "https://vectle.com/skills/skl_PvAVwjO04C5gFvU7-0KzpQ",
+      "exact_version_url": "https://vectle.com/skills/skl_PvAVwjO04C5gFvU7-0KzpQ/versions/skv_doaxS7qX3Q3dSGILG-Hm2A",
+      "version": "skv_doaxS7qX3Q3dSGILG-Hm2A",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:36:35.910073+00:00",
+      "path": "skills/how-to-use-ticketmaster-presale-codes-cda3bcc58e379ef3/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "aed609cf31788bca2f809bef9b9f43a4bdfd1a543eb34ff4d61284cf27f5cb09",
+      "public_input_digest": "2268669417b091b36f85237f6aa10ebce6ea1687b6b46dc808dc461a27d2af81",
+      "sha256": "0eed28bb18b7e480d0388c86ef8a72fb6dea498d9b8880f7b6a0ea2da660e173"
+    },
+    {
       "skill_id": "skl_PvK0TuWMEhUhbU9Iz073Jw",
       "name": "kubens-fails-no-previous-namespace-fou-3197d043390a4e4e",
       "title": "kubens - fails: No previous namespace found for current context",
@@ -200333,6 +200585,27 @@
       "source_snapshot_digest": "8e8a9f2c180c85d3faa8207a9901a130c716af1251c5eb6f34704401b9c27ad9",
       "public_input_digest": "e7e8d6a69d1cc51346a75cb8c01de235765c46779dc72928dae9a75654506d06",
       "sha256": "7a66935c67f08a761f9001a19468165255f82dcc5161ce3df9c845c8877882af"
+    },
+    {
+      "skill_id": "skl_QuZTJFkOcvBsWbd7qhhqrA",
+      "name": "how-to-sell-tickets-on-ticketmaster-dd4d7752c165d021",
+      "title": "how to sell tickets on Ticketmaster",
+      "description": "how to sell tickets on Ticketmaster",
+      "url": "https://vectle.com/skills/skl_QuZTJFkOcvBsWbd7qhhqrA",
+      "exact_version_url": "https://vectle.com/skills/skl_QuZTJFkOcvBsWbd7qhhqrA/versions/skv_gt0kZ92EnxhpjTEKNfGmNw",
+      "version": "skv_gt0kZ92EnxhpjTEKNfGmNw",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:35:14.439035+00:00",
+      "path": "skills/how-to-sell-tickets-on-ticketmaster-dd4d7752c165d021/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "55abd2e3aa42d8748430a1f1f7acf9f38e34324b9133487194d4ff026daf4aa5",
+      "public_input_digest": "dd05f17aa5eaa48c909bfc6a68b888f5bd92dc8d777b7bd19ab7c20009907371",
+      "sha256": "327bc0d5153c1eec1d76ffee1b4c56d6640156acd8e1770a67316818ea9bf4e2"
     },
     {
       "skill_id": "skl_QuhZBEs2GIbn3wPbnd3mDA",
@@ -212387,6 +212660,27 @@
       "source_snapshot_digest": "80d09296b321f692ff9891da4b2ee27993c73ce9cf430c4997483ea4be067d14",
       "public_input_digest": "180d634d55445b9fdcfae006281b9fd18ed6fd7f395ab20f0edb20fbb63a6853",
       "sha256": "a0a0bf3450399bceee14d04dc9fca2037fe4eacd663601b646e3ae03a669de13"
+    },
+    {
+      "skill_id": "skl_SXR6gdzExjpJvaqCAl-xXA",
+      "name": "cannot-import-name-stealth-sync-from-p-32fdff19385c1438",
+      "title": "cannot import name 'stealth_sync' from 'playwright_stealth' ImportError error how to fix",
+      "description": "cannot import name 'stealth_sync' from 'playwright_stealth' ImportError error how to fix",
+      "url": "https://vectle.com/skills/skl_SXR6gdzExjpJvaqCAl-xXA",
+      "exact_version_url": "https://vectle.com/skills/skl_SXR6gdzExjpJvaqCAl-xXA/versions/skv_QtwJFs_i80RTP9hG5Jqi-g",
+      "version": "skv_QtwJFs_i80RTP9hG5Jqi-g",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:52:02.450045+00:00",
+      "path": "skills/cannot-import-name-stealth-sync-from-p-32fdff19385c1438/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "287718baaa1cd5018ecf2b937cc111cc1bdc526a7341d8aaafb43a2f83a6c52e",
+      "public_input_digest": "2873f9b1563bd7f577864f970adb8529c2a98799ae7a7be43a5fc6edcada0010",
+      "sha256": "d6bfaba04957b05b34bcc4bea8933fbc4fda1ea24018a6ef658ed92a58edccdb"
     },
     {
       "skill_id": "skl_SXeLQNcHLC3cv_XNtYEDWg",
@@ -232276,6 +232570,27 @@
       "sha256": "a9d1d1cec1b15cce4be5e6c003bfac127ed803eab8f979cce5190e060d52e07a"
     },
     {
+      "skill_id": "skl_VF-UtvDKZLO8GYdRvFJ_aA",
+      "name": "prisma-generate-error-could-not-find-q-4b4083a3eeab1b63",
+      "title": "prisma generate error could not find query engine binary fails bug",
+      "description": "prisma generate error could not find query engine binary fails bug",
+      "url": "https://vectle.com/skills/skl_VF-UtvDKZLO8GYdRvFJ_aA",
+      "exact_version_url": "https://vectle.com/skills/skl_VF-UtvDKZLO8GYdRvFJ_aA/versions/skv_-IwE_bexvwAjAxXmHwmKyw",
+      "version": "skv_-IwE_bexvwAjAxXmHwmKyw",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:52:51.573848+00:00",
+      "path": "skills/prisma-generate-error-could-not-find-q-4b4083a3eeab1b63/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "8eb10b75a240c35c52efd9cd984ca47e4fcd1328fb8e0fdcfc5cf16b54759cfe",
+      "public_input_digest": "a605cea43bea27381eeb1f62ce1b6a2fe8dea922703c6a9c47e2e4f4fd06c7af",
+      "sha256": "8cc64b9f6563700cbc0a640414405b45af132556d9eb0181445f9114a877fd36"
+    },
+    {
       "skill_id": "skl_VF26OBOqkyBgU-xltPzEvg",
       "name": "agent-bumped-a-devdependency-into-the-11aa54db91808313",
       "title": "agent bumped a devDependency into the published package because the dep was misclassified  -  the tarball now ships jest",
@@ -250756,6 +251071,27 @@
       "sha256": "a7442a1bb75143272ba768eefe6c58f63e794e656fd8579deb3df7984792f8d9"
     },
     {
+      "skill_id": "skl_Xk2xaUIm2QziKtUxO9Ya3Q",
+      "name": "valueerror-cannot-reindex-from-a-dupli-2fdaa9bccd647bf3",
+      "title": "valueerror cannot reindex from a duplicate axis pandas fails bug",
+      "description": "valueerror cannot reindex from a duplicate axis pandas fails bug",
+      "url": "https://vectle.com/skills/skl_Xk2xaUIm2QziKtUxO9Ya3Q",
+      "exact_version_url": "https://vectle.com/skills/skl_Xk2xaUIm2QziKtUxO9Ya3Q/versions/skv_pk-M2G3vUScrHtE5PlfPGA",
+      "version": "skv_pk-M2G3vUScrHtE5PlfPGA",
+      "version_sequence": "1",
+      "updated": "2026-11-25T01:51:59.406383+00:00",
+      "path": "skills/valueerror-cannot-reindex-from-a-dupli-2fdaa9bccd647bf3/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "60e291dea38627225ec7a7206f5fc693845ca9ade001e8fe010a1322f0b1f9a7",
+      "public_input_digest": "5ef75a89f248512bf54fddbab3f3201231d62db6836edfad2f3aa090b84b99b3",
+      "sha256": "d17ab3da964d65b78dfa21939028bfe3f6c401a2141470faad6a2969a77e144f"
+    },
+    {
       "skill_id": "skl_Xk779waoHBjAy3Q8DnHCCg",
       "name": "agent-trusted-every-notebook-in-a-shar-9ae780f3a89f9afe",
       "title": "agent trusted every notebook in a shared folder: XSS via malicious outputs",
@@ -267029,6 +267365,27 @@
       "source_snapshot_digest": "e170fe24ca2a6b44209838952ce8fe7ddbce6635861e0708c4743523145c51af",
       "public_input_digest": "eba5f76cdcd179c4800f6f58522d447c77e5ec0e1574ed7b28f50942f2d0c82b",
       "sha256": "b4c4ee5950ede1bdc5d4e3554c35829b32899c55d1bc34b648f13ef990bff811"
+    },
+    {
+      "skill_id": "skl__6ZofIH8qyqGVKJZzCA7TA",
+      "name": "how-to-get-a-global-entry-interview-ap-53abf161fa177966",
+      "title": "how to get a Global Entry interview appointment",
+      "description": "how to get a Global Entry interview appointment",
+      "url": "https://vectle.com/skills/skl__6ZofIH8qyqGVKJZzCA7TA",
+      "exact_version_url": "https://vectle.com/skills/skl__6ZofIH8qyqGVKJZzCA7TA/versions/skv_2yfzlY0Pfzm_2Ek1n4LxSA",
+      "version": "skv_2yfzlY0Pfzm_2Ek1n4LxSA",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:34:51.643497+00:00",
+      "path": "skills/how-to-get-a-global-entry-interview-ap-53abf161fa177966/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "85df744474ccc6e812cc9e96e67d3e489e33c8b6e4bf39d64bdad2d23e1aa09b",
+      "public_input_digest": "1f8abf7deddd52f4d8328b10e43d83a550aa67fe1aa547a04f02caed83ba2e5c",
+      "sha256": "0e542cb7cb349219569560e78d630c29b571e9f12897d04a421683c066af0ffa"
     },
     {
       "skill_id": "skl__6ctWKPGhkCE9Vb-2m0KiQ",
@@ -316234,6 +316591,27 @@
       "sha256": "6f489aa4b27ef0b3ea44f33d5077f3547f4639f4ea3aba868c90c1b52f7e5fb4"
     },
     {
+      "skill_id": "skl_fwfTd3GBhYcuSV_xrYYRKQ",
+      "name": "how-to-cancel-verizon-wireless-service-e0bd248454430b2f",
+      "title": "how to cancel Verizon wireless service",
+      "description": "how to cancel Verizon wireless service",
+      "url": "https://vectle.com/skills/skl_fwfTd3GBhYcuSV_xrYYRKQ",
+      "exact_version_url": "https://vectle.com/skills/skl_fwfTd3GBhYcuSV_xrYYRKQ/versions/skv_M5257PJZvk0qM9vcCu1oMw",
+      "version": "skv_M5257PJZvk0qM9vcCu1oMw",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:34:29.820794+00:00",
+      "path": "skills/how-to-cancel-verizon-wireless-service-e0bd248454430b2f/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "563a00f0f267d5fed7fc06c58b9db2ba9d20c88449446fe2664ebf899930a9d8",
+      "public_input_digest": "ed8e85b728e058fe70c42bd69fd4754df006165c7f84f504bfc42a31a38b94ad",
+      "sha256": "e5e4b129070981e75f3a6dc1dd4be4306a284e5baa4b9683e9cecf6077bea9f0"
+    },
+    {
       "skill_id": "skl_fwhlOXYPcBeiq4wnwFtKFA",
       "name": "sifflet-observe-failed-error-monitor-t-500b9eb2e7aadd07",
       "title": "Sifflet observe failed error \"monitor template references missing table field\"",
@@ -364975,6 +365353,27 @@
       "sha256": "7baeba3ab2415327894a5f34527e2ccde55d1165dff16b7f0e894fc6a1064a0d"
     },
     {
+      "skill_id": "skl_miqcYQuwwgis0j02wY4zgw",
+      "name": "postgres-error-deadlock-detected-detai-b2e9e5c491f153f6",
+      "title": "postgres error deadlock detected detail processes waiting for lock fails bug",
+      "description": "postgres error deadlock detected detail processes waiting for lock fails bug",
+      "url": "https://vectle.com/skills/skl_miqcYQuwwgis0j02wY4zgw",
+      "exact_version_url": "https://vectle.com/skills/skl_miqcYQuwwgis0j02wY4zgw/versions/skv_2kjAptWi7gIJ8tzbytg1Aw",
+      "version": "skv_2kjAptWi7gIJ8tzbytg1Aw",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:52:41.656885+00:00",
+      "path": "skills/postgres-error-deadlock-detected-detai-b2e9e5c491f153f6/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "3e0a933c1182c9394df7c823d2c6fddf889088e4d007353bc768f9706cfc0917",
+      "public_input_digest": "da6791458ad6a1e577a0ac6a03b600e87fe2365e5d58a8336391b6258cb089ab",
+      "sha256": "5a2ed583968010b5a10423325916f0eca31372235049eabce6c429165e0cca0f"
+    },
+    {
       "skill_id": "skl_mjn6_OonZNJJgNxshwXz2Q",
       "name": "agent-context-overflow-during-sync-pag-61e552b66e7c3344",
       "title": "agent context overflow during sync PagerDuty incident status: context limit error failed the run",
@@ -372869,6 +373268,27 @@
       "source_snapshot_digest": "8454e08de440ed0342d9f25cb5611c80de47fe7a90bf79b5f7b62e3d867cc49d",
       "public_input_digest": "5680ad715955c35172dac8ac1a252eed89eb85eafaea4f952189f7cbf718f72c",
       "sha256": "d4056f2e276f9bae76b32b249862150a12c38a6491716c61d68d6df1c3fff0da"
+    },
+    {
+      "skill_id": "skl_nzgbsv1ZKp8gENNHif9saw",
+      "name": "how-to-transfer-ticketmaster-tickets-t-1e5cb532082208b6",
+      "title": "how to transfer Ticketmaster tickets to someone else",
+      "description": "how to transfer Ticketmaster tickets to someone else",
+      "url": "https://vectle.com/skills/skl_nzgbsv1ZKp8gENNHif9saw",
+      "exact_version_url": "https://vectle.com/skills/skl_nzgbsv1ZKp8gENNHif9saw/versions/skv_a6zvNPo_EIyqmlDoce_B-Q",
+      "version": "skv_a6zvNPo_EIyqmlDoce_B-Q",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:34:24.910689+00:00",
+      "path": "skills/how-to-transfer-ticketmaster-tickets-t-1e5cb532082208b6/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "2087171686eaf97b9503b2d6630dead8299d74bf64643769f012fa5859bd9169",
+      "public_input_digest": "782222cd8c515e8c1d3629e0aa90c774bfabe3845a8cda9d67bc3cd8616b970d",
+      "sha256": "b905773666171138c81043e105b2b8af648c9c4eeeeeed401518841af228c3fe"
     },
     {
       "skill_id": "skl_nzgmxeutXaAicKSw_9iaxA",
@@ -399079,6 +399499,27 @@
       "sha256": "60777ecf56a429f1d03cad61e66660bada30ddeeef63087aae10e1fa988cf834"
     },
     {
+      "skill_id": "skl_rd1bNqz_wp4bcjPYXxTFQA",
+      "name": "page-printtopdf-a4-size-wrong-error-in-f06007254b52f27c",
+      "title": "page.printtopdf a4 size wrong error inches vs centimeters fails",
+      "description": "page.printtopdf a4 size wrong error inches vs centimeters fails",
+      "url": "https://vectle.com/skills/skl_rd1bNqz_wp4bcjPYXxTFQA",
+      "exact_version_url": "https://vectle.com/skills/skl_rd1bNqz_wp4bcjPYXxTFQA/versions/skv_10rO1P4dy6STtRcUiNNTlw",
+      "version": "skv_10rO1P4dy6STtRcUiNNTlw",
+      "version_sequence": "1",
+      "updated": "2026-11-25T01:52:41.950208+00:00",
+      "path": "skills/page-printtopdf-a4-size-wrong-error-in-f06007254b52f27c/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "4e73ed4c2543c8131ca509a2766ba5260ab833357e27b6c19c63142ac2c2709f",
+      "public_input_digest": "0737fcd138cba1ec8d139d787a5576f1e76c8a8b9d0df1cddf09e170a34250e1",
+      "sha256": "2c117e4b36d2389c280271be160b8096e2cabdfbfe6aa7a6b80d6c61641f9758"
+    },
+    {
       "skill_id": "skl_rdFjfF978ZZGEr5RqC_6Og",
       "name": "agent-loop-detected-repeating-the-same-ebe3e076c6510ff4",
       "title": "agent loop detected: repeating the same expansion task to suppress expansion outreach during an escalation error loop...",
@@ -400148,6 +400589,27 @@
       "source_snapshot_digest": "92fad9832b86a885fb8f5189552eb3879bf962649638dddf60167da06f0516d4",
       "public_input_digest": "52c83aa10693b246776c80a98f84959b9cf88d97e3d36f8ded2b63a88920bfd2",
       "sha256": "074a9bce1d6e0705f9a204f2107851f1369fe5c0f038b28c593ca98477e37231"
+    },
+    {
+      "skill_id": "skl_rngw3hTCMpW8wFxPCEBxmA",
+      "name": "attributeerror-module-paramiko-has-no-6c8ce405ed92f31b",
+      "title": "attributeerror: module 'paramiko' has no attribute 'dsskey'",
+      "description": "attributeerror: module 'paramiko' has no attribute 'dsskey'",
+      "url": "https://vectle.com/skills/skl_rngw3hTCMpW8wFxPCEBxmA",
+      "exact_version_url": "https://vectle.com/skills/skl_rngw3hTCMpW8wFxPCEBxmA/versions/skv_diwrWleOdMmLpjmXiGaMkQ",
+      "version": "skv_diwrWleOdMmLpjmXiGaMkQ",
+      "version_sequence": "1",
+      "updated": "2026-11-25T01:52:25.242087+00:00",
+      "path": "skills/attributeerror-module-paramiko-has-no-6c8ce405ed92f31b/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "af3229f380e06d83d00636cc922194e93c1ca0ffb74ab4464c3de7ab4fb3d8d8",
+      "public_input_digest": "daa1ecfd8801b71bed224675dcf6529b94bdeb9b12ab6326189871bf2bdf3795",
+      "sha256": "df8104cdd61234aa2cfd4c3559e093f305d29b696321b84e95a85ac0829acc84"
     },
     {
       "skill_id": "skl_ro7-TlxXsdhvgiR1v5ZZ4A",
@@ -403424,6 +403886,27 @@
       "source_snapshot_digest": "2f1225f049888568cae0cc92af8d4ea48da879dbbb390602712768c35c3183a1",
       "public_input_digest": "053999bc0448aa25c2b4d0dc6c9ec1c11ec815012810bd0f91be0bd78a6af683",
       "sha256": "767b26f5d14daaf502443290cdae681e2d4e7b06d69c462252c9bb1af343e293"
+    },
+    {
+      "skill_id": "skl_sEKWTJnbHgt8zPMKzFdXdw",
+      "name": "how-to-renew-a-us-passport-online-19edc2814f0a3444",
+      "title": "how to renew a US passport online",
+      "description": "how to renew a US passport online",
+      "url": "https://vectle.com/skills/skl_sEKWTJnbHgt8zPMKzFdXdw",
+      "exact_version_url": "https://vectle.com/skills/skl_sEKWTJnbHgt8zPMKzFdXdw/versions/skv_3SVYIiswne-_VcjHmenCrQ",
+      "version": "skv_3SVYIiswne-_VcjHmenCrQ",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:34:02.621944+00:00",
+      "path": "skills/how-to-renew-a-us-passport-online-19edc2814f0a3444/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "1483a3e9c343f95bb331541d0ec39fc9d48149562a7705596bfae489c03aaf22",
+      "public_input_digest": "689df8cf2128ad8408affe16cdebc2a5f4fd97c31693d0dd3a469839e964cdf5",
+      "sha256": "7f4fcf21c8ee3d0a7912063597eeb9c8e136ad9da6abc1d2fad667ee44a58766"
     },
     {
       "skill_id": "skl_sEMOz7gM-YbAMXdowXtCSA",
@@ -420268,6 +420751,27 @@
       "sha256": "8688495b683c9e212ee140a6b296cab553a0c1ac0f60262bcdcdef28ee6c8e45"
     },
     {
+      "skill_id": "skl_udXlljinE5CY5_b6cOLp3g",
+      "name": "espacenet-patent-search-export-fails-w-8b006994d6876a64",
+      "title": "Espacenet patent search export fails with 403 forbidden error: how to fix",
+      "description": "Espacenet patent search export fails with 403 forbidden error: how to fix",
+      "url": "https://vectle.com/skills/skl_udXlljinE5CY5_b6cOLp3g",
+      "exact_version_url": "https://vectle.com/skills/skl_udXlljinE5CY5_b6cOLp3g/versions/skv_f7MOgdLokSd0r8IGf3ZGzQ",
+      "version": "skv_f7MOgdLokSd0r8IGf3ZGzQ",
+      "version_sequence": "1",
+      "updated": "2026-11-25T01:52:33.369744+00:00",
+      "path": "skills/espacenet-patent-search-export-fails-w-8b006994d6876a64/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "259f884b6b467ce6b9b84024605108a2f47b16e3c299fdf52d9b271088649cb8",
+      "public_input_digest": "f8f82bf0e60eb435aec16805ecf0d357f19d849aa21deaeab001e39e385c0ef9",
+      "sha256": "9309b751bed2e322e8275bfd13578262ad379bcd86b4efaa5e93e84df0479863"
+    },
+    {
       "skill_id": "skl_udcdl9-BWHCklNaMJwJFpg",
       "name": "error-while-loading-shared-libraries-l-5170721ab1f591d3",
       "title": "error while loading shared libraries: libcudart.so.13: cannot open shared object file: no such file or directory",
@@ -422639,6 +423143,27 @@
       "source_snapshot_digest": "e47c3154e97372e66b7615dc96f85a8ed4438349d73310eed208f7acfde54bd1",
       "public_input_digest": "2940efa9dab9d398b3e95f02aafb21b1f028260583a472cf67bcbc2e54f5ac7b",
       "sha256": "3546bb6c6e8362ce045fae82acad6c649805a84aeaa8507cf6826ecfde965ed4"
+    },
+    {
+      "skill_id": "skl_v0sVcFelH9blXrvvpMfwpQ",
+      "name": "how-to-cancel-t-mobile-service-and-kee-090412ad07fd997c",
+      "title": "how to cancel T-Mobile service and keep your number",
+      "description": "how to cancel T-Mobile service and keep your number",
+      "url": "https://vectle.com/skills/skl_v0sVcFelH9blXrvvpMfwpQ",
+      "exact_version_url": "https://vectle.com/skills/skl_v0sVcFelH9blXrvvpMfwpQ/versions/skv_ShnGNaSvMX1KwM5GmYXDNw",
+      "version": "skv_ShnGNaSvMX1KwM5GmYXDNw",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:36:29.743306+00:00",
+      "path": "skills/how-to-cancel-t-mobile-service-and-kee-090412ad07fd997c/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "5e64e5fbc309f75d73a08ed72a579f4a1b943005fdedc68e6be67ff39ef55843",
+      "public_input_digest": "b35c1bfb745688d5b3f90e11c6550b1cf6ccb4ca2dace0d2dc9adb484057b86c",
+      "sha256": "8a72056cfad57c7a0375b0c449039eb1e2aae5e49ea215fd7fc215fab1321a0f"
     },
     {
       "skill_id": "skl_v1TCNd3gGzbchp5vSm1Ulg",
@@ -453656,6 +454181,27 @@
       "source_snapshot_digest": "2e15cc62e5771b0de3c717a339fbf65fb44fabcda34938d6e589f081e5afbb89",
       "public_input_digest": "c0808d5582819cb0eedf88a2debc677a4a04d0b4342b0ae3adc087266511f39e",
       "sha256": "82c17adc40dcd65edb4c678fdc3bebd0060c7df9b80cb7a6f31afbe6942ba464"
+    },
+    {
+      "skill_id": "skl_zSGgTEQ6Ttu6k_BGOV6pWw",
+      "name": "how-to-cancel-an-orangetheory-fitness-f56727b536fffd7f",
+      "title": "how to cancel an Orangetheory Fitness membership",
+      "description": "how to cancel an Orangetheory Fitness membership",
+      "url": "https://vectle.com/skills/skl_zSGgTEQ6Ttu6k_BGOV6pWw",
+      "exact_version_url": "https://vectle.com/skills/skl_zSGgTEQ6Ttu6k_BGOV6pWw/versions/skv_rcSXredhrLVh0RnL5mdOuQ",
+      "version": "skv_rcSXredhrLVh0RnL5mdOuQ",
+      "version_sequence": "1",
+      "updated": "2026-11-25T13:33:41.488569+00:00",
+      "path": "skills/how-to-cancel-an-orangetheory-fitness-f56727b536fffd7f/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "658aa18a924f4264d34dd282b75c77e8f747f4ecee10293256da178a229cb1d6",
+      "public_input_digest": "2ded6c9f9ef1fc58685f75c4ce21f3c195a78510fba497210532454b68edc41f",
+      "sha256": "d9fff7cefa10ebfe3db52c70c549b426c40936c0068c9192e762d8b05aed8103"
     },
     {
       "skill_id": "skl_zSOZNMViH4I0VXYE8Rl7aw",
