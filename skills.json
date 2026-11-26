@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "bJ-r3Noj45_LfTY29TC-wiMp4udWRSoU",
-    "generation": "222685",
-    "generated_at": "2026-11-25T18:09:00.28809+00:00",
-    "expires_at": "2026-11-26T00:09:00.288Z",
+    "snapshot_id": "LD-GNskHaHiq0KzHbiorKypDjXEvUcq0",
+    "generation": "222838",
+    "generated_at": "2026-11-26T17:52:08.211793+00:00",
+    "expires_at": "2026-11-26T23:52:08.211Z",
     "page_size": 250,
-    "expected_entry_count": 21818
+    "expected_entry_count": 21830
   },
-  "manifest_digest": "83a95ffad53ea85acac6f518571654d69559a96d3d9b753de5e1ed38245dd8bd",
+  "manifest_digest": "04447a951a3e5cb449e31403fb91715864c36857da9b57760330e421d71fa19f",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -13414,6 +13414,27 @@
       "sha256": "edcaf7617a7f241928cba8d28b06a7286ed5f23e0e258e61494eb9be54c504de"
     },
     {
+      "skill_id": "skl_0yAFV0aGOEqneu4qLUUV8w",
+      "name": "how-to-dispute-a-charge-on-a-chase-cre-75ad12271c4ed0bb",
+      "title": "how to dispute a charge on a Chase credit card",
+      "description": "how to dispute a charge on a Chase credit card",
+      "url": "https://vectle.com/skills/skl_0yAFV0aGOEqneu4qLUUV8w",
+      "exact_version_url": "https://vectle.com/skills/skl_0yAFV0aGOEqneu4qLUUV8w/versions/skv_AYnkJ3izsK50TSyQySQ7Ag",
+      "version": "skv_AYnkJ3izsK50TSyQySQ7Ag",
+      "version_sequence": "1",
+      "updated": "2026-11-26T13:27:13.977888+00:00",
+      "path": "skills/how-to-dispute-a-charge-on-a-chase-cre-75ad12271c4ed0bb/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "95046f86cad966b770557410672d7a5ebddd6ae74c86f56404ef18b83efc1646",
+      "public_input_digest": "953d9f13cb96b5952a944258d05ad0c52c4d4cf0e8dfe4a838dd9eeea81829b3",
+      "sha256": "5989f023bf49274115b87ea09ca56aacdf1885ca705df945e1f5b234b8fcb998"
+    },
+    {
       "skill_id": "skl_0yI0lZIR1AKnI1AT4C6QsQ",
       "name": "parser-failed-on-fireflies-transcript-8d5c071417732b08",
       "title": "parser failed on Fireflies transcript export for summarize a multi-stakeholder demo call error parsing failure",
@@ -16898,6 +16919,27 @@
       "source_snapshot_digest": "67d6c98314035e8a4d3f63391937433fd02321f67b56737e538c508271227749",
       "public_input_digest": "91d1b96a1b0ef61213f7cbdc92b3d3141d58caa5a5ca0a676be3c65565adf156",
       "sha256": "b83b90252ad554f7215951fb84ff2f324a9c7b128c20c1744d2c6d975d8bac5b"
+    },
+    {
+      "skill_id": "skl_1SCroIe8bIPoycmoGBvUng",
+      "name": "stripe-cancel-subscription-fails-with-b10a425ed9dd621c",
+      "title": "Stripe cancel subscription fails with \"No such subscription\" error: how to fix",
+      "description": "Stripe cancel subscription fails with \"No such subscription\" error: how to fix",
+      "url": "https://vectle.com/skills/skl_1SCroIe8bIPoycmoGBvUng",
+      "exact_version_url": "https://vectle.com/skills/skl_1SCroIe8bIPoycmoGBvUng/versions/skv_Oc5HxQUD9hh_Cnrwexi9Qg",
+      "version": "skv_Oc5HxQUD9hh_Cnrwexi9Qg",
+      "version_sequence": "1",
+      "updated": "2026-11-26T13:51:38.193506+00:00",
+      "path": "skills/stripe-cancel-subscription-fails-with-b10a425ed9dd621c/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "626436a4c730e8efeee52b49c4398277a9c361f524511b7690763ce41defb384",
+      "public_input_digest": "fb0a0d8cb0822dd465269897d3133f5b3eb4f864361d021120d1fcd22e388742",
+      "sha256": "0812043872b96da600305c1fde7fee58bd793153e2b446429633400940ec1916"
     },
     {
       "skill_id": "skl_1SHT2RQW5yHKlPhoL-HMDQ",
@@ -34874,6 +34916,27 @@
       "source_snapshot_digest": "e82c84cb84c5d6f1777d7dbeb4ddc4516d1948894bd37d23d904f563385acca0",
       "public_input_digest": "047fae8d61723664005fa8d2337218e6764dfc81f58677661413cfa4158bbdb2",
       "sha256": "be1eb2b0b71ef342fe8e93c34517ad58c84d3c0c9020b2e11a147841f06656a7"
+    },
+    {
+      "skill_id": "skl_3tJfLpF0R1XXvPjrTZKQPg",
+      "name": "skill-markdown-frontmatter-parse-error-85453bbadae2e386",
+      "title": "skill markdown frontmatter parse error YAML invalid publish fails",
+      "description": "skill markdown frontmatter parse error YAML invalid publish fails",
+      "url": "https://vectle.com/skills/skl_3tJfLpF0R1XXvPjrTZKQPg",
+      "exact_version_url": "https://vectle.com/skills/skl_3tJfLpF0R1XXvPjrTZKQPg/versions/skv_icFj-H0sjZ6HUfNIm77ogQ",
+      "version": "skv_icFj-H0sjZ6HUfNIm77ogQ",
+      "version_sequence": "1",
+      "updated": "2026-11-26T01:52:04.697221+00:00",
+      "path": "skills/skill-markdown-frontmatter-parse-error-85453bbadae2e386/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "59c187f96fda358d953f07d2006528787dc966a007c9d7f9df8965ef785ffefe",
+      "public_input_digest": "4d0e09c9d0a2600d785c8c87feda8e38a353643750ea83cfaa5239c682554789",
+      "sha256": "7a84866fb4f13167eb62a381001d240df713a0ec33d7f960ee42ff625e1e6dcc"
     },
     {
       "skill_id": "skl_3tOTnaU1toyPXGnjgtq7MQ",
@@ -72550,6 +72613,27 @@
       "sha256": "eda6e2b81e0fe9503f62aeed0c774261983866f02c40309ff91b876387f2d9d1"
     },
     {
+      "skill_id": "skl_9PSFDgJ8jJI4bk-D4fXeIA",
+      "name": "sveltekit-form-action-returns-403-erro-45a43dd9f7ae56b3",
+      "title": "sveltekit form action returns 403 error cross-site post blocked fails",
+      "description": "sveltekit form action returns 403 error cross-site post blocked fails",
+      "url": "https://vectle.com/skills/skl_9PSFDgJ8jJI4bk-D4fXeIA",
+      "exact_version_url": "https://vectle.com/skills/skl_9PSFDgJ8jJI4bk-D4fXeIA/versions/skv_Ylw65qzpMQXPixtrmIzlvw",
+      "version": "skv_Ylw65qzpMQXPixtrmIzlvw",
+      "version_sequence": "1",
+      "updated": "2026-11-26T13:52:23.846737+00:00",
+      "path": "skills/sveltekit-form-action-returns-403-erro-45a43dd9f7ae56b3/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "9e37b7286da18263d24bf5f1da6ea1e6e04d9527f0f688ea2b8a931b8f770020",
+      "public_input_digest": "31f957d7ab6e07db6b47f53072cb4bd794bd427fbd0e459d527efc75ec4fb966",
+      "sha256": "2919cba84fec89bcdae97f4a6bb43b7fb554d3b1f41120d3bab34c768ee2b34d"
+    },
+    {
       "skill_id": "skl_9PXmxBrwzuy0y9BqqDtHkg",
       "name": "ggshield-valueerror-invalid-literal-fo-c26287af14473d2e",
       "title": "ggshield ValueError: invalid literal for int() with base 10: '' on macOS",
@@ -106463,6 +106547,27 @@
       "source_snapshot_digest": "d745d75035a05495d591532e87d91ea2bd494c05fab86b59443a1521684ff32b",
       "public_input_digest": "add5b9be88a182cc51c30c0dc3e5f0476d5534db1c9a85103250084ac5cd0455",
       "sha256": "5c62e3e5afa0cf857dac4d20fc490f5eb72d7d7ee39ada463e09870540b3a63e"
+    },
+    {
+      "skill_id": "skl_E2swEdJZIirWQBdz9RZcRg",
+      "name": "typeform-export-error-responses-missin-bb939dff944f52e3",
+      "title": "Typeform export error responses missing open-ended verbatims",
+      "description": "Typeform export error responses missing open-ended verbatims",
+      "url": "https://vectle.com/skills/skl_E2swEdJZIirWQBdz9RZcRg",
+      "exact_version_url": "https://vectle.com/skills/skl_E2swEdJZIirWQBdz9RZcRg/versions/skv_KUVoI_5pBKR5x6u1psQRYA",
+      "version": "skv_KUVoI_5pBKR5x6u1psQRYA",
+      "version_sequence": "1",
+      "updated": "2026-11-26T13:51:57.473647+00:00",
+      "path": "skills/typeform-export-error-responses-missin-bb939dff944f52e3/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "6a089192dce86f912ab2a3997ad167fc8fe8470713d6e4de742e23a79850d1b6",
+      "public_input_digest": "d3048bf2a4cc168b946fd9eec52f346ae2f594a8ffbd72a35c7e196cb058fbc5",
+      "sha256": "dba611678524ff4f788b5655d80ca8ccb87c2e356cfbba1394872404fd05b844"
     },
     {
       "skill_id": "skl_E32AkKYKfQN1mgxIK-ttfg",
@@ -150857,6 +150962,27 @@
       "source_snapshot_digest": "ec04e0824576da6bc6946ef2c7d0c6467411293d39805c2784722df035b9491d",
       "public_input_digest": "7a53de0b0afe8b06edbd24a1341dbc878ede216dcf683c491a93d000b0fc5501",
       "sha256": "82b61476d5d967a0dabaf33b10d703a8f1373ee646e42a82a1fc151c7e75f986"
+    },
+    {
+      "skill_id": "skl_Jz5WzwuLR3etAHLyqeVtSg",
+      "name": "how-do-i-configure-source-policy-to-li-67ca150dda2f79b5",
+      "title": "how do i configure source policy to limit parallel search to approved domains? error excluded domains still returned...",
+      "description": "how do i configure source policy to limit parallel search to approved domains? error excluded domains still returned...",
+      "url": "https://vectle.com/skills/skl_Jz5WzwuLR3etAHLyqeVtSg",
+      "exact_version_url": "https://vectle.com/skills/skl_Jz5WzwuLR3etAHLyqeVtSg/versions/skv_yIq5a19Yfi9pBBKpxCd5rg",
+      "version": "skv_yIq5a19Yfi9pBBKpxCd5rg",
+      "version_sequence": "1",
+      "updated": "2026-11-26T01:51:55.49358+00:00",
+      "path": "skills/how-do-i-configure-source-policy-to-li-67ca150dda2f79b5/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "be511a76ca1bcb6a161cf0c1ee6e364fc6251f3b52f47258df7b4ccb51968b64",
+      "public_input_digest": "0a844076b7d8ec0384c2374ae1cef873902e1087cbbc27fe188a9a53c8c32179",
+      "sha256": "f598f61320ac002c8fd5fdf6d1270e4fde437ebe325f1835a75e373ef26b4596"
     },
     {
       "skill_id": "skl_JzK1kZtptEDR_41uXSoKOA",
@@ -300022,6 +300148,27 @@
       "sha256": "b445492dacc6a258a6da14ee376c749880bc0818f2a162f598a08aba7714adbd"
     },
     {
+      "skill_id": "skl_ddFJmoY5o3JgB1MuOd6_fQ",
+      "name": "tailscaled-daemon-not-running-error-su-74e4a0e9daeb74bd",
+      "title": "tailscaled daemon not running error sudo systemctl start tailscaled bug",
+      "description": "tailscaled daemon not running error sudo systemctl start tailscaled bug",
+      "url": "https://vectle.com/skills/skl_ddFJmoY5o3JgB1MuOd6_fQ",
+      "exact_version_url": "https://vectle.com/skills/skl_ddFJmoY5o3JgB1MuOd6_fQ/versions/skv_aIG9lhBKHYaxtLuxEdBhvA",
+      "version": "skv_aIG9lhBKHYaxtLuxEdBhvA",
+      "version_sequence": "1",
+      "updated": "2026-11-26T13:52:35.267884+00:00",
+      "path": "skills/tailscaled-daemon-not-running-error-su-74e4a0e9daeb74bd/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "402822a3586eb26950c0b50597cac0676dae61ab666f2cad8e0912b345bfa866",
+      "public_input_digest": "005653eff696c48bb39cc3953dbee85677a27544eb83a147452cecf143b8715d",
+      "sha256": "270b321c5588a9531d3ecb79b0b66b02e9a14d08953fd9ec162d94339c2360be"
+    },
+    {
       "skill_id": "skl_ddSv8OxVBjzTFLFpqcN-3A",
       "name": "quote-error-tax-calculation-missing-pr-72cdcb175f66a0d1",
       "title": "quote error tax calculation missing proposal total understated failure",
@@ -360712,6 +360859,27 @@
       "sha256": "8de4666ec6421ffbe8e272780b7e3e9df3401d16d9b492e09d86a0f761d7e357"
     },
     {
+      "skill_id": "skl_m1bCjtayDt7RS8VLO5CEnA",
+      "name": "cannot-read-properties-of-null-reading-386c41e30419e228",
+      "title": "cannot read properties of null reading edgesout xyflow error",
+      "description": "cannot read properties of null reading edgesout xyflow error",
+      "url": "https://vectle.com/skills/skl_m1bCjtayDt7RS8VLO5CEnA",
+      "exact_version_url": "https://vectle.com/skills/skl_m1bCjtayDt7RS8VLO5CEnA/versions/skv_n1lbqhcx1XkXsrxOyDJ1VA",
+      "version": "skv_n1lbqhcx1XkXsrxOyDJ1VA",
+      "version_sequence": "1",
+      "updated": "2026-11-26T01:51:46.450492+00:00",
+      "path": "skills/cannot-read-properties-of-null-reading-386c41e30419e228/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "e4d29597ec8858ccc1f53f196ede583899da3d9a2c35240c65c4c1ef614fd65b",
+      "public_input_digest": "7f499e1871403d3cdc4ab797bac55135e5d58ff55dd575ca0d6162f16d5c7312",
+      "sha256": "46118daae6cc800d1bf19d0ab3fdf22781713ff7f52db3b345e1d20e08cb864f"
+    },
+    {
       "skill_id": "skl_m1kWNhGGRRI-RVdjT4PIVQ",
       "name": "fellow-action-item-error-completed-ite-d6e706b6b0344d1c",
       "title": "Fellow action item error completed items reappear in next one on one",
@@ -363083,6 +363251,27 @@
       "source_snapshot_digest": "750947b2f1ae96a3d85bbc8e9d8143e7ea426eb27795e5a0466d883c16f5395c",
       "public_input_digest": "978380264c8c36cf48efa83dae4902de157127b04db66f98cbf834ffe4f306a3",
       "sha256": "3351c6ce0eb18591e4c82cb0074dcbf2a126f138dbe22b01e9cdfe6f57a8cd27"
+    },
+    {
+      "skill_id": "skl_mP5H139bfUCLzO7qL0FuCQ",
+      "name": "supabase-link-error-project-ref-not-fo-3ae8d05bdde375bc",
+      "title": "supabase link error project ref not found cli fails",
+      "description": "supabase link error project ref not found cli fails",
+      "url": "https://vectle.com/skills/skl_mP5H139bfUCLzO7qL0FuCQ",
+      "exact_version_url": "https://vectle.com/skills/skl_mP5H139bfUCLzO7qL0FuCQ/versions/skv_u3d5Uf_VvKS22AIyHp_72A",
+      "version": "skv_u3d5Uf_VvKS22AIyHp_72A",
+      "version_sequence": "1",
+      "updated": "2026-11-26T13:51:47.259173+00:00",
+      "path": "skills/supabase-link-error-project-ref-not-fo-3ae8d05bdde375bc/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "af5654ff0af0f392ab0adceaa97efc6d9b84bb80a2d276414fb0c535535d0183",
+      "public_input_digest": "91ab59496f5a04e2ab024c3147cd9bf36d1de260a8fe5511b81eeaa5a9e3ab51",
+      "sha256": "6ed076f9eb89838acfbb35fb505afafaa93403b1ff274e675893c41bc736cf12"
     },
     {
       "skill_id": "skl_mPH5lgcVYDQz6JSXgZf_fA",
@@ -372029,6 +372218,27 @@
       "source_snapshot_digest": "bf986cb5b463206a5da91193bea62b8fa6b0d8a1f023283cd057c3d3c245f943",
       "public_input_digest": "a3df2e7db85ff4ba402801b7f0b58539cef155e018381c32a7105825f720a8d8",
       "sha256": "b7564bfee612ae7a563738ea76bda7a5fbf3ec75c4c259def98a5010e7863e7a"
+    },
+    {
+      "skill_id": "skl_nnnkyJbcxbdgQA-tVcFKaA",
+      "name": "jenkins-maven-3-10-2-not-showing-in-ma-1d46e99f8171ddbc",
+      "title": "Jenkins Maven 3.10.2 not showing in Maven tool installations: installer list stops at 3.10.1",
+      "description": "Jenkins Maven 3.10.2 not showing in Maven tool installations: installer list stops at 3.10.1",
+      "url": "https://vectle.com/skills/skl_nnnkyJbcxbdgQA-tVcFKaA",
+      "exact_version_url": "https://vectle.com/skills/skl_nnnkyJbcxbdgQA-tVcFKaA/versions/skv_TSEqQmI3io8u32WQ8EyWQA",
+      "version": "skv_TSEqQmI3io8u32WQ8EyWQA",
+      "version_sequence": "1",
+      "updated": "2026-11-26T12:07:42.766067+00:00",
+      "path": "skills/jenkins-maven-3-10-2-not-showing-in-ma-1d46e99f8171ddbc/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "1311a3c6860a3c73029d092d0345e5d8f7bed029c3ed510be1089c5677b798c1",
+      "public_input_digest": "63840b89e2caf2cc274065bc185f73199fe841ee5ee99644e35489b5fd82fd62",
+      "sha256": "d447e01b3c4080bcafeaeb74cf108733a949706b02bea310e1aa828ad9063b00"
     },
     {
       "skill_id": "skl_nnuM4-7yYlokvOQ6WZme_A",
@@ -417370,6 +417580,27 @@
       "sha256": "d84c1cf555fa2705398c60db1759bbc3b1b37a7ef2f0ab4fac628f7407a99379"
     },
     {
+      "skill_id": "skl_u86spxurs7dpWqBLa5oWnA",
+      "name": "markdownlint-md013-line-length-error-f-6934084379f0eedd",
+      "title": "markdownlint MD013 line length error fails on every heading",
+      "description": "markdownlint MD013 line length error fails on every heading",
+      "url": "https://vectle.com/skills/skl_u86spxurs7dpWqBLa5oWnA",
+      "exact_version_url": "https://vectle.com/skills/skl_u86spxurs7dpWqBLa5oWnA/versions/skv_pKT75TR_Oz1R6oyVtnWZ-Q",
+      "version": "skv_pKT75TR_Oz1R6oyVtnWZ-Q",
+      "version_sequence": "1",
+      "updated": "2026-11-26T01:54:07.877049+00:00",
+      "path": "skills/markdownlint-md013-line-length-error-f-6934084379f0eedd/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "329c524e85acac0bf58bf437c3259a3faae7fbd44324f55b21c646907d159eef",
+      "public_input_digest": "612f793a31e7d6f34e1091710d51ee276ac0f778ab434850c220d017063f3305",
+      "sha256": "1413465c023b9df488040f2861b259fbf8d88f3e360253c9359db97e1bcbaac7"
+    },
+    {
       "skill_id": "skl_u8AVuIOx1TRC-hmzGWa1jg",
       "name": "pinecone-api-keys-per-project-env-only-2b4dbb27e7b361a2",
       "title": "Pinecone API keys: per-project, env-only, rotate on exposure",
@@ -443660,6 +443891,27 @@
       "source_snapshot_digest": "4d12f918b6b62a8ff702953fb7e5c16f8e875d1cc687d7997cc97722b2994f57",
       "public_input_digest": "7ce4e7fb5c0cc2d8d786d63543829d64fa6334cf4f430ec017b9b58b3b1efe11",
       "sha256": "9b364effc697f6cda18aca8d20db0676a58205afc1a67dd2f0489fa31f5f24f1"
+    },
+    {
+      "skill_id": "skl_xzNVpO-3andzhI8FrPQ2FA",
+      "name": "stripe-trial-will-end-webhook-received-10ee5d74bc8fa71f",
+      "title": "stripe trial_will_end webhook received but handler error trial ends without warning fails",
+      "description": "stripe trial_will_end webhook received but handler error trial ends without warning fails",
+      "url": "https://vectle.com/skills/skl_xzNVpO-3andzhI8FrPQ2FA",
+      "exact_version_url": "https://vectle.com/skills/skl_xzNVpO-3andzhI8FrPQ2FA/versions/skv_QgqMu-NaIYWmrAFxfQYmmA",
+      "version": "skv_QgqMu-NaIYWmrAFxfQYmmA",
+      "version_sequence": "1",
+      "updated": "2026-11-26T01:52:30.500729+00:00",
+      "path": "skills/stripe-trial-will-end-webhook-received-10ee5d74bc8fa71f/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "91a69233769ca94f6f47e3467efc48eae1f90a035c8368e5e20d357555d7aaad",
+      "public_input_digest": "8c12e5559fa3f92aaf554c9d171e40e841e19aae2250a675fbf026c29cb3b98c",
+      "sha256": "766279585c5749bc79cff15d73a408b98677b3839f891d3b47403053dfa961e5"
     },
     {
       "skill_id": "skl_xzWhQtcfeUXUXXy4daTAxg",
