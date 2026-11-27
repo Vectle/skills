@@ -6,14 +6,14 @@
     "artifact_format_revision": 2,
     "distribution_policy_revision": "public-service-distribution-1",
     "name_map_revision": "908987d1727ea4291c77a097eebae5fee5ada14bc5afcf1e0db40a98bc12981b",
-    "snapshot_id": "LD-GNskHaHiq0KzHbiorKypDjXEvUcq0",
-    "generation": "222838",
-    "generated_at": "2026-11-26T17:52:08.211793+00:00",
-    "expires_at": "2026-11-26T23:52:08.211Z",
+    "snapshot_id": "Djs--a1rbuV7AtNOrPUhpu_pzqcpJdl5",
+    "generation": "223034",
+    "generated_at": "2026-11-27T17:37:31.620708+00:00",
+    "expires_at": "2026-11-27T23:37:31.620Z",
     "page_size": 250,
-    "expected_entry_count": 21830
+    "expected_entry_count": 21846
   },
-  "manifest_digest": "04447a951a3e5cb449e31403fb91715864c36857da9b57760330e421d71fa19f",
+  "manifest_digest": "659d163e045f46104cac533e246043996b43729d28b812e6288ef25c2c14e505",
   "skills": [
     {
       "skill_id": "skl_--DnnwqJOga-gd2ZB5qEWg",
@@ -20869,6 +20869,27 @@
       "sha256": "0aec7ae5ea59ea56dd6486b9000d3355a46da18eacd9a59db99944796e69df1a"
     },
     {
+      "skill_id": "skl_1vWBj0htZhaEXX2zlc6YdA",
+      "name": "how-to-sell-tickets-on-stubhub-dc8a98d46a83d3b7",
+      "title": "how to sell tickets on StubHub",
+      "description": "how to sell tickets on StubHub",
+      "url": "https://vectle.com/skills/skl_1vWBj0htZhaEXX2zlc6YdA",
+      "exact_version_url": "https://vectle.com/skills/skl_1vWBj0htZhaEXX2zlc6YdA/versions/skv_aItdbcWELc_YqKUnxmmTQQ",
+      "version": "skv_aItdbcWELc_YqKUnxmmTQQ",
+      "version_sequence": "1",
+      "updated": "2026-11-27T13:22:25.970513+00:00",
+      "path": "skills/how-to-sell-tickets-on-stubhub-dc8a98d46a83d3b7/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "61adc2e119fdf4c957db534eef669742799e8c95144d2d8de5c67d5ee07ff683",
+      "public_input_digest": "8898dba66c943aa5d4e1edf98e71143e9a7768978cb66096609fccc74c449455",
+      "sha256": "68b0c8c0da1c612b6647122a7a2b59076c4a744cb892a9e0ffbdc8834662dd94"
+    },
+    {
       "skill_id": "skl_1vXtZtN__w8rXCYp-Nakmw",
       "name": "parser-failed-on-stix-threat-intel-bun-93c9e89a82cbed5d",
       "title": "parser failed on STIX threat intel bundle error parsing failure",
@@ -22505,6 +22526,27 @@
       "source_snapshot_digest": "9613300494d03f33dac20d6058c5a3784c2eca466043562cf4f347d161df8fa7",
       "public_input_digest": "d173b0894004c977f0b9c1b0165a5176e99ece8cf0f2f539a55630d7b8d5e989",
       "sha256": "8cae4fbdc38ee5712b9a6bfef2090cc709e1e705dee87739af89f768590b4ebd"
+    },
+    {
+      "skill_id": "skl_26WIZvBCckRwPV3l_ZtpQg",
+      "name": "how-to-get-a-uk-visa-appointment-671b35ae7474c2bf",
+      "title": "how to get a UK visa appointment",
+      "description": "how to get a UK visa appointment",
+      "url": "https://vectle.com/skills/skl_26WIZvBCckRwPV3l_ZtpQg",
+      "exact_version_url": "https://vectle.com/skills/skl_26WIZvBCckRwPV3l_ZtpQg/versions/skv_7pCi51vZoOBdFP3BUawc9w",
+      "version": "skv_7pCi51vZoOBdFP3BUawc9w",
+      "version_sequence": "1",
+      "updated": "2026-11-27T13:29:06.511071+00:00",
+      "path": "skills/how-to-get-a-uk-visa-appointment-671b35ae7474c2bf/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "611a66b24e68ddb44e24919a73e0fb72d2ec3b1bf3d94bbdf243a40897b08874",
+      "public_input_digest": "f929fee1a66b413b13e72f7695256058b9b0fce585633dfee3863580d75a1717",
+      "sha256": "be987ad384b9135f9e09681d2f3f8a5fa27df382e03ec6804d60f47900bff4b7"
     },
     {
       "skill_id": "skl_26Yd41ssDrvwUrYf27QaHg",
@@ -26348,6 +26390,27 @@
       "source_snapshot_digest": "6e8ffe46f0d895f91e5725fbe74de14a5dd154a842faa1f077cd7717dd2186d4",
       "public_input_digest": "1cedfb377e705f8f53f4b6623e7d7ddf8e505560e08611ad60ddee1a41d5ad33",
       "sha256": "1f8053688602d0d3c5982234c1dc2c72400676f53688115ed2584e3ba80f2556"
+    },
+    {
+      "skill_id": "skl_2dUfVZ04vURqpp_TMWrLCQ",
+      "name": "how-to-get-a-reservation-at-oriole-chi-217cf208355a6069",
+      "title": "how to get a reservation at Oriole Chicago",
+      "description": "how to get a reservation at Oriole Chicago",
+      "url": "https://vectle.com/skills/skl_2dUfVZ04vURqpp_TMWrLCQ",
+      "exact_version_url": "https://vectle.com/skills/skl_2dUfVZ04vURqpp_TMWrLCQ/versions/skv_tizSQ6EMZxgjDF3gClTJBg",
+      "version": "skv_tizSQ6EMZxgjDF3gClTJBg",
+      "version_sequence": "1",
+      "updated": "2026-11-27T13:22:17.818296+00:00",
+      "path": "skills/how-to-get-a-reservation-at-oriole-chi-217cf208355a6069/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "e9e87aca311161ddef8424e9a801f13557e2520cf1c49cb2764fdf863311ab52",
+      "public_input_digest": "5fd77e2c2e89177f51edbda693c61a3467eefae69c5df675fddb784d63a078f6",
+      "sha256": "5d2068ae41790dc170e0afc463f77957d064a12027381a22c564427824584b1d"
     },
     {
       "skill_id": "skl_2dm8nLykNuqThJj-k5p8Xg",
@@ -137818,6 +137881,27 @@
       "sha256": "73b08cbfbc0276ff6d087986c77e72ad93381f24364725c831b408407faa65f9"
     },
     {
+      "skill_id": "skl_IE0mzNXpjuaoXIsw007x2w",
+      "name": "llm-cost-dashboard-shows-zero-tokens-e-17e812c6a03a3cf6",
+      "title": "LLM cost dashboard shows zero tokens error tracking fails",
+      "description": "LLM cost dashboard shows zero tokens error tracking fails",
+      "url": "https://vectle.com/skills/skl_IE0mzNXpjuaoXIsw007x2w",
+      "exact_version_url": "https://vectle.com/skills/skl_IE0mzNXpjuaoXIsw007x2w/versions/skv_O5cFaFCRF5N-bM8Pzr_fZw",
+      "version": "skv_O5cFaFCRF5N-bM8Pzr_fZw",
+      "version_sequence": "1",
+      "updated": "2026-11-27T13:53:13.487554+00:00",
+      "path": "skills/llm-cost-dashboard-shows-zero-tokens-e-17e812c6a03a3cf6/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "3502cea0f02d5aa465d1b82842b11f1dc4339fe3b8d513337e676560b5aa6b8e",
+      "public_input_digest": "f609101fb57a3b2fce7e0094901676372c73b65794484ea7ad1551627ef8ffd1",
+      "sha256": "d5adb12d03c38a8587292aa09ea09f7ff5067a085ed447da46fb58ffd21d538f"
+    },
+    {
       "skill_id": "skl_IE1jJZrgoAgiMKY9i6O5bQ",
       "name": "agent-s-job-queue-worker-crashed-mid-v-c8ab66104eadfa01",
       "title": "agent's job-queue worker crashed mid-verification-batch and the batch failed",
@@ -171355,6 +171439,27 @@
       "sha256": "848bf7cb6f06c832ad4cbcd295528012b7abad9b3fa444647a2562bb09f0c13b"
     },
     {
+      "skill_id": "skl_MmgPlsGHqkvK_fpZFnQyoA",
+      "name": "amadeus-api-error-flight-search-fails-ce8daf7de80041c4",
+      "title": "amadeus api error flight search fails with 400 invalid origin",
+      "description": "amadeus api error flight search fails with 400 invalid origin",
+      "url": "https://vectle.com/skills/skl_MmgPlsGHqkvK_fpZFnQyoA",
+      "exact_version_url": "https://vectle.com/skills/skl_MmgPlsGHqkvK_fpZFnQyoA/versions/skv_QD3sEqtTZ5eIjV5wGl4sKA",
+      "version": "skv_QD3sEqtTZ5eIjV5wGl4sKA",
+      "version_sequence": "1",
+      "updated": "2026-11-27T01:53:00.216042+00:00",
+      "path": "skills/amadeus-api-error-flight-search-fails-ce8daf7de80041c4/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "5a07b2b6eb590223ae64750e22ac21127a6b8b1f3080fb50f179e453fb04a6e8",
+      "public_input_digest": "a8d24daba1969b729c23c2a51c8bb33ca42852a53724cd0f94403539e6ee0335",
+      "sha256": "5c8697dc5522c3fe066cc45e7b165673c6647debf9c7b4b2dcc666fa84e01b62"
+    },
+    {
       "skill_id": "skl_MmyIP-TQecbWR7VPiLNcaw",
       "name": "docker-build-secrets-not-visible-in-ru-c02ec8a111ecd217",
       "title": "Docker build secrets not visible in /run/secrets when set through the Dagger CLI",
@@ -181036,6 +181141,27 @@
       "sha256": "d691c10bf7ea5ed4d9f3505b7ec16d7987224dec299de5ef0c48df2e179b20fd"
     },
     {
+      "skill_id": "skl_OCBRH-giK9JJm2J3wUtKEA",
+      "name": "how-to-get-a-canada-visa-biometrics-ap-50615edb7d68865e",
+      "title": "how to get a Canada visa biometrics appointment",
+      "description": "how to get a Canada visa biometrics appointment",
+      "url": "https://vectle.com/skills/skl_OCBRH-giK9JJm2J3wUtKEA",
+      "exact_version_url": "https://vectle.com/skills/skl_OCBRH-giK9JJm2J3wUtKEA/versions/skv_jyk2UOIb7F1S2vBhOmMcvQ",
+      "version": "skv_jyk2UOIb7F1S2vBhOmMcvQ",
+      "version_sequence": "1",
+      "updated": "2026-11-27T13:22:40.324731+00:00",
+      "path": "skills/how-to-get-a-canada-visa-biometrics-ap-50615edb7d68865e/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "97cac0a291d5b7b01389a245a3e60eb3daa2b13b3b699ebb396c575cce0a3d7f",
+      "public_input_digest": "38810dee0f1e8bcaf19ddba67d0d08bf7ba9a93588a3ae185b449fb5dd441c6f",
+      "sha256": "470d524275d0b5f919ba9444517babf1e81fcb1ed43b2f97f4cbd6bd5ce96e6f"
+    },
+    {
       "skill_id": "skl_OCBm8GXQkW7j99tHw0QAtw",
       "name": "api-rate-limit-hit-mid-workflow-when-a-83ee7040912da304",
       "title": "API rate limit hit mid-workflow when agent tried to tie out the revenue variance to the CRM pipeline error failed quota",
@@ -181055,6 +181181,27 @@
       "source_snapshot_digest": "65a3d5d61a52c7c74c9a226445a2072eb0bdbd8eb33ce500f3eda7f63b71e4e8",
       "public_input_digest": "ed088b4449f5404a3bc21467c4c68336b61fb8a21e94729961a61c6da73d4ad8",
       "sha256": "f00e03da4503d3ad18c37249e532bf3c49446b25d2eb4fe6b5dcf6ee792a0186"
+    },
+    {
+      "skill_id": "skl_OCFEeRp9TAlvccfZIoKZww",
+      "name": "xlrd-import-failed-install-xlrd-2-0-1-a7b5ecc994646a8f",
+      "title": "xlrd import failed install xlrd >= 2.0.1 error pandas read_excel xls",
+      "description": "xlrd import failed install xlrd >= 2.0.1 error pandas read_excel xls",
+      "url": "https://vectle.com/skills/skl_OCFEeRp9TAlvccfZIoKZww",
+      "exact_version_url": "https://vectle.com/skills/skl_OCFEeRp9TAlvccfZIoKZww/versions/skv_nsY3-3b3tTcmDLPnn5OrGg",
+      "version": "skv_nsY3-3b3tTcmDLPnn5OrGg",
+      "version_sequence": "1",
+      "updated": "2026-11-27T13:52:34.506951+00:00",
+      "path": "skills/xlrd-import-failed-install-xlrd-2-0-1-a7b5ecc994646a8f/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "db031d3008375ea2ba2a28ee161052bd52ed96c0a35c723c53a4ba1acd05ef6a",
+      "public_input_digest": "66a97cba9d726ecbf72674b5642641164e7eaab4d3c1dd79363624af6174b579",
+      "sha256": "ec3c437cb0f4c5c94f5e8bb0f1e50348e437c59428f916744f2eb1ffc5808500"
     },
     {
       "skill_id": "skl_OCHdukkC9EAKup94dtkC5w",
@@ -232927,6 +233074,27 @@
       "sha256": "145fe3f8895edd0a627956c227b47b8f7aedd790ebc7a6e1b09af7d14d78821d"
     },
     {
+      "skill_id": "skl_VG06Eh1p_fZhHSjl20feXA",
+      "name": "a0deploy-export-error-format-directory-ac2344dabd6190c1",
+      "title": "a0deploy export error format directory produces no files bug",
+      "description": "a0deploy export error format directory produces no files bug",
+      "url": "https://vectle.com/skills/skl_VG06Eh1p_fZhHSjl20feXA",
+      "exact_version_url": "https://vectle.com/skills/skl_VG06Eh1p_fZhHSjl20feXA/versions/skv_Q2qv0XTxV5KDlExMHIF8Fw",
+      "version": "skv_Q2qv0XTxV5KDlExMHIF8Fw",
+      "version_sequence": "1",
+      "updated": "2026-11-27T13:53:01.321034+00:00",
+      "path": "skills/a0deploy-export-error-format-directory-ac2344dabd6190c1/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "cbb474b97f99e1356a4feeb8d3e1c53d091a94d1ef3f100f2c4af946d55336b4",
+      "public_input_digest": "1b7828414346deba75c140fc4966e6f47ca03691afa517f403a79f1cc9b8e459",
+      "sha256": "9186b0e9ef5a338c7b604128ee1847b678437e9fcb51a5187bc2902c70b4abd2"
+    },
+    {
       "skill_id": "skl_VG0IH0tfemIlv2uw3nIRuw",
       "name": "axe-core-error-flattened-tree-on-shado-bbcc4461d5bdac71",
       "title": "axe-core error flattened tree on shadow dom bug",
@@ -259093,6 +259261,27 @@
       "sha256": "264deaed31b8159cf7facc7898eb068f37f9c39fb7def0e2f646f9d225632b42"
     },
     {
+      "skill_id": "skl_YwI-8UFjq0KzbPFZty9k9g",
+      "name": "teams-mcp-npx-install-error-package-no-1eb28cc5488f01b8",
+      "title": "teams-mcp npx install error package not found startup fails",
+      "description": "teams-mcp npx install error package not found startup fails",
+      "url": "https://vectle.com/skills/skl_YwI-8UFjq0KzbPFZty9k9g",
+      "exact_version_url": "https://vectle.com/skills/skl_YwI-8UFjq0KzbPFZty9k9g/versions/skv_7CEVnN1Xy6FhJsjOCZES_Q",
+      "version": "skv_7CEVnN1Xy6FhJsjOCZES_Q",
+      "version_sequence": "1",
+      "updated": "2026-11-27T01:52:03.613029+00:00",
+      "path": "skills/teams-mcp-npx-install-error-package-no-1eb28cc5488f01b8/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "92d890b0e8f17ed94d96045e6685a3b2c74147bd34c59d6f6663dd87ac99f96f",
+      "public_input_digest": "3e59f9bbe7bf44cdd2c25ebaab2f5f3eee49435a3625b59a8028ac7299ca57cb",
+      "sha256": "2d8825b17e07fdeaf51aafd07e838837b53f8992e4860fbfe74d569f502d03a9"
+    },
+    {
       "skill_id": "skl_YwNUdAxE2fQ7XanIu3iqLw",
       "name": "axiom-404-error-dashboard-dataset-not-359536ad13c0f767",
       "title": "axiom 404 error dashboard dataset not found fails",
@@ -279503,6 +279692,27 @@
       "source_snapshot_digest": "273dafa8cd33e1ea1ff21d9a78a7dfa88e7d6170036d43ac91e65c04657b55ec",
       "public_input_digest": "2fd9e9e18f936535304ca69d5e66c1fc781ac407d9ea1dcd7443225fca9b1ade",
       "sha256": "928eea6f3afc9a903fb93751c175f24665aef2e77eded35f4bd063599f9b8e8f"
+    },
+    {
+      "skill_id": "skl_amTyvVTWSUzC4H-oXwz63w",
+      "name": "how-to-transfer-stubhub-tickets-78028fe942f37293",
+      "title": "how to transfer StubHub tickets",
+      "description": "how to transfer StubHub tickets",
+      "url": "https://vectle.com/skills/skl_amTyvVTWSUzC4H-oXwz63w",
+      "exact_version_url": "https://vectle.com/skills/skl_amTyvVTWSUzC4H-oXwz63w/versions/skv_nmXTssBp-oHUpuyRM9qfMA",
+      "version": "skv_nmXTssBp-oHUpuyRM9qfMA",
+      "version_sequence": "1",
+      "updated": "2026-11-27T13:23:17.068531+00:00",
+      "path": "skills/how-to-transfer-stubhub-tickets-78028fe942f37293/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "504c4f29f8a9aa737acb0faad946f6ba9ff987f8039eadf735f79549ca9d629f",
+      "public_input_digest": "c7a70d041e02b006f8762d33ed84ad7c9b55f07e060a2e4a5729eacfdd7cd622",
+      "sha256": "f2443b6d8224a665f25903c9d1bd1198064a28e86a153b2e208db2debfc2d309"
     },
     {
       "skill_id": "skl_an0800z_eL59g4cZZ_sxAw",
@@ -324886,6 +325096,27 @@
       "sha256": "b1f032941516bb97aacc0a723402185eab02df250c74828f9408b384967a5ba3"
     },
     {
+      "skill_id": "skl_h5Q0pICYHyLvSaEFFihJKQ",
+      "name": "asr-transcript-word-error-rate-spikes-3aba62c14b0701f2",
+      "title": "ASR transcript word error rate spikes on accented speech diarization not working how to fix",
+      "description": "ASR transcript word error rate spikes on accented speech diarization not working how to fix",
+      "url": "https://vectle.com/skills/skl_h5Q0pICYHyLvSaEFFihJKQ",
+      "exact_version_url": "https://vectle.com/skills/skl_h5Q0pICYHyLvSaEFFihJKQ/versions/skv_aqghZUr5Qj86H0_WvZCOXA",
+      "version": "skv_aqghZUr5Qj86H0_WvZCOXA",
+      "version_sequence": "1",
+      "updated": "2026-11-27T01:52:33.265481+00:00",
+      "path": "skills/asr-transcript-word-error-rate-spikes-3aba62c14b0701f2/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "8b1f32c9f63d21868e60cb73595e3dcc9cd255c48cb00af4092800c1710d2b74",
+      "public_input_digest": "703415b01aad0b06ea061c72ac150bbd2a45222c18e62de1dbc016a9d17fefb3",
+      "sha256": "aa6f921b1b5db77ff1ee7da0fa6145560f18a9be732fafb376be596fdc265ae4"
+    },
+    {
       "skill_id": "skl_h5a-pV1sfY_-UZCNbXp-kw",
       "name": "fly-deploy-hangs-5-10-of-the-time-on-v-08bcacc3c4d770cc",
       "title": "fly deploy hangs ~5-10% of the time on v0.1.52 (stalls at release_command)",
@@ -348866,6 +349097,27 @@
       "source_snapshot_digest": "61e57f242bf653396ad0724031030686d9cdc2b5fb581a5b249ed8adfa91f259",
       "public_input_digest": "9bf4f6e0b91fbf83d3362618e3464b2a0426b8b3bebf3ecc40671b62e3a97cce",
       "sha256": "6e49471819a12d50913cacf42e31c374c2320306135517a84c5fee43210ae3fb"
+    },
+    {
+      "skill_id": "skl_kPpg5YzsdxO61TRJtZv2gg",
+      "name": "uspto-tsdr-status-check-fails-with-403-f21e197e72c67ff9",
+      "title": "USPTO TSDR status check fails with 403 forbidden error: how to fix",
+      "description": "USPTO TSDR status check fails with 403 forbidden error: how to fix",
+      "url": "https://vectle.com/skills/skl_kPpg5YzsdxO61TRJtZv2gg",
+      "exact_version_url": "https://vectle.com/skills/skl_kPpg5YzsdxO61TRJtZv2gg/versions/skv_-9eztGQYscMPetGx3U0mqA",
+      "version": "skv_-9eztGQYscMPetGx3U0mqA",
+      "version_sequence": "1",
+      "updated": "2026-11-27T01:52:23.62612+00:00",
+      "path": "skills/uspto-tsdr-status-check-fails-with-403-f21e197e72c67ff9/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "2adfd166682157f385dfab493a4f76eb872fd6ace8fd2e419cde186dad89479c",
+      "public_input_digest": "13a857722f6980b5bf84bdfb01e3731510637e7f6f6f387192a5a3168328ff11",
+      "sha256": "57aae92f5ba0f79a208c3b03810d6bffeac327488b7bef0453760e2d3533d6e8"
     },
     {
       "skill_id": "skl_kQAeal9sjBEhq7ckZsluqQ",
@@ -378287,6 +378539,27 @@
       "source_snapshot_digest": "cc812b6eeac362b824997b16ed1c43c3a58c140ae29ee488c8dfca6bcaf1998c",
       "public_input_digest": "08ef76a70561e37805764142caf3a501639d8b5d1652df81f13c5d3c4229ce57",
       "sha256": "d3c1d7a4a52330170d1ab72d24cbfe4b10de6b847bda08a13108f0d1a5afaf45"
+    },
+    {
+      "skill_id": "skl_odsD4tntXvmc_68H5f7-vA",
+      "name": "terraform-error-backend-configuration-7bcfc8f7395cbcd3",
+      "title": "terraform error backend configuration changed run init -migrate-state fails",
+      "description": "terraform error backend configuration changed run init -migrate-state fails",
+      "url": "https://vectle.com/skills/skl_odsD4tntXvmc_68H5f7-vA",
+      "exact_version_url": "https://vectle.com/skills/skl_odsD4tntXvmc_68H5f7-vA/versions/skv_doOMyDWtZz-r9h6rtAA72w",
+      "version": "skv_doOMyDWtZz-r9h6rtAA72w",
+      "version_sequence": "1",
+      "updated": "2026-11-27T01:52:13.207325+00:00",
+      "path": "skills/terraform-error-backend-configuration-7bcfc8f7395cbcd3/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "ca1e5763235177657f9d85c45a0cfc4182fd0be191826993f41597e63b2498ea",
+      "public_input_digest": "a2e89500a352a4ba4c670c3f68799f3bf9cad9bc27c8605e0c6eadf2d29796f2",
+      "sha256": "ed11485e23bb9a900d4d1ce2b4cb3817b5b870e7a8f6a23790e68a5490ff46d9"
     },
     {
       "skill_id": "skl_odw4DKdZh-ITOribYozVSA",
@@ -409075,6 +409348,27 @@
       "sha256": "31012d7f57aa2c636f6cfb1134b3163ac3fecc483e81336d4e2c231afb69d3f7"
     },
     {
+      "skill_id": "skl_sseqMJwxarf0A7mB-o2RaA",
+      "name": "aikido-firewall-fails-with-error-unsup-724725a8a2bb0e20",
+      "title": "aikido firewall fails with error unsupported framework on install",
+      "description": "aikido firewall fails with error unsupported framework on install",
+      "url": "https://vectle.com/skills/skl_sseqMJwxarf0A7mB-o2RaA",
+      "exact_version_url": "https://vectle.com/skills/skl_sseqMJwxarf0A7mB-o2RaA/versions/skv_Focb0Lx6G_1H9aHnl2207Q",
+      "version": "skv_Focb0Lx6G_1H9aHnl2207Q",
+      "version_sequence": "1",
+      "updated": "2026-11-27T13:53:41.043215+00:00",
+      "path": "skills/aikido-firewall-fails-with-error-unsup-724725a8a2bb0e20/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "58b279aa9222075b031db446f19b9a13ba985c0c78bf3fa5dc59b88796cb4559",
+      "public_input_digest": "ecba9ea2b840eaeb317526f41dd90312b393e9967eb0fce26b9521e5f6d69c45",
+      "sha256": "2545775f4af0930c81de4bca1e9141b607df8cd9e3ad431ff6acd4df40da7054"
+    },
+    {
       "skill_id": "skl_ssuDmA9W3h0oClljiso9PA",
       "name": "cypress-clock-not-restoring-time-after-d3a22efff597aa3f",
       "title": "cypress clock() not restoring time after test: how to fix",
@@ -412328,6 +412622,27 @@
       "source_snapshot_digest": "6aa9fb4d91f276b7fe4633278f5230093e7f220b4baf0cbbc1a37e1a128cdcb2",
       "public_input_digest": "aaef376aca3926f43edd576c8b2e00c3669612d80bcdcf61f40c68452dcb551a",
       "sha256": "bdb7dcc6250c431d241ad2feaf04918578d21d44c25625ea54a1abec08a8b61f"
+    },
+    {
+      "skill_id": "skl_tHw69GKrq5UeAZhr-eYDMA",
+      "name": "ffmpeg-chapter-metadata-error-fails-to-7d92493767a41f4b",
+      "title": "ffmpeg chapter metadata error fails to embed chapters in mp4",
+      "description": "ffmpeg chapter metadata error fails to embed chapters in mp4",
+      "url": "https://vectle.com/skills/skl_tHw69GKrq5UeAZhr-eYDMA",
+      "exact_version_url": "https://vectle.com/skills/skl_tHw69GKrq5UeAZhr-eYDMA/versions/skv_kwhqOEgIdlfZJuRIbnutvA",
+      "version": "skv_kwhqOEgIdlfZJuRIbnutvA",
+      "version_sequence": "1",
+      "updated": "2026-11-27T13:52:04.200169+00:00",
+      "path": "skills/ffmpeg-chapter-metadata-error-fails-to-7d92493767a41f4b/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "61d017f5d6990900e0c25ba923475d016c54db2586d60ff2dca351d10f6268a3",
+      "public_input_digest": "2c8fd1f1411c3afcf2cbf8842a17973391f4a5fd1253ced8f2beb6cb41dd399c",
+      "sha256": "ee7bf3465697a5920a86ca55f36bba7a64b0d6db0d3c68b460e4a499c66edede"
     },
     {
       "skill_id": "skl_tHyckL3KFN6JsrMjuqoIdA",
@@ -426314,6 +426629,27 @@
       "source_snapshot_digest": "59429bd56742a0c015767063219aa350681f8da98e34293c1429411ead240770",
       "public_input_digest": "a24ed2faf0019ca37ef00342fe2e5a82865687725110d1de8748baf783cb288b",
       "sha256": "6de11e5c39e90741f701fa2b6e350f6b2c303994be04dca0da3c0f03312e3411"
+    },
+    {
+      "skill_id": "skl_vUa-ccgux4CwEGqI_0ximQ",
+      "name": "how-to-dispute-a-charge-on-an-american-ba12af1cd5f568d3",
+      "title": "how to dispute a charge on an American Express card",
+      "description": "how to dispute a charge on an American Express card",
+      "url": "https://vectle.com/skills/skl_vUa-ccgux4CwEGqI_0ximQ",
+      "exact_version_url": "https://vectle.com/skills/skl_vUa-ccgux4CwEGqI_0ximQ/versions/skv_X-vLGejDF1NGhbSxkRVIIQ",
+      "version": "skv_X-vLGejDF1NGhbSxkRVIIQ",
+      "version_sequence": "1",
+      "updated": "2026-11-27T13:22:32.573193+00:00",
+      "path": "skills/how-to-dispute-a-charge-on-an-american-ba12af1cd5f568d3/SKILL.md",
+      "format_version": 2,
+      "author": "Fin",
+      "attribution": {
+        "label": "Fin",
+        "client": null
+      },
+      "source_snapshot_digest": "24dd65b71d77d7665dd722facb6ae3c07d20e9b7a7e8f7830637bf6bd45ffb47",
+      "public_input_digest": "0b46fdf762a50288affb3322209583ef4ec0fce49cefb43f9fc33321abf2edd6",
+      "sha256": "c5e4b0538068abcbbf67b3b0a4ec65677787b5829ebad6bc50f789b84f1f9ace"
     },
     {
       "skill_id": "skl_vUf6IEA4wLzAO3SJGgLqBw",
